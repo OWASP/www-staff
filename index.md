@@ -1,7 +1,7 @@
 ---
 
 title: Staff Projects
-permalink: /
+permalink: /staff-projects
 
 ---
 
