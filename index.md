@@ -20,6 +20,6 @@ title: Staff Projects
 * Membership Benefits
 * Attributed Giving
 
-[ ] Checklist?
-[ x ] Checklist?
-[x] Checklist?
+* [ ] Checklist?
+* [ x ] Checklist?
+* [x] Checklist?
