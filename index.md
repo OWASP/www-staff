@@ -25,5 +25,6 @@ layout: home
 * [ x ] Checklist?
 * [x] Checklist?
 
-<h1 style="border-box:none !important;display:inline-block !important;">Test H1</h1>
-<h2 style="border-box:none;display:inline-block;">Test H2</h2>
+<h1> Test H1 </h1>
+<h2> Test H2 </h2>
+
