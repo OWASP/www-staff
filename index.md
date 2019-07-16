@@ -6,6 +6,7 @@ layout: home
 ---
 
 # Staff Projects Repository
+<br/>
 
 <h2> Active Projects </h2>
 
