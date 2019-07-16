@@ -6,10 +6,9 @@ layout: home
 ---
 
 # Staff Projects Repository
-<p/>
+<br/>
 ## Active Projects
-<p/>
- 
+<br/>
 * [Operating Plan](
 * BlackHat USA 2019 - August 3-8, 2019 [Lisa]
 * DEFCON 27 Plan- August 8-11, 2019 [Lisa]
