@@ -8,7 +8,7 @@ layout: home
 <section>
 # Staff Projects Repository
 
-<div style="display:block;">## Active Projects</div>
+<h2> Active Projects </h2>
 
 * [Operating Plan](
 * BlackHat USA 2019 - August 3-8, 2019 [Lisa]
