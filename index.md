@@ -6,6 +6,7 @@ title: Staff Projects
 
 # Staff Projects Repository
 
+
 ## Active Projects
 
 * [Operating Plan](
