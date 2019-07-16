@@ -12,7 +12,6 @@ layout: home
 ## Active Projects
 
 <br/>
-
 * [Operating Plan](
 * BlackHat USA 2019 - August 3-8, 2019 [Lisa]
 * DEFCON 27 Plan- August 8-11, 2019 [Lisa]
