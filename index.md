@@ -5,7 +5,6 @@ layout: home
 
 ---
 
-<section>
 # Staff Projects Repository
 
 <h2> Active Projects </h2>
@@ -25,5 +24,3 @@ layout: home
 * [ ] Checklist?
 * [ x ] Checklist?
 * [x] Checklist?
-
-</section>
