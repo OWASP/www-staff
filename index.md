@@ -24,7 +24,7 @@ layout: home
 * [ ] Checklist?
 * [ x ] Checklist?
 * [x] Checklist?
-
+<div>
 <h1> Test H1 </h1>
 <h2> Test H2 </h2>
-
+</div>
