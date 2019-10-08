@@ -1,7 +1,7 @@
 ---
 
 title: Staff Projects
-layout: home
+layout: full-width
 
 ---
 
