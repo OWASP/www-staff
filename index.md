@@ -37,16 +37,16 @@ Generally the process we will use to implement our plans are:
 * Leader Agreement (Project, Chapter, Event)
 * 2020 Event Plan [Emily] [https://owaspstaff.slack.com/files/U2ERY9RRC/FGH0RKR0W/image_from_ios.jpg whiteboard]
 * SalesForce New Instance > Migration
-** SalesForce Invoicing
-** SalesForce Sales Pipeline
+    * SalesForce Invoicing
+    * SalesForce Sales Pipeline
 * Forms Tool Migration [Harold]
-** Free-form Payments
-** Conference Registration
-** Donations
-** Join as Member
-*** First time
-*** Recurring
-*** Renewals [https://owaspstaff.slack.com/files/U9N7HF4V9/FGC6TUGJW/membership_whiteboard.jpg whiteboard]
+    * Free-form Payments
+    * Conference Registration
+    * Donations
+    * Join as Member
+        * First time
+        * Recurring
+        * Renewals [https://owaspstaff.slack.com/files/U9N7HF4V9/FGC6TUGJW/membership_whiteboard.jpg whiteboard]
 * [[Staff-Projects/Global Supporting Parnership - Marketing Plan|Global Supporting Partnership Plan]] [Lisa] [https://owaspstaff.slack.com/files/U9N7HF4V9/FGEKW4TML/marketing_whiteboard.jpg whiteboard]
 
 ## Unprioritized Projects
