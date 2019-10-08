@@ -84,7 +84,7 @@ Generally the process we will use to implement our plans are:
 * '''[https://www.owasp.org/index.php/Staff-Projects/Template BLANK TEMPLATE]'''
 * '''[https://www.owasp.org/index.php/Staff-Projects/Template_GlobalAppSec BLANK GLOBAL APPSEC TEMPLATE]'''
 
-== Strategies ==
+## Strategies
 * Create and share best practices and tools for InfoSec community
 * Increase connectedness and engagement within the community.
 * Position the Foundation for growth.
