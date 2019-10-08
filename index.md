@@ -32,30 +32,30 @@ Generally the process we will use to implement our plans are:
 * 2019-11-19, 2020 Budget (with monthly forecast) [Mike]
 * [https://www.owasp.org/index.php/DefCon_28 DefCon28] Aug 6-9, 2020
 
-=== Prioritized Projects ===
-# Policy and Handbook Reorganization [Dawn]
-# Leader Agreement (Project, Chapter, Event)
-# 2020 Event Plan [Emily] [https://owaspstaff.slack.com/files/U2ERY9RRC/FGH0RKR0W/image_from_ios.jpg whiteboard]
-# SalesForce New Instance > Migration
-## SalesForce Invoicing
-## SalesForce Sales Pipeline
-# Forms Tool Migration [Harold]
-## Free-form Payments
-## Conference Registration
-## Donations
-## Join as Member
-### First time
-### Recurring
-### Renewals [https://owaspstaff.slack.com/files/U9N7HF4V9/FGC6TUGJW/membership_whiteboard.jpg whiteboard]
-# [[Staff-Projects/Global Supporting Parnership - Marketing Plan|Global Supporting Partnership Plan]] [Lisa] [https://owaspstaff.slack.com/files/U9N7HF4V9/FGEKW4TML/marketing_whiteboard.jpg whiteboard]
+## Prioritized Projects
+* Policy and Handbook Reorganization [Dawn]
+* Leader Agreement (Project, Chapter, Event)
+* 2020 Event Plan [Emily] [https://owaspstaff.slack.com/files/U2ERY9RRC/FGH0RKR0W/image_from_ios.jpg whiteboard]
+* SalesForce New Instance > Migration
+** SalesForce Invoicing
+** SalesForce Sales Pipeline
+* Forms Tool Migration [Harold]
+** Free-form Payments
+** Conference Registration
+** Donations
+** Join as Member
+*** First time
+*** Recurring
+*** Renewals [https://owaspstaff.slack.com/files/U9N7HF4V9/FGC6TUGJW/membership_whiteboard.jpg whiteboard]
+* [[Staff-Projects/Global Supporting Parnership - Marketing Plan|Global Supporting Partnership Plan]] [Lisa] [https://owaspstaff.slack.com/files/U9N7HF4V9/FGEKW4TML/marketing_whiteboard.jpg whiteboard]
 
-=== Unprioritized Projects ===
+## Unprioritized Projects
 
 * Invoice Workflow (SalesForce & JIRA)
 * Bi-Annual Signatory/Password Audit Jan/June
 * Help Wanted Project Service (see https://helpwanted.apache.org/ for concept)
 
-=== Completed Projects ===
+### Completed Projects 
 * [https://www.owasp.org/index.php/Staff-Projects/201902-staff-summit Staff Summit]
 * [https://www.owasp.org/index.php/Staff-Projects/2019-Insurance Insurance Audit]
 * [[Staff-Projects/Mailman-EOL|Mailman EOL]] [Matt]
@@ -80,7 +80,7 @@ Generally the process we will use to implement our plans are:
 * [https://www.owasp.org/index.php/Staff-Projects/201909-Global-AppSec-AMS Global AppSec Amsterdam], September 23-27
 
 
-=== Templates ===
+## Templates 
 * '''[https://www.owasp.org/index.php/Staff-Projects/Template BLANK TEMPLATE]'''
 * '''[https://www.owasp.org/index.php/Staff-Projects/Template_GlobalAppSec BLANK GLOBAL APPSEC TEMPLATE]'''
 
@@ -91,7 +91,7 @@ Generally the process we will use to implement our plans are:
 * Professionalize administrative and operational tasks and practices.
 * Redesign financial model and membership benefits.
 
-== Foundation Goals for 2019 - DRAFT ==
+## Foundation Goals for 2019 - DRAFT 
 
 * Optimize business operations to overachieve financial and membership targets.
 * Manage three profitable global conferences, planning four in 2020.
