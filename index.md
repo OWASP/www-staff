@@ -24,15 +24,15 @@ Generally the process we will use to implement our plans are:
 
 ## Active Projects
 * [Operating Plan](https://www.owasp.org/index.php/Staff-Projects/2019-Operating-Plan)
-* [https://www.owasp.org/index.php/Staff-Projects/20191101-AppSecDay-Melbourne AppSec Days Melbourne], 1 November
-* [https://www.owasp.org/index.php/Staff-Projects/201902-Trademarks Trademark]
-* [https://www.owasp.org/index.php/Staff-Projects/Board_Elections/2019_Global_Board_of_Directors_Election Board Elections] [Dawn]
-* [https://www.owasp.org/index.php/Staff-Projects/2019-Website-Launch Website Relaunch]
+* [AppSec Days Melbourne, 1 November](https://www.owasp.org/index.php/Staff-Projects/20191101-AppSecDay-Melbourne)
+* [Trademark](https://www.owasp.org/index.php/Staff-Projects/201902-Trademarks)
+* [Global_Board_of_Directors_Election Board Elections](https://www.owasp.org/index.php/Staff-Projects/Board_Elections/2019) [Dawn]
+* [Website Relaunch](https://www.owasp.org/index.php/Staff-Projects/2019-Website-Launch)
 * 2019-09-17, 2020 Operating Plan [Mike]
 * 2019-11-19, 2020 Budget (with monthly forecast) [Mike]
-* [https://www.owasp.org/index.php/DefCon_28 DefCon28] Aug 6-9, 2020 [Lisa]
-* [https://www.owasp.org/index.php/BlackHat_London_2019 BlackHat London 2019] Dec 2-5, 2019 [Lisa]
-* [https://www.blackhat.com/call-for-papers.html BlackHat Asia 2020] March 31 to April 3, 2020 [Lisa]
+* [DefCon28 Aug 6-9, 2020](https://www.owasp.org/index.php/DefCon_28 DefCon28)[Lisa]
+* [BlackHat London Dec 2-5, 2019](https://www.owasp.org/index.php/BlackHat_London_2019)[Lisa]
+* [BlackHat Asia Mar 31- Apr 3, 2020](https://www.blackhat.com/call-for-papers.html)[Lisa]
 * BlackHat USA Las Vegas 2020 Aug 1-6, 2020 [Lisa]
 
 ## Prioritized Projects
