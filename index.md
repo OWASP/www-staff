@@ -5,6 +5,10 @@ layout: full-width
 
 ---
 
+![Good Old Boys](/files/goodolboys.png)
+
+
+
 # Staff Projects Repository
 
 <br/>
