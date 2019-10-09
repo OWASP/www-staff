@@ -16,7 +16,7 @@ layout: full-width
 
 ## Staff Projects
 
-Staff Project are work product primarily done by staff that require either 40+hrs of staff time or have a financial obligation of more than $10,000. '''Active''' Staff Projects have written plans that include measurable goals, milestones, and should be linked below.  '''Prioritized''' Staff Projects are in the formation stages and are listed in rank importance. '''Unprioritized''' Staff Projects are items that lack a plan and are in a "bucket list" until they get prioritized with a project plan. ''Note this project list is not the exhaustive list of staff daily work product. These are the key projects above everyday work that is purposefully planned to deliver on 2019 Goals.''
+Staff Projects are work products primarily done by staff that require either 40+hrs of staff time or have a financial obligation of more than $10,000. '''Active''' Staff Projects have written plans that include measurable goals, milestones, and should be linked below.  '''Prioritized''' Staff Projects are in the formation stages and are listed in rank importance. '''Unprioritized''' Staff Projects are items that lack a plan and are in a "bucket list" until they get prioritized with a project plan. ''Note this project list is not the exhaustive list of staff daily work product. These are the key projects above everyday work that is purposefully planned to deliver on 2019 Goals.''
 Generally the process we will use to implement our plans are: 
 
  ''' Concept >> Document >> Socialize >> Iterate >> [Approval if needed] >> Plan >> Implement >> Report >> Revisit'''
