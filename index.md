@@ -23,7 +23,7 @@ Generally the process we will use to implement our plans are:
 
 
 ## Active Projects
-* [https://www.owasp.org/index.php/Staff-Projects/2019-Operating-Plan Operating Plan]
+* [Operating Plan](https://www.owasp.org/index.php/Staff-Projects/2019-Operating-Plan)
 * [https://www.owasp.org/index.php/Staff-Projects/20191101-AppSecDay-Melbourne AppSec Days Melbourne], 1 November
 * [https://www.owasp.org/index.php/Staff-Projects/201902-Trademarks Trademark]
 * [https://www.owasp.org/index.php/Staff-Projects/Board_Elections/2019_Global_Board_of_Directors_Election Board Elections] [Dawn]
