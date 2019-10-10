@@ -35,7 +35,7 @@ Generally the process we will use to implement our plans are:
 * 2019-09-17, 2020 Operating Plan [Mike]
 * 2019-11-19, 2020 Budget (with monthly forecast) [Mike]
 * [DefCon28 Aug 6-9, 2020](https://www.owasp.org/index.php/DefCon_28)[Lisa]
-* [BlackHat London Dec 2-5, 2019](/projects/201912-Blackhat-London) [Lisa]
+* [BlackHat London Dec 2-5, 2019](/projects/201912-Blackhat-London.md) [Lisa]
 * [BlackHat Asia Mar 31- Apr 3, 2020](https://www.blackhat.com/call-for-papers.html)[Lisa]
 * BlackHat USA Las Vegas 2020 Aug 1-6, 2020 [Lisa]
 
