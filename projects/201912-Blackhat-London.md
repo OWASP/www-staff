@@ -9,9 +9,13 @@
 # Venue
 
 > EXCEL LONDON
+
 > One Western Gateway
+
 > Royal Victoria Dock
+
 > London E16 1XL
+
 > URL: https://www.blackhat.com/eu-19/travel.html
 
 # Registration
