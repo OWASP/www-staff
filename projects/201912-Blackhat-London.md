@@ -1,4 +1,10 @@
-# BlackHat London 2019
+---
+
+title: BlackHat London 2019
+layout: full-width
+
+---
+# Overview
 
 * [Conference call minutes from 10/9/2019](https://drive.google.com/open?id=1KukrG-jbV3PErZrK4WfUzwOORa7quZ05nefgM3i_-dM)
 * [BlackHat London 2019 website](https://www.blackhat.com/eu-19/)
