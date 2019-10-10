@@ -1,3 +1,10 @@
+---
+
+title: Project Name
+layout: full-width
+
+---
+
 # Some Staff Project
 
 * List item 1
