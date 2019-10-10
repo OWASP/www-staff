@@ -82,3 +82,8 @@ Staff Projects are work products primarily done by staff that require either 40+
 
 
 ![Good Old Boys](/files/goodolboys.png)
+
+|Left Side | Right Side |
+|----------|------------|
+|One|Two|
+|Three|Four|
