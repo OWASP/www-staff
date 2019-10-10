@@ -21,7 +21,7 @@ Staff Projects are work products primarily done by staff that require either 40+
 * 2020 Operating Plan [Mike]
 * 2020 Budget (with monthly forecast) [Mike]
 * [Trademark](/www--staff/projects/201902-Trademarks), [Mike]
-* [Global_Board_of_Directors_Election Board Elections](/www--staff/projects/201908-Board-Elections) [Dawn]
+* [Global Board of Directors Election Board Elections](/www--staff/projects/201908-Board-Elections) [Dawn]
 * [Website Relaunch](/www--staff/projects/2019-Website-Launch), [Harold]
 * Policy and Handbook Reorganization, [Dawn]
 * Leader Agreement (Project, Chapter, Event) [Mike]
