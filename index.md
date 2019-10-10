@@ -37,7 +37,7 @@ Staff Projects are work products primarily done by staff that require either 40+
 * [BlackHat Asia Mar 31- Apr 3, 2020](/www--staff/projects/2020-Blackhat-Asia), [Lisa]
 * [BlackHat USA Las Vegas 2020 Aug 1-6, 2020](/www--staff/projects/202008-Blackhat), [Lisa]
 * [DefCon28 Aug 6-9, 2020](/www--staff/projects/202008-DefCon-28), [Lisa]
-* [Some Staff Project](/www-staff/projects/201910-SomeStaffProject), [Harold]
+* [Some Staff Project](/www--staff/projects/201910-SomeStaffProject), [Harold]
 
 ## Prioritized Projects
 * SalesForce New Instance > Migration
