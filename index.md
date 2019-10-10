@@ -29,7 +29,7 @@ Staff Projects are work products primarily done by staff that require either 40+
 
 * [Projects Summit Winter](/www--staff/projects/202002-Projects-Summit-Winter)
 * [Projects Summit Summer](/www--staff/projects/202007-Projects-Summit-Summer)
-* [Global AppSec - Dublin, June](/www--staff/projects/202006-Global-AppSec)
+* [Global AppSec - Dublin, June](/www--staff/projects/202006-GlobalAppSec-Dublin)
 * [Global AppSec - San Francisco, October](/www--staff/projects/202010-Global-AppSec)
 
 * [AppSec Days Melbourne, 1 November](https://www.owasp.org/index.php/Staff-Projects/20191101-AppSecDay-Melbourne)
