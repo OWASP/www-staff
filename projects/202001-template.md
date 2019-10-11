@@ -64,7 +64,7 @@ List all registration options and their prices and what conditions are required 
 The high level budget should be listed below as a table. The full budget should be linked here and in a Google Sheet in the OWASP instance set to public (read only).
 
 Description            | Amount
---------------         | ----
+--------------         | ------------:
 **Income**             | 
 Registration           | &euro;308,800 
 Training               | &euro;191,250
