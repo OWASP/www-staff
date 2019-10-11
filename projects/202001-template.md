@@ -15,7 +15,7 @@ Each project will have a 2-3 paragraph overview narrative. Keep to the key top p
 
 Use this section for important links for projects/events that visitors will need. For instance, if this is an event, links to CFT, CPT and registration is handy If there is a microsite, that would be good to link to as well 
 * [Example link to Google](https://google.com)
-* [Example relative link to Blank Template Page](/www-staff/Projects/202001-template)
+* [Example relative link to Blank Template Page](/www--staff/Projects/202001-template)
 
 ## Goals
 
