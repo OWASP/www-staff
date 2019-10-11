@@ -13,7 +13,7 @@
 
 ![Good Old Boys](/files/goodolboys.png)
 
-|Left Side | Right Side |
+|Left Side | Center | Right Side|
 |:---|:---:|---:|
 |Left Aligned|Center Aligned|Right Aligned|
 |Three|Four|Five|
