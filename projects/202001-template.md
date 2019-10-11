@@ -15,7 +15,7 @@ Each project will have a 2-3 paragraph overview narrative. Keep to the key top p
 
 Use this section for important links for projects/events that visitors will need. For instance, if this is an event, links to CFT, CPT and registration is handy If there is a microsite, that would be good to link to as well 
 * [Example link to Google](https://google.com)
-* [Example relative link to Blank Template Page)[/www-staff/Projects/_template)
+* [Example relative link to Blank Template Page](/www-staff/Projects/202001-template)
 
 ## Goals
 
@@ -63,13 +63,34 @@ List all registration options and their prices and what conditions are required 
 
 The high level budget should be listed below as a table. The full budget should be linked here and in a Google Sheet in the OWASP instance set to public (read only).
 
+Description            | Amount
+--------------         | ----
+**Income**             | 
+Registration           | &euro;308,800 
+Training               | &euro;191,250
+Sponsorships           | &euro;450,000
+**Total Income**       | **&euro;950,050**
+**Expenses**           | 
+Accomodations          | &euro;17,615 
+Travel                 | &euro;22,400 
+Internet               | &euro;27,500 
+Marketing/Swag         | &euro;13,200
+AV                     | &euro;16,500 
+Printing & Branding    | &euro;16,868 
+Expo                   | &euro;20,020
+Meeting Room Rental    | &euro;148,500
+Catering               | &euro;218,504
+Staff Services         | &euro;100,000 
+***Total Expenses**    | **&euro;601,107**
+**Net Profit**         | **&euro;348,943**
+
+
 ## Sponsorships
 
 This event offers several parter sponsorships opportunities.  If you are interested in supporting the event please contact [kelly@owasp.org](mailto:kelly@owasp.org&subject:Eventname). Below is a list of existing and available sponsorships. Please note all sponsorship levels include a table in the exhibition area and logos on conference materials and signage. All sponsor assets will go in a folder named sponsors in this repo.
 
 * Gold Sponsor. $5,000. Recognition and five-minute talk at keynote
 * Gold Sponsor. $5,000. Github
-* Silver Sponsor. $2,500 Recognition at General Session
 * Bronze Sponsor, $1,000
 * Bronze Sponsor, $1,000
 * Bronze Sponsor, $1,000
@@ -84,7 +105,13 @@ This section will include a checklist of the key contracts and legal documents n
 * Venue [ ]
 * Venue A/V (if different vendor [ ]
 * Catering [ ]
-* Lead Collection [ ]
 * Event Insurance [ ]
+* Lead Collection [ ]
 
 ## Creative
+
+Column1 | Column2
+------- | -------
+abc | defg
+abc | defg
+
