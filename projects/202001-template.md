@@ -38,6 +38,16 @@ Use this section for important links for projects/events that visitors will need
 * unordered list of each leader and a hyperlink to their email address.
 * [Mike McCamon](mailto:mike.mccamon@owasp.com?subject=An%20Interesting%20Email)
 
+## Budget
+
+Description            | Amount
+--------------         | ----:
+**Expenses**           | 
+Item 1                 | $ 10
+Item 2                 | $ 10 
+***Total Expenses**    | **$ 100**
+
+
 ## **FOLLOWING ONLY NEEDED FOR EVENTS**
 
 ## Logistics
@@ -66,24 +76,23 @@ The high level budget should be listed below as a table. The full budget should 
 Description            | Amount
 --------------         | ------------:
 **Income**             | 
-Registration           | &euro;308,800 
-Training               | &euro;191,250
-Sponsorships           | &euro;450,000
-**Total Income**       | **&euro;950,050**
+Registration           | $ 10 
+Training               | $ 10
+Sponsorships           | $ 10
+**Total Income**       | **$ 100**
 **Expenses**           | 
-Accomodations          | &euro;17,615 
-Travel                 | &euro;22,400 
-Internet               | &euro;27,500 
-Marketing/Swag         | &euro;13,200
-AV                     | &euro;16,500 
-Printing & Branding    | &euro;16,868 
-Expo                   | &euro;20,020
-Meeting Room Rental    | &euro;148,500
-Catering               | &euro;218,504
-Staff Services         | &euro;100,000 
-***Total Expenses**    | **&euro;601,107**
-**Net Profit**         | **&euro;348,943**
-
+Accomodations          | $ 10
+Travel                 | $ 10 
+Internet               | $ 10 
+Marketing/Swag         | $ 10
+AV                     | $ 10 
+Printing & Branding    | $ 10
+Expo                   | $ 10
+Meeting Room Rental    | $ 10
+Catering               | $ 10
+Staff Services         | $ 10 
+***Total Expenses**    | **$ 100**
+**Net Profit**         | **$ 100**
 
 ## Sponsorships
 
