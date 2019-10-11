@@ -14,7 +14,7 @@
 ![Good Old Boys](/files/goodolboys.png)
 
 |Left Side | Right Side |
-|----------|------------|
-|One|Two|
-|Three|Four|
+|:---|:---:|---:|
+|Left Aligned|Center Aligned|Right Aligned|
+|Three|Four|Five|
 
