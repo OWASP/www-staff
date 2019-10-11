@@ -60,7 +60,7 @@ Staff Projects are work products primarily done by staff that require either 40+
 ## Recently Completed Projects
 
 ## Templates 
-* [Blank Template](/www--staff/projects/_template)
+* [Blank Template](/www--staff/projects/_template.md)
 
 ## Strategies
 * Create and share best practices and tools for InfoSec community
