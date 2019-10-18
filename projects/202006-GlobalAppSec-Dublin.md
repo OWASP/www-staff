@@ -25,6 +25,10 @@ Use this section for important links for projects/events that visitors will need
 
 ## Milestones
 
+* 2019-12-02, Payment 10% of Rental Fee due
+* 2020-01-06, Payment 45% of Rental Fee due
+* 2020-05-15, Payment 45% of Rental Fee due
+
 * In an unordered list (billeted) list major milestones in chronological order
 * Use the syntax of 2019-01-19, Milestone name, [Name of Owner]
 * When milestones are completed, mark them as such with ??
@@ -32,6 +36,8 @@ Use this section for important links for projects/events that visitors will need
 * If you have more than 20 milestones, you’re being too granular
 * 2020-01-01, New Year's Eve Holiday, [All]
 * 2020-07-04, Independence Day (US) Holiday, [All]
+
+
 
 ## Leadership
 
