@@ -24,7 +24,7 @@ Staff Projects are work products primarily done by staff that require either 40+
 * Commerce Platform for Donations, Membership, and Event Registraiton
 * Policy and Handbook Reorganization, [Dawn]
 * Leader Agreement (Project, Chapter, Event) [Mike]
-* [Email List GDPR & Clean Up] (/www--staff/projects/201910-Email-Cleanup)
+* [Email List GDPR & Clean Up](/www--staff/projects/201910-Email-Cleanup)
 * [Projects Summit Winter](/www--staff/projects/202002-Projects-Summit-Winter)
 * [Projects Summit Summer](/www--staff/projects/202007-Projects-Summit-Summer)
 * [Global AppSec - Dublin, June](/www--staff/projects/202006-GlobalAppSec-Dublin)
