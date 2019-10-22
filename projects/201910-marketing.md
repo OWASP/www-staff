@@ -32,7 +32,7 @@ layout: full-width
 * 2019-12-17, EXPECTED Website launch
 * 2019-12-20, Launch End of Year Giving Campaign [Susan]
 
-## Email Curriculum for onboarding and offboarding
+## Email Curriculum for onboarding and offboarding (Goals #1 & #2)
 As part of the new webite and membership database launch, all reminder emails for membership will be sent from Mailchimp instead of SalesForce effective 2019-12-13. A series on ongoing campaigns will be developed in Mailchimp that will use member join and expiration dates fields for control. When members elect to renew, they will fall out of the reminder campaign until their membership again comes up for renewal.
 
 Generally the emails will be no more than two paragraphs with prominent links back to the website to either learn more, in the case of new members, or to the memembership renewal page for expiring members.
@@ -56,15 +56,27 @@ membership is important
 * -3 days after membership has expired – sorry decided not to rejoin, make a small donation
 * -7 after membership has expired
 
-## Blogs/Spotlights for publishing on the OWASP web
+## Blogs/Spotlights for publishing on the OWASP web (Goal #3)
+
+The OWASP website has two prominent content items on the landing page for spotlights on a Project and a Chapter. As part of our launch, the marketing team will develop/write the first four months of content for the site. There are strict character count limits (425 to 445) that must be followed for Spotlight content. Blog content must have a summary of no more than 500 characters. We will also need a suitable landscape aspect ration for each post.
+
+### Chapter Spotlight - Rebecca
+* December - Los Angeles
+* January - London
+* February - San Francisco
+* March - [Germany]
+
+### Project Spotlight - Susan
+* December - ZAP 
+* January - JuiceShop
+* February - Mobile Security Test Project
+* March - [?]
 
 Blogs – can be up to 500 characters for the summary, body copy is unlimited, title is 60 characters or less
 Action:  Mike will let us know who to reach out to begin working on the content for the Blogs. 
 
 Spotlights – 425 to 445 characters, short concise on projects and chapters.  Action: Mike will let us know names of subject matter experts to reach out to for background information to build the short story. 
 
-
-Zap, JuiceShop Mobile Security Test Shop - Susan
-Chapter: SF, LA, London - Rebecca
-
 ## End of Year Campagin
+
+In development
