@@ -22,8 +22,8 @@ layout: full-width
 * 2020 Messaging Framework and Calendar
 
 ## Leaders
-* [Mike McCamon](mailto:mike.mccamon@owasp.com?Subject=OWASP%20Marketing)
-* Susan 
+* [Mike McCamon](mailto:mike.mccamon@owasp.com?Subject=2019Q4%20Marketing)
+* [Susan Layne (Virutal)](mailto:SLayne@virtualinc.com?Subject=OWASP%202019Q4%20Marketing)
 
 ## Milestones
 2019-10-23, Connect Rebecca and Susan with Project and Chapter leaders for copy [Mike]
