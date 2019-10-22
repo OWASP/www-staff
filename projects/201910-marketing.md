@@ -22,7 +22,7 @@ layout: full-width
 * 2020 Messaging Framework and Calendar
 
 ## Leaders
-* [Mike McCamon](mailto:mike.mccamon@owasp.com&Subject&OWASP%20Marketing)
+* [Mike McCamon](mailto:mike.mccamon@owasp.com?Subject&OWASP%20Marketing)
 * Susan 
 
 ## Milestones
