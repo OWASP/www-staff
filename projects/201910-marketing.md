@@ -16,6 +16,8 @@ layout: full-width
 
 ## Projects
 * Member On/Offboarding email curriculum refresh
+* New Corporate Member Press Release Template
+* Corporate Member Press Release Backlog
 * End of Year Giving Campaign
 * Spotlight content for first three months of new Website (Chapter & Project)
 * Social media content to support Spotlight stories (10 posts per spotlight)
