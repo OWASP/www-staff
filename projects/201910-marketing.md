@@ -21,6 +21,10 @@ layout: full-width
 * Social media content to support Spotlight stories (10 posts per spotlight)
 * 2020 Messaging Framework and Calendar
 
+## Leaders
+* [Mike McCamon](mailto:mike.mccamon@owasp.com&Subject&OWASP%20Marketing)
+* Susan 
+
 ## Milestones
 2019-10-23, Connect Rebecca and Susan with Project and Chapter leaders for copy [Mike]
 2019-12-13, Spotlight Content Complete and Ready for launch [Susan]
