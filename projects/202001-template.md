@@ -36,7 +36,7 @@ Use this section for important links for projects/events that visitors will need
 ## Leadership
 
 * unordered list of each leader and a hyperlink to their email address.
-* [Mike McCamon](mailto:mike.mccamon@owasp.com?subject=An%20Interesting%20Email)
+* [Mike McCamon](mailto:mike.mccamon@owasp.com?subject=Project%20Name)
 
 ## Budget
 
