@@ -70,9 +70,9 @@ The OWASP website has two prominent content items on the landing page for spotli
 
 ### Project Spotlight - Susan
 * December - ZAP 
-* January - JuiceShop
+* January - OWASP Top 10 - Update
 * February - Mobile Security Test Project
-* March - [?]
+* March - JuiceShop
 
 Blogs – can be up to 500 characters for the summary, body copy is unlimited, title is 60 characters or less
 Action:  Mike will let us know who to reach out to begin working on the content for the Blogs. 
