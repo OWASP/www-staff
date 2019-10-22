@@ -25,15 +25,16 @@ Staff Projects are work products primarily done by staff that require either 40+
 * Policy and Handbook Reorganization, [Dawn]
 * Leader Agreement (Project, Chapter, Event) [Mike]
 * [Email List GDPR & Clean Up](/www--staff/projects/201910-Email-Cleanup)
+* [Q4 Marketing](/www--staff/projects/201910-marketing)
 * [Projects Summit Winter](/www--staff/projects/202002-Projects-Summit-Winter)
-* [Projects Summit Summer](/www--staff/projects/202007-Projects-Summit-Summer)
-* [Global AppSec - Dublin, June](/www--staff/projects/202006-GlobalAppSec-Dublin)
-* [Global AppSec - San Francisco, October](/www--staff/projects/202010-Global-AppSec-SF)
 * [AppSec Days Melbourne, 1 November](https://www.owasp.org/index.php/Staff-Projects/20191101-AppSecDay-Melbourne)
 * [BlackHat London Dec 2-5, 2019](/www--staff/projects/201912-Blackhat-London), [Lisa]
 * [BlackHat Asia Mar 31- Apr 3, 2020](/www--staff/projects/202003-Blackhat-Asia), [Lisa]
+* [Global AppSec - Dublin, June](/www--staff/projects/202006-GlobalAppSec-Dublin)
+* [Projects Summit Summer](/www--staff/projects/202007-Projects-Summit-Summer)
 * [BlackHat USA Las Vegas 2020 Aug 1-6, 2020](/www--staff/projects/202008-Blackhat-Las-Vegas), [Lisa]
 * [DefCon28 Aug 6-9, 2020](/www--staff/projects/202008-Defcon-28), [Lisa]
+* [Global AppSec - San Francisco, October](/www--staff/projects/202010-Global-AppSec-SF)
 * [Trademark](/www--staff/projects/201902-Trademarks), [Mike]
 
 ## Prioritized Projects
