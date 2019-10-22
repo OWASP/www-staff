@@ -25,7 +25,7 @@ Staff Projects are work products primarily done by staff that require either 40+
 * Policy and Handbook Reorganization, [Dawn]
 * Leader Agreement (Project, Chapter, Event) [Mike]
 * [Email List GDPR & Clean Up](/www--staff/projects/201910-Email-Cleanup)
-* [Q4 Marketing](/www--staff/projects/201910-marketing)
+* [2019-Q4 Marketing](/www--staff/projects/201910-marketing)
 * [Projects Summit Winter](/www--staff/projects/202002-Projects-Summit-Winter)
 * [AppSec Days Melbourne, 1 November](https://www.owasp.org/index.php/Staff-Projects/20191101-AppSecDay-Melbourne)
 * [BlackHat London Dec 2-5, 2019](/www--staff/projects/201912-Blackhat-London), [Lisa]
