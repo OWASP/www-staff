@@ -42,13 +42,13 @@ Staff Projects are work products primarily done by staff that require either 40+
   * SalesForce Invoicing
   * SalesForce Sales Pipeline
 * Forms Tool Migration [Harold]
- * Free-form Payments
- * Conference Registration
- * Donations
- * Join as Member
-  * First time
-  * Recurring
-  * Renewals [https://owaspstaff.slack.com/files/U9N7HF4V9/FGC6TUGJW/membership_whiteboard.jpg whiteboard]
+  * Free-form Payments
+  * Conference Registration
+  * Donations
+  * Join as Member
+    * First time
+    * Recurring
+    * Renewals [https://owaspstaff.slack.com/files/U9N7HF4V9/FGC6TUGJW/membership_whiteboard.jpg whiteboard]
 * [Staff-Projects/Global Supporting Parnership - Marketing Plan|Global Supporting Partnership Plan] [Lisa] 
 
 ## Unprioritized Projects
