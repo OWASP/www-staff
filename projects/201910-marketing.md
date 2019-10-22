@@ -26,11 +26,11 @@ layout: full-width
 * [Susan Layne (Virutal)](mailto:SLayne@virtualinc.com?Subject=OWASP%202019Q4%20Marketing)
 
 ## Milestones
-2019-10-23, Connect Rebecca and Susan with Project and Chapter leaders for copy [Mike]
-2019-12-13, Spotlight Content Complete and Ready for launch [Susan]
-2019-12-12, Retire SalesForce member notification system
-2019-12-17, EXPECTED Website launch
-2019-12-20, Launch End of Year Giving Campaign [Susan]
+* 2019-10-23, Connect Rebecca and Susan with Project and Chapter leaders for copy [Mike]
+* 2019-12-13, Spotlight Content Complete and Ready for launch [Susan]
+* 2019-12-12, Retire SalesForce member notification system
+* 2019-12-17, EXPECTED Website launch
+* 2019-12-20, Launch End of Year Giving Campaign [Susan]
 
 ## Email Curriculum for onboarding and offboarding
 As part of the new webite and membership database launch, all reminder emails for membership will be sent from Mailchimp instead of SalesForce effective 2019-12-13. A series on ongoing campaigns will be developed in Mailchimp that will use member join and expiration dates fields for control. When members elect to renew, they will fall out of the reminder campaign until their membership again comes up for renewal.
