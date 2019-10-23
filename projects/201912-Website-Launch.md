@@ -46,6 +46,9 @@ Upon the completion of this project, OWASP.org will be hosted in Github. The arc
 * 2019-12-18, Validate Google Analytics instance running
 * 2019-12-18, Validate search redirect working site-wide
 * 2020-01-15, Validate Meetup Connector
+* Donation Form
+* Membership Form
+* Events Form
 
 ## Milestones (Completed)
 * 2019-06-01, Proof of concept complete validating Requirements (below)
