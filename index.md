@@ -78,3 +78,5 @@ Staff Projects are work products primarily done by staff that require either 40+
 
 *Vision: Global and open resource for software security*
 
+
+<i class="far fa-flag"></i>
