@@ -33,6 +33,10 @@ TBD
    1. Page on website
    2. Link from an email
    3. Link from a partner
+   
+2. Donate button will have two parameters
+   1. Title of the page
+   2. Repo path (for light integration)
 2. Donation page has:
    1. Introductory copy about "Why Donate to OWASP Foundation"
    1. pre-set donation amounts of $10, $25, $50, $100 and other. 
@@ -40,7 +44,8 @@ TBD
    3. Check box to indicate attribution, "Publicly list me as a supporter of [referring url title]"
    4. Check box to "Join the OWASP Mailing List"
    4. Small legal copy that the gift is unrestricted and can be used for any purpose. 
-   5. {Optional] Links/Info about how the Foundation uses gifts
+   5. [Optional] Links/Info about how the Foundation uses gifts
+   6. [Optional] Tab for selecting one of 2-3 currencies.
 3. Click "Donate" and given Stripe transaction form
 4. All form data and transaction stored into Stripe
 5. Light Integrations move data
