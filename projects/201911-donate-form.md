@@ -44,13 +44,13 @@ TBD
 3. Click "Donate" and given Stripe transaction form
 4. All form data and transaction stored into Stripe
 5. Light Integrations move data
-  1. Donor email address will be added to Mailchimp with the date of the donation in mailchimp.first_donation_date
-    1. Mailchimp will handle sending a receipt
-    2. Mailchimp will handle sending New DOnor Curriculum
-  1. If donor selected "Add me to mailing list"
-    1. The text ", donor" will be appended to Mailchimp.type
-    2. Boolean for "marketing_emails" in Mailchimp will be set to true
-  2. If donor slected "Publicly list me.." - a pull request will be created for the page target project/chapter page of tab_onlinedonors.md that will add the name to an unordered list for that page.
+   1. Donor email address will be added to Mailchimp with the date of the donation in mailchimp.first_donation_date
+     1. Mailchimp will handle sending a receipt
+     2. Mailchimp will handle sending New DOnor Curriculum
+   1. If donor selected "Add me to mailing list"
+     1. The text ", donor" will be appended to Mailchimp.type
+     2. Boolean for "marketing_emails" in Mailchimp will be set to true
+   2. If donor slected "Publicly list me.." - a pull request will be created for the page target project/chapter page of tab_onlinedonors.md that will add the name to an unordered list for that page.
   
 ## Budget
 
