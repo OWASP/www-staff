@@ -45,7 +45,7 @@ TBD
 4. All form data and transaction stored into Stripe
 5. Light Integrations move data
    1. Donor email address will be added to Mailchimp with the date of the donation in mailchimp.first_donation_date
-      1. Mailchimp will handle sending a receipt
+      1. Stripe will handle sending a receipt
       2. Mailchimp will handle sending New DOnor Curriculum
    1. If donor selected "Add me to mailing list"
       1. The text ", donor" will be appended to Mailchimp.type
