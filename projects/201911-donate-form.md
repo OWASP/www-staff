@@ -16,11 +16,13 @@ As part of the OWASP website migration, we will creating a new Donation form tha
 
 1. Securely host a form oun our public github instance and collect donations
 2. Put form into production as of 15-November
+3. Move data from successful Sripe traction into Mailchimp
 3. Recognize donors and the projects/chapters they support
 
 ## Milestones
 
 * 2019-10-24, Kickoff call [Mike]
+* 2019-10-28, Contract signed and project underway
 TBD
 
 ## Leadership
@@ -33,15 +35,16 @@ TBD
    1. Page on website
    2. Link from an email
    3. Link from a partner
-   
-2. Donate button will have two parameters
+2. Donate button will receive two parameters from donate link
    1. Title of the page
-   2. Repo path (for light integration)
+   2. Repo path (for light integrations)
 2. Donation page has:
    1. Introductory copy about "Why Donate to OWASP Foundation"
    1. pre-set donation amounts of $10, $25, $50, $100 and other. 
    2. Check box to indicate "Make a Recurring Monthly gift"
-   3. Check box to indicate attribution, "Publicly list me as a supporter of [referring url title]"
+   3. If there is a Page Title passed to the page then 
+      1. Check box to indicate attribution, "Publicly list me as a supporter of [referring url title]"
+      1. Otherwise, do not show this field since this inbound link was from a non-attributable source
    4. Check box to "Join the OWASP Mailing List"
    4. Small legal copy that the gift is unrestricted and can be used for any purpose. 
    5. [Optional] Links/Info about how the Foundation uses gifts
