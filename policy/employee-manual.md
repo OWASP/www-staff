@@ -389,6 +389,7 @@ The OWASP Foundation observes the following holidays each year:
 * Memorial Day
 * Independence Day
 * Labor Day
+* Biennial Federal Election Day (typically the 1st Tuesday of November in even-numbered years)
 * Thanksgiving Day
 * Day after Thanksgiving
 * Christmas Eve
