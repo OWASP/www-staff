@@ -1,7 +1,7 @@
 ### Handbook Outline
 * [Employment](#employment)
-   * [Employment Applications](#employment-applications)
-   * [Offer Letters](#offer-letters)
+   1.[Employment Applications](#employment-applications)
+   1. [Offer Letters](#offer-letters)
    * [Salary Administration](#salary-administration)
    * [Performance Evaluation](#performance-evaluation)
    * [Progressive Discipline](#progressive-discipline)
