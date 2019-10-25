@@ -127,7 +127,7 @@ If you ask questions or want to discuss our Immigration Compliance policy you ma
 <a name="non-disclosure"></a>
 ## NON-DISCLOSURE
 
-It is very important to SpiderOak that we protect our confidential business information and trade secrets. Confidential information includes, but is not limited to, the following examples:
+It is very important to the company that we protect our confidential business information and trade secrets. Confidential information includes, but is not limited to, the following examples:
 
 * compensation data 
 * computer processes 
