@@ -31,12 +31,17 @@ TBD
 
 ## Workflow
 1. Product and SKUs listings created in Stripe
+   1. Set prices in foreign currencies
+   1. Deal with VAT issues
 2. Discount codes created in Stripe
 1. Visitor clicks on a event link someplace in OWASP Universe
    1. Page on website
    2. Link from an email
    3. Link from a partner
 2. Event page has:
+   1. Popup to capture email for shopping cart abandomment and returning to form
+      1. If returning it woudl restate the cart in the previous state
+   1. Collect money in foreign currencies
    1. Introductory copy about the Event
    1. Listing of SKUs for the Product
       1. If a SKU has an inventory, show SOLD OUT or quantity remaining
@@ -57,6 +62,9 @@ TBD
 6. After completing integrations, update field in Stripe that donation was processed through integrations.
 7. Online Reports
    1. Public list of Product SKUs with number sold and revenue. Nice to have include Inventory Remaining
+   2. Dietary Report
+   3. CSV export for badges
+   4. [Nice to have] Live link with Boomset for badge
    
 ## Questions
 1. Collect email popup we can do ambandoned shopping cart and "return to complete form"
