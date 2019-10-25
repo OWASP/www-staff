@@ -20,7 +20,119 @@ You should have already signed an Employment Agreement outlining your employment
 We hope that your experience with us will be challenging, enjoyable and rewarding. Again, welcome!
 
 # EMPLOYMENT
- 
+
+## EMPLOYMENT APPLICATIONS
+
+The company relies on the accuracy of the information you provide during the employment hiring process. We also expect that you and your references give accurate and true information during the hiring process and employment. If we find that any information is misleading, false, or was left out on purpose, we may reject an applicant from further consideration. If the person was already hired, it could result in termination of employment. 
+
+When we process an employment application, we may obtain a background report. If we take an adverse employment action based in whole or in part on the background report, a copy of the report will be given to you so that you can take appropriate steps.
+
+## OFFER LETTERS
+
+As part of our hiring processes, your offer of employment was made through an offer letter.  This letter fully and wholly outlines your employment offer with the company. The conditions of your offer are confidential. If you ever change positions with the company you will be presented with an offer letter.
+
+Offer letters have an expiration date and if left not accepted by the expiration date, the company withdraws it’s offer of employment.  If accepted, a copy should be signed and will be placed in your Personnel file.  Conditions of employment are confidential and may not be disclosed to third parties, except for disclosures in accordance with applicable law.
+
+## SALARY ADMINISTRATION
+
+The company has a salary administration program which helps us have consistent pay practices, comply with federal and state laws, support our commitment to Equal Employment Opportunity, and offer competitive salaries within our labor market.  We are committed to paying equitable wages that are based on the requirements and responsibilities of each job.
+
+Compensation for each job is based on several factors. The factors include job analysis and evaluation, the essential duties and responsibilities of the job, and salary survey data (how other employers pay their employees). We periodically review our salary administration program and change it as necessary. 
+
+We may give merit-based pay adjustments to some employees to recognize superior employee performance. These adjustments are based on a number of factors including the information documented by the formal performance evaluations. We may give incentive bonuses depending on each employee's individual contributions to the organization.  
+
+If you have a question about compensation in your area or for your job, talk with your supervisor.
+
+## PERFORMANCE EVALUATION
+
+We encourage you and your supervisor to discuss job performance and goals on an informal, day-to-day basis. You and your supervisor will have formal performance evaluations to discuss your work and goals, to identify and correct weaknesses, and to encourage and recognize your strengths. 
+
+Performance evaluations will be done at the beginning of each calendar year and will be completed by the end of each January. Adjustments to compensation or merit increases, if any, will be applied to the February payroll.
+
+## PROGRESSIVE DISCIPLINE
+
+This policy describes the policy for administering fair and consistent discipline for unsatisfactory conduct at the company.
+
+We believe it is important to make sure that all employees are treated fairly and that disciplinary actions are prompt, consistent, and impartial. The major purpose of a disciplinary action is to correct the problem, prevent it from happening again, and prepare the employee for satisfactory performance in the future. 
+
+Although your employment is based on mutual consent and both you and the company have the right to terminate employment at will, with or without cause or advance notice, company may use progressive discipline at it discretion.
+
+Disciplinary action may be any of the following four steps: 1) verbal warning, 2) written warning, 3) suspension with or without pay, or 4) termination of employment. We will look at how severe the problem is and how often it has happened when deciding which step to take. There may be circumstances when one or more steps are bypassed.
+
+In most cases, progressive discipline means that we will normally take these steps in the following order: 1) a first offense may call for a verbal warning; 2) a next offense may be followed by a written warning; 3) another offense may lead to a suspension; and, 4) still another offense may then lead to termination of employment.
+
+In very serious situations, some types of employee problems may justify either a suspension, or, in extreme situations, termination of employment, without going through the usual progressive discipline steps. 
+
+You should also look at the Employee Conduct in this handbook. That policy lists examples of unacceptable conduct that might result in immediate suspension or termination of employment. However, some of the examples of unsatisfactory conduct listed may result in the progressive discipline process described above instead of immediate suspension or termination.
+
+By using progressive discipline, we hope that most employee problems can be corrected at an early stage, benefiting both the employee and the company.
+
+
+## AT-WILL EMPLOYMENT
+
+Your employment with The OWASP Foundation is at-will which means that you or The OWASP Foundation may terminate your employment at any time for any lawful reason unless a written employment agreement exists with The OWASP Foundation that provides otherwise. Your employment with Insperity is at-will regardless of whether you have a written employment agreement with The OWASP Foundation.   
+
+The OWASP Foundation has the right to transfer, demote, or otherwise discipline an employee at any time for any lawful reason. Insperity does not have the authority to change your at-will status with The OWASP Foundation, enter into any agreement for employment for any specified period or make any promises or commitments to the contrary. Likewise, The OWASP Foundation does not have the authority to change your at-will status with Insperity, enter into any agreements on behalf of Insperity for employment for any specified period or make any promises or commitments to the contrary. The OWASP Foundation however, maintains the ability to enter into employment agreements, independent of Insperity, which is not binding on Insperity and does not alter the at-will nature of your employment with Insperity. For an employment agreement with The OWASP Foundation to be considered valid, it must be signed by the Managing Member. 
+
+This handbook is not a contract guaranteeing employment for any specific duration. As provided in the Handbook Acknowledgment, nothing in this handbook creates or is intended to create a promise or representation of continued employment. This handbook replaces any and all prior handbooks, written documents (with the exception of authorized employment agreements) or oral or implied representations that might otherwise contradict the at-will nature of your employment.
+
+## OUTSIDE EMPLOYMENT
+You may hold an outside job as long as you can satisfactorily perform your OWASP job and the job is not in a related competitive field or company.  The job also must not interfere with our scheduling demands.
+
+We hold all employees to the same performance standards and scheduling expectations regardless if they have other jobs. In order to remain employed at the company, we will ask you to terminate an outside job if we determine that it is impacting your performance or your ability to meet our requirements, which may change over time.
+
+If your outside employment has an undesirable impact on the company, we will consider that it is a conflict of interest.
+
+## CHANGE IN POLICY
+
+The company may change, revoke or supplement the policies in this handbook at any time without notice. The company will determine the effective date of any changes and every effort will be made to notify you in advance. However, failure to give advance notice will not void any policy’s application in the workplace.
+
+Supervisors do not have the authority to change the policies in this handbook on their own. If you are uncertain about any policy or procedure, contact your supervisor for clarification.
+
+
+## PERSONNEL FILES
+
+The OWASP Foundation and Insperity each maintain a personnel file on each employee. Contact your supervisor to request a review of your company personnel file, or contact your Insperity payroll or human resource specialist to view your Insperity personnel file.
+
+To ensure that your personnel file is up-to-date at all times, notify your supervisor or your payroll specialist of any changes in your name, telephone number, home address, withholding instructions, number of dependents, beneficiary designations, or the individuals to notify in case of an emergency. Additionally, complete and forward an Employee Change of Personal Information form to your Insperity payroll specialist or you may update your file through the Insperity PremierTM at http://portal.insperity.com. Assistance may also be provided through the Insperity Contact Center at 866-715-3552, 7AM-7PM CT Monday-Friday.
+
+## EMPLOYMENT REFERENCES
+
+Requests for employment verifications for current or former employees, should be directed to Insperity’s Contact Center at 866-715-3552, option 5.  Insperity will only release your last title and dates of employment, unless you have authorized in writing certain additional information to be provided.
+
+## EQUAL EMPLOYMENT OPPORTUNITY
+
+The OWASP Foundation and Insperity provide equal employment opportunities to all employees and applicants in all company facilities without regard to race, color, religious creed, sex, national origin, ancestry, citizenship status, pregnancy, childbirth, (or related medical conditions, including, but not limited to lactation), physical disability, mental and/or intellectual disability, age, military status or status as a Vietnam-era or special disabled veteran, marital status, registered domestic partner or civil union status, gender (including sex stereotyping and gender identity or expression), medical condition (including, but not limited to, cancer related or HIV/AIDS related), genetic information, or sexual orientation in accordance with applicable federal, state and local laws. 
+
+This policy applies to all terms and conditions of employment, including, but not limited to, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.
+
+## IMMIGRATION LAW COMPLIANCE
+
+For our domestic United States operations, the company is committed to employing only people who are United States citizens or who are aliens legally authorized to work in the United States. We do not illegally discriminate because of a person's citizenship or national origin.
+
+Because we comply with the Immigration Reform and Control Act of 1986, every new employee at OWASP is required to complete the Employment Eligibility Verification Form I-9 and show documents that prove identity and employment eligibility.
+
+If you leave the company and are rehired to our domestic U.S. operations, you must complete another Form I-9 if the previous I-9 with company is more than three years old, or if the original I-9 is not accurate anymore, or if we no longer have the original I-9.
+
+If you ask questions or want to discuss our Immigration Compliance policy you may do so without fear of reprisal or retaliation or be punished in any way.
+
+## NON-DISCLOSURE
+
+It is very important to SpiderOak that we protect our confidential business information and trade secrets. Confidential information includes, but is not limited to, the following examples:
+
+* compensation data 
+* computer processes 
+* customer lists 
+* membership lists
+* customer preferences 
+* financial information 
+* pending projects and proposals 
+* other confidential information shared with staff or contractors
+
+As part of your employment agreement you signed a non-disclosure agreement as a condition of your employment.
+
+If you improperly use or disclose a trade secret or confidential business information, you will be subject to disciplinary action, up to and including termination of employment and legal action. This applies even if you do not get any benefit from releasing the information.
+
 ## ACCOMMODATION OF DISABILITIES
 
 The OWASP Foundation is committed to making every reasonable effort to accommodate an employee’s disability. An accommodation may be provided as long as the employee can perform the essential duties of the job, and it does not create an undue hardship for the company.  A reasonable accommodation may include changes in the work environment or in the way a job is performed, so a person with a disability may enjoy equal employment opportunities.
@@ -42,189 +154,15 @@ Under this policy, if you are pregnant and request a reasonable accommodation fo
 
 Accommodations depend upon the employee’s job qualifications and the specific facts and circumstances of each individual situation. Please inform your supervisor if you require an accommodation, so the company can have an interactive discussion with you. Your supervisor will work with you to determine if there is a need for an adjustment or change at work to accommodate your disability.
 
-## AT-WILL EMPLOYMENT
-
-Your employment with The OWASP Foundation is at-will which means that you or The OWASP Foundation may terminate your employment at any time for any lawful reason unless a written employment agreement exists with The OWASP Foundation that provides otherwise. Your employment with Insperity is at-will regardless of whether you have a written employment agreement with The OWASP Foundation.   
-
-The OWASP Foundation has the right to transfer, demote, or otherwise discipline an employee at any time for any lawful reason. Insperity does not have the authority to change your at-will status with The OWASP Foundation, enter into any agreement for employment for any specified period or make any promises or commitments to the contrary. Likewise, The OWASP Foundation does not have the authority to change your at-will status with Insperity, enter into any agreements on behalf of Insperity for employment for any specified period or make any promises or commitments to the contrary. The OWASP Foundation however, maintains the ability to enter into employment agreements, independent of Insperity, which is not binding on Insperity and does not alter the at-will nature of your employment with Insperity. For an employment agreement with The OWASP Foundation to be considered valid, it must be signed by the Managing Member. 
-
-This handbook is not a contract guaranteeing employment for any specific duration. As provided in the Handbook Acknowledgment, nothing in this handbook creates or is intended to create a promise or representation of continued employment. This handbook replaces any and all prior handbooks, written documents (with the exception of authorized employment agreements) or oral or implied representations that might otherwise contradict the at-will nature of your employment.
-
-## CHANGE IN POLICY
-
-The company may change, revoke or supplement the policies in this handbook at any time without notice. The company will determine the effective date of any changes and every effort will be made to notify you in advance. However, failure to give advance notice will not void any policy’s application in the workplace.
-
-Supervisors do not have the authority to change the policies in this handbook on their own. If you are uncertain about any policy or procedure, contact your supervisor for clarification.
-
-## EMPLOYMENT REFERENCES
-
-Requests for employment verifications for current or former employees, should be directed to Insperity’s Contact Center at 866-715-3552, option 5.  Insperity will only release your last title and dates of employment, unless you have authorized in writing certain additional information to be provided.
-
-## EQUAL EMPLOYMENT OPPORTUNITY
-
-The OWASP Foundation and Insperity provide equal employment opportunities to all employees and applicants in all company facilities without regard to race, color, religious creed, sex, national origin, ancestry, citizenship status, pregnancy, childbirth, (or related medical conditions, including, but not limited to lactation), physical disability, mental and/or intellectual disability, age, military status or status as a Vietnam-era or special disabled veteran, marital status, registered domestic partner or civil union status, gender (including sex stereotyping and gender identity or expression), medical condition (including, but not limited to, cancer related or HIV/AIDS related), genetic information, or sexual orientation in accordance with applicable federal, state and local laws. 
-
-This policy applies to all terms and conditions of employment, including, but not limited to, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.
-
-## PERSONNEL FILES
-
-The OWASP Foundation and Insperity each maintain a personnel file on each employee. Contact your supervisor to request a review of your company personnel file, or contact your Insperity payroll or human resource specialist to view your Insperity personnel file.
-
-To ensure that your personnel file is up-to-date at all times, notify your supervisor or your payroll specialist of any changes in your name, telephone number, home address, withholding instructions, number of dependents, beneficiary designations, or the individuals to notify in case of an emergency. Additionally, complete and forward an Employee Change of Personal Information form to your Insperity payroll specialist or you may update your file through the Insperity PremierTM at http://portal.insperity.com. Assistance may also be provided through the Insperity Contact Center at 866-715-3552, 7AM-7PM CT Monday-Friday.
-
-## IMMIGRATION LAW COMPLIANCE
-
-For our domestic United States operations, the company is committed to employing only people who are United States citizens or who are aliens legally authorized to work in the United States. We do not illegally discriminate because of a person's citizenship or national origin.
-
-Because we comply with the Immigration Reform and Control Act of 1986, every new employee at OWASP is required to complete the Employment Eligibility Verification Form I-9 and show documents that prove identity and employment eligibility.
-
-If you leave the company and are rehired to our domestic U.S. operations, you must complete another Form I-9 if the previous I-9 with company is more than three years old, or if the original I-9 is not accurate anymore, or if we no longer have the original I-9.
-
-If you ask questions or want to discuss our Immigration Compliance policy you may do so without fear of reprisal or retaliation or be punished in any way.
-
-## OUTSIDE EMPLOYMENT
-You may hold an outside job as long as you can satisfactorily perform your OWASP job and the job is not in a related competitive field or company.  The job also must not interfere with our scheduling demands.
-
-We hold all employees to the same performance standards and scheduling expectations regardless if they have other jobs. In order to remain employed at the company, we will ask you to terminate an outside job if we determine that it is impacting your performance or your ability to meet our requirements, which may change over time.
-
-If your outside employment has an undesirable impact on the company, we will consider that it is a conflict of interest.
-
-## NON-DISCLOSURE
-
-It is very important to SpiderOak that we protect our confidential business information and trade secrets. Confidential information includes, but is not limited to, the following examples:
-
-* compensation data 
-* computer processes 
-* customer lists 
-* membership lists
-* customer preferences 
-* financial information 
-* pending projects and proposals 
-* other confidential information shared with staff or contractors
-
-As part of your employment agreement you signed a non-disclosure agreement as a condition of your employment.
-
-If you improperly use or disclose a trade secret or confidential business information, you will be subject to disciplinary action, up to and including termination of employment and legal action. This applies even if you do not get any benefit from releasing the information.
-
-## OFFER LETTERS
-
-As part of our hiring processes, your offer of employment was made through an offer letter.  This letter fully and wholly outlines your employment offer with the company. The conditions of your offer are confidential.
-
-Offer letters have an expiration date and if left not accepted by the expiration date, SpiderOak withdraws it’s offer of employment.  If accepted, a copy should be signed and will be placed in your Personnel file.  Conditions of employment are confidential and may not be disclosed to third parties, except for disclosures in accordance with applicable law.
-
-## EMPLOYMENT APPLICATIONS
-
-The company relies on the accuracy of the information you provide during the employment hiring process. We also expect that you and your references give accurate and true information during the hiring process and employment. If we find that any information is misleading, false, or was left out on purpose, we may reject an applicant from further consideration. If the person was already hired, it could result in termination of employment. 
-
-When we process an employment application, we may obtain a background report. If we take an adverse employment action based in whole or in part on the background report, a copy of the report will be given to you so that you can take appropriate steps.
-
-## SALARY ADMINISTRATION
-
-The company has a salary administration program which helps us have consistent pay practices, comply with federal and state laws, support our commitment to Equal Employment Opportunity, and offer competitive salaries within our labor market.  We are committed to paying equitable wages that are based on the requirements and responsibilities of each job.
-
-Compensation for each job is based on several factors. The factors include job analysis and evaluation, the essential duties and responsibilities of the job, and salary survey data (how other employers pay their employees). We periodically review our salary administration program and change it as necessary. 
-
-We may give merit-based pay adjustments to some employees to recognize superior employee performance. These adjustments are based on a number of factors including the information documented by the formal performance evaluations. We may give incentive bonuses depending on each employee's individual contributions to the organization.  
-
-If you have a question about compensation in your area or for your job, talk with your supervisor.
-
-## PERFORMANCE EVALUATION
-
-We encourage you and your supervisor to discuss job performance and goals on an informal, day-to-day basis. You and your supervisor will have formal performance evaluations to discuss your work and goals, to identify and correct weaknesses, and to encourage and recognize your strengths. 
-
-Performance evaluations will be done at the beginning of each calendar year and will be completed by the end of each January. Adjustments to compensation or merit increases, if any, will be applied to the February payroll.
-
 ## EMPLOYMENT TERMINATION
 
-There can be many reasons why employment may terminate. We will usually schedule an exit interview if you terminate. At the exit interview, we can go over such topics as your benefits, benefits conversion rights, repayment of any outstanding debt to OWASP or return of company -owned property. You may also make suggestions or complaints and ask questions at the exit interview. 
+There can be many reasons why employment may terminate. We will usually schedule an exit interview if you terminate. At the exit interview, we can go over such topics as your benefits, benefits conversion rights, repayment of any outstanding debt to OWASP or return of company-owned property. You may also make suggestions or complaints and ask questions at the exit interview. 
 
 Your benefits are affected by termination in several ways. All accrued, vested benefits that are due and payable at termination will be paid out. You may be allowed to continue some benefits by paying for them yourself. You will be notified in writing about which benefits you can continue and the limitations and details of how to continue them.
-Progressive Discipline
-
-This policy describes the policy for administering fair and consistent discipline for unsatisfactory conduct at the company.
-
-We believe it is important to make sure that all employees are treated fairly and that disciplinary actions are prompt, consistent, and impartial. The major purpose of a disciplinary action is to correct the problem, prevent it from happening again, and prepare the employee for satisfactory performance in the future. 
-
-Although your employment is based on mutual consent and both you and the company have the right to terminate employment at will, with or without cause or advance notice, company may use progressive discipline at it discretion.
-
-Disciplinary action may be any of the following four steps: 1) verbal warning, 2) written warning, 3) suspension with or without pay, or 4) termination of employment. We will look at how severe the problem is and how often it has happened when deciding which step to take. There may be circumstances when one or more steps are bypassed.
-
-In most cases, progressive discipline means that we will normally take these steps in the following order: 1) a first offense may call for a verbal warning; 2) a next offense may be followed by a written warning; 3) another offense may lead to a suspension; and, 4) still another offense may then lead to termination of employment.
-
-In very serious situations, some types of employee problems may justify either a suspension, or, in extreme situations, termination of employment, without going through the usual progressive discipline steps. 
-
-You should also look at the Employee Conduct in this handbook. That policy lists examples of unacceptable conduct that might result in immediate suspension or termination of employment. However, some of the examples of unsatisfactory conduct listed may result in the progressive discipline process described above instead of immediate suspension or termination.
-
-By using progressive discipline, we hope that most employee problems can be corrected at an early stage, benefiting both the employee and SpiderOak.
-
 
 
 # EMPLOYEE CONDUCT
  
-## ABSENTEEISM AND TARDINESS
-
-Regular attendance is important to the smooth operation of The OWASP Foundation. If you are late or absent, it places a burden on other employees and may impact productivity, customer satisfaction and team morale.
-
-You are expected to be reliable and punctual by working a regular and set weekly schedule that is suitable for your job function. If you know that you will be absent or not available during regular timely working hours, notify your supervisor directly as soon as possible.  In most circumstances, you should notify your supervisor within the first 30 minutes of your work shift each day of your absence, unless you have been granted a leave of absence. In the event of a sickness or accident while performing your duties, notify your supervisor immediately.  
-
-If you are absent for three or more consecutive workdays due to personal illness, you may be required to provide a statement from your healthcare provider, unless state or local law provides otherwise, before you will be permitted to return to work. Failure to properly report your absences may be considered a voluntary resignation of your position.
-
-## ANTI-HARASSMENT 
-
-The OWASP Foundation and Insperity are committed to a work environment in which all individuals are treated with respect and dignity and are free from all forms of harassment and discrimination. Any form of harassment, even when not unlawful or directed at a protected category, is prohibited and will not be tolerated. All employees, including supervisors, co-workers, vendors, contractors, customers or other third parties, are expected to adhere to this policy. 
-
-Reported or suspected occurrences of harassment or discrimination will be promptly and thoroughly investigated. Following an investigation, The OWASP Foundation and Insperity will promptly take any necessary and appropriate disciplinary action.
-
-The OWASP Foundation and Insperity will not permit or condone any acts of retaliation against anyone who files or cooperates in the investigation of harassment or discrimination complaints.
-The term “harassment” includes harassment based on any category protected by federal, state or local law, which may include, but is not limited to, unwelcome slurs, jokes, or verbal, graphic or physical conduct relating to an individual's race, color, religious creed, sex, national origin, ancestry, citizenship status, pregnancy, childbirth, physical disability, mental and/or intellectual disability, age, military status or status as a Vietnam-era or special disabled veteran, marital status, registered domestic partner or civil union status, familial status, gender (including sex stereotyping and gender identity or expression), medical condition (including, but not limited to, cancer related or HIV/AIDS related), genetic information, or sexual orientation.
-
-Sexual harassment consists of unwelcome sexual advances, requests for sexual favors, or other verbal or physical conduct of a sexual nature where: 
-
-* Submission to such conduct is an explicit or implicit term or condition of employment;
-* Employment decisions are based on an employee's submission to or rejection of such conduct; or
-* Such conduct unreasonably interferes with an individual's work performance or creates an intimidating, hostile or offensive working environment.
-
-### Complaint Procedure
-
-The OWASP Foundation and Insperity provide you with a convenient and reliable method for reporting incidents of alleged harassment, including sexual harassment, and discrimination. Any employee who feels harassed or discriminated against is encouraged to immediately inform the alleged offender that the behavior is unwelcome. In many instances, the person is unaware his or her conduct is offensive and this action alone may often resolve the problem. If the informal discussion with the alleged offender is unsuccessful in remedying the problem, or if you do not feel comfortable with such an approach, you should immediately report the conduct to your immediate supervisor, manager or company owner and the Insperity Anti-Harassment Hotline number at 844-677-3030. We cannot resolve a harassment or discrimination problem, unless we know about it. Therefore, it is your responsibility to bring those kinds of problems to our attention so we can take the necessary steps to correct any problems. The report should include all facts available to you regarding the alleged harassment, sexual harassment, or discrimination.
-
-When you call the Insperity Anti-Harassment Hotline, please be sure to leave your name, Insperity employee identification number or the last four digits of your social security number, and the name of the client company for which you work. If you wish to make an anonymous complaint, you may do so.  However, the scope of our investigation may be limited based on the information you provide.
-
-### Confidentiality
-
-All reports of alleged harassment, sexual harassment, or discrimination will be treated seriously. Confidentiality will be maintained to the extent possible. However, to conduct a thorough investigation, certain information may need to be disclosed to other individuals, including the alleged offender.   Consequently, absolute confidentiality cannot be promised and cannot be guaranteed.  
-
-### Investigative Procedure
-
-Once a complaint of alleged harassment, sexual harassment, or discrimination is received, we will begin a prompt and thorough investigation. The investigation may include interviews with all involved employees, including the alleged harasser, and any employees who are aware of facts or incidents alleged to have occurred.
-
-Following an investigation, The OWASP Foundation and Insperity will promptly take any necessary and appropriate disciplinary action. Disciplinary action will be taken if the investigation reveals that an employee has acted in a manner that is not in alignment with the goals of this policy. The OWASP Foundation and Insperity may address any workplace issue discovered during an investigation. This may include some or all of the following steps:
-
-* Restore any lost terms, conditions, or benefits of employment to the complaining employee.
-* Discipline the alleged harasser. This discipline may include written disciplinary warnings, transfer, demotion, suspension and/or termination of employment.
-* If the alleged harassment, sexual harassment, or discrimination is from a vendor, contractor, customer or other third party, The OWASP Foundation and Insperity will take appropriate action to stop the conduct.
-* If you have made a complaint but feel that the action taken in response has not remedied the situation, you should make an additional complaint following the complaint procedure outlined in this policy.
-
-#### Duties of Employees and Supervisors
-
-All employees of the company, both management and non-management, are responsible for assuring that a workplace free of harassment, sexual harassment, and discrimination is maintained. Any employee may file a complaint regarding incidents experienced personally or incidents observed in the workplace. The company strives to maintain a pleasant work environment where all employees are able to effectively perform their work without interference of any type and requests the assistance of all employees in this effort.
-
-All managers and supervisors are responsible for doing all they can to prevent and discourage harassment, sexual harassment, and discrimination from occurring. If a complaint of harassment, sexual harassment or discrimination is raised, the individual to whom the complaint is made (i.e., supervisor, manager, company owner) should act promptly to notify the Insperity Anti-Harassment hotline number so an investigation may promptly proceed. The company and Insperity may discipline any managers or supervisors who fail to follow this policy, which discipline, may include termination.
-
-## DRUG-FREE WORKPLACE
-
-The OWASP Foundation is committed to protecting the safety, health and well-being of all employees, customers, clients, and vendors in our workplace. “Workplace” includes company property, any company-sponsored activity or any other site where you are performing work or representing the company.  
-
-The term “drug” as used in this policy includes alcoholic beverages and prescription drugs, as well as illegal inhalants and illegal drugs and/or controlled substances including, but not limited to, marijuana, opiates (e.g., heroin, morphine), cocaine, phencyclidine (PCP), and amphetamines. 
-
-All employees are expected to contribute to maintaining a drug-free workplace. Prohibited activities under this policy include the possession, use, sale, attempted sale, distribution, manufacture, purchase, attempted purchase, transfer or cultivation of drugs in the workplace. Employees are also prohibited from being at the workplace with a detectable amount of drugs in their system. However, the use and/or possession of prescription drugs, when taken as directed and obtained with a valid prescription under federal law, is not a violation of this policy.
-
-As a condition of continued employment, all employees must comply with this policy.  An employee who engages in an activity prohibited by this policy shall be subject to disciplinary action, up to and including immediate termination of employment.
-
-Contact the Employee Assistance Program (EAP) for information about the availability of treatment programs such as assistance provided by Insperity’s health care plan coverage or drug and alcohol abuse rehabilitation and education programs. 
-
-This policy is not intended to replace or otherwise alter applicable U.S. Department of Transportation obligations or any other federal, state or local agency drug testing regulations related to a particular industry.
-
 ## ETHICS
 
 The OWASP Foundation is committed to providing a work environment governed by the highest ethical and legal standards. In all situations you are expected to conduct your activities with integrity, ethically and in accordance with applicable laws and regulations.  As an employee you are expected to model the OWASP Foundation Code of Ethics in your interactions with our community.
@@ -258,29 +196,6 @@ Although it is not possible to list all forms of inappropriate behavior and cond
 * Unsatisfactory performance or conduct 
 
 Depending on the specific circumstances, the company may suspend or terminate an employee without prior discipline, or without following a particular order of discipline.
-
-## TOBACCO-FREE WORKPLACE
-
-The OWASP Foundation is committed to providing all employees with a safe and healthy work environment. All company premises are smoke-free, unless clearly marked otherwise. Smoking a cigarette, cigar, e-cigarette, or pipe or any other form of tobacco, as well as the chewing of tobacco, is not allowed. For your convenience, designated smoking areas are clearly marked. Employees are expected to use the waste disposal receptacles for smoking products.
-
-## VIOLENCE IN THE WORKPLACE
-
-The OWASP Foundation and Insperity are committed to providing a safe workplace for employees, customers, vendors, volunteers, independent contractors and others with whom we do business. The company has zero tolerance for violent acts or threats of violence.
-You are expected to conduct yourself in a non-threatening, non-abusive manner at all times. Any direct, conditional or veiled threat of harm to any employee, guest or company property will be considered unacceptable behavior. Acts of violence, intimidation or bullying of others will not be tolerated.  
-
-All employees share the responsibility in identifying and alleviating threatening or violent behaviors. Anyone who is subjected to or threatened with violence, or who is aware of another individual who has been subjected to or threatened with violence, is to immediately report this information to his/her supervisor, a management member or Insperity. You must assume that any threat is serious. The company will carefully investigate reports and maintain employee confidentiality to the fullest extent possible.
-
-The OWASP Foundation will take disciplinary action, up to and including termination, and/or legal action as appropriate, against any employee who commits or threatens to commit a violent act against any person while on company premises or while engaged in company business off the premises.
-
-## WEAPONS
-
-The OWASP Foundation strives to provide a safe and secure workplace for employees, clients, customers and visitors. The company has zero tolerance for, and forbids the possession of any type of weapon, firearm, explosive and/or ammunition while on company property or conducting company business. For purposes of this policy, company property includes, but is not limited to, all company facilities, company-provided vehicles and equipment that are either leased or owned by the company or a company client.  
-
-Possession of firearms or other weapons may be cause for discipline, including, but not limited to, immediate termination of employment. In enforcing this policy, The OWASP Foundation reserves the right to request inspections of any employee and their personal effects while on company property, to the extent allowable under applicable law. Any employee who refuses to allow an inspection will be subject to the same disciplinary action as having been found in possession of firearms or other weapons.
-
-In the event an employee lawfully possesses a firearm, the employee can store the firearm in the employee’s personal vehicle while on company-provided parking areas; however, the firearm must be stored in the employee’s locked vehicle, or locked to the vehicle, and hidden from plain view.
-
-Employees share the responsibility of identifying violators of this policy. If you either witness or suspect another individual of violating this policy you should immediately report this information to their onsite supervisor.
 
 # HOURS AND COMPENSATION
 
@@ -340,6 +255,95 @@ If, during a workweek, you are away from the job because of an injury, paid holi
 
 Employees are not to work “off the clock” and are required to ensure that all time worked is properly recorded. If you are given directions to perform work “off the clock,” you should promptly notify your supervisor. If your supervisor has given you directions to work “off the clock” and/or has told you not to properly record all hours worked, notify your Insperity human resource specialist. You will not be penalized in any way for making such a complaint.
 
+## ABSENTEEISM AND TARDINESS
+
+Regular attendance is important to the smooth operation of The OWASP Foundation. If you are late or absent, it places a burden on other employees and may impact productivity, customer satisfaction and team morale.
+
+You are expected to be reliable and punctual by working a regular and set weekly schedule that is suitable for your job function. If you know that you will be absent or not available during regular timely working hours, notify your supervisor directly as soon as possible.  In most circumstances, you should notify your supervisor within the first 30 minutes of your work shift each day of your absence, unless you have been granted a leave of absence. In the event of a sickness or accident while performing your duties, notify your supervisor immediately.  
+
+If you are absent for three or more consecutive workdays due to personal illness, you may be required to provide a statement from your healthcare provider, unless state or local law provides otherwise, before you will be permitted to return to work. Failure to properly report your absences may be considered a voluntary resignation of your position.
+
+## ANTI-HARASSMENT 
+
+The OWASP Foundation and Insperity are committed to a work environment in which all individuals are treated with respect and dignity and are free from all forms of harassment and discrimination. Any form of harassment, even when not unlawful or directed at a protected category, is prohibited and will not be tolerated. All employees, including supervisors, co-workers, vendors, contractors, customers or other third parties, are expected to adhere to this policy. 
+
+Reported or suspected occurrences of harassment or discrimination will be promptly and thoroughly investigated. Following an investigation, The OWASP Foundation and Insperity will promptly take any necessary and appropriate disciplinary action.
+
+The OWASP Foundation and Insperity will not permit or condone any acts of retaliation against anyone who files or cooperates in the investigation of harassment or discrimination complaints.
+The term “harassment” includes harassment based on any category protected by federal, state or local law, which may include, but is not limited to, unwelcome slurs, jokes, or verbal, graphic or physical conduct relating to an individual's race, color, religious creed, sex, national origin, ancestry, citizenship status, pregnancy, childbirth, physical disability, mental and/or intellectual disability, age, military status or status as a Vietnam-era or special disabled veteran, marital status, registered domestic partner or civil union status, familial status, gender (including sex stereotyping and gender identity or expression), medical condition (including, but not limited to, cancer related or HIV/AIDS related), genetic information, or sexual orientation.
+
+Sexual harassment consists of unwelcome sexual advances, requests for sexual favors, or other verbal or physical conduct of a sexual nature where: 
+
+* Submission to such conduct is an explicit or implicit term or condition of employment;
+* Employment decisions are based on an employee's submission to or rejection of such conduct; or
+* Such conduct unreasonably interferes with an individual's work performance or creates an intimidating, hostile or offensive working environment.
+
+### Complaint Procedure
+
+The OWASP Foundation and Insperity provide you with a convenient and reliable method for reporting incidents of alleged harassment, including sexual harassment, and discrimination. Any employee who feels harassed or discriminated against is encouraged to immediately inform the alleged offender that the behavior is unwelcome. In many instances, the person is unaware his or her conduct is offensive and this action alone may often resolve the problem. If the informal discussion with the alleged offender is unsuccessful in remedying the problem, or if you do not feel comfortable with such an approach, you should immediately report the conduct to your immediate supervisor, manager or company owner and the Insperity Anti-Harassment Hotline number at 844-677-3030. We cannot resolve a harassment or discrimination problem, unless we know about it. Therefore, it is your responsibility to bring those kinds of problems to our attention so we can take the necessary steps to correct any problems. The report should include all facts available to you regarding the alleged harassment, sexual harassment, or discrimination.
+
+When you call the Insperity Anti-Harassment Hotline, please be sure to leave your name, Insperity employee identification number or the last four digits of your social security number, and the name of the client company for which you work. If you wish to make an anonymous complaint, you may do so.  However, the scope of our investigation may be limited based on the information you provide.
+
+### Confidentiality
+
+All reports of alleged harassment, sexual harassment, or discrimination will be treated seriously. Confidentiality will be maintained to the extent possible. However, to conduct a thorough investigation, certain information may need to be disclosed to other individuals, including the alleged offender.   Consequently, absolute confidentiality cannot be promised and cannot be guaranteed.  
+
+### Investigative Procedure
+
+Once a complaint of alleged harassment, sexual harassment, or discrimination is received, we will begin a prompt and thorough investigation. The investigation may include interviews with all involved employees, including the alleged harasser, and any employees who are aware of facts or incidents alleged to have occurred.
+
+Following an investigation, The OWASP Foundation and Insperity will promptly take any necessary and appropriate disciplinary action. Disciplinary action will be taken if the investigation reveals that an employee has acted in a manner that is not in alignment with the goals of this policy. The OWASP Foundation and Insperity may address any workplace issue discovered during an investigation. This may include some or all of the following steps:
+
+* Restore any lost terms, conditions, or benefits of employment to the complaining employee.
+* Discipline the alleged harasser. This discipline may include written disciplinary warnings, transfer, demotion, suspension and/or termination of employment.
+* If the alleged harassment, sexual harassment, or discrimination is from a vendor, contractor, customer or other third party, The OWASP Foundation and Insperity will take appropriate action to stop the conduct.
+* If you have made a complaint but feel that the action taken in response has not remedied the situation, you should make an additional complaint following the complaint procedure outlined in this policy.
+
+#### Duties of Employees and Supervisors
+
+All employees of the company, both management and non-management, are responsible for assuring that a workplace free of harassment, sexual harassment, and discrimination is maintained. Any employee may file a complaint regarding incidents experienced personally or incidents observed in the workplace. The company strives to maintain a pleasant work environment where all employees are able to effectively perform their work without interference of any type and requests the assistance of all employees in this effort.
+
+All managers and supervisors are responsible for doing all they can to prevent and discourage harassment, sexual harassment, and discrimination from occurring. If a complaint of harassment, sexual harassment or discrimination is raised, the individual to whom the complaint is made (i.e., supervisor, manager, company owner) should act promptly to notify the Insperity Anti-Harassment hotline number so an investigation may promptly proceed. The company and Insperity may discipline any managers or supervisors who fail to follow this policy, which discipline, may include termination.
+
+
+## VIOLENCE IN THE WORKPLACE
+
+The OWASP Foundation and Insperity are committed to providing a safe workplace for employees, customers, vendors, volunteers, independent contractors and others with whom we do business. The company has zero tolerance for violent acts or threats of violence.
+You are expected to conduct yourself in a non-threatening, non-abusive manner at all times. Any direct, conditional or veiled threat of harm to any employee, guest or company property will be considered unacceptable behavior. Acts of violence, intimidation or bullying of others will not be tolerated.  
+
+All employees share the responsibility in identifying and alleviating threatening or violent behaviors. Anyone who is subjected to or threatened with violence, or who is aware of another individual who has been subjected to or threatened with violence, is to immediately report this information to his/her supervisor, a management member or Insperity. You must assume that any threat is serious. The company will carefully investigate reports and maintain employee confidentiality to the fullest extent possible.
+
+The OWASP Foundation will take disciplinary action, up to and including termination, and/or legal action as appropriate, against any employee who commits or threatens to commit a violent act against any person while on company premises or while engaged in company business off the premises.
+
+## TOBACCO-FREE WORKPLACE
+
+The OWASP Foundation is committed to providing all employees with a safe and healthy work environment. All company premises are smoke-free, unless clearly marked otherwise. Smoking a cigarette, cigar, e-cigarette, or pipe or any other form of tobacco, as well as the chewing of tobacco, is not allowed. For your convenience, designated smoking areas are clearly marked. Employees are expected to use the waste disposal receptacles for smoking products.
+
+## DRUG-FREE WORKPLACE
+
+The OWASP Foundation is committed to protecting the safety, health and well-being of all employees, customers, clients, and vendors in our workplace. “Workplace” includes company property, any company-sponsored activity or any other site where you are performing work or representing the company.  
+
+The term “drug” as used in this policy includes alcoholic beverages and prescription drugs, as well as illegal inhalants and illegal drugs and/or controlled substances including, but not limited to, marijuana, opiates (e.g., heroin, morphine), cocaine, phencyclidine (PCP), and amphetamines. 
+
+All employees are expected to contribute to maintaining a drug-free workplace. Prohibited activities under this policy include the possession, use, sale, attempted sale, distribution, manufacture, purchase, attempted purchase, transfer or cultivation of drugs in the workplace. Employees are also prohibited from being at the workplace with a detectable amount of drugs in their system. However, the use and/or possession of prescription drugs, when taken as directed and obtained with a valid prescription under federal law, is not a violation of this policy.
+
+As a condition of continued employment, all employees must comply with this policy.  An employee who engages in an activity prohibited by this policy shall be subject to disciplinary action, up to and including immediate termination of employment.
+
+Contact the Employee Assistance Program (EAP) for information about the availability of treatment programs such as assistance provided by Insperity’s health care plan coverage or drug and alcohol abuse rehabilitation and education programs. 
+
+This policy is not intended to replace or otherwise alter applicable U.S. Department of Transportation obligations or any other federal, state or local agency drug testing regulations related to a particular industry.
+
+## WEAPONS
+
+The OWASP Foundation strives to provide a safe and secure workplace for employees, clients, customers and visitors. The company has zero tolerance for, and forbids the possession of any type of weapon, firearm, explosive and/or ammunition while on company property or conducting company business. For purposes of this policy, company property includes, but is not limited to, all company facilities, company-provided vehicles and equipment that are either leased or owned by the company or a company client.  
+
+Possession of firearms or other weapons may be cause for discipline, including, but not limited to, immediate termination of employment. In enforcing this policy, The OWASP Foundation reserves the right to request inspections of any employee and their personal effects while on company property, to the extent allowable under applicable law. Any employee who refuses to allow an inspection will be subject to the same disciplinary action as having been found in possession of firearms or other weapons.
+
+In the event an employee lawfully possesses a firearm, the employee can store the firearm in the employee’s personal vehicle while on company-provided parking areas; however, the firearm must be stored in the employee’s locked vehicle, or locked to the vehicle, and hidden from plain view.
+
+Employees share the responsibility of identifying violators of this policy. If you either witness or suspect another individual of violating this policy you should immediately report this information to their onsite supervisor.
+
+
 # EMPLOYEE BENEFITS
  
 ## BENEFITS
@@ -352,7 +356,7 @@ The costs of these benefits for the employee and their dependents may be subsidi
 
 Full-time employees are eligible for paid holidays during each calendar year. A paid holiday does not count as a day worked in calculating overtime for the week.
 The OWASP Foundation observes the following holidays each year:
-*  New Year’s Day
+* New Year’s Day
 * Presidents Day
 * Memorial Day
 * Independence Day
@@ -379,9 +383,17 @@ An employee taking personal time off is responsible for:
 
 ### Sick Policy
 
-Flexible time off each year  is provided by the company for employees to be away from work because of illness, injury, or to care for a family member or for responding or attending to a qualifying exigency. If more than five continuous days are taken as time off due to illness, the employee will cease to receive his/her regular salary and the company will consider a request for a leave of absence. Additionally, absences for three or more consecutive workdays due to personal illness may require a statement from your healthcare provider before you will be permitted to return to work.
+Flexible time off each year is provided by the company for employees to be away from work because of illness, injury, or to care for a family member or for responding or attending to a qualifying exigency. If more than five continuous days are taken as time off due to illness, the employee will cease to receive his/her regular salary and the company will consider a request for a leave of absence. Additionally, absences for three or more consecutive workdays due to personal illness may require a statement from your healthcare provider before you will be permitted to return to work.
 
-### Termination and Flexible Time Off
+## EDUCATION ASSISTANCE
+
+The company will reimburse exempt full-time employees up to $1,500 per semester for continuing education. To qualify, education assistance requests must be degree-seeking in a field directly related to your work function, pre-approved by your supervisor, and through an accredited institution. You must maintain a “C” or higher grade point average.
+
+Your profession may have certain third-party Certification programs.The company will reimburse exempt full-time employees up to $500 per year for obtaining and/or retaining an accredited certification in your profession. To qualify, Certification Program requests must be in a field directly related to your work function and be pre-approved by your supervisor.
+
+Employees who voluntarily or involuntarily terminate employment must reimburse the company for any education assistance or certification program benefits reimbursed over the prior 24 months.
+
+## Termination and Flexible Time Off
 
 Because no vacation accrues, employees who voluntarily or involuntarily terminate employment are not entitled to payment of vacation at time of termination. 
 
@@ -398,14 +410,6 @@ Visit Insperity online to access training, secure personal information and work 
 Your personal information is accessible only to you through multiple layers of security and industry-standard data encryption. Since payroll information and other sensitive data are accessible through your account, it is important you do not share your username and password with others.
 
 Contact Insperity’s Contact Center toll free at 866-715-3552, Monday through Friday from 7:00 a.m. to 7:00 p.m. Central time for questions about the Insperity PremierTM and your Insperity benefits.
-
-## EDUCATION ASSISTANCE
-
-The company will reimburse exempt full-time employees up to $1,500 per semester for continuing education. To qualify, education assistance requests must be degree-seeking in a field directly related to your work function, pre-approved by your supervisor, and through an accredited institution. You must maintain a “C” or higher grade point average.
-
-Your profession may have certain third-party Certification programs.The company will reimburse exempt full-time employees up to $500 per year for obtaining and/or retaining an accredited certification in your profession. To qualify, Certification Program requests must be in a field directly related to your work function and be pre-approved by your supervisor.
-
-Employees who voluntarily or involuntarily terminate employment must reimburse the company for any education assistance or certification program benefits reimbursed over the prior 24 months.
 
 
 # LEAVE OF ABSENCE
@@ -455,8 +459,6 @@ The OWASP Foundation has a remote workforce. Your work schedule will be agreed u
 It is the employee’s sole obligation to provide a quiet, distraction-free, ergonomically correct, and appropriate work environment during the employee’s workday. The company will not be responsible for costs associated with initial setup of an employee's home office such as furniture, lighting and repairs or modifications to the home office space. The company will not reimburse employees for office-related expenses, such as but not limited to heating and cooling costs, internet service, and other home-related services.
 
 Injuries sustained by an employee while at a home work location and in conjunction with regular work duties are normally covered by the company's workers' compensation policy. Employees who work remotely are responsible for notifying The OWASP Foundation of such injuries in accordance with the company’s workers' compensation procedures. However, the company assumes no responsibility for injuries occurring in the employee’s at-home work space outside the agreed-upon work hours. Employees who work remotely are to maintain safe work conditions in their at-home work space and are to practice the same safety habits as those followed on typical corporate premises. The employee’s home location is mainly for the employee and should not be used for meeting with customers, vendors or other company-related guests.
-
-### Confidentiality of Information
 
 Consistent with the company's expectations of information security, even while working remotely employees are expected to ensure the protection of proprietary company and customer information accessible from their home office. Steps include, but are not limited to, the use of locked file cabinets, computers and desks; the regular maintenance of passwords; and any other steps appropriate for the job and the environment.
 
@@ -537,16 +539,6 @@ Harassment of any kind is prohibited. Messages with derogatory or inflammatory r
 
 ### Violations
 Violations of any guidelines listed in this policy may result in disciplinary action, up to and including immediate termination. If necessary, the company will advise appropriate legal officials of any illegal violations.
-
-## WIRELESS COMMUNICATION DEVICE USE GUIDELINES
-
-The OWASP Foundation may provide wireless communication devices, including hands-free devices, to employees who have a job-related need for them.  These devices are the property of The OWASP Foundation. The following guidelines must be followed: 
-* Employees are expected to carry wireless communications devices as directed by their supervisor.
-* Employees are responsible for lost or stolen wireless communications devices and must report such losses immediately.
-* Upon termination of employment for any reason, the employee must return all company-issued property.
-
-
-
 
 # STATE OF RESIDENCE SPECIFIC POLICIES
 
