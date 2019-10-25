@@ -253,7 +253,7 @@ This policy is intended solely to implement Fair Labor Standards Act (FLSA) regu
 <a name="hours-of-operation"></a>
 ## HOURS OF OPERATION
 
-Normal operating hours for The OWASP Foundation are from 8:00 AM to 5:00 PM, Monday through Friday. These hours may vary depending upon your position and work requirements. All exempt and non-exempt, full-time regular employees are expected to work a standard forty (4) hour work week.
+Normal operating hours for The OWASP Foundation are from 8:00 AM to 5:00 PM, Monday through Friday. These hours may vary depending upon your position and work requirements. All exempt and non-exempt, full-time regular employees are expected to work a standard forty (40) hour work week.
 
 Give your supervisor as much advance notice as possible for any schedule changes.
 
