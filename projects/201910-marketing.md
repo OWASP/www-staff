@@ -39,6 +39,8 @@ As part of the new webite and membership database launch, all reminder emails fo
 
 Generally the emails will be no more than two paragraphs with prominent links back to the website to either learn more, in the case of new members, or to the memembership renewal page for expiring members.
 
+Contact info is https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/72
+
 ### New Members or Renewals
 * Day 0 – Welcome, Thanks for joining, link to the website
 * Day 3 – Chapter meetings; join a local chapter, there are 267 local chapters
@@ -79,6 +81,14 @@ Action:  Mike will let us know who to reach out to begin working on the content 
 
 Spotlights – 425 to 445 characters, short concise on projects and chapters.  Action: Mike will let us know names of subject matter experts to reach out to for background information to build the short story. 
 
-## End of Year Campagin
+## End of Year Campaign
 
 In development
+
+## Press Releases
+
+In development
+
+* 43 messages
+* 
+
