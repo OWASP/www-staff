@@ -1,4 +1,9 @@
+---
 
+title: OWASP Employee Manual
+layout: full-width
+
+---
 # WELCOME 
 
 Welcome to The OWASP Foundation. We hope you agree that you have a great contribution to make to our organization and that you find your employment with us a rewarding experience. We look forward to the opportunity of working together to create a more successful company. We also want your employment with us to be one that is mutually beneficial and gratifying.
