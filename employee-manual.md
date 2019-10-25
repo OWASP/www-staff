@@ -1,7 +1,7 @@
 ---
 
 title: OWASP Employee Manual
-layout: full-width
+layout: col-generic
 
 ---
 
@@ -626,13 +626,7 @@ I understand that if I have any questions about the interpretation or applicatio
 I further understand the Company reserves the right to modify the policies and benefits in the Handbook at any time without notice.
 
 My signature below acknowledges that I have received the Handbook and understand it Is my responsibility to read and comply with all policies contained in this Handbook, including state specific addendums (if any), and any revisions made to it. 
- 
-                                                                                                                                                
+                                                                                                                                   
 Employee Signature
-
-
-Print Name
-Date
-Insperity Employee ID Number 
 
 Please sign and return one acknowledgment to your supervisor and retain the other for your records. A copy of this signed acknowledgment should be sent to Insperity.
