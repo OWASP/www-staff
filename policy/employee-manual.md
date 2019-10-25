@@ -5,9 +5,8 @@ layout: col-sidebar
 
 ---
 
-# OWASP EMPLOYEE MANUAL v2019-10-30
-
-## INTRODUCTION TO HANDBOOK
+# OWASP EMPLOYEE MANUAL
+Version 2019-10-30
 
 This handbook was developed to provide you with guidelines to our company policies and to outline programs and benefits available to you. You should familiarize yourself with the contents as soon as possible so you will know what is expected of you and what you can expect from our organization.
 
@@ -576,7 +575,7 @@ You are responsible for the content of all text, audio or images that you place 
 
 Except to the extent that you are discussing your wages, hours or terms and conditions of employment, the following guidelines apply: All messages communicated on the Internet should have your name attached to them if they mention or refer to The OWASP Foundation in any way. No messages regarding or relating to the company are to be transmitted under an assumed name. Employees may not transmit messages or other communication by means that either mask or hide their identity or indicate that they are sent by someone else if it contains information regarding the company’s business.
 
-#<a name="software"></a>
+<a name="software"></a>
 ## Software and Copyright Issues
 
 The OWASP Foundation intends to prevent computer viruses and unauthorized use of copyrighted materials belonging to entities other than the company. You should obtain prior approval before downloading any software. Users are not permitted to copy, transfer, rename, add or delete information or programs belonging to other users unless given express permission to do so by the owner. Failure to observe copyright or license agreements may result in disciplinary action from the company, up to and including immediate termination or legal action by the copyright owner.
