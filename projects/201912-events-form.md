@@ -58,7 +58,9 @@ TBD
 7. Online Reports
    1. Public list of Product SKUs with number sold and revenue. Nice to have include Inventory Remaining
    
-  
+## Questions
+1. Collect email popup we can do ambandoned shopping cart and "return to complete form"
+
 ## Budget
 
 ## Project Links
