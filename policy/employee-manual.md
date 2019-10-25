@@ -459,15 +459,6 @@ Additional leave of absence policies for the states of Florida, New Jersey, Nort
 
 Full-time regular employees may take up to 3 days off work for the death of a spouse, registered domestic partner, civil union relationship, child, parent, sibling or comparable step-relation, and up to 1 days off work for the death of a grandparent, father-in-law, mother-in-law, son-in-law or daughter-in-law. You may take off one day of bereavement leave for the death of a relative who is not a member of your immediate family. The eligible time off will be paid. Contact your supervisor as soon as reasonable to request time off for bereavement leave.
 
-<a name="continuation-of-benefits"></a>
-## CONTINUATION OF BENEFITS
-
-All active, full-time employees covered by the Insperity Group Health Plan or the Insperity Health Care Flexible Spending Account (FSA) Plan may continue plan coverage for up to 12 weeks during an approved leave of absence, or for any longer period, as required by law.  
-
-While on leave, you must continue to pay any required contribution for health coverage, as well as make payments for any other applicable benefits which would otherwise be automatically deducted from your wages (e.g., supplemental life insurance, credit union loans, and 401(K) loans). Your failure to pay any required employee contributions does not relieve you of your obligation to pay such contributions.  Contact the Insperity Contact Center at 866-715-3552 for details regarding employee contributions.  For questions regarding 401(K) loan payments, contact Insperity Retirement Services at 888-401-5273. 
-
-If you do not return to work upon expiration of the applicable 12-week period (or such longer period as required by law), coverage will terminate and you will have the opportunity to continue coverage for a limited period of time under COBRA in accordance with applicable law.
-
 <a name="personal-leave-of-absence"></a>
 ## PERSONAL LEAVE OF ABSENCE
 
@@ -493,6 +484,14 @@ To qualify for either jury or witness duty leave, you must submit a copy of the 
 
 A leave of absence without pay for military or reserve duty or National Guard training will be granted to employees.  The employee should submit copies of military orders to his or her supervisor as soon as possible. The employee may use any accrued but unused vacation time or paid time off. Exempt employees who perform any work in a week in which they also have military duty will be paid their full salary minus an offset for the military pay for the week. Eligibility for reinstatement following a military leave of absence will be determined in accordance with applicable federal and state laws. 
 
+<a name="continuation-of-benefits"></a>
+## CONTINUATION OF BENEFITS
+
+All active, full-time employees covered by the Insperity Group Health Plan or the Insperity Health Care Flexible Spending Account (FSA) Plan may continue plan coverage for up to 12 weeks during an approved leave of absence, or for any longer period, as required by law.  
+
+While on leave, you must continue to pay any required contribution for health coverage, as well as make payments for any other applicable benefits which would otherwise be automatically deducted from your wages (e.g., supplemental life insurance, credit union loans, and 401(K) loans). Your failure to pay any required employee contributions does not relieve you of your obligation to pay such contributions.  Contact the Insperity Contact Center at 866-715-3552 for details regarding employee contributions.  For questions regarding 401(K) loan payments, contact Insperity Retirement Services at 888-401-5273. 
+
+If you do not return to work upon expiration of the applicable 12-week period (or such longer period as required by law), coverage will terminate and you will have the opportunity to continue coverage for a limited period of time under COBRA in accordance with applicable law.
 
 <a name="Operations"></a>
 # OPERATIONS
