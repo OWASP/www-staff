@@ -30,7 +30,8 @@ Staff Projects are work products primarily done by staff that require either 40+
 * [Email List GDPR & Clean Up](/www-staff/projects/201910-Email-Cleanup)
 * [2019-Q4 Marketing](/www-staff/projects/201910-marketing)
 * Community Managed Events
-  * [AppSec Days Melbourne, 1 November](https://www.owasp.org/index.php/Staff-Projects/20191101-AppSecDay-Melbourne)
+  * [AppSec Days Melbourne, 1 November, 2019](https://www.owasp.org/index.php/Staff-Projects/20191101-AppSecDay-Melbourne)
+  * [AppSec California, 21 January, 2020](https://www.owasp.org/index.php/Staff-Projects/2020-event-appsec-california)
 * Global Partnerships
   * [BlackHat London Dec 2-5, 2019](/www-staff/projects/201912-Blackhat-London), [Lisa]
   * [BlackHat Asia Mar 31- Apr 3, 2020](/www-staff/projects/202003-Blackhat-Asia), [Lisa]
