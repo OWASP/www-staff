@@ -1,7 +1,7 @@
 ---
 
 title: OWASP Employee Manual
-layout: col-generic
+layout: col-sidebar
 
 ---
 
