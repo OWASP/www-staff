@@ -22,18 +22,21 @@ We hope that your experience with us will be challenging, enjoyable and rewardin
 <a name="employment"></a>
 # EMPLOYMENT
 
+<a name="employment-applications"></a>
 ## EMPLOYMENT APPLICATIONS
 
 The company relies on the accuracy of the information you provide during the employment hiring process. We also expect that you and your references give accurate and true information during the hiring process and employment. If we find that any information is misleading, false, or was left out on purpose, we may reject an applicant from further consideration. If the person was already hired, it could result in termination of employment. 
 
 When we process an employment application, we may obtain a background report. If we take an adverse employment action based in whole or in part on the background report, a copy of the report will be given to you so that you can take appropriate steps.
 
+<a name="offer-letters"></a>
 ## OFFER LETTERS
 
 As part of our hiring processes, your offer of employment was made through an offer letter.  This letter fully and wholly outlines your employment offer with the company. The conditions of your offer are confidential. If you ever change positions with the company you will be presented with an offer letter.
 
 Offer letters have an expiration date and if left not accepted by the expiration date, the company withdraws it’s offer of employment.  If accepted, a copy should be signed and will be placed in your Personnel file.  Conditions of employment are confidential and may not be disclosed to third parties, except for disclosures in accordance with applicable law.
 
+<a name="salary-administration"></a>
 ## SALARY ADMINISTRATION
 
 The company has a salary administration program which helps us have consistent pay practices, comply with federal and state laws, support our commitment to Equal Employment Opportunity, and offer competitive salaries within our labor market.  We are committed to paying equitable wages that are based on the requirements and responsibilities of each job.
@@ -44,12 +47,14 @@ We may give merit-based pay adjustments to some employees to recognize superior 
 
 If you have a question about compensation in your area or for your job, talk with your supervisor.
 
+<a name="performance-evaluation"></a>
 ## PERFORMANCE EVALUATION
 
 We encourage you and your supervisor to discuss job performance and goals on an informal, day-to-day basis. You and your supervisor will have formal performance evaluations to discuss your work and goals, to identify and correct weaknesses, and to encourage and recognize your strengths. 
 
 Performance evaluations will be done at the beginning of each calendar year and will be completed by the end of each January. Adjustments to compensation or merit increases, if any, will be applied to the February payroll.
 
+<a name="progressive-discipline"></a>
 ## PROGRESSIVE DISCIPLINE
 
 This policy describes the policy for administering fair and consistent discipline for unsatisfactory conduct at the company.
@@ -68,7 +73,7 @@ You should also look at the Employee Conduct in this handbook. That policy lists
 
 By using progressive discipline, we hope that most employee problems can be corrected at an early stage, benefiting both the employee and the company.
 
-
+<a name="at-will-employment"></a>
 ## AT-WILL EMPLOYMENT
 
 Your employment with The OWASP Foundation is at-will which means that you or The OWASP Foundation may terminate your employment at any time for any lawful reason unless a written employment agreement exists with The OWASP Foundation that provides otherwise. Your employment with Insperity is at-will regardless of whether you have a written employment agreement with The OWASP Foundation.   
@@ -77,6 +82,7 @@ The OWASP Foundation has the right to transfer, demote, or otherwise discipline 
 
 This handbook is not a contract guaranteeing employment for any specific duration. As provided in the Handbook Acknowledgment, nothing in this handbook creates or is intended to create a promise or representation of continued employment. This handbook replaces any and all prior handbooks, written documents (with the exception of authorized employment agreements) or oral or implied representations that might otherwise contradict the at-will nature of your employment.
 
+<a name="outside-employment"></a>
 ## OUTSIDE EMPLOYMENT
 You may hold an outside job as long as you can satisfactorily perform your OWASP job and the job is not in a related competitive field or company.  The job also must not interfere with our scheduling demands.
 
@@ -84,29 +90,33 @@ We hold all employees to the same performance standards and scheduling expectati
 
 If your outside employment has an undesirable impact on the company, we will consider that it is a conflict of interest.
 
+<a name="change-in-pay"></a>
 ## CHANGE IN POLICY
 
 The company may change, revoke or supplement the policies in this handbook at any time without notice. The company will determine the effective date of any changes and every effort will be made to notify you in advance. However, failure to give advance notice will not void any policy’s application in the workplace.
 
 Supervisors do not have the authority to change the policies in this handbook on their own. If you are uncertain about any policy or procedure, contact your supervisor for clarification.
 
-
+<a name="personnel-files"></a>
 ## PERSONNEL FILES
 
 The OWASP Foundation and Insperity each maintain a personnel file on each employee. Contact your supervisor to request a review of your company personnel file, or contact your Insperity payroll or human resource specialist to view your Insperity personnel file.
 
 To ensure that your personnel file is up-to-date at all times, notify your supervisor or your payroll specialist of any changes in your name, telephone number, home address, withholding instructions, number of dependents, beneficiary designations, or the individuals to notify in case of an emergency. Additionally, complete and forward an Employee Change of Personal Information form to your Insperity payroll specialist or you may update your file through the Insperity PremierTM at http://portal.insperity.com. Assistance may also be provided through the Insperity Contact Center at 866-715-3552, 7AM-7PM CT Monday-Friday.
 
+<a name="employment-references"></a>
 ## EMPLOYMENT REFERENCES
 
 Requests for employment verifications for current or former employees, should be directed to Insperity’s Contact Center at 866-715-3552, option 5.  Insperity will only release your last title and dates of employment, unless you have authorized in writing certain additional information to be provided.
 
+<a name="equal-employment-opportunity"></a>
 ## EQUAL EMPLOYMENT OPPORTUNITY
 
 The OWASP Foundation and Insperity provide equal employment opportunities to all employees and applicants in all company facilities without regard to race, color, religious creed, sex, national origin, ancestry, citizenship status, pregnancy, childbirth, (or related medical conditions, including, but not limited to lactation), physical disability, mental and/or intellectual disability, age, military status or status as a Vietnam-era or special disabled veteran, marital status, registered domestic partner or civil union status, gender (including sex stereotyping and gender identity or expression), medical condition (including, but not limited to, cancer related or HIV/AIDS related), genetic information, or sexual orientation in accordance with applicable federal, state and local laws. 
 
 This policy applies to all terms and conditions of employment, including, but not limited to, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training.
 
+<a name="immigration-law compliance"></a>
 ## IMMIGRATION LAW COMPLIANCE
 
 For our domestic United States operations, the company is committed to employing only people who are United States citizens or who are aliens legally authorized to work in the United States. We do not illegally discriminate because of a person's citizenship or national origin.
@@ -117,6 +127,7 @@ If you leave the company and are rehired to our domestic U.S. operations, you mu
 
 If you ask questions or want to discuss our Immigration Compliance policy you may do so without fear of reprisal or retaliation or be punished in any way.
 
+<a name="non-disclosure"></a>
 ## NON-DISCLOSURE
 
 It is very important to SpiderOak that we protect our confidential business information and trade secrets. Confidential information includes, but is not limited to, the following examples:
@@ -134,6 +145,7 @@ As part of your employment agreement you signed a non-disclosure agreement as a 
 
 If you improperly use or disclose a trade secret or confidential business information, you will be subject to disciplinary action, up to and including termination of employment and legal action. This applies even if you do not get any benefit from releasing the information.
 
+<a name="accommodation-of-disabilities"></a>
 ## ACCOMMODATION OF DISABILITIES
 
 The OWASP Foundation is committed to making every reasonable effort to accommodate an employee’s disability. An accommodation may be provided as long as the employee can perform the essential duties of the job, and it does not create an undue hardship for the company.  A reasonable accommodation may include changes in the work environment or in the way a job is performed, so a person with a disability may enjoy equal employment opportunities.
@@ -155,15 +167,17 @@ Under this policy, if you are pregnant and request a reasonable accommodation fo
 
 Accommodations depend upon the employee’s job qualifications and the specific facts and circumstances of each individual situation. Please inform your supervisor if you require an accommodation, so the company can have an interactive discussion with you. Your supervisor will work with you to determine if there is a need for an adjustment or change at work to accommodate your disability.
 
+<a name="employment-termination"></a>
 ## EMPLOYMENT TERMINATION
 
 There can be many reasons why employment may terminate. We will usually schedule an exit interview if you terminate. At the exit interview, we can go over such topics as your benefits, benefits conversion rights, repayment of any outstanding debt to OWASP or return of company-owned property. You may also make suggestions or complaints and ask questions at the exit interview. 
 
 Your benefits are affected by termination in several ways. All accrued, vested benefits that are due and payable at termination will be paid out. You may be allowed to continue some benefits by paying for them yourself. You will be notified in writing about which benefits you can continue and the limitations and details of how to continue them.
 
-
+<a name="employee-conduct"></a>
 # EMPLOYEE CONDUCT
  
+<a name="ethics"></a>
 ## ETHICS
 
 The OWASP Foundation is committed to providing a work environment governed by the highest ethical and legal standards. In all situations you are expected to conduct your activities with integrity, ethically and in accordance with applicable laws and regulations.  As an employee you are expected to model the OWASP Foundation Code of Ethics in your interactions with our community.
@@ -172,6 +186,7 @@ Part of maintaining an ethical workplace is providing employees the opportunity 
 
 The OWASP Foundation encourages you to report any actual or potential violations of applicable laws or regulations and any unethical, dishonest or improper conduct to your supervisor, the president/CEO or The OWASP Foundation’s Human Resources Department.  If you are uncertain as to whether there are any laws or regulations that may impact your work, you are responsible for requesting guidance from your supervisor or The OWASP Foundation’s Human Resources Department.
 
+<a name="guildes-for-conduct"></a>
 ## GUIDELINES FOR APPROPRIATE CONDUCT
 
 In order to conduct the operations of The OWASP Foundation efficiently and professionally, all employees are to follow the rules of conduct that will protect the interests and safety of all employees and the company. All employees are expected to act in a professional manner with customers, and the general public. 
@@ -198,8 +213,10 @@ Although it is not possible to list all forms of inappropriate behavior and cond
 
 Depending on the specific circumstances, the company may suspend or terminate an employee without prior discipline, or without following a particular order of discipline.
 
+<a name="hours-and-compensation"></a>
 # HOURS AND COMPENSATION
 
+<a name="paydays"></a>
 ## PAYDAYS
 
 All employees are paid Monthly on the last business day of each month. Each paycheck includes pay for all work performed through the current pay period. If a payday falls on a holiday, you will be paid on the last work day before that payday. 
@@ -210,12 +227,14 @@ If your position qualifies for Incentive Compensation or Commissions, please see
 
 If your employment ends, you will be paid your final wages in accordance with applicable state law.
 
+<a name="error-in-pay"></a>
 ## ERROR IN PAY
 
 The OWASP Foundation and Insperity make every effort to ensure that you receive the correct amount of pay in each paycheck and that you are paid on the scheduled payday.  
 
 You should review your paycheck when received and, if you believe an error has been made, contact your supervisor and Insperity human resource specialist immediately. All necessary steps will be taken to research the problem and to assure that any necessary correction is promptly made.
 
+<a name="exempt-employee-reduction-of-salary"></a>
 ## EXEMPT EMPLOYEE REDUCTION OF SALARY
 
 Exempt employees are paid on a salary basis and, in general, must be paid their full salary for any week they perform work. Their weekly salary may be reduced only in the following circumstances:
@@ -228,22 +247,26 @@ Employees may be suspended without pay for other types of workplace misconduct, 
 
 This policy is subject to applicable state law regarding reduction of exempt employees’ salaries if the state law is more favorable to employees. 
 
+<a name="prohibited-reductions"></a>
 ### Prohibited Reductions/Complaint Procedure 
 
 Any salaried exempt employee whose salary is reduced in violation of this policy will be reimbursed. If you feel your salary has been improperly reduced, please notify your Insperity human resource specialist. No employee will be penalized in any way for making a complaint.  
 This policy is intended solely to implement Fair Labor Standards Act (FLSA) regulatory requirements, and applicable state law will be applied and modified as necessary in accordance with the requirements, and is not to be considered any type of contract.
 
+<a name="hours-of-operation"></a>
 ## HOURS OF OPERATION
 
 Normal operating hours for The OWASP Foundation are from 8:00 AM to 5:00 PM, Monday through Friday. These hours may vary depending upon your position and work requirements. All exempt and non-exempt, full-time regular employees are expected to work a standard forty (4) hour work week.
 
 Give your supervisor as much advance notice as possible for any schedule changes.
 
+<a name="lactation-break"></a>
 ## LACTATION BREAK
 
 The OWASP Foundation will provide a reasonable amount of break time, or amount of time required by state law, to accommodate a female employee’s need to express breast milk for the employee's infant child for up to one year following the child’s birth, or as required by law. The break time should, if possible, be taken concurrently with other break periods already provided. Employees should clock out for time taken for 30 minutes or more that does not run concurrently with normally scheduled break periods. The OWASP Foundation will also make a reasonable effort to provide the employee with the use of a room or other location in close proximity to the employee's work area, other than a restroom, where the employee may express milk in private. Speak with your supervisor should arrangements for a refrigerator be required. 
 You should notify your immediate supervisor if you are requesting time to express breast milk under this policy.
 
+<a name="overtime-for-nonexempt-employees"></a>
 ## OVERTIME FOR NONEXEMPT EMPLOYEES
 
 Depending on the company work needs, employees will be required to work overtime when requested to do so. Nonexempt employees will be paid overtime premiums at the applicable federal or state wage rate, whichever is higher. You are responsible for clearly noting all hours worked, including any overtime hours, on your timesheet.
@@ -252,10 +275,12 @@ It is our policy that no overtime can be worked without the advance approval of 
 
 If, during a workweek, you are away from the job because of an injury, paid holiday, jury or witness duty, sick day or vacation day, those hours not worked will not be counted as hours worked for the purpose of computing overtime pay, even if you receive pay such as sick or vacation pay for such time missed.
 
+<a name="prohibited-work"></a>
 ### Prohibited “Off the Clock” Work
 
 Employees are not to work “off the clock” and are required to ensure that all time worked is properly recorded. If you are given directions to perform work “off the clock,” you should promptly notify your supervisor. If your supervisor has given you directions to work “off the clock” and/or has told you not to properly record all hours worked, notify your Insperity human resource specialist. You will not be penalized in any way for making such a complaint.
 
+<a name="absenteeism-and-tardiness"></a>
 ## ABSENTEEISM AND TARDINESS
 
 Regular attendance is important to the smooth operation of The OWASP Foundation. If you are late or absent, it places a burden on other employees and may impact productivity, customer satisfaction and team morale.
@@ -264,6 +289,7 @@ You are expected to be reliable and punctual by working a regular and set weekly
 
 If you are absent for three or more consecutive workdays due to personal illness, you may be required to provide a statement from your healthcare provider, unless state or local law provides otherwise, before you will be permitted to return to work. Failure to properly report your absences may be considered a voluntary resignation of your position.
 
+<a name="anti-harassment"></a>
 ## ANTI-HARASSMENT 
 
 The OWASP Foundation and Insperity are committed to a work environment in which all individuals are treated with respect and dignity and are free from all forms of harassment and discrimination. Any form of harassment, even when not unlawful or directed at a protected category, is prohibited and will not be tolerated. All employees, including supervisors, co-workers, vendors, contractors, customers or other third parties, are expected to adhere to this policy. 
@@ -279,16 +305,19 @@ Sexual harassment consists of unwelcome sexual advances, requests for sexual fav
 * Employment decisions are based on an employee's submission to or rejection of such conduct; or
 * Such conduct unreasonably interferes with an individual's work performance or creates an intimidating, hostile or offensive working environment.
 
+<a name="complaint-procedure"></a>
 ### Complaint Procedure
 
 The OWASP Foundation and Insperity provide you with a convenient and reliable method for reporting incidents of alleged harassment, including sexual harassment, and discrimination. Any employee who feels harassed or discriminated against is encouraged to immediately inform the alleged offender that the behavior is unwelcome. In many instances, the person is unaware his or her conduct is offensive and this action alone may often resolve the problem. If the informal discussion with the alleged offender is unsuccessful in remedying the problem, or if you do not feel comfortable with such an approach, you should immediately report the conduct to your immediate supervisor, manager or company owner and the Insperity Anti-Harassment Hotline number at 844-677-3030. We cannot resolve a harassment or discrimination problem, unless we know about it. Therefore, it is your responsibility to bring those kinds of problems to our attention so we can take the necessary steps to correct any problems. The report should include all facts available to you regarding the alleged harassment, sexual harassment, or discrimination.
 
 When you call the Insperity Anti-Harassment Hotline, please be sure to leave your name, Insperity employee identification number or the last four digits of your social security number, and the name of the client company for which you work. If you wish to make an anonymous complaint, you may do so.  However, the scope of our investigation may be limited based on the information you provide.
 
+<a name="complaint-confidentiality"></a>
 ### Confidentiality
 
 All reports of alleged harassment, sexual harassment, or discrimination will be treated seriously. Confidentiality will be maintained to the extent possible. However, to conduct a thorough investigation, certain information may need to be disclosed to other individuals, including the alleged offender.   Consequently, absolute confidentiality cannot be promised and cannot be guaranteed.  
 
+<a name="complaint-investigation"></a>
 ### Investigative Procedure
 
 Once a complaint of alleged harassment, sexual harassment, or discrimination is received, we will begin a prompt and thorough investigation. The investigation may include interviews with all involved employees, including the alleged harasser, and any employees who are aware of facts or incidents alleged to have occurred.
@@ -300,13 +329,14 @@ Following an investigation, The OWASP Foundation and Insperity will promptly tak
 * If the alleged harassment, sexual harassment, or discrimination is from a vendor, contractor, customer or other third party, The OWASP Foundation and Insperity will take appropriate action to stop the conduct.
 * If you have made a complaint but feel that the action taken in response has not remedied the situation, you should make an additional complaint following the complaint procedure outlined in this policy.
 
+<a name="complaint-duties"></a>
 #### Duties of Employees and Supervisors
 
 All employees of the company, both management and non-management, are responsible for assuring that a workplace free of harassment, sexual harassment, and discrimination is maintained. Any employee may file a complaint regarding incidents experienced personally or incidents observed in the workplace. The company strives to maintain a pleasant work environment where all employees are able to effectively perform their work without interference of any type and requests the assistance of all employees in this effort.
 
 All managers and supervisors are responsible for doing all they can to prevent and discourage harassment, sexual harassment, and discrimination from occurring. If a complaint of harassment, sexual harassment or discrimination is raised, the individual to whom the complaint is made (i.e., supervisor, manager, company owner) should act promptly to notify the Insperity Anti-Harassment hotline number so an investigation may promptly proceed. The company and Insperity may discipline any managers or supervisors who fail to follow this policy, which discipline, may include termination.
 
-
+<a name="violence-in-the-workspace"></a>
 ## VIOLENCE IN THE WORKPLACE
 
 The OWASP Foundation and Insperity are committed to providing a safe workplace for employees, customers, vendors, volunteers, independent contractors and others with whom we do business. The company has zero tolerance for violent acts or threats of violence.
@@ -316,10 +346,7 @@ All employees share the responsibility in identifying and alleviating threatenin
 
 The OWASP Foundation will take disciplinary action, up to and including termination, and/or legal action as appropriate, against any employee who commits or threatens to commit a violent act against any person while on company premises or while engaged in company business off the premises.
 
-## TOBACCO-FREE WORKPLACE
-
-The OWASP Foundation is committed to providing all employees with a safe and healthy work environment. All company premises are smoke-free, unless clearly marked otherwise. Smoking a cigarette, cigar, e-cigarette, or pipe or any other form of tobacco, as well as the chewing of tobacco, is not allowed. For your convenience, designated smoking areas are clearly marked. Employees are expected to use the waste disposal receptacles for smoking products.
-
+<a name="drue-free-workspace"></a>
 ## DRUG-FREE WORKPLACE
 
 The OWASP Foundation is committed to protecting the safety, health and well-being of all employees, customers, clients, and vendors in our workplace. “Workplace” includes company property, any company-sponsored activity or any other site where you are performing work or representing the company.  
@@ -334,6 +361,7 @@ Contact the Employee Assistance Program (EAP) for information about the availabi
 
 This policy is not intended to replace or otherwise alter applicable U.S. Department of Transportation obligations or any other federal, state or local agency drug testing regulations related to a particular industry.
 
+<a name="weapons"></a>
 ## WEAPONS
 
 The OWASP Foundation strives to provide a safe and secure workplace for employees, clients, customers and visitors. The company has zero tolerance for, and forbids the possession of any type of weapon, firearm, explosive and/or ammunition while on company property or conducting company business. For purposes of this policy, company property includes, but is not limited to, all company facilities, company-provided vehicles and equipment that are either leased or owned by the company or a company client.  
@@ -345,6 +373,7 @@ In the event an employee lawfully possesses a firearm, the employee can store th
 Employees share the responsibility of identifying violators of this policy. If you either witness or suspect another individual of violating this policy you should immediately report this information to their onsite supervisor.
 
 
+<a name="employee-benefits"></a>
 # EMPLOYEE BENEFITS
  
 ## BENEFITS
@@ -353,6 +382,7 @@ A benefits package is provided to eligible employees through The OWASP Foundatio
 
 The costs of these benefits for the employee and their dependents may be subsidized by the company. Insurance plans are renewed annually and subsidies may change from time to time. 
 
+<a name="holidays"></a>
 ## HOLIDAYS
 
 Full-time employees are eligible for paid holidays during each calendar year. A paid holiday does not count as a day worked in calculating overtime for the week.
@@ -370,9 +400,11 @@ The OWASP Foundation observes the following holidays each year:
 
 A recognized holiday that falls on a Saturday will be observed on the preceding Friday and a recognized Sunday holiday will be observed on the following Monday.
 
+<a name="flexible-time-off"></a>
 ## FLEXIBLE TIME OFF
 
-### Unlimited Vacation
+<a name="unlimited-vacation"></a>
+## Unlimited Vacation
 
 Exempt employees do not accrue Personal-time-off benefits but are given an indeterminate amount of personal time off at the sole discretion of the company as operational conditions permit. During such personal time taken off, employees will receive no additional fixed pay. Rather, they will continue to receive their regular salary during their scheduled Personal-time-off. For purposes of this policy, personal time off does not include absences covered by the company’s Sick Policy.
 
@@ -382,10 +414,12 @@ An employee taking personal time off is responsible for:
 * meeting the expectations and requirements of the employee's position including timely and satisfactorily completing all work assignments. 
 * Arranging for time off on a schedule that is considerate of expected business needs.
 
+<a name="sick-policy"></a>
 ### Sick Policy
 
 Flexible time off each year is provided by the company for employees to be away from work because of illness, injury, or to care for a family member or for responding or attending to a qualifying exigency. If more than five continuous days are taken as time off due to illness, the employee will cease to receive his/her regular salary and the company will consider a request for a leave of absence. Additionally, absences for three or more consecutive workdays due to personal illness may require a statement from your healthcare provider before you will be permitted to return to work.
 
+<a name="education-assistance"></a>
 ## EDUCATION ASSISTANCE
 
 The company will reimburse exempt full-time employees up to $1,500 per semester for continuing education. To qualify, education assistance requests must be degree-seeking in a field directly related to your work function, pre-approved by your supervisor, and through an accredited institution. You must maintain a “C” or higher grade point average.
@@ -394,10 +428,12 @@ Your profession may have certain third-party Certification programs.The company 
 
 Employees who voluntarily or involuntarily terminate employment must reimburse the company for any education assistance or certification program benefits reimbursed over the prior 24 months.
 
+<a name="termination-and-flexible-time-off"></a>
 ## Termination and Flexible Time Off
 
 Because no vacation accrues, employees who voluntarily or involuntarily terminate employment are not entitled to payment of vacation at time of termination. 
 
+<a name="insperity-online-services"></a>
 ## INSPERITY ONLINE SERVICES
 Visit Insperity online to access training, secure personal information and work tools.  Go to http://portal.insperity.com and click CREATE ACCOUNT.  Follow the steps below to log in and begin using the Insperity PremierTM:
 
@@ -413,14 +449,17 @@ Your personal information is accessible only to you through multiple layers of s
 Contact Insperity’s Contact Center toll free at 866-715-3552, Monday through Friday from 7:00 a.m. to 7:00 p.m. Central time for questions about the Insperity PremierTM and your Insperity benefits.
 
 
+<a name="leave-of-absence"></a>
 # LEAVE OF ABSENCE
  
 Additional leave of absence policies for the states of Florida, New Jersey, North Carolina, Texas, see addendum. 
 
+<a name="bereavement-leave"></a>
 ## BEREAVEMENT LEAVE
 
 Full-time regular employees may take up to 3 days off work for the death of a spouse, registered domestic partner, civil union relationship, child, parent, sibling or comparable step-relation, and up to 1 days off work for the death of a grandparent, father-in-law, mother-in-law, son-in-law or daughter-in-law. You may take off one day of bereavement leave for the death of a relative who is not a member of your immediate family. The eligible time off will be paid. Contact your supervisor as soon as reasonable to request time off for bereavement leave.
 
+<a name="continuation-of-benefits"></a>
 ## CONTINUATION OF BENEFITS
 
 All active, full-time employees covered by the Insperity Group Health Plan or the Insperity Health Care Flexible Spending Account (FSA) Plan may continue plan coverage for up to 12 weeks during an approved leave of absence, or for any longer period, as required by law.  
@@ -429,16 +468,7 @@ While on leave, you must continue to pay any required contribution for health co
 
 If you do not return to work upon expiration of the applicable 12-week period (or such longer period as required by law), coverage will terminate and you will have the opportunity to continue coverage for a limited period of time under COBRA in accordance with applicable law.
 
-## JURY DUTY AND WITNESS LEAVE 
-
-If you are summoned to jury duty or to appear in court as a witness, The OWASP Foundation will continue your pay in accordance with FLSA and applicable law. If you are summoned to jury duty, The OWASP Foundation will continue your pay for 5 days of jury service per calendar year. If you are required to serve more than 5 working days of jury service in a calendar year, you will be allowed additional time off without pay to complete the jury service. The OWASP Foundation will continue to pay for this extended period of service in accordance with FLSA and applicable law. You must notify your supervisor as soon as it is known your jury duty will be extended.
-
-To qualify for either jury or witness duty leave, you must submit a copy of the summons to your supervisor as soon as it is received. In addition, you must also submit to your supervisor a related proof of service when the period of jury or witness duty is completed. No adverse employment action will be taken against employees due to their service as either a juror or witness in state or federal courts.
-
-## MILITARY LEAVE OF ABSENCE
-
-A leave of absence without pay for military or reserve duty or National Guard training will be granted to employees.  The employee should submit copies of military orders to his or her supervisor as soon as possible. The employee may use any accrued but unused vacation time or paid time off. Exempt employees who perform any work in a week in which they also have military duty will be paid their full salary minus an offset for the military pay for the week. Eligibility for reinstatement following a military leave of absence will be determined in accordance with applicable federal and state laws. 
-
+<a name="personal-leave-of-absence"></a>
 ## PERSONAL LEAVE OF ABSENCE
 
 You may be granted a leave of absence to attend to personal matters in situations in which the company determines that an extended period of time away from the job will be in your and the company’s  best interest.
@@ -451,8 +481,23 @@ Upon return from a personal leave due to an illness or injury, you must provide 
 
 A personal leave of absence may not provide a guarantee of reinstatement to the same or similar position.
 
+<a name="jury-duty"></a>
+## JURY DUTY AND WITNESS LEAVE 
+
+If you are summoned to jury duty or to appear in court as a witness, The OWASP Foundation will continue your pay in accordance with FLSA and applicable law. If you are summoned to jury duty, The OWASP Foundation will continue your pay for 5 days of jury service per calendar year. If you are required to serve more than 5 working days of jury service in a calendar year, you will be allowed additional time off without pay to complete the jury service. The OWASP Foundation will continue to pay for this extended period of service in accordance with FLSA and applicable law. You must notify your supervisor as soon as it is known your jury duty will be extended.
+
+To qualify for either jury or witness duty leave, you must submit a copy of the summons to your supervisor as soon as it is received. In addition, you must also submit to your supervisor a related proof of service when the period of jury or witness duty is completed. No adverse employment action will be taken against employees due to their service as either a juror or witness in state or federal courts.
+
+<a name="military"></a>
+## MILITARY LEAVE OF ABSENCE
+
+A leave of absence without pay for military or reserve duty or National Guard training will be granted to employees.  The employee should submit copies of military orders to his or her supervisor as soon as possible. The employee may use any accrued but unused vacation time or paid time off. Exempt employees who perform any work in a week in which they also have military duty will be paid their full salary minus an offset for the military pay for the week. Eligibility for reinstatement following a military leave of absence will be determined in accordance with applicable federal and state laws. 
+
+
+<a name="Operations"></a>
 # OPERATIONS
  
+<a name="working-remotely"></a>
 ## WORKING REMOTELY
 
 The OWASP Foundation has a remote workforce. Your work schedule will be agreed upon by you and your supervisor in advance and should follow a normal set schedule convenient for your work function. Employees must be accessible by phone, e-mail or other means during the agreed-upon work schedule. Any changes to your schedule must be reviewed and approved by your supervisor.
@@ -463,6 +508,7 @@ Injuries sustained by an employee while at a home work location and in conjuncti
 
 Consistent with the company's expectations of information security, even while working remotely employees are expected to ensure the protection of proprietary company and customer information accessible from their home office. Steps include, but are not limited to, the use of locked file cabinets, computers and desks; the regular maintenance of passwords; and any other steps appropriate for the job and the environment.
 
+<a name="cloud-computing"></a>
 ## CLOUD COMPUTING
 
 The company provides all employees access to G-Suite Cloud Services for email, office productivity tools, calendaring and contacts. Employees are expected to use these tools for their primary work function and are explicitly prohibited from saving critical business information locally on their computer. The lone exception to this policy are code libraries under development that are also backed up into our cloud accounts such as Github. 
@@ -471,6 +517,7 @@ Additionally the company provides a shared password manager to conveniently shar
 
 It is the sole responsibility of the employee to insure the integrity and security of the data and files needed for their work function and should contact their supervisor with questions in complying with these policies.
 
+<a name="equipment-and-office-supplies"></a>
 ## EQUIPMENT AND OFFICE SUPPLIES
 
 Following the employee’s start date, you will be provided with a personal computer appropriate for your work function. Biennially, you will be eligible for a personal computer refresh. While employees may wish to use their own computer for their work, it is highly discouraged. The company accepts no responsibility for damage or repairs to employee-owned equipment. 
@@ -479,11 +526,13 @@ The company will provide you a monthly Technology and Office Supplies taxable al
 
 You will be liable for company supplied equipment is to be used for business purposes only. Upon termination of employment or upon request, all company property less than two years old will be returned to the company.
 
+<a name="mobile-while-driving"></a>
 ### Safety Concerns for Mobile Phone Usage While Driving
 
 The company values its employees and the safety of others, and expects employees to put safety first while driving. Employees are prohibited from using wireless communication devices while driving unless using a hands-free device. Texting (including composing, sending, or reading) while driving is strictly prohibited. You are strongly encouraged to pull off to the side of the road and park the vehicle in a safe location before placing or accepting a call or before reading or writing e-mail or text messages. You should take special care in situations where there is heavy traffic, inclement weather or you are driving in an unfamiliar area. 
 You are expected to know and follow all local and state laws related to using communication devices while driving. Employees are responsible for all traffic violations and consequences resulting from the use of communication devices while driving.
 
+<a name="workplace-accidents"></a>
 ## WORKPLACE ACCIDENTS AND WORKERS' COMPENSATION INSURANCE
 
 All accidents, injuries, potential safety hazards, safety suggestions and health and safety related issues must be reported immediately to your supervisor and/or Human Resources or Insperity. If you or another employee is seriously injured, contact outside emergency response agencies. No matter how insignificant an injury may seem at the time of occurrence, you are to notify a supervisor or The OWASP Foundation’s Human Resources Department or Insperity immediately of any workplace accident or injury.  
@@ -494,8 +543,10 @@ The federal law, Occupational Safety and Health Administration (OSHA) requires t
 
 Workers’ compensation insurance coverage is provided by Insperity’s worker’s compensation carrier in most states, with the exception of Washington, Wyoming, and North Dakota where coverage is provided by a state fund. Questions regarding workers' compensation insurance coverage should be directed to your supervisor or the Insperity Workers’ Compensation Department at 800-242-8893, ext. 4244.
 
+<a name="communications"></a>
 # COMMUNICATIONS
  
+<a name="complaint-procedure"></a>
 ## COMPLAINT RESOLUTION PROCEDURE
 
 The OWASP Foundation is committed to providing a comfortable and productive work environment for employees. It is important that your concerns are resolved in a timely manner in an atmosphere of open communication and mutual respect. You are encouraged to follow the process below for bringing concerns to management for resolution. Employees will not be penalized for taking advantage of this procedure.
@@ -504,45 +555,56 @@ First, discuss the problem with your supervisor. If you do not believe a discuss
 
 Additionally, the Anti-Harassment Policy in this handbook outlines procedures for employees to report complaints of harassment and discrimination.
 
+<a name="internet-code-of-conduct"></a>
 ## INTERNET CODE OF CONDUCT
 
 Access to the internet has been provided to employees primarily for the benefit of the organization. The following guidelines have been established for using the Internet.
 
+<a name="internet-acceptable-use"></a>
 ### Acceptable Use of the Internet
 
 You should use the Internet in an effective, ethical and lawful manner. You may use the Instant Messaging Systems and Internet Forums primarily to conduct official company business or to gain technical or analytical advice.  Databases may be accessed for information as needed.
 
+<a name="internet-unacceptable-use"></a>
 ### Unacceptable Use of the Internet
 
 You should not use the internet during working time for non-productive reasons. Nonworking time includes the time before and after your scheduled shift, and the time when you are on a rest or lunch break. Use of the Internet while on company time must not interfere with your productivity or disrupt the operations of the company network or the network of other users. 
 
+<a name="communications"></a>
 ### Communications 
 
 You are responsible for the content of all text, audio or images that you place or send over the Internet including, but not limited to, any Web-based sites or programs utilized through the company.  Employees should avoid posting statements, photographs, video or audio that reasonably could be viewed as malicious, obscene, and threatening or intimidating; that disparage clients, or vendors; or that might constitute harassment or bullying.  Examples of this conduct might include offensive posts that could contribute to a hostile work environment on the basis of race, sex, disability, religion or any other status protected by law or company policy.
+
 Except to the extent that you are discussing your wages, hours or terms and conditions of employment, the following guidelines apply: All messages communicated on the Internet should have your name attached to them if they mention or refer to The OWASP Foundation in any way. No messages regarding or relating to the company are to be transmitted under an assumed name. Employees may not transmit messages or other communication by means that either mask or hide their identity or indicate that they are sent by someone else if it contains information regarding the company’s business.
 
-### Software and Copyright Issues
+#<a name="software"></a>
+## Software and Copyright Issues
 
 The OWASP Foundation intends to prevent computer viruses and unauthorized use of copyrighted materials belonging to entities other than the company. You should obtain prior approval before downloading any software. Users are not permitted to copy, transfer, rename, add or delete information or programs belonging to other users unless given express permission to do so by the owner. Failure to observe copyright or license agreements may result in disciplinary action from the company, up to and including immediate termination or legal action by the copyright owner.
 
+<a name="confidentiality-and-passwords"></a>
 ### Confidentiality and Passwords
 
-While our systems may accommodate the use of passwords for company security, you should not expect confidentiality of your files at work.  The OWASP Foundation reserves the right to access your Internet use and messages at any time, without notice.
+While our systems may accommodate the use of passwords for company security, you should not expect confidentiality of your files at work. The OWASP Foundation reserves the right to access your Internet use and messages at any time, without notice.
 
 Never disclose personal or system passwords to anyone other than authorized company representatives. You are not to attempt to gain access to another employee’s system, including email or voice mail messages.
 
+<a name="security"></a>
 ### Security
 
 All messages created, sent or retrieved over the Internet are the property of the company and are not private. The company may access and monitor all messages and files on the computer system at any time. All communications, including text and images, can be disclosed to law enforcement or other third parties without prior consent of the sender or the receiver.
 
+<a name="harrassment"></a>
 ### Harassment
 Harassment of any kind is prohibited. Messages with derogatory or inflammatory remarks about an individual or group’s race, color, religious creed, sex, national origin, ancestry, citizenship status, pregnancy, childbirth, physical disability, mental and/or intellectual disability, age, military status or status as a Vietnam-era or special disabled veteran, marital status, registered domestic partner or civil union status, gender (including sex stereotyping and gender identity or expression), medical condition (including but not limited to, cancer related or HIV/AIDS related), genetic information or sexual orientation will not be permitted.
 
 ### Violations
 Violations of any guidelines listed in this policy may result in disciplinary action, up to and including immediate termination. If necessary, the company will advise appropriate legal officials of any illegal violations.
 
+<a name="state-specific"></a>
 # STATE OF RESIDENCE SPECIFIC POLICIES
 
+<a name="florida"></a>
 ## FLORIDA SPECIFIC POLICIES
  
 ### CRIME VICTIM LEAVE
@@ -551,6 +613,7 @@ An employee who is the victim of or who is the family member of a victim of dome
 
 An employee taking leave must use all accrued paid time off, vacation and/or personal time before continuing leave on an unpaid basis. You must provide documentation supporting your need for leave. The OWASP Foundation will maintain the confidentiality, to the extent possible, of any written documents or records submitted and the fact that leave has been requested.
 
+<a name="nj"></a>
 ## NEW JERSEY SPECIFIC POLICIES
  
 ### BENEFITS
@@ -570,6 +633,7 @@ Suspected abuse of sick time may lead to disciplinary action. Indications of pos
 
 Employees classified as exempt may take sick time in 4-hour increments. Nonexempt employees should record their absences in exact time increments to the quarter hour. Unused sick time up to 40 hours will carry over into the following year. Unused sick time is not paid in the event of separation from employment; however, unused sick time will be reinstated if reemployed by The OWASP Foundation within six months of separation. The OWASP Foundation prohibits retaliation against any employee for requesting or inquiring about sick time. While sick time is paid through Insperity, sick time is solely a The OWASP Foundation policy. 
 
+<a name="nc"></a>
 ## NORTH CAROLINA SPECIFIC POLICIES
  
 ### SCHOOL ACTIVITIES LEAVE
@@ -586,6 +650,7 @@ Where possible, you should give written notice at least 5 school days in advance
 
 If you are a nonexempt employee taking school activity leave, you may choose to use accrued vacation or paid time off (PTO). However, if no paid leave is available, you may take the time without pay.
  
+<a name="tx"></a>
 ## TEXAS SPECIFIC POLICIES
  
 ### BIOMETRIC TIMEKEEPING
@@ -606,14 +671,8 @@ Violations of this policy or its procedures will result in disciplinary action u
 ### VOTING LEAVE
 
 Employees are encouraged to fulfill their civic responsibility by voting in local, state and national elections. If you are unable to reach your polling place outside of work hours, you may take up to 2 hours of paid (unless the polls are open at least 2 hours outside of working hours) time off to vote.  You are required to provide reasonable notice to your supervisor, and evidence of voting may be required.
- 
-### WIRELESS COMMUNICATION DEVICE USE GUIDELINES
 
-The OWASP Foundation may provide wireless communication devices, including hands-free devices, to employees who have a job-related need for them.  These devices are the property of The OWASP Foundation. The following guidelines must be followed: 
-* Employees are expected to carry wireless communications devices as directed by their supervisor.
-* Employees are responsible for lost or stolen wireless communications devices and must report such losses immediately.
-* Upon termination of employment for any reason, the employee must return all company-issued property.
-
+<a name="acknowledgment"></a>
 # HANDBOOK ACKNOWLEDGMENT
 
 I acknowledge receipt of The OWASP Foundation’s Employee Handbook ("Handbook"). I understand the Handbook is not a written employment contract for any specific term. My employment with Insperity is at-will. My employment with Company is at-will unless an authorized employment agreement with The OWASP Foundation provides otherwise.
