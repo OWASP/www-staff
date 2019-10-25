@@ -68,6 +68,7 @@ TBD
    
 ## Questions
 1. Collect email popup we can do ambandoned shopping cart and "return to complete form"
+2. Group discounts will be handled with an invoice - not online
 
 ## Budget
 
