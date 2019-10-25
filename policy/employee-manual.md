@@ -4,8 +4,6 @@ title: OWASP Employee Manual
 layout: col-sidebar
 
 ---
-
-# OWASP EMPLOYEE MANUAL
 Version 2019-10-30
 
 This handbook was developed to provide you with guidelines to our company policies and to outline programs and benefits available to you. You should familiarize yourself with the contents as soon as possible so you will know what is expected of you and what you can expect from our organization.
