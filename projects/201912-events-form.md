@@ -34,6 +34,7 @@ TBD
    1. Set prices in foreign currencies
    1. Deal with VAT issues
 2. Discount codes created in Stripe
+   1. Can we set limits for number of uses of a particular Discount Code.
 1. Visitor clicks on a event link someplace in OWASP Universe
    1. Page on website
    2. Link from an email
