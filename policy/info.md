@@ -1,3 +1,4 @@
+## Handbook Outline
 ### [Employment](#employment)
 * [Employment Applications](#employment-applications)
 * [Offer Letters](#offer-letters)
