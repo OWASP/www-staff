@@ -24,7 +24,7 @@ Staff Projects are work products primarily done by staff that require either 40+
 * Commerce Platform for Website Launch
   * [Donate Form](/www-staff/projects/201911-donate-form)
   * Membership
-  * Event Registration
+  * [Event Registration](/www-staff/projects/201912-events-form)
 * Policy and Handbook Reorganization, [Dawn]
 * Leader Agreement (Project, Chapter, Event) [Mike]
 * [Email List GDPR & Clean Up](/www-staff/projects/201910-Email-Cleanup)
