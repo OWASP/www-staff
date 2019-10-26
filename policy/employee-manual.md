@@ -389,7 +389,7 @@ The OWASP Foundation observes the following holidays each year:
 * Memorial Day
 * Independence Day
 * Labor Day
-* Biennial Federal Election Day (typically the 1st Tuesday of November in even-numbered years)
+* Federal Election Day (typically the 1st Tuesday of November in even-numbered years)
 * Thanksgiving Day
 * Day after Thanksgiving
 * Christmas Eve
@@ -409,7 +409,7 @@ Exempt employees do not accrue Personal-time-off benefits but are given an indet
 An employee taking personal time off is responsible for:
 * Notifying his/her direct supervisor two weeks prior to when he/she will be absent.
 * Documenting planned time off on the shared Staff Calendar
-* meeting the expectations and requirements of the employee's position including timely and satisfactorily completing all work assignments. 
+* Meeting the expectations and requirements of the employee's position including timely and satisfactorily completing all work assignments. 
 * Arranging for time off on a schedule that is considerate of expected business needs.
 
 <a name="sick-policy"></a>
