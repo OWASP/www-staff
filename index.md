@@ -92,3 +92,5 @@ Staff Projects are work products primarily done by staff that require either 40+
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 
 <!-- Place this tag where you want the button to render. --><a class="github-button" href="https://github.com/ntkme/github-buttons/subscription" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-eye" data-size="large" data-show-count="true" aria-label="Watch ntkme/github-buttons on GitHub">Watch</a>
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/ntkme/github-buttons" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star ntkme/github-buttons on GitHub">Star</a>
