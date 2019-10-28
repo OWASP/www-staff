@@ -95,10 +95,10 @@ Upon the completion of this project, OWASP.org will be hosted in Github. The arc
 * Article (blog)
 
 ## Repo Naming Top level
+* owasp.github.io - home/landing pages, board & staff, about us, careers, finance, governance (By-Laws), About Membership
 * www-site-theme - master json for menus, templates, common assets, header, footer
 * www-site - main pages, not topic-specific
 * www-board - board meetings
-* www-corporate - board & staff, about us, careers, finance, governance (By-Laws), About Membership
 * www-staff - staff projects
 * www-policy - overview, membership, sponsorship, finance, donations, handbooks, guidelines
 * www-community
