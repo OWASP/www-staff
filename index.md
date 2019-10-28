@@ -87,3 +87,5 @@ Staff Projects are work products primarily done by staff that require either 40+
 
 
 <i class="far fa-flag"></i>
+
+<!-- Place this tag where you want the button to render. --><a class="github-button" href="https://github.com/ntkme/github-buttons/subscription" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-eye" data-size="large" data-show-count="true" aria-label="Watch ntkme/github-buttons on GitHub">Watch</a>
