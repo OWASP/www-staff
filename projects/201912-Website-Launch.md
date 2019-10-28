@@ -100,7 +100,7 @@ Upon the completion of this project, OWASP.org will be hosted in Github. The arc
 * www-board - board meetings
 * www-corporate - board & staff, about us, careers, finance, governance (By-Laws), About Membership
 * www-staff - staff projects
-* www-policies - overview, membership, sponsorship, finance, donations, handbooks, guidelines
+* www-policy - overview, membership, sponsorship, finance, donations, handbooks, guidelines
 * www-community
 * www-event-2020-GlobalAppSecSF
 * www-event-2020-GlobalAppSecDublin
