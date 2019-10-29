@@ -105,10 +105,9 @@ Upon the completion of this project, OWASP.org will be hosted in Github. The arc
 * www-event-2020-GlobalAppSecSF
 * www-event-2020-GlobalAppSecDublin
 * www-event-2020-AppSecDaysCalifornia
-* www-chapter-losangeles
+* www-chapter-los-angeles
 * www-chapter-amsterdam
-* www-chapter-au-melbourne
-* www-chapter-ap/sa/af
+* www-chapter-melbourne
 * www-project-zap
 * www-project-topten
 * www-committee-wia
