@@ -1,3 +1,9 @@
+---
+
+title: Email Clean-Up
+layout: full-width
+
+---
 # Lots of text
 ## Now even more
 
