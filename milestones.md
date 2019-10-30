@@ -28,4 +28,6 @@ layout: full-width
    {% endif %}
 {% endfor %}
 </ul>
+    
+{{ milestones }}
 </div>
