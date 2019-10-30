@@ -14,6 +14,15 @@ layout: full-width
 * Briefing & Business Hall Hours:  Wednesday, December 4, 10:30 AM - 7:00 PM | Business Hall Reception, 5:30 PM - 7:00 PM  
 * Thursday, December 5: 10:00 AM - 4:00 PM
 
+## Milestones
+* [ ] In an unordered list (billeted) list major milestones in chronological order
+* [ ] Use the syntax of 2019-01-19, Milestone name, [Name of Owner]
+* [x] When milestones are completed, mark them with an "x"
+* [ ] A milestone isn't everyone’s to-do list, it is the high level tasks of the project
+* [ ] If you have more than 20 milestones, you’re being too granular
+* [ ] 2020-01-01, New Year's Eve Holiday, [All]
+* [ ] 2020-07-04, Independence Day (US) Holiday, [All]
+
 ## Venue
 
 > EXCEL LONDON
