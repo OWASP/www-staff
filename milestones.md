@@ -8,6 +8,8 @@ layout: full-width
 {% for project in site.data.projects %}
     {% if forloop.last == true %}
     {% assign append_dots = true %}
+    {% else %}
+    {% assign append_dots = false %}
     {% endif %}
     {% assign proj_milestones = (project.milestones | sort: 'milestone_date') | reverse %}
     {% for milestone in proj_milestones  %}
