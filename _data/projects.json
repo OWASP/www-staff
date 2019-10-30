@@ -1,5 +1,6 @@
 { "projects":
- [{
+[
+    {
         "name": "Email Clean-Up",
         "milestones": [
             {
@@ -53,5 +54,4 @@
         "description": "tle: 2019Q4 Marketinglayout: full-width---# 2019Q4 Marketing",
         "leaders": []
     }
-]
-}
+]}
