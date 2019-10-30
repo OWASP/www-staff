@@ -1,4 +1,5 @@
-[{
+{[
+    {
         "name": "Email Clean-Up",
         "milestones": [
             {
@@ -18,7 +19,8 @@
                 "name": "Mike McCamon",
                 "email": "mike.mccamon@owasp.com"
             }
-        ]
+        ],
+        "url": "https://www2.owasp.org/www-staff/projects/201910-Email-Cleanup"
     },
     {
         "name": "2019Q4 Marketing",
@@ -50,6 +52,7 @@
             }
         ],
         "description": "tle: 2019Q4 Marketinglayout: full-width---# 2019Q4 Marketing",
-        "leaders": []
+        "leaders": [],
+        "url": "https://www2.owasp.org/www-staff/projects/201910-marketing"
     }
-]
+]}
