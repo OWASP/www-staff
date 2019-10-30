@@ -21,7 +21,7 @@ layout: full-width
     {% endfor %}
 {% endfor %}
 {% endcapture %}
-{% assign milestone_array = (milestones | split: '::') | sort | reverse %}
+{% assign milestone_array = (milestones | split: '::') | sort: 'int' | reverse %}
 <ul>
 {% for ms in milestone_array %}
    {% assign ms_vals = ms | split: '|' %}
@@ -31,5 +31,5 @@ layout: full-width
 {% endfor %}
 </ul>
     
-{{ milestones }}
+{{ milestone_array }}
 </div>
