@@ -4,16 +4,18 @@ title: Milestones
 layout: full-width
 
 ---
-
+{% capture milestones %}
 {% for project in site.data.projects %}
-  {% capture milestones %}
+    {% if milestones.size > 0 %}
+      ::
+    {% endif %}
     {% assign proj_milestones = (project.milestones | sort: 'milestone_date') | reverse %}
     {% for milestone in proj_milestones  %}
       {{ milestone.milestone_date }}|{{ milestone.description }}|{{ milestone.owner }}
       {% if forloop.last == false %}::{% endif %}
     {% endfor %}
-  {% endcapture %}
 {% endfor %}
+{% endcapture %}
 {% assign milestone_array = milestones | split: '::' %}
 <ul>
 {% for ms in milestone_array %}
