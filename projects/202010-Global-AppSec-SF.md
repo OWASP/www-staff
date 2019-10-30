@@ -25,6 +25,7 @@ Use this section for important links for projects/events that visitors will need
 
 ## Milestones
 
+* [x] 2019-10-01, Sign contract for venue, [Mike]
 * [ ] In an unordered list (billeted) list major milestones in chronological order
 * [ ] Use the syntax of 2019-01-19, Milestone name, [Name of Owner]
 * [x] When milestones are completed, mark them with an "x"
