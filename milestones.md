@@ -9,12 +9,12 @@ layout: full-width
   {% capture milestones %}
     {% for milestone in project.milestones %}
       {{ milestone.milestone_date }}|{{ milestone.description }}|{{ milestone.owner }}
-      {% if not forloop.last %}::{% endif %}
+      {% if forloop.last == false %}::{% endif %}
     {% endfor %}
   {% endcapture %}
 {% endfor %}
 {% assign milestone_array = milestones | split: '::' %}
-{% for milestone in milestone_array %}
-{% assign ms_vals = milestone | split: '|' %}
-{{ ms_vals[0] }}, {{ ms_vals[1] }} {{ ms_vals[2] }}
+{% for ms in milestone_array %}
+   {% assign ms_vals = ms | split: '|' %}
+   {{ ms_vals[0] }}, {{ ms_vals[1] }} {{ ms_vals[2] }}
 {% endfor %}
