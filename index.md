@@ -4,6 +4,7 @@ title: Staff Projects
 layout: full-width
 
 ---
+
 # Staff Projects
 
 ## Themes for 2020: Simplify, Unify, Grow
