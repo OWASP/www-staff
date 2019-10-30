@@ -34,21 +34,29 @@ Upon the completion of this project, OWASP.org will be hosted in Github. The arc
 * Retire full Mediawiki instance before Dec 15, 2020
 
 ## Milestones
-* 2019-10-10, Staff Projects migrated and in production
-* 2019-10-30, Events pages migrated and in production
-* 2019-10-30, Policy pages migrated and ready for Board Approval
-* 2019-11-28, Corporate pages migrated (not production)
-* 2019-12-06, Chapter pages migrated (not production)
-* 2019-12-06, Project pages migrated (not production)
-* 2019-12-13, Redirect system in place and ready for launch
-* 2019-12-13, Validate in-bound search redirect working on events/policy pages
-* 2019-12-20, Website Launch [Harold]
-* 2019-12-18, Validate Google Analytics instance running
-* 2019-12-18, Validate search redirect working site-wide
-* 2020-01-15, Validate Meetup Connector
+* [ ] 2019-10-10, Staff Projects migrated and in production
+* [ ] 2019-10-30, Events pages migrated and in production
+* [ ] 2019-10-30, Policy pages migrated and ready for Board Approval
+* [ ] 2019-11-28, Corporate pages migrated (not production)
+* [ ] 2019-12-06, Chapter pages migrated (not production)
+* [ ] 2019-12-06, Project pages migrated (not production)
+* [ ] 2019-12-13, Redirect system in place and ready for launch
+* [ ] 2019-12-13, Validate in-bound search redirect working on events/policy pages
+* [ ] 2019-12-20, Website Launch [Harold]
+* [ ] 2019-12-18, Validate Google Analytics instance running
+* [ ] 2019-12-18, Validate search redirect working site-wide
+* [ ] 2020-01-15, Validate Meetup Connector
 * Donation Form
 * Membership Form
 * Events Form
+* [ ] In an unordered list (billeted) list major milestones in chronological order
+* [ ] Use the syntax of 2019-01-19, Milestone name, [Name of Owner]
+* [x] When milestones are completed, mark them with an "x"
+* [ ] A milestone isn't everyone’s to-do list, it is the high level tasks of the project
+* [ ] If you have more than 20 milestones, you’re being too granular
+* [ ] 2020-01-01, New Year's Eve Holiday, [All]
+* [ ] 2020-07-04, Independence Day (US) Holiday, [All]
+
 
 ## Milestones (Completed)
 * 2019-06-01, Proof of concept complete validating Requirements (below)
