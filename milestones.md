@@ -24,7 +24,7 @@ layout: full-width
 {% assign milestone_array = (milestones | split: '::') | sort | reverse %}
 <ul>
 {% for ms in milestone_array %}
-   {% assign ms_vals = ms | split: '|' | strip %}
+   {% assign ms_vals = ms | split: '|' %}
    {% if ms_vals[0] != blank and ms_vals[1] != blank and ms_vals[2] != blank %}
     <li><strong>{{ ms_vals[0] }}</strong>, {{ ms_vals[1] }}<i>{{ ms_vals[2] }}</i></li>
    {% endif %}
