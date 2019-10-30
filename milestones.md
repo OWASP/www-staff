@@ -19,7 +19,7 @@ layout: full-width
     {% endfor %}
 {% endfor %}
 {% endcapture %}
-{% assign milestone_array = ((milestones | split: '::') | sort) reverse %}
+{% assign milestone_array = ((milestones | sort) | reverse) | split: '::' %}
 <ul>
 {% for ms in milestone_array %}
    {% assign ms_vals = ms | split: '|' %}
