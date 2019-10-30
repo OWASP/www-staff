@@ -15,5 +15,6 @@ layout: full-width
 {% endfor %}
 {% assign milestone_array = milestones | split: '::' %}
 {% for milestone in milestone_array %}
-{{ milestone[0] }}, {{ milestone[1] }} [{{ milestone[2] }}]
+{% assign ms_vals = milestone | split: '|' %}
+{{ ms_vals[0] }}, {{ ms_vals[1] }} {{ ms_vals[2] }}
 {% endfor %}
