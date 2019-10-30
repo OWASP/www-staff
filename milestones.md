@@ -4,6 +4,7 @@ title: Milestones
 layout: full-width
 
 ---
+<div class='milestones'>
 {% capture milestones %}
 {% for project in site.data.projects %}
     {% if forloop.last == true %}
@@ -22,6 +23,7 @@ layout: full-width
 <ul>
 {% for ms in milestone_array %}
    {% assign ms_vals = ms | split: '|' %}
-   <li>{{ ms_vals[0] }}, {{ ms_vals[1] }}<strong>{{ ms_vals[2] }}</strong></li>
+    <li><strong>{{ ms_vals[0] }}</strong>, {{ ms_vals[1] }}<i>{{ ms_vals[2] }}</i></li>
 {% endfor %}
 </ul>
+</div>
