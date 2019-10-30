@@ -9,7 +9,7 @@ layout: full-width
   {% capture milestones %}
     {% for milestone in project.milestones %}
       {{ milestone.milestone_date }}|{{ milestone.description }}|{{ milestone.owner }}
-      {% if not forloop.last %}::{% endfor %}
+      {% if not forloop.last %}::{% endif %}
     {% endfor %}
   {% endcapture %}
 {% endfor %}
