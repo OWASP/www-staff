@@ -34,7 +34,7 @@ Upon the completion of this project, OWASP.org will be hosted in Github. The arc
 * Retire full Mediawiki instance before Dec 15, 2020
 
 ## Milestones
-* [ ] 2019-10-10, Staff Projects migrated and in production
+* [x] 2019-10-10, Staff Projects migrated and in production
 * [ ] 2019-10-30, Events pages migrated and in production
 * [ ] 2019-10-30, Policy pages migrated and ready for Board Approval
 * [ ] 2019-11-28, Corporate pages migrated (not production)
@@ -49,24 +49,16 @@ Upon the completion of this project, OWASP.org will be hosted in Github. The arc
 * Donation Form
 * Membership Form
 * Events Form
-* [ ] In an unordered list (billeted) list major milestones in chronological order
-* [ ] Use the syntax of 2019-01-19, Milestone name, [Name of Owner]
-* [x] When milestones are completed, mark them with an "x"
-* [ ] A milestone isn't everyone’s to-do list, it is the high level tasks of the project
-* [ ] If you have more than 20 milestones, you’re being too granular
-* [ ] 2020-01-01, New Year's Eve Holiday, [All]
-* [ ] 2020-07-04, Independence Day (US) Holiday, [All]
 
-
-## Milestones (Completed)
-* 2019-06-01, Proof of concept complete validating Requirements (below)
-* 2019-06-03, Site Map designed
-* 2019-06-15, Draft wireframe Complete https://www.owasp.org/images/5/5d/Owasp_wireframes.pdf
-* 2019-06-10, Template Selected and design underway for non-supported pages
-* 2019-07-08, Draft template installed on site
-* 2019-09-01, v2 Template installed
-* 2019-09-01, Determine site-wide Search tool/solution [Harold]
-* 2019-09-05, Rollout for Leaders starting at Global AppSec DC and continuing at AMS
+## Historical Milestones (Completed)
+* [x] 2019-06-01, Proof of concept complete validating Requirements (below)
+* [x] 2019-06-03, Site Map designed
+* [x] 2019-06-15, Draft wireframe Complete https://www.owasp.org/images/5/5d/Owasp_wireframes.pdf
+* [x] 2019-06-10, Template Selected and design underway for non-supported pages
+* [x] 2019-07-08, Draft template installed on site
+* [x] 2019-09-01, v2 Template installed
+* [x] 2019-09-01, Determine site-wide Search tool/solution [Harold]
+* [x] 2019-09-05, Rollout for Leaders starting at Global AppSec DC and continuing at AMS
 
 
 ## Leadership
