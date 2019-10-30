@@ -6,13 +6,13 @@ layout: full-width
 ---
 {% capture milestones %}
 {% for project in site.data.projects %}
-    {% if milestones.size > 0 %}
-      ::
+    {% if forloop.last == true %}
+    {% assign append_dots = true %}
     {% endif %}
     {% assign proj_milestones = (project.milestones | sort: 'milestone_date') | reverse %}
     {% for milestone in proj_milestones  %}
       {{ milestone.milestone_date }}|{{ milestone.description }}|{{ milestone.owner }}
-      {% if forloop.last == false %}::{% endif %}
+      {% if append_dots %}::{% endif %}
     {% endfor %}
 {% endfor %}
 {% endcapture %}
