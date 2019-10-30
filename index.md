@@ -4,6 +4,7 @@ title: Staff Projects
 layout: full-width
 
 ---
+
 # Staff Projects
 
 ## Themes for 2020: Simplify, Unify, Grow
@@ -43,6 +44,8 @@ Staff Projects are work products primarily done by staff that require either 40+
   * [Projects Summit Summer](/www-staff/projects/202007-Projects-Summit-Q3)
   * [Global AppSec - San Francisco, October](/www-staff/projects/202010-Global-AppSec-SF)
 * [Trademark](/www-staff/projects/201902-Trademarks), [Mike]
+
+Go [HERE](/www-staff/milestones) for current milestones
 
 ## Prioritized Projects
 * SalesForce New Instance > Migration
