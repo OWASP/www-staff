@@ -5,22 +5,26 @@
             {
                 "milestone_date": "2019-03-08",
                 "description": "Secure agreement with counsel for scope of work",
-                "owner": "No Owner"
+                "owner": "No Owner",
+                "project_name": ""
             },
             {
                 "milestone_date": "2019-03-25",
                 "description": "Instructions for Counsel sent for OWASP, Open Web Application Security Project, Global AppSec and AppSec Days for US Registrations",
-                "owner": "No Owner"
+                "owner": "No Owner",
+                "project_name": ""
             },
             {
                 "milestone_date": "2019-04-15",
                 "description": "Ensure all planned marks have TM usage in this interim period",
-                "owner": "No Owner"
+                "owner": "No Owner",
+                "project_name": ""
             },
             {
                 "milestone_date": "2019-06-07",
                 "description": "Final filing instructions were signed off by ED",
-                "owner": "No Owner"
+                "owner": "No Owner",
+                "project_name": ""
             }
         ],
         "description": "Today our institutional name and the events we host are not protected by copyright. The Foundation will endeavor to register the following marks in the United States, European Union, and the United Kingdom: OWASP, Open Web Application Security Project, Global AppSec, and AppSec Days. Additionally the Foundation will register our figure mark (logo) in these same three domiciles. Once completed, the Foundation will develop and share a Trademark Guidelines document for events, chapters, and projects along with implementing these changes on our websites and event names. At this time, the Foundation does not expect to fund any enforcement activities.",
@@ -48,18 +52,7 @@
     },
     {
         "name": "Donation Form",
-        "milestones": [
-            {
-                "milestone_date": "2019-10-24",
-                "description": "Kickoff call",
-                "owner": "Mike"
-            },
-            {
-                "milestone_date": "2019-10-28",
-                "description": "Contract signed and project underwayTBD",
-                "owner": "No Owner"
-            }
-        ],
+        "milestones": [],
         "description": "As part of the OWASP website migration, we will creating a new Donation form that will use Stripe as a back end. This should be a simple form that is hosted on the website and will serve as a proof of concept for (1) hosting secure forms on github, (2) test the viability of Stripe for payment processing, and (3) integrating Stripe form activities with light integrations with other key data in the OWASP ecosystem.",
         "leaders": [
             {
@@ -82,68 +75,7 @@
     },
     {
         "name": "Website Re-launch",
-        "milestones": [
-            {
-                "milestone_date": "2019-10-10",
-                "description": "Staff Projects migrated and in production",
-                "owner": "No Owner"
-            },
-            {
-                "milestone_date": "2019-10-30",
-                "description": "Events pages migrated and in production",
-                "owner": "No Owner"
-            },
-            {
-                "milestone_date": "2019-10-30",
-                "description": "Policy pages migrated and ready for Board Approval",
-                "owner": "No Owner"
-            },
-            {
-                "milestone_date": "2019-11-28",
-                "description": "Corporate pages migrated (not production)",
-                "owner": "No Owner"
-            },
-            {
-                "milestone_date": "2019-12-06",
-                "description": "Chapter pages migrated (not production)",
-                "owner": "No Owner"
-            },
-            {
-                "milestone_date": "2019-12-06",
-                "description": "Project pages migrated (not production)",
-                "owner": "No Owner"
-            },
-            {
-                "milestone_date": "2019-12-13",
-                "description": "Redirect system in place and ready for launch",
-                "owner": "No Owner"
-            },
-            {
-                "milestone_date": "2019-12-13",
-                "description": "Validate in-bound search redirect working on events/policy pages",
-                "owner": "No Owner"
-            },
-            {
-                "milestone_date": "2019-12-20",
-                "description": "Website Launch",
-                "owner": "Harold"
-            },
-            {
-                "milestone_date": "2019-12-18",
-                "description": "Validate Google Analytics instance running",
-                "owner": "No Owner"
-            },
-            {
-                "milestone_date": "2019-12-18",
-                "description": "Validate search redirect working site-wide",
-                "owner": "No Owner"
-            },
-            {
-                "milestone_date": "2020-01-15",
-                "description": "Validate Meetup Connector",
-                "owner": "No Owner"
-            }
-        ],
+        "milestones": [],
         "description": "Before December 20, 2019, the Foundation will launch a new website designed to engage visitors and professionally convey the value of our collective work. Rather than just re-skinning our current wiki or placing a simplified landing page in front of our site, we plan to migrate to an entirely new platform. The project must better connect with our developer audience and be valuable when visited on a variety of devices. It must be possible for elements of our site to be managed by our communities or through automation and any platform change must retain these attributes as well as ensuring continuity of analytics, permissions design, and redirect of inbound links. A proof of concept will be complete by July 1. Once the new website is launched, the wiki will be archived through 2020 for historical purposes.Upon the completion of this project, OWASP.org will be hosted in Github. The architecture will place a repository for each logical entity of the foundation in one organizational account. For instance, there would be a repo for each chapter, project, event, and several other organizational entities. This design will increase source control and allow us to connect visitors with the content that is of interest to them.",
         "leaders": [
             {
@@ -179,18 +111,7 @@
     },
     {
         "name": "AppSec California 2020",
-        "milestones": [
-            {
-                "milestone_date": "2020-01-01",
-                "description": "New Year's Eve Holiday",
-                "owner": "All"
-            },
-            {
-                "milestone_date": "2020-07-04",
-                "description": "Independence Day (US) Holiday",
-                "owner": "All"
-            }
-        ],
+        "milestones": [],
         "description": "Each project will have a 2-3 paragraph overview narrative. Keep to the key top points about the project. Visitors should be able to read this short narrative and have a good understanding of the project without having to scroll the entire document.",
         "leaders": [
             {
@@ -210,22 +131,11 @@
                 "email": "mike.mccamon@owasp.com"
             }
         ],
-        "url": "https://www2.owasp.org/www-staff/projects/202002-Projects-Summit-Winter"
+        "url": "https://www2.owasp.org/www-staff/projects/202002-Projects-Summit-Q1"
     },
     {
         "name": "BlackHat Asia",
-        "milestones": [
-            {
-                "milestone_date": "2020-01-01",
-                "description": "New Year's Eve Holiday",
-                "owner": "All"
-            },
-            {
-                "milestone_date": "2020-07-04",
-                "description": "Independence Day (US) Holiday",
-                "owner": "All"
-            }
-        ],
+        "milestones": [],
         "description": "Each project will have a 2-3 paragraph overview narrative. Keep to the key top points about the project. Visitors should be able to read this short narrative and have a good understanding of the project without having to scroll the entire document.",
         "leaders": [
             {
@@ -257,22 +167,11 @@
                 "email": "mike.mccamon@owasp.com"
             }
         ],
-        "url": "https://www2.owasp.org/www-staff/projects/202007-Projects-Summit-Summer"
+        "url": "https://www2.owasp.org/www-staff/projects/202007-Projects-Summit-Q3"
     },
     {
         "name": "BlackHat Las Vegas",
-        "milestones": [
-            {
-                "milestone_date": "2020-01-01",
-                "description": "New Year's Eve Holiday",
-                "owner": "All"
-            },
-            {
-                "milestone_date": "2020-07-04",
-                "description": "Independence Day (US) Holiday",
-                "owner": "All"
-            }
-        ],
+        "milestones": [],
         "description": "Each project will have a 2-3 paragraph overview narrative. Keep to the key top points about the project. Visitors should be able to read this short narrative and have a good understanding of the project without having to scroll the entire document.",
         "leaders": [
             {
@@ -284,336 +183,7 @@
     },
     {
         "name": "DEFCON 28",
-        "milestones": [
-            {
-                "milestone_date": "2020-01-01",
-                "description": "New Year's Eve Holiday",
-                "owner": "All"
-            },
-            {
-                "milestone_date": "2020-07-04",
-                "description": "Independence Day (US) Holiday",
-                "owner": "All"
-            }
-        ],
-        "description": "Each project will have a 2-3 paragraph overview narrative. Keep to the key top points about the project. Visitors should be able to read this short narrative and have a good understanding of the project without having to scroll the entire document.",
-        "leaders": [
-            {
-                "name": "Mike McCamon",
-                "email": "mike.mccamon@owasp.com"
-            }
-        ],
-        "url": "https://www2.owasp.org/www-staff/projects/202008-Defcon-28"
-    },
-    {
-        "name": "Global AppSec - San Francisco",
         "milestones": [],
-        "description": "Each project will have a 2-3 paragraph overview narrative. Keep to the key top points about the project. Visitors should be able to read this short narrative and have a good understanding of the project without having to scroll the entire document.",
-        "leaders": [
-            {
-                "name": "Mike McCamon",
-                "email": "mike.mccamon@owasp.com"
-            }
-        ],
-        "url": "https://www2.owasp.org/www-staff/projects/202010-Global-AppSec-SF"
-    },
-    {
-        "name": "OWASP Trademarks",
-        "milestones": [
-            {
-                "milestone_date": "2019-03-08",
-                "description": "Secure agreement with counsel for scope of work",
-                "owner": "No Owner"
-            },
-            {
-                "milestone_date": "2019-03-25",
-                "description": "Instructions for Counsel sent for OWASP, Open Web Application Security Project, Global AppSec and AppSec Days for US Registrations",
-                "owner": "No Owner"
-            },
-            {
-                "milestone_date": "2019-04-15",
-                "description": "Ensure all planned marks have TM usage in this interim period",
-                "owner": "No Owner"
-            },
-            {
-                "milestone_date": "2019-06-07",
-                "description": "Final filing instructions were signed off by ED",
-                "owner": "No Owner"
-            }
-        ],
-        "description": "Today our institutional name and the events we host are not protected by copyright. The Foundation will endeavor to register the following marks in the United States, European Union, and the United Kingdom: OWASP, Open Web Application Security Project, Global AppSec, and AppSec Days. Additionally the Foundation will register our figure mark (logo) in these same three domiciles. Once completed, the Foundation will develop and share a Trademark Guidelines document for events, chapters, and projects along with implementing these changes on our websites and event names. At this time, the Foundation does not expect to fund any enforcement activities.",
-        "leaders": [],
-        "url": "https://www2.owasp.org/www-staff/projects/201902-Trademarks"
-    },
-    {
-        "name": "Email Clean-Up",
-        "milestones": [],
-        "description": "MailChimp is the email tool of record for the OWASP Foundation. Given the GDPR rules of the EU and the undocumented history of email address imports into MailChimp, this project's aim is to re-validate every address in our system for an opt-in for marketing emails. OWASP should take a leadership position in p[roactively cleansing our email list and ensure voluntary opt-in of addresses.The project will primarily be a series of emails requesting recipients to opt-in to Foundation marketing messages.",
-        "leaders": [
-            {
-                "name": "Mike McCamon",
-                "email": "mike.mccamon@owasp.com"
-            }
-        ],
-        "url": "https://www2.owasp.org/www-staff/projects/201910-Email-Cleanup"
-    },
-    {
-        "name": "2019Q4 Marketing",
-        "milestones": [],
-        "description": "tle: 2019Q4 Marketinglayout: full-width---# 2019Q4 Marketing",
-        "leaders": [],
-        "url": "https://www2.owasp.org/www-staff/projects/201910-marketing"
-    },
-    {
-        "name": "Donation Form",
-        "milestones": [
-            {
-                "milestone_date": "2019-10-24",
-                "description": "Kickoff call",
-                "owner": "Mike"
-            },
-            {
-                "milestone_date": "2019-10-28",
-                "description": "Contract signed and project underwayTBD",
-                "owner": "No Owner"
-            }
-        ],
-        "description": "As part of the OWASP website migration, we will creating a new Donation form that will use Stripe as a back end. This should be a simple form that is hosted on the website and will serve as a proof of concept for (1) hosting secure forms on github, (2) test the viability of Stripe for payment processing, and (3) integrating Stripe form activities with light integrations with other key data in the OWASP ecosystem.",
-        "leaders": [
-            {
-                "name": "Harold Blankenship ",
-                "email": "Harold.blankenship@owasp.com"
-            },
-            {
-                "name": "Mike McCamon",
-                "email": "mike.mccamon@owasp.com"
-            }
-        ],
-        "url": "https://www2.owasp.org/www-staff/projects/201911-donate-form"
-    },
-    {
-        "name": "BlackHat London 2019",
-        "milestones": [],
-        "description": "* [Conference call minutes from 10/9/2019](https://drive.google.com/open?id=1KukrG-jbV3PErZrK4WfUzwOORa7quZ05nefgM3i_-dM)* [BlackHat London 2019 website](https://www.blackhat.com/eu-19/)* December 2-5, 2019  Briefing on Dec 4 & 5  * Briefing & Business Hall Hours:  Wednesday, December 4, 10:30 AM - 7:00 PM | Business Hall Reception, 5:30 PM - 7:00 PM  * Thursday, December 5: 10:00 AM - 4:00 PM",
-        "leaders": [],
-        "url": "https://www2.owasp.org/www-staff/projects/201912-Blackhat-London"
-    },
-    {
-        "name": "Website Re-launch",
-        "milestones": [
-            {
-                "milestone_date": "2019-10-10",
-                "description": "Staff Projects migrated and in production",
-                "owner": "No Owner"
-            },
-            {
-                "milestone_date": "2019-10-30",
-                "description": "Events pages migrated and in production",
-                "owner": "No Owner"
-            },
-            {
-                "milestone_date": "2019-10-30",
-                "description": "Policy pages migrated and ready for Board Approval",
-                "owner": "No Owner"
-            },
-            {
-                "milestone_date": "2019-11-28",
-                "description": "Corporate pages migrated (not production)",
-                "owner": "No Owner"
-            },
-            {
-                "milestone_date": "2019-12-06",
-                "description": "Chapter pages migrated (not production)",
-                "owner": "No Owner"
-            },
-            {
-                "milestone_date": "2019-12-06",
-                "description": "Project pages migrated (not production)",
-                "owner": "No Owner"
-            },
-            {
-                "milestone_date": "2019-12-13",
-                "description": "Redirect system in place and ready for launch",
-                "owner": "No Owner"
-            },
-            {
-                "milestone_date": "2019-12-13",
-                "description": "Validate in-bound search redirect working on events/policy pages",
-                "owner": "No Owner"
-            },
-            {
-                "milestone_date": "2019-12-20",
-                "description": "Website Launch",
-                "owner": "Harold"
-            },
-            {
-                "milestone_date": "2019-12-18",
-                "description": "Validate Google Analytics instance running",
-                "owner": "No Owner"
-            },
-            {
-                "milestone_date": "2019-12-18",
-                "description": "Validate search redirect working site-wide",
-                "owner": "No Owner"
-            },
-            {
-                "milestone_date": "2020-01-15",
-                "description": "Validate Meetup Connector",
-                "owner": "No Owner"
-            }
-        ],
-        "description": "Before December 20, 2019, the Foundation will launch a new website designed to engage visitors and professionally convey the value of our collective work. Rather than just re-skinning our current wiki or placing a simplified landing page in front of our site, we plan to migrate to an entirely new platform. The project must better connect with our developer audience and be valuable when visited on a variety of devices. It must be possible for elements of our site to be managed by our communities or through automation and any platform change must retain these attributes as well as ensuring continuity of analytics, permissions design, and redirect of inbound links. A proof of concept will be complete by July 1. Once the new website is launched, the wiki will be archived through 2020 for historical purposes.Upon the completion of this project, OWASP.org will be hosted in Github. The architecture will place a repository for each logical entity of the foundation in one organizational account. For instance, there would be a repo for each chapter, project, event, and several other organizational entities. This design will increase source control and allow us to connect visitors with the content that is of interest to them.",
-        "leaders": [
-            {
-                "name": "Harold Blankenship, Project Leader",
-                "email": "harold.blankenship@owasp.com"
-            },
-            {
-                "name": "Mike McCamon",
-                "email": "mike.mccamon@owasp.com"
-            }
-        ],
-        "url": "https://www2.owasp.org/www-staff/projects/201912-Website-Launch"
-    },
-    {
-        "name": "Events Form",
-        "milestones": [],
-        "description": "As part of the OWASP website migration, we will creating a new Events form that will use Stripe as a back end. This should be a simple form that is hosted on the website and will serve as the prmiary e-commerce path for all OWASP Global and Regional events replacing Eventbrite for (1) hosting secure forms on github, (2) presenting and then selecting multiple SKUs from a single Product ID as in Training Class A for Event X and Early Bird ticket for Event X, (3) 2-3 aggregate online reports, (4) validate Strike can manage inventory of SKUs, and (5) integrating Stripe form activities with light integrations with other key data in the OWASP ecosystem.",
-        "leaders": [
-            {
-                "name": "Harold Blankenship ",
-                "email": "Harold.blankenship@owasp.com"
-            },
-            {
-                "name": "Emily Berman - Customer",
-                "email": "emily.berman@owasp.com"
-            },
-            {
-                "name": "Mike McCamon",
-                "email": "mike.mccamon@owasp.com"
-            }
-        ],
-        "url": "https://www2.owasp.org/www-staff/projects/201912-events-form"
-    },
-    {
-        "name": "AppSec California 2020",
-        "milestones": [
-            {
-                "milestone_date": "2020-01-01",
-                "description": "New Year's Eve Holiday",
-                "owner": "All"
-            },
-            {
-                "milestone_date": "2020-07-04",
-                "description": "Independence Day (US) Holiday",
-                "owner": "All"
-            }
-        ],
-        "description": "Each project will have a 2-3 paragraph overview narrative. Keep to the key top points about the project. Visitors should be able to read this short narrative and have a good understanding of the project without having to scroll the entire document.",
-        "leaders": [
-            {
-                "name": "Mike McCamon",
-                "email": "mike.mccamon@owasp.com"
-            }
-        ],
-        "url": "https://www2.owasp.org/www-staff/projects/2020-event-appsec-california"
-    },
-    {
-        "name": "ProjectS Summit - Winter 2020",
-        "milestones": [],
-        "description": "Each project will have a 2-3 paragraph overview narrative. Keep to the key top points about the project. Visitors should be able to read this short narrative and have a good understanding of the project without having to scroll the entire document.",
-        "leaders": [
-            {
-                "name": "Mike McCamon",
-                "email": "mike.mccamon@owasp.com"
-            }
-        ],
-        "url": "https://www2.owasp.org/www-staff/projects/202002-Projects-Summit-Winter"
-    },
-    {
-        "name": "BlackHat Asia",
-        "milestones": [
-            {
-                "milestone_date": "2020-01-01",
-                "description": "New Year's Eve Holiday",
-                "owner": "All"
-            },
-            {
-                "milestone_date": "2020-07-04",
-                "description": "Independence Day (US) Holiday",
-                "owner": "All"
-            }
-        ],
-        "description": "Each project will have a 2-3 paragraph overview narrative. Keep to the key top points about the project. Visitors should be able to read this short narrative and have a good understanding of the project without having to scroll the entire document.",
-        "leaders": [
-            {
-                "name": "Mike McCamon",
-                "email": "mike.mccamon@owasp.com"
-            }
-        ],
-        "url": "https://www2.owasp.org/www-staff/projects/202003-Blackhat-Asia"
-    },
-    {
-        "name": "Global AppSec - Dublin",
-        "milestones": [],
-        "description": "Each project will have a 2-3 paragraph overview narrative. Keep to the key top points about the project. Visitors should be able to read this short narrative and have a good understanding of the project without having to scroll the entire document.",
-        "leaders": [
-            {
-                "name": "Mike McCamon",
-                "email": "mike.mccamon@owasp.com"
-            }
-        ],
-        "url": "https://www2.owasp.org/www-staff/projects/202006-GlobalAppSec-Dublin"
-    },
-    {
-        "name": "Projects Summit Summer",
-        "milestones": [],
-        "description": "Each project will have a 2-3 paragraph overview narrative. Keep to the key top points about the project. Visitors should be able to read this short narrative and have a good understanding of the project without having to scroll the entire document.",
-        "leaders": [
-            {
-                "name": "Mike McCamon",
-                "email": "mike.mccamon@owasp.com"
-            }
-        ],
-        "url": "https://www2.owasp.org/www-staff/projects/202007-Projects-Summit-Summer"
-    },
-    {
-        "name": "BlackHat Las Vegas",
-        "milestones": [
-            {
-                "milestone_date": "2020-01-01",
-                "description": "New Year's Eve Holiday",
-                "owner": "All"
-            },
-            {
-                "milestone_date": "2020-07-04",
-                "description": "Independence Day (US) Holiday",
-                "owner": "All"
-            }
-        ],
-        "description": "Each project will have a 2-3 paragraph overview narrative. Keep to the key top points about the project. Visitors should be able to read this short narrative and have a good understanding of the project without having to scroll the entire document.",
-        "leaders": [
-            {
-                "name": "Mike McCamon",
-                "email": "mike.mccamon@owasp.com"
-            }
-        ],
-        "url": "https://www2.owasp.org/www-staff/projects/202008-Blackhat-Las-Vegas"
-    },
-    {
-        "name": "DEFCON 28",
-        "milestones": [
-            {
-                "milestone_date": "2020-01-01",
-                "description": "New Year's Eve Holiday",
-                "owner": "All"
-            },
-            {
-                "milestone_date": "2020-07-04",
-                "description": "Independence Day (US) Holiday",
-                "owner": "All"
-            }
-        ],
         "description": "Each project will have a 2-3 paragraph overview narrative. Keep to the key top points about the project. Visitors should be able to read this short narrative and have a good understanding of the project without having to scroll the entire document.",
         "leaders": [
             {
