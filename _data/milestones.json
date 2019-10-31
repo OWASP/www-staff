@@ -1,27 +1,9 @@
 [
     {
-        "milestone_date": "2019-10-01",
-        "description": "Sign contract for venue",
-        "owner": "Mike",
-        "project_name": "Global AppSec - San Francisco"
-    },
-    {
-        "milestone_date": "2019-10-10",
-        "description": "Staff Projects migrated and in production",
-        "owner": "No Owner",
-        "project_name": "Website Re-launch"
-    },
-    {
         "milestone_date": "2019-10-23",
         "description": "Connect Rebecca and Susan with Project and Chapter leaders for copy",
         "owner": "Mike",
         "project_name": "2019Q4 Marketing"
-    },
-    {
-        "milestone_date": "2019-10-24",
-        "description": "Kickoff call",
-        "owner": "Mike",
-        "project_name": "Donation Form"
     },
     {
         "milestone_date": "2019-10-28",
