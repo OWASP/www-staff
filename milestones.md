@@ -18,7 +18,7 @@ layout: full-width
 <div class='milestones'>
 <ul>
 {% for milestone in site.data.milestones %}
-   {% assign project = site.data.projects | where: 'name', milestone.project_name %}
+    {% assign project = site.data.projects | where: 'name', milestone.project_name | first %}
    <li><div class='milestone_header'>{{ milestone.milestone_date }}: <a href='{{ project.url }}'>{{ milestone.project_name }}</a></div>
         <div class='milestone_project'>{{ milestone.description }}</div>
         <div>Owner: <i>{{ milestone.owner }}</i>
@@ -32,8 +32,9 @@ layout: full-width
 <h2>{{ owner }}'s Milestones</h2>
 <ul>
     {% for milestone in site.data.milestones %}
+    {% assign project = site.data.projects | where: 'name', milestone.project_name | first %}
         {% if milestone.owner == owner %}
-        <li><div class='milestone_header'>{{ milestone.milestone_date }}: {{ milestone.project_name }}</div>
+        <li><div class='milestone_header'>{{ milestone.milestone_date }}: <a href='{{ project.url }}'>{{ milestone.project_name }}</a></div>
             <div class='milestone_project'>{{ milestone.description }}</div>
             <div>Owner: <i>{{ milestone.owner }}</i>
             </div>
