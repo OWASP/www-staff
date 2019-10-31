@@ -4,6 +4,8 @@ title: AppSec California 2020
 layout: full-width
 
 ---
+# AppSec California 2020
+
 ## Overview
 
 Each project will have a 2-3 paragraph overview narrative. Keep to the key top points about the project. Visitors should be able to read this short narrative and have a good understanding of the project without having to scroll the entire document.
