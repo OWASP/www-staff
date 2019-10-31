@@ -47,8 +47,6 @@ Staff Projects are work products primarily done by staff that require either 40+
   * [Global AppSec - San Francisco, October](/www-staff/projects/202010-Global-AppSec-SF)
 * [Trademark](/www-staff/projects/201902-Trademarks), [Mike]
 
-Go [HERE](/www-staff/milestones) for current milestones
-
 ## Prioritized Projects
 * SalesForce New Instance > Migration
   * SalesForce Invoicing
