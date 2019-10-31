@@ -19,7 +19,7 @@ layout: full-width
 
 ## Milestones
 
-* [x} 2019-10-20 Andra Leader with Lauren host WIA Community Session at BlackHat [Andra confirmed]
+* [x] 2019-10-20 Andra Leader with Lauren host WIA Community Session at BlackHat [Andra confirmed]
 * [x] 2019-10-28 Volunteer sent out [Lisa] 
 * [ ] 2019-11-15 Register volunteers and schedule[Lisa]
 * [ ] 2019-11-18 Finalize SWAG and handouts with Mike and order[Mike & Lisa]
