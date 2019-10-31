@@ -218,7 +218,7 @@ Depending on the specific circumstances, the company may suspend or terminate an
 
 All employees are paid Monthly on the last business day of each month. Each paycheck includes pay for all work performed through the current pay period. If a payday falls on a holiday, you will be paid on the last work day before that payday. 
 
-The company has a direct deposit program. If you provide written authorization, we will deposit your pay directly into your bank account. On paydays, instead a check, you will get a statement of earnings and deductions. Your first paycheck will be a live check mailed to your home address. This is a security procedure for new hires implemented by Insperity. Please note, while we will make our best efforts to expedite your payroll to you as soon as possible, your first paycheck may be delayed until the 10th day of your first month of employment.
+The company has a direct deposit program. If you provide written authorization, we will deposit your pay directly into your bank account. On paydays, instead a check, you will get a statement of earnings and deductions. Your first paycheck will be a live check mailed to your home address. This is a security procedure for new hires implemented by Insperity. Please note, while we will make our best efforts to expedite your payroll to you as soon as possible, your first paycheck may be delayed until the 10th day of your second month of employment.
 
 If your position qualifies for Incentive Compensation or Commissions, please see your supervisor for additional information about those programs.
 
@@ -238,8 +238,6 @@ Exempt employees are paid on a salary basis and, in general, must be paid their 
 
 Employees who work less than 40 hours during their first and/or last week of employment will be paid a proportionate part of their full salary for the time actually worked.
 
-Employees who violate a safety rule of major significance, may have their salary reduced in an amount to be determined by the company as a penalty for that violation.
-
 Employees may be suspended without pay for other types of workplace misconduct, but only in full day increments. This refers to suspensions imposed according to a written policy applicable to all employees regarding serious misconduct, including, but not limited to, workplace harassment, violence, drug and alcohol violations, legal violations, etc. The possibility of unpaid suspensions is included into all similar policies.
 
 This policy is subject to applicable state law regarding reduction of exempt employees’ salaries if the state law is more favorable to employees. 
@@ -247,13 +245,13 @@ This policy is subject to applicable state law regarding reduction of exempt emp
 <a name="prohibited-reductions"></a>
 ### Prohibited Reductions/Complaint Procedure 
 
-Any salaried exempt employee whose salary is reduced in violation of this policy will be reimbursed. If you feel your salary has been improperly reduced, please notify your Insperity human resource specialist. No employee will be penalized in any way for making a complaint.  
+Any salaried exempt employee whose salary is reduced, and the reduction itself is in violation of this policy, will be reimbursed. If you feel your salary has been improperly reduced, please notify your Insperity human resource specialist. No employee will be penalized in any way for making a complaint.  
 This policy is intended solely to implement Fair Labor Standards Act (FLSA) regulatory requirements, and applicable state law will be applied and modified as necessary in accordance with the requirements, and is not to be considered any type of contract.
 
 <a name="hours-of-operation"></a>
 ## HOURS OF OPERATION
 
-Normal operating hours for The OWASP Foundation are from 8:00 AM to 5:00 PM, Monday through Friday. These hours may vary depending upon your position and work requirements. All exempt and non-exempt, full-time regular employees are expected to work a standard forty (40) hour work week.
+Normal operating hours for The OWASP Foundation are from 8:00 AM to 5:00 PM, Monday through Friday in the employees location. These hours may vary depending upon your position and work requirements. All exempt and non-exempt, full-time regular employees are expected to work a standard forty (40) hour work week.
 
 Give your supervisor as much advance notice as possible for any schedule changes.
 
