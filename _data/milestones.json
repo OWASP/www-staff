@@ -1,5 +1,17 @@
 [
     {
+        "milestone_date": "2020-12-20",
+        "description": "Final payment of $22,750 is due. Ticket # OSD-3068",
+        "owner": "Dawn",
+        "project_name": "AppSec California 2020"
+    },
+    {
+        "milestone_date": "2020-11-15",
+        "description": "Secure insurance for event per terms of contract (See below)",
+        "owner": "Dawn",
+        "project_name": "AppSec California 2020"
+    },
+    {
         "milestone_date": "2020-07-04",
         "description": "Independence Day (US) Holiday",
         "owner": "All",
@@ -28,12 +40,6 @@
         "description": "Independence Day (US) Holiday, [All]TBD",
         "owner": "No Owner",
         "project_name": "Events Form"
-    },
-    {
-        "milestone_date": "2020-07-04",
-        "description": "Independence Day (US) Holiday",
-        "owner": "All",
-        "project_name": "AppSec California 2020"
     },
     {
         "milestone_date": "2020-07-04",
@@ -124,12 +130,6 @@
         "description": "New Year's Eve Holiday",
         "owner": "All",
         "project_name": "Events Form"
-    },
-    {
-        "milestone_date": "2020-01-01",
-        "description": "New Year's Eve Holiday",
-        "owner": "All",
-        "project_name": "AppSec California 2020"
     },
     {
         "milestone_date": "2020-01-01",
