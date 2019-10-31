@@ -7,6 +7,8 @@ layout: full-width
 
 # Staff Projects
 
+[Milestone View](/www-staff/milestones)
+
 ## Themes for 2020: Simplify, Unify, Grow
 * Simplify: Reduce the complexity of advancing the mission of the Foundation
 * Unify: Create and nurture a shared culture of success within the community
