@@ -268,23 +268,23 @@
         "name": "AppSec California 2020",
         "milestones": [
             {
-                "milestone_date": "2020-01-01",
-                "description": "New Year's Eve Holiday",
-                "owner": "All",
+                "milestone_date": "2020-11-15",
+                "description": "Secure insurance for event per terms of contract (See below)",
+                "owner": "Dawn",
                 "project_name": "AppSec California 2020"
             },
             {
-                "milestone_date": "2020-07-04",
-                "description": "Independence Day (US) Holiday",
-                "owner": "All",
+                "milestone_date": "2020-12-20",
+                "description": "Final payment of $22,750 is due. Ticket # OSD-3068",
+                "owner": "Dawn",
                 "project_name": "AppSec California 2020"
             }
         ],
         "description": "Each project will have a 2-3 paragraph overview narrative. Keep to the key top points about the project. Visitors should be able to read this short narrative and have a good understanding of the project without having to scroll the entire document.",
         "leaders": [
             {
-                "name": "Mike McCamon",
-                "email": "mike.mccamon@owasp.com"
+                "name": "Richard Greenberg",
+                "email": "richard.greenberg@owasp.org"
             }
         ],
         "url": "https://www2.owasp.org/www-staff/projects/2020-event-appsec-california"
