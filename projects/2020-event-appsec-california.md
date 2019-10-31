@@ -4,13 +4,13 @@ title: AppSec California 2020
 layout: full-width
 
 ---
-# AppSec California 2020
 ## Overview
 
 Each project will have a 2-3 paragraph overview narrative. Keep to the key top points about the project. Visitors should be able to read this short narrative and have a good understanding of the project without having to scroll the entire document.
 
 ## Project Links
 
+* [Contract with Annenberg Beach Resort](/www-staff/files/SIGNED_OWASP_AppSecCali_venue_contract.pdf)
 * [AppSec California Registration Site](https://2020.appseccalifornia.org/)
 
 ## Goals
@@ -21,35 +21,24 @@ Each project will have a 2-3 paragraph overview narrative. Keep to the key top p
 
 ## Milestones
 
-* [ ] In an unordered list (billeted) list major milestones in chronological order
-* [ ] Use the syntax of 2019-01-19, Milestone name, [Name of Owner]
-* [x] When milestones are completed, mark them with an "x"
-* [ ] A milestone isn't everyone’s to-do list, it is the high level tasks of the project
-* [ ] If you have more than 20 milestones, you’re being too granular
-* [ ] 2020-01-01, New Year's Eve Holiday, [All]
-* [ ] 2020-07-04, Independence Day (US) Holiday, [All]
+* [ ] 2020-11-15, Secure insurance for event per terms of contract (See below), [Dawn]
+* [ ] 2020-12-20, Final payment of $22,750 is due. Ticket # OSD-3068, [Dawn]
 
 ## Leadership
 
-* unordered list of each leader and a hyperlink to their email address.
-* [Mike McCamon](mailto:mike.mccamon@owasp.com?subject=Project%20Name)
+* [Richard Greenberg](mailto:richard.greenberg@owasp.org?subject=OWASP%20California%20Project)
 
-## Budget
-
-Description            | Amount
---------------         | ----:
-**Expenses**           | 
-Item 1                 | $ 10
-Item 2                 | $ 10 
-***Total Expenses**    | **$ 100**
-
+## Insurance Requiremnets from Venue Contract
+Prior to Permit being granted, Permittee shall procure/maintain a Commercial General Liability insurance
+policy in the amount of one million dollars ($1,000,000) per occurrence. The policy must provide coverage for
+participant liability. Events with attendance in excess of 100 persons will be required to provide Commercial
+General Liability insurance in the amount of $2 million dollars ($2,000,000) per occurrence.
 
 ## Logistics
 
 ### Name & URLs
 
-* Name: Global AppSec Tel Aviv
-* URL: [https://telaviv.appsecglobal.org/](https://telaviv.appsecglobal.org/)
+* Name: AppSec California 2020
 
 ### Venue
 
@@ -93,21 +82,15 @@ Staff Services         | $ 10
 This event offers several parter sponsorships opportunities.  If you are interested in supporting the event please contact [kelly@owasp.org](mailto:kelly@owasp.org&subject:Eventname). Below is a list of existing and available sponsorships. Please note all sponsorship levels include a table in the exhibition area and logos on conference materials and signage. All sponsor assets will go in a folder named sponsors in this repo.
 
 For internal accouting practices, the revenue split for Corporate Sponors who select this event will be $8,350 which is roughly equivilent to $7,000 plus two regularly priced conference passes and a badge scanner. The Corporate Sponsor will receive the same benefits as other Event Gold Sponsors.
+
 ## Legal
 
 This section will include a checklist of the key contracts and legal documents needed to execute an event. A folder in this repo named files will include PDFs of all fully executed agreements. IF any agreeement isn’t completed the status should be provided here.
 
-* Conference Organizing [ ]
-* Venue [ ]
-* Venue A/V (if different vendor [ ]
-* Catering [ ]
-* Event Insurance [ ]
-* Lead Collection [ ]
+* [x] Venue
+* [ ] Venue A/V (if different vendor
+* [ ] Catering
+* [ ] Event Insurance 
+* [ ] Lead Collection 
 
-## Creative
-
-Column1 | Column2
-------- | -------
-abc | defg
-abc | defg
 
