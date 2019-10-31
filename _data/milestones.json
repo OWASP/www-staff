@@ -1,205 +1,85 @@
 [
     {
-        "milestone_date": "2020-12-20",
-        "description": "Final payment of $22,750 is due. Ticket # OSD-3068",
-        "owner": "Dawn",
-        "project_name": "AppSec California 2020"
-    },
-    {
-        "milestone_date": "2020-11-15",
-        "description": "Secure insurance for event per terms of contract (See below)",
-        "owner": "Dawn",
-        "project_name": "AppSec California 2020"
-    },
-    {
-        "milestone_date": "2020-07-04",
-        "description": "Independence Day (US) Holiday",
-        "owner": "All",
-        "project_name": "Email Clean-Up"
-    },
-    {
-        "milestone_date": "2020-07-04",
-        "description": "Independence Day (US) Holiday",
-        "owner": "All",
-        "project_name": "2019Q4 Marketing"
-    },
-    {
-        "milestone_date": "2020-07-04",
-        "description": "Independence Day (US) Holiday, [All]TBD",
-        "owner": "No Owner",
-        "project_name": "Donation Form"
-    },
-    {
-        "milestone_date": "2020-07-04",
-        "description": "Independence Day (US) Holiday",
-        "owner": "All",
-        "project_name": "BlackHat London 2019"
-    },
-    {
-        "milestone_date": "2020-07-04",
-        "description": "Independence Day (US) Holiday, [All]TBD",
-        "owner": "No Owner",
-        "project_name": "Events Form"
-    },
-    {
-        "milestone_date": "2020-07-04",
-        "description": "Independence Day (US) Holiday",
-        "owner": "All",
-        "project_name": "ProjectS Summit - Winter 2020"
-    },
-    {
-        "milestone_date": "2020-07-04",
-        "description": "Independence Day (US) Holiday",
-        "owner": "All",
-        "project_name": "BlackHat Asia"
-    },
-    {
-        "milestone_date": "2020-07-04",
-        "description": "Independence Day (US) Holiday",
-        "owner": "All",
-        "project_name": "Global AppSec - Dublin"
-    },
-    {
-        "milestone_date": "2020-07-04",
-        "description": "Independence Day (US) Holiday",
-        "owner": "All",
-        "project_name": "Projects Summit Summer"
-    },
-    {
-        "milestone_date": "2020-07-04",
-        "description": "Independence Day (US) Holiday",
-        "owner": "All",
-        "project_name": "BlackHat Las Vegas"
-    },
-    {
-        "milestone_date": "2020-07-04",
-        "description": "Independence Day (US) Holiday",
-        "owner": "All",
-        "project_name": "DEFCON 28"
-    },
-    {
-        "milestone_date": "2020-07-04",
-        "description": "Independence Day (US) Holiday",
-        "owner": "All",
+        "milestone_date": "2019-10-01",
+        "description": "Sign contract for venue",
+        "owner": "Mike",
         "project_name": "Global AppSec - San Francisco"
     },
     {
-        "milestone_date": "2020-05-15",
-        "description": "Payment 45% of Rental Fee due",
-        "owner": "No Owner",
-        "project_name": "Global AppSec - Dublin"
-    },
-    {
-        "milestone_date": "2020-01-15",
-        "description": "Validate Meetup Connector",
+        "milestone_date": "2019-10-10",
+        "description": "Staff Projects migrated and in production",
         "owner": "No Owner",
         "project_name": "Website Re-launch"
     },
     {
-        "milestone_date": "2020-01-06",
-        "description": "Payment 45% of Rental Fee due",
-        "owner": "No Owner",
-        "project_name": "Global AppSec - Dublin"
-    },
-    {
-        "milestone_date": "2020-01-01",
-        "description": "New Year's Eve Holiday",
-        "owner": "All",
-        "project_name": "Email Clean-Up"
-    },
-    {
-        "milestone_date": "2020-01-01",
-        "description": "New Year's Eve Holiday",
-        "owner": "All",
+        "milestone_date": "2019-10-23",
+        "description": "Connect Rebecca and Susan with Project and Chapter leaders for copy",
+        "owner": "Mike",
         "project_name": "2019Q4 Marketing"
     },
     {
-        "milestone_date": "2020-01-01",
-        "description": "New Year's Eve Holiday",
-        "owner": "All",
+        "milestone_date": "2019-10-24",
+        "description": "Kickoff call",
+        "owner": "Mike",
         "project_name": "Donation Form"
     },
     {
-        "milestone_date": "2020-01-01",
-        "description": "New Year's Eve Holiday",
-        "owner": "All",
-        "project_name": "BlackHat London 2019"
+        "milestone_date": "2019-10-28",
+        "description": "Contract signed and project underway",
+        "owner": "No Owner",
+        "project_name": "Donation Form"
     },
     {
-        "milestone_date": "2020-01-01",
-        "description": "New Year's Eve Holiday",
-        "owner": "All",
-        "project_name": "Events Form"
+        "milestone_date": "2019-10-30",
+        "description": "Events pages migrated and in production",
+        "owner": "No Owner",
+        "project_name": "Website Re-launch"
     },
     {
-        "milestone_date": "2020-01-01",
-        "description": "New Year's Eve Holiday",
-        "owner": "All",
-        "project_name": "ProjectS Summit - Winter 2020"
+        "milestone_date": "2019-10-30",
+        "description": "Policy pages migrated and ready for Board Approval",
+        "owner": "No Owner",
+        "project_name": "Website Re-launch"
     },
     {
-        "milestone_date": "2020-01-01",
-        "description": "New Year's Eve Holiday",
-        "owner": "All",
-        "project_name": "BlackHat Asia"
-    },
-    {
-        "milestone_date": "2020-01-01",
-        "description": "New Year's Eve Holiday",
-        "owner": "All",
-        "project_name": "Global AppSec - Dublin"
-    },
-    {
-        "milestone_date": "2020-01-01",
-        "description": "New Year's Eve Holiday",
-        "owner": "All",
-        "project_name": "Projects Summit Summer"
-    },
-    {
-        "milestone_date": "2020-01-01",
-        "description": "New Year's Eve Holiday",
-        "owner": "All",
-        "project_name": "BlackHat Las Vegas"
-    },
-    {
-        "milestone_date": "2020-01-01",
-        "description": "New Year's Eve Holiday",
-        "owner": "All",
-        "project_name": "DEFCON 28"
-    },
-    {
-        "milestone_date": "2020-01-01",
-        "description": "New Year's Eve Holiday",
-        "owner": "All",
-        "project_name": "Global AppSec - San Francisco"
-    },
-    {
-        "milestone_date": "2019-12-20",
-        "description": "Launch End of Year Giving Campaign",
-        "owner": "Susan",
-        "project_name": "2019Q4 Marketing"
-    },
-    {
-        "milestone_date": "2019-12-20",
-        "description": "Website Launch",
+        "milestone_date": "2019-10-31",
+        "description": "Stub website with Sponsor pricing/info online.",
         "owner": "Harold",
-        "project_name": "Website Re-launch"
+        "project_name": "Global AppSec - Dublin"
     },
     {
-        "milestone_date": "2019-12-18",
-        "description": "Validate Google Analytics instance running",
+        "milestone_date": "2019-10-31",
+        "description": "Stub website with Sponsor pricing/info online.",
+        "owner": "Harold",
+        "project_name": "Global AppSec - San Francisco"
+    },
+    {
+        "milestone_date": "2019-11-28",
+        "description": "Corporate pages migrated (not production)",
         "owner": "No Owner",
         "project_name": "Website Re-launch"
     },
     {
-        "milestone_date": "2019-12-18",
-        "description": "Validate search redirect working site-wide",
+        "milestone_date": "2019-12-02",
+        "description": "Payment 10% of Rental Fee due",
+        "owner": "No Owner",
+        "project_name": "Global AppSec - Dublin"
+    },
+    {
+        "milestone_date": "2019-12-06",
+        "description": "Chapter pages migrated (not production)",
         "owner": "No Owner",
         "project_name": "Website Re-launch"
     },
     {
-        "milestone_date": "2019-12-17",
-        "description": "EXPECTED Website launch",
+        "milestone_date": "2019-12-06",
+        "description": "Project pages migrated (not production)",
+        "owner": "No Owner",
+        "project_name": "Website Re-launch"
+    },
+    {
+        "milestone_date": "2019-12-12",
+        "description": "Retire SalesForce member notification system",
         "owner": "No Owner",
         "project_name": "2019Q4 Marketing"
     },
@@ -222,87 +102,207 @@
         "project_name": "Website Re-launch"
     },
     {
-        "milestone_date": "2019-12-12",
-        "description": "Retire SalesForce member notification system",
+        "milestone_date": "2019-12-17",
+        "description": "EXPECTED Website launch",
         "owner": "No Owner",
         "project_name": "2019Q4 Marketing"
     },
     {
-        "milestone_date": "2019-12-06",
-        "description": "Chapter pages migrated (not production)",
+        "milestone_date": "2019-12-18",
+        "description": "Validate Google Analytics instance running",
         "owner": "No Owner",
         "project_name": "Website Re-launch"
     },
     {
-        "milestone_date": "2019-12-06",
-        "description": "Project pages migrated (not production)",
+        "milestone_date": "2019-12-18",
+        "description": "Validate search redirect working site-wide",
         "owner": "No Owner",
         "project_name": "Website Re-launch"
     },
     {
-        "milestone_date": "2019-12-02",
-        "description": "Payment 10% of Rental Fee due",
-        "owner": "No Owner",
-        "project_name": "Global AppSec - Dublin"
-    },
-    {
-        "milestone_date": "2019-11-28",
-        "description": "Corporate pages migrated (not production)",
-        "owner": "No Owner",
-        "project_name": "Website Re-launch"
-    },
-    {
-        "milestone_date": "2019-10-31",
-        "description": "Stub website with Sponsor pricing/info online.",
-        "owner": "Harold",
-        "project_name": "Global AppSec - Dublin"
-    },
-    {
-        "milestone_date": "2019-10-31",
-        "description": "Stub website with Sponsor pricing/info online.",
-        "owner": "Harold",
-        "project_name": "Global AppSec - San Francisco"
-    },
-    {
-        "milestone_date": "2019-10-30",
-        "description": "Events pages migrated and in production",
-        "owner": "No Owner",
-        "project_name": "Website Re-launch"
-    },
-    {
-        "milestone_date": "2019-10-30",
-        "description": "Policy pages migrated and ready for Board Approval",
-        "owner": "No Owner",
-        "project_name": "Website Re-launch"
-    },
-    {
-        "milestone_date": "2019-10-28",
-        "description": "Contract signed and project underway",
-        "owner": "No Owner",
-        "project_name": "Donation Form"
-    },
-    {
-        "milestone_date": "2019-10-24",
-        "description": "Kickoff call",
-        "owner": "Mike",
-        "project_name": "Donation Form"
-    },
-    {
-        "milestone_date": "2019-10-23",
-        "description": "Connect Rebecca and Susan with Project and Chapter leaders for copy",
-        "owner": "Mike",
+        "milestone_date": "2019-12-20",
+        "description": "Launch End of Year Giving Campaign",
+        "owner": "Susan",
         "project_name": "2019Q4 Marketing"
     },
     {
-        "milestone_date": "2019-10-10",
-        "description": "Staff Projects migrated and in production",
+        "milestone_date": "2019-12-20",
+        "description": "Website Launch",
+        "owner": "Harold",
+        "project_name": "Website Re-launch"
+    },
+    {
+        "milestone_date": "2020-01-01",
+        "description": "New Year's Eve Holiday",
+        "owner": "All",
+        "project_name": "Email Clean-Up"
+    },
+    {
+        "milestone_date": "2020-01-01",
+        "description": "New Year's Eve Holiday",
+        "owner": "All",
+        "project_name": "2019Q4 Marketing"
+    },
+    {
+        "milestone_date": "2020-01-01",
+        "description": "New Year's Eve Holiday",
+        "owner": "All",
+        "project_name": "Donation Form"
+    },
+    {
+        "milestone_date": "2020-01-01",
+        "description": "New Year's Eve Holiday",
+        "owner": "All",
+        "project_name": "BlackHat London 2019"
+    },
+    {
+        "milestone_date": "2020-01-01",
+        "description": "New Year's Eve Holiday",
+        "owner": "All",
+        "project_name": "Events Form"
+    },
+    {
+        "milestone_date": "2020-01-01",
+        "description": "New Year's Eve Holiday",
+        "owner": "All",
+        "project_name": "ProjectS Summit - Winter 2020"
+    },
+    {
+        "milestone_date": "2020-01-01",
+        "description": "New Year's Eve Holiday",
+        "owner": "All",
+        "project_name": "BlackHat Asia"
+    },
+    {
+        "milestone_date": "2020-01-01",
+        "description": "New Year's Eve Holiday",
+        "owner": "All",
+        "project_name": "Global AppSec - Dublin"
+    },
+    {
+        "milestone_date": "2020-01-01",
+        "description": "New Year's Eve Holiday",
+        "owner": "All",
+        "project_name": "Projects Summit Summer"
+    },
+    {
+        "milestone_date": "2020-01-01",
+        "description": "New Year's Eve Holiday",
+        "owner": "All",
+        "project_name": "BlackHat Las Vegas"
+    },
+    {
+        "milestone_date": "2020-01-01",
+        "description": "New Year's Eve Holiday",
+        "owner": "All",
+        "project_name": "DEFCON 28"
+    },
+    {
+        "milestone_date": "2020-01-01",
+        "description": "New Year's Eve Holiday",
+        "owner": "All",
+        "project_name": "Global AppSec - San Francisco"
+    },
+    {
+        "milestone_date": "2020-01-06",
+        "description": "Payment 45% of Rental Fee due",
+        "owner": "No Owner",
+        "project_name": "Global AppSec - Dublin"
+    },
+    {
+        "milestone_date": "2020-01-15",
+        "description": "Validate Meetup Connector",
         "owner": "No Owner",
         "project_name": "Website Re-launch"
     },
     {
-        "milestone_date": "2019-10-01",
-        "description": "Sign contract for venue",
-        "owner": "Mike",
+        "milestone_date": "2020-05-15",
+        "description": "Payment 45% of Rental Fee due",
+        "owner": "No Owner",
+        "project_name": "Global AppSec - Dublin"
+    },
+    {
+        "milestone_date": "2020-07-04",
+        "description": "Independence Day (US) Holiday",
+        "owner": "All",
+        "project_name": "Email Clean-Up"
+    },
+    {
+        "milestone_date": "2020-07-04",
+        "description": "Independence Day (US) Holiday",
+        "owner": "All",
+        "project_name": "2019Q4 Marketing"
+    },
+    {
+        "milestone_date": "2020-07-04",
+        "description": "Independence Day (US) Holiday, [All]TBD",
+        "owner": "No Owner",
+        "project_name": "Donation Form"
+    },
+    {
+        "milestone_date": "2020-07-04",
+        "description": "Independence Day (US) Holiday",
+        "owner": "All",
+        "project_name": "BlackHat London 2019"
+    },
+    {
+        "milestone_date": "2020-07-04",
+        "description": "Independence Day (US) Holiday, [All]TBD",
+        "owner": "No Owner",
+        "project_name": "Events Form"
+    },
+    {
+        "milestone_date": "2020-07-04",
+        "description": "Independence Day (US) Holiday",
+        "owner": "All",
+        "project_name": "ProjectS Summit - Winter 2020"
+    },
+    {
+        "milestone_date": "2020-07-04",
+        "description": "Independence Day (US) Holiday",
+        "owner": "All",
+        "project_name": "BlackHat Asia"
+    },
+    {
+        "milestone_date": "2020-07-04",
+        "description": "Independence Day (US) Holiday",
+        "owner": "All",
+        "project_name": "Global AppSec - Dublin"
+    },
+    {
+        "milestone_date": "2020-07-04",
+        "description": "Independence Day (US) Holiday",
+        "owner": "All",
+        "project_name": "Projects Summit Summer"
+    },
+    {
+        "milestone_date": "2020-07-04",
+        "description": "Independence Day (US) Holiday",
+        "owner": "All",
+        "project_name": "BlackHat Las Vegas"
+    },
+    {
+        "milestone_date": "2020-07-04",
+        "description": "Independence Day (US) Holiday",
+        "owner": "All",
+        "project_name": "DEFCON 28"
+    },
+    {
+        "milestone_date": "2020-07-04",
+        "description": "Independence Day (US) Holiday",
+        "owner": "All",
         "project_name": "Global AppSec - San Francisco"
+    },
+    {
+        "milestone_date": "2020-11-15",
+        "description": "Secure insurance for event per terms of contract (See below)",
+        "owner": "Dawn",
+        "project_name": "AppSec California 2020"
+    },
+    {
+        "milestone_date": "2020-12-20",
+        "description": "Final payment of $22,750 is due. Ticket # OSD-3068",
+        "owner": "Dawn",
+        "project_name": "AppSec California 2020"
     }
 ]
