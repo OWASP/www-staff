@@ -86,7 +86,7 @@ For internal accouting practices, the revenue split for Corporate Sponors who se
 
 This section will include a checklist of the key contracts and legal documents needed to execute an event. A folder in this repo named files will include PDFs of all fully executed agreements. IF any agreeement isn’t completed the status should be provided here.
 
-* [x] Venue [Contract with Annenberg Beach Resort](/www-staff/files/SIGNED_OWASP_AppSecCali_venue_contract.pdf)
+* [x] Venue [Contract with Annenberg Beach Resort](/www-staff/files/SIGNED2_OWASP_AppSecCali_venue_contract.pdf)
 * [ ] Venue A/V (if different vendor
 * [ ] Catering
 * [ ] Event Insurance 
