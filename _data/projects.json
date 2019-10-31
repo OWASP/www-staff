@@ -85,12 +85,6 @@
         "name": "Donation Form",
         "milestones": [
             {
-                "milestone_date": "2019-10-24",
-                "description": "Kickoff call",
-                "owner": "Mike",
-                "project_name": "Donation Form"
-            },
-            {
                 "milestone_date": "2019-10-28",
                 "description": "Contract signed and project underway",
                 "owner": "No Owner",
@@ -145,12 +139,6 @@
     {
         "name": "Website Re-launch",
         "milestones": [
-            {
-                "milestone_date": "2019-10-10",
-                "description": "Staff Projects migrated and in production",
-                "owner": "No Owner",
-                "project_name": "Website Re-launch"
-            },
             {
                 "milestone_date": "2019-10-30",
                 "description": "Events pages migrated and in production",
@@ -466,12 +454,6 @@
     {
         "name": "Global AppSec - San Francisco",
         "milestones": [
-            {
-                "milestone_date": "2019-10-01",
-                "description": "Sign contract for venue",
-                "owner": "Mike",
-                "project_name": "Global AppSec - San Francisco"
-            },
             {
                 "milestone_date": "2019-10-31",
                 "description": "Stub website with Sponsor pricing/info online.",
