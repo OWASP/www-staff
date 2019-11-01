@@ -27,6 +27,15 @@ layout: full-width
 {% endfor %}
 </ul> 
 
+<div class='milestones'>
+<ul>
+{% for milestone in site.data.milestones %}
+    {% assign project = site.data.projects | where: 'name', milestone.project_name | first %}
+   <li>{{ milestone.milestone_date }}, {{ milestone.owner }}, {{ milestone.description }} - <a href='{{ project.url }}'>{{ milestone.project_name }}</a></li>
+{% endfor %}
+</ul> 
+
+
 {% for owner in owners_unique %}
 <section id="{{ owner | replace: ' ', '-' }}">
 <h2>{{ owner }}'s Milestones</h2>
