@@ -110,6 +110,13 @@ Gold
 - Wallarm (CS)
 - Waratek (CS) 
 
+Conference Bag Sponsorship (2) - SOLD OUT
+- NCC Group
+- SecureWorks
+
+Lanyard Sponsorship (1) - SOLD OUT
+- SecureWorks
+
 ## Legal
 
 This section will include a checklist of the key contracts and legal documents needed to execute an event. A folder in this repo named files will include PDFs of all fully executed agreements. IF any agreeement isn’t completed the status should be provided here.
