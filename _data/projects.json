@@ -17,7 +17,7 @@
             },
             {
                 "milestone_date": "2020-07-04",
-                "description": "Independence Day (US) Holiday",
+                "description": "Independence Day (US) Holiday,",
                 "owner": "All",
                 "project_name": "Email Clean-Up"
             }
@@ -80,7 +80,7 @@
             },
             {
                 "milestone_date": "2020-01-01",
-                "description": "New Year's Eve Holiday",
+                "description": "New Year's Eve Holiday,",
                 "owner": "All",
                 "project_name": "Donation Form"
             },
@@ -109,25 +109,25 @@
         "milestones": [
             {
                 "milestone_date": "2019-11-15",
-                "description": "egister volunteers and schedule",
+                "description": "Register volunteers and schedule",
                 "owner": "Lisa",
                 "project_name": "BlackHat London 2019"
             },
             {
                 "milestone_date": "2019-11-18",
-                "description": "inalize SWAG and handouts with Mike and order",
+                "description": "Finalize SWAG and handouts with Mike and order",
                 "owner": "Mike & Lisa",
                 "project_name": "BlackHat London 2019"
             },
             {
                 "milestone_date": "2020-01-01",
-                "description": "New Year's Eve Holiday",
+                "description": "New Year's Eve Holiday,",
                 "owner": "All",
                 "project_name": "BlackHat London 2019"
             },
             {
                 "milestone_date": "2020-07-04",
-                "description": "Independence Day (US) Holiday",
+                "description": "Independence Day (US) Holiday,",
                 "owner": "All",
                 "project_name": "BlackHat London 2019"
             }
@@ -224,7 +224,7 @@
         "milestones": [
             {
                 "milestone_date": "2020-01-01",
-                "description": "New Year's Eve Holiday",
+                "description": "New Year's Eve Holiday,",
                 "owner": "All",
                 "project_name": "Events Form"
             },
@@ -257,18 +257,18 @@
         "milestones": [
             {
                 "milestone_date": "2019-11-15",
-                "description": "Secure insurance for event per terms of contract (See below)",
+                "description": "Secure insurance for event per terms of contract (See below),",
                 "owner": "Dawn",
                 "project_name": "AppSec California 2020"
             },
             {
                 "milestone_date": "2019-12-20",
-                "description": "Final payment of $22,750 is due. Ticket # OSD-3068",
+                "description": "Final payment of $22,750 is due. Ticket # OSD-3068,",
                 "owner": "Dawn",
                 "project_name": "AppSec California 2020"
             }
         ],
-        "description": "Each project will have a 2-3 paragraph overview narrative. Keep to the key top points about the project. Visitors should be able to read this short narrative and have a good understanding of the project without having to scroll the entire document.",
+        "description": "tle: AppSec California 2020layout: full-width---# AppSec California 2020",
         "leaders": [
             {
                 "name": "Richard Greenberg",
@@ -361,13 +361,13 @@
         "milestones": [
             {
                 "milestone_date": "2020-01-01",
-                "description": "New Year's Eve Holiday",
+                "description": "New Year's Eve Holiday,",
                 "owner": "All",
                 "project_name": "ProjectS Summit - Winter 2020"
             },
             {
                 "milestone_date": "2020-07-04",
-                "description": "Independence Day (US) Holiday",
+                "description": "Independence Day (US) Holiday,",
                 "owner": "All",
                 "project_name": "ProjectS Summit - Winter 2020"
             }
@@ -386,13 +386,13 @@
         "milestones": [
             {
                 "milestone_date": "2020-01-01",
-                "description": "New Year's Eve Holiday",
+                "description": "New Year's Eve Holiday,",
                 "owner": "All",
                 "project_name": "BlackHat Asia"
             },
             {
                 "milestone_date": "2020-07-04",
-                "description": "Independence Day (US) Holiday",
+                "description": "Independence Day (US) Holiday,",
                 "owner": "All",
                 "project_name": "BlackHat Asia"
             }
@@ -441,7 +441,7 @@
             },
             {
                 "milestone_date": "2020-05-15",
-                "description": "Payment 45% of Rental Fee due",
+                "description": "Payment 45% of Rental Fee due,",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin"
             }
@@ -460,13 +460,13 @@
         "milestones": [
             {
                 "milestone_date": "2020-01-01",
-                "description": "New Year's Eve Holiday",
+                "description": "New Year's Eve Holiday,",
                 "owner": "All",
                 "project_name": "Projects Summit Summer"
             },
             {
                 "milestone_date": "2020-07-04",
-                "description": "Independence Day (US) Holiday",
+                "description": "Independence Day (US) Holiday,",
                 "owner": "All",
                 "project_name": "Projects Summit Summer"
             }
@@ -485,13 +485,13 @@
         "milestones": [
             {
                 "milestone_date": "2020-01-01",
-                "description": "New Year's Eve Holiday",
+                "description": "New Year's Eve Holiday,",
                 "owner": "All",
                 "project_name": "BlackHat Las Vegas"
             },
             {
                 "milestone_date": "2020-07-04",
-                "description": "Independence Day (US) Holiday",
+                "description": "Independence Day (US) Holiday,",
                 "owner": "All",
                 "project_name": "BlackHat Las Vegas"
             }
@@ -510,13 +510,13 @@
         "milestones": [
             {
                 "milestone_date": "2020-01-01",
-                "description": "New Year's Eve Holiday",
+                "description": "New Year's Eve Holiday,",
                 "owner": "All",
                 "project_name": "DEFCON 28"
             },
             {
                 "milestone_date": "2020-07-04",
-                "description": "Independence Day (US) Holiday",
+                "description": "Independence Day (US) Holiday,",
                 "owner": "All",
                 "project_name": "DEFCON 28"
             }
@@ -541,13 +541,13 @@
             },
             {
                 "milestone_date": "2020-01-01",
-                "description": "New Year's Eve Holiday",
+                "description": "New Year's Eve Holiday,",
                 "owner": "All",
                 "project_name": "Global AppSec - San Francisco"
             },
             {
                 "milestone_date": "2020-07-04",
-                "description": "Independence Day (US) Holiday",
+                "description": "Independence Day (US) Holiday,",
                 "owner": "All",
                 "project_name": "Global AppSec - San Francisco"
             }
