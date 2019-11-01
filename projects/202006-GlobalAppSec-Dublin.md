@@ -25,18 +25,12 @@ Use this section for important links for projects/events that visitors will need
 
 ## Milestones
 
-* [ ] 2019-10-31, Stub website with Sponsor pricing/info online. [Harold]
-* [ ] 2019-12-02, Payment 10% of Rental Fee due
-* [ ] 2020-01-06, Payment 45% of Rental Fee due
-* [ ] 2020-05-15, Payment 45% of Rental Fee due
-
-* [ ] In an unordered list (billeted) list major milestones in chronological order
-* [ ] Use the syntax of 2019-01-19, Milestone name, [Name of Owner]
-* [x] When milestones are completed, mark them with an "x"
-* [ ] A milestone isn't everyone’s to-do list, it is the high level tasks of the project
-* [ ] If you have more than 20 milestones, you’re being too granular
-* [ ] 2020-01-01, New Year's Eve Holiday, [All]
-* [ ] 2020-07-04, Independence Day (US) Holiday, [All]
+[ ] 2019-10-31, Stub website with Sponsor pricing/info online. [Harold]
+[ ] 2019-11-04, Launch Call for Program Team Members, [Emily]
+[ ] 2019-12-01, Close Call for Program Team Members, [Emily]
+[ ] 2019-12-02, Payment 10% of Rental Fee due, [Emily]
+[ ] 2020-01-06, Payment 45% of Rental Fee due, [Emily]
+[ ] 2020-05-15, Payment 45% of Rental Fee due, [Emily]
 
 
 
@@ -50,7 +44,7 @@ Use this section for important links for projects/events that visitors will need
 ### Name & URLs
 
 * Name: Global AppSec Tel Aviv
-* URL: [https://telaviv.appsecglobal.org/](https://telaviv.appsecglobal.org/)
+* URL: [https://dublin.appsecglobal.org/](https://dublin.appsecglobal.org/)
 
 ### Venue
 
@@ -71,23 +65,23 @@ The high level budget should be listed below as a table. The full budget should 
 Description            | Amount
 --------------         | ------------:
 **Income**             | 
-Registration           | $ 10 
-Training               | $ 10
-Sponsorships           | $ 10
-**Total Income**       | **$ 100**
+Registration           | € 308,800
+Training               | € 191,250
+Sponsorships           | € 450,000
+**Total Income**       | **€ 950,050**
 **Expenses**           | 
-Accomodations          | $ 10
-Travel                 | $ 10 
-Internet               | $ 10 
-Marketing/Swag         | $ 10
-AV                     | $ 10 
-Printing & Branding    | $ 10
-Expo                   | $ 10
-Meeting Room Rental    | $ 10
-Catering               | $ 10
-Staff Services         | $ 10 
-***Total Expenses**    | **$ 100**
-**Net Profit**         | **$ 100**
+Accomodations          | € 17,615
+Travel                 | € 20,200 
+Internet               | € 27,500
+Marketing/Swag         | € 19,662
+AV                     | € 16,500 
+Printing & Branding    | € 16,868
+Expo                   | € 20,020
+Meeting Room Rental    | € 449,295
+Catering               | included above
+Staff Services         | € 100,000
+***Total Expenses**    | **€ 707,661**
+**Net Profit**         | **€ 242,388**
 
 ## Sponsorships
 
