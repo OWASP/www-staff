@@ -4,9 +4,7 @@ title: Milestones
 layout: full-width
 
 ---
-{{ site.time }}
-
-   {% assign owners_unique = site.data.milestones | map: 'owner' | join: ',' | split: ',' | uniq | sort %}
+{% assign owners_unique = site.data.milestones | map: 'owner' | join: ',' | split: ',' | uniq | sort %}
 
 <div style='display:block;'>
 <h2>Organizational View</h2>
