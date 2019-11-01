@@ -1,8 +1,8 @@
 [
     {
         "milestone_date": "2019-10-23",
-        "description": "Connect Rebecca and Susan with Project and Chapter leaders for copy [Mike]-  2019-12-12, Retire SalesForce member notification system [Harold]-  2019-12-13, Spotlight Content Complete and Ready for launch [Susan]-  2019-12-17, EXPECTED Website launch [Harold]-  2019-12-20, Launch End of Year Giving Campaign",
-        "owner": "Susan",
+        "description": "Connect Rebecca and Susan with Project and Chapter leaders for copy",
+        "owner": "Mike",
         "project_name": "2019Q4 Marketing"
     },
     {
@@ -25,8 +25,8 @@
     },
     {
         "milestone_date": "2019-10-31",
-        "description": "Stub website with Sponsor pricing/info online. [Harold]-  2019-11-04, Launch Call for Program Team Members, [Emily]-  2019-12-01, Close Call for Program Team Members, [Emily]-  2019-12-02, Payment 10% of Rental Fee due, [Emily]-  2020-01-06, Payment 45% of Rental Fee due, [Emily]-  2020-05-15, Payment 45% of Rental Fee due,",
-        "owner": "Emily",
+        "description": "Stub website with Sponsor pricing/info online.",
+        "owner": "Harold",
         "project_name": "Global AppSec - Dublin"
     },
     {
@@ -34,6 +34,12 @@
         "description": "Stub website with Sponsor pricing/info online.",
         "owner": "Harold",
         "project_name": "Global AppSec - San Francisco"
+    },
+    {
+        "milestone_date": "2019-11-04",
+        "description": "Launch Call for Program Team Members,",
+        "owner": "Emily",
+        "project_name": "Global AppSec - Dublin"
     },
     {
         "milestone_date": "2019-11-15",
@@ -60,6 +66,18 @@
         "project_name": "Website Re-launch"
     },
     {
+        "milestone_date": "2019-12-01",
+        "description": "Close Call for Program Team Members,",
+        "owner": "Emily",
+        "project_name": "Global AppSec - Dublin"
+    },
+    {
+        "milestone_date": "2019-12-02",
+        "description": "Payment 10% of Rental Fee due,",
+        "owner": "Emily",
+        "project_name": "Global AppSec - Dublin"
+    },
+    {
         "milestone_date": "2019-12-06",
         "description": "Chapter pages migrated (not production)",
         "owner": "No Owner",
@@ -72,6 +90,18 @@
         "project_name": "Website Re-launch"
     },
     {
+        "milestone_date": "2019-12-12",
+        "description": "Retire SalesForce member notification system",
+        "owner": "Harold",
+        "project_name": "2019Q4 Marketing"
+    },
+    {
+        "milestone_date": "2019-12-13",
+        "description": "Spotlight Content Complete and Ready for launch",
+        "owner": "Susan",
+        "project_name": "2019Q4 Marketing"
+    },
+    {
         "milestone_date": "2019-12-13",
         "description": "Redirect system in place and ready for launch",
         "owner": "No Owner",
@@ -82,6 +112,12 @@
         "description": "Validate in-bound search redirect working on events/policy pages",
         "owner": "No Owner",
         "project_name": "Website Re-launch"
+    },
+    {
+        "milestone_date": "2019-12-17",
+        "description": "EXPECTED Website launch",
+        "owner": "Harold",
+        "project_name": "2019Q4 Marketing"
     },
     {
         "milestone_date": "2019-12-18",
@@ -97,6 +133,12 @@
     },
     {
         "milestone_date": "2019-12-20",
+        "description": "Launch End of Year Giving Campaign",
+        "owner": "Susan",
+        "project_name": "2019Q4 Marketing"
+    },
+    {
+        "milestone_date": "2019-12-20",
         "description": "Website Launch",
         "owner": "Harold",
         "project_name": "Website Re-launch"
@@ -106,6 +148,12 @@
         "description": "Final payment of $22,750 is due. Ticket # OSD-3068,",
         "owner": "Dawn",
         "project_name": "AppSec California 2020"
+    },
+    {
+        "milestone_date": "2020-01-01",
+        "description": "New Year's Eve Holiday,",
+        "owner": "All",
+        "project_name": "Email Clean-Up"
     },
     {
         "milestone_date": "2020-01-01",
@@ -127,7 +175,7 @@
     },
     {
         "milestone_date": "2020-01-01",
-        "description": "New Year\u2019s Day-",
+        "description": "New Year\u2019s Day",
         "owner": "No Owner",
         "project_name": "OWASP Staff Holidays"
     },
@@ -168,6 +216,12 @@
         "project_name": "Global AppSec - San Francisco"
     },
     {
+        "milestone_date": "2020-01-06",
+        "description": "Payment 45% of Rental Fee due,",
+        "owner": "Emily",
+        "project_name": "Global AppSec - Dublin"
+    },
+    {
         "milestone_date": "2020-01-15",
         "description": "Validate Meetup Connector",
         "owner": "No Owner",
@@ -175,21 +229,33 @@
     },
     {
         "milestone_date": "2020-02-17",
-        "description": "Presidents Day-",
+        "description": "Presidents Day",
         "owner": "No Owner",
         "project_name": "OWASP Staff Holidays"
     },
     {
+        "milestone_date": "2020-05-15",
+        "description": "Payment 45% of Rental Fee due,",
+        "owner": "Emily",
+        "project_name": "Global AppSec - Dublin"
+    },
+    {
         "milestone_date": "2020-05-25",
-        "description": "Memorial Day-",
+        "description": "Memorial Day",
         "owner": "No Owner",
         "project_name": "OWASP Staff Holidays"
     },
     {
         "milestone_date": "2020-07-03",
-        "description": "Independence Day (Observed)-",
+        "description": "Independence Day (Observed)",
         "owner": "No Owner",
         "project_name": "OWASP Staff Holidays"
+    },
+    {
+        "milestone_date": "2020-07-04",
+        "description": "Independence Day (US) Holiday,",
+        "owner": "All",
+        "project_name": "Email Clean-Up"
     },
     {
         "milestone_date": "2020-07-04",
@@ -247,37 +313,37 @@
     },
     {
         "milestone_date": "2020-09-07",
-        "description": "Labor Day-",
+        "description": "Labor Day",
         "owner": "No Owner",
         "project_name": "OWASP Staff Holidays"
     },
     {
         "milestone_date": "2020-11-03",
-        "description": "Federal Election Day-",
+        "description": "Federal Election Day",
         "owner": "No Owner",
         "project_name": "OWASP Staff Holidays"
     },
     {
         "milestone_date": "2020-11-26",
-        "description": "Thanksgiving Day-",
+        "description": "Thanksgiving Day",
         "owner": "No Owner",
         "project_name": "OWASP Staff Holidays"
     },
     {
         "milestone_date": "2020-11-27",
-        "description": "Day after Thanksgiving-",
+        "description": "Day after Thanksgiving",
         "owner": "No Owner",
         "project_name": "OWASP Staff Holidays"
     },
     {
         "milestone_date": "2020-12-24",
-        "description": "Christmas Eve-",
+        "description": "Christmas Eve",
         "owner": "No Owner",
         "project_name": "OWASP Staff Holidays"
     },
     {
         "milestone_date": "2020-12-25",
-        "description": "Christmas Day-",
+        "description": "Christmas Day",
         "owner": "No Owner",
         "project_name": "OWASP Staff Holidays"
     },
