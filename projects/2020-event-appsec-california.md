@@ -6,14 +6,6 @@ layout: full-width
 ---
 # AppSec California 2020
 
-<!-- Place this tag in your head or just before your close body tag. -->
-<script async defer src="https://buttons.github.io/buttons.js"></script>
-<!-- Place this tag where you want the button to render. --><a class="github-button" href="https://github.com/owasp/www-staff"  data-icon="octicon-eye" data-size="large" data-show-count="true" aria-label="Watch ntkme/github-buttons on GitHub">Watch</a>
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/owasp/www-staff" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star ntkme/github-buttons on GitHub">Star</a>
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/owasp/www-staff/issues" data-icon="octicon-issue-opened" data-size="large" data-show-count="true" aria-label="Issue owasp/www-staff on GitHub">Issue</a>
-
 ## Sponsorships
 
 This event offers several parter sponsorships opportunities.  If you are interested in supporting the event please contact [kelly@owasp.org](mailto:kelly@owasp.org&subject:Eventname). Below is a list of existing and available sponsorships. Please note all sponsorship levels include a table in the exhibition area and logos on conference materials and signage. All sponsor assets will go in a folder named sponsors in this repo. 
