@@ -25,16 +25,11 @@ Use this section for important links for projects/events that visitors will need
 
 ## Milestones
 
-* [x] 2019-10-01, Sign contract for venue, [Mike]
-* [ ] 2019-10-31, Stub website with Sponsor pricing/info online. [Harold]
-* [ ] In an unordered list (billeted) list major milestones in chronological order
-* [ ] Use the syntax of 2019-01-19, Milestone name, [Name of Owner]
-* [x] When milestones are completed, mark them with an "x"
-* [ ] A milestone isn't everyone’s to-do list, it is the high level tasks of the project
-* [ ] If you have more than 20 milestones, you’re being too granular
-* [ ] 2020-01-01, New Year's Eve Holiday, [All]
-* [ ] 2020-07-04, Independence Day (US) Holiday, [All]
-
+- [x] 2019-09-22, Action item completed, [All]
+- [x] 2019-09-30, You can leave the box UNCHECKED if not completed but you must edit page to change state, [All]
+- [x] 2019-10-01, Sign contract for venue, [Mike]
+- [ ] 2019-10-31, Stub website with Sponsor pricing/info online. [Harold]
+- [ ] 2019-11-10, Populate Project Page with required content, [Emily]
 ## Leadership
 
 * unordered list of each leader and a hyperlink to their email address.
