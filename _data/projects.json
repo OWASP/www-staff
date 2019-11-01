@@ -8,20 +8,7 @@
     },
     {
         "name": "Email Clean-Up",
-        "milestones": [
-            {
-                "milestone_date": "2020-01-01",
-                "description": "New Year's Eve Holiday, [All]-",
-                "owner": "No Owner",
-                "project_name": "Email Clean-Up"
-            },
-            {
-                "milestone_date": "2020-07-04",
-                "description": "Independence Day (US) Holiday,",
-                "owner": "All",
-                "project_name": "Email Clean-Up"
-            }
-        ],
+        "milestones": [],
         "description": "MailChimp is the email tool of record for the OWASP Foundation. Given the GDPR rules of the EU and the undocumented history of email address imports into MailChimp, this project's aim is to re-validate every address in our system for an opt-in for marketing emails. OWASP should take a leadership position in p[roactively cleansing our email list and ensure voluntary opt-in of addresses.The project will primarily be a series of emails requesting recipients to opt-in to Foundation marketing messages.",
         "leaders": [
             {
@@ -36,31 +23,7 @@
         "milestones": [
             {
                 "milestone_date": "2019-10-23",
-                "description": "Connect Rebecca and Susan with Project and Chapter leaders for copy [Mike]-",
-                "owner": "No Owner",
-                "project_name": "2019Q4 Marketing"
-            },
-            {
-                "milestone_date": "2019-12-13",
-                "description": "Spotlight Content Complete and Ready for launch [Susan]-",
-                "owner": "No Owner",
-                "project_name": "2019Q4 Marketing"
-            },
-            {
-                "milestone_date": "2019-12-12",
-                "description": "Retire SalesForce member notification system [Harold]-",
-                "owner": "No Owner",
-                "project_name": "2019Q4 Marketing"
-            },
-            {
-                "milestone_date": "2019-12-17",
-                "description": "EXPECTED Website launch [Harold]-",
-                "owner": "No Owner",
-                "project_name": "2019Q4 Marketing"
-            },
-            {
-                "milestone_date": "2019-12-20",
-                "description": "Launch End of Year Giving Campaign",
+                "description": "Connect Rebecca and Susan with Project and Chapter leaders for copy [Mike]-  2019-12-12, Retire SalesForce member notification system [Harold]-  2019-12-13, Spotlight Content Complete and Ready for launch [Susan]-  2019-12-17, EXPECTED Website launch [Harold]-  2019-12-20, Launch End of Year Giving Campaign",
                 "owner": "Susan",
                 "project_name": "2019Q4 Marketing"
             }
@@ -411,37 +374,7 @@
         "milestones": [
             {
                 "milestone_date": "2019-10-31",
-                "description": "Stub website with Sponsor pricing/info online. [Harold]-",
-                "owner": "No Owner",
-                "project_name": "Global AppSec - Dublin"
-            },
-            {
-                "milestone_date": "2019-11-04",
-                "description": "Launch Call for Program Team Members, [Emily]-",
-                "owner": "No Owner",
-                "project_name": "Global AppSec - Dublin"
-            },
-            {
-                "milestone_date": "2019-12-01",
-                "description": "Close Call for Program Team Members, [Emily]-",
-                "owner": "No Owner",
-                "project_name": "Global AppSec - Dublin"
-            },
-            {
-                "milestone_date": "2019-12-02",
-                "description": "Payment 10% of Rental Fee due, [Emily]-",
-                "owner": "No Owner",
-                "project_name": "Global AppSec - Dublin"
-            },
-            {
-                "milestone_date": "2020-01-06",
-                "description": "Payment 45% of Rental Fee due, [Emily]-",
-                "owner": "No Owner",
-                "project_name": "Global AppSec - Dublin"
-            },
-            {
-                "milestone_date": "2020-05-15",
-                "description": "Payment 45% of Rental Fee due,",
+                "description": "Stub website with Sponsor pricing/info online. [Harold]-  2019-11-04, Launch Call for Program Team Members, [Emily]-  2019-12-01, Close Call for Program Team Members, [Emily]-  2019-12-02, Payment 10% of Rental Fee due, [Emily]-  2020-01-06, Payment 45% of Rental Fee due, [Emily]-  2020-05-15, Payment 45% of Rental Fee due,",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin"
             }
