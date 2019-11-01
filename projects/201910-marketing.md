@@ -29,6 +29,7 @@ layout: full-width
 
 ## Milestones
 - [ ] 2019-10-23, Connect Rebecca and Susan with Project and Chapter leaders for copy [Mike]
+- [ ] 2019-11-15, Connect Susan to personalities for EOY Campaign, [Mike]
 - [ ] 2019-12-12, Retire SalesForce member notification system [Harold]
 - [ ] 2019-12-13, Spotlight Content Complete and Ready for launch [Susan]
 - [ ] 2019-12-17, EXPECTED Website launch [Harold]
@@ -82,7 +83,8 @@ Spotlights – 425 to 445 characters, short concise on projects and chapters.  A
 
 ## End of Year Campaign
 
-In development
+Series of four emails with stories about the people involved and why the Foundation work is important. Chapter Leader, Project Leader, Old timer, new member.
+
 
 ## Press Releases
 
