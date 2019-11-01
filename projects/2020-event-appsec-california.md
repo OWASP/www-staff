@@ -22,8 +22,8 @@ Each project will have a 2-3 paragraph overview narrative. Keep to the key top p
 
 ## Milestones
 
-* [ ] 2020-11-15, Secure insurance for event per terms of contract (See below), [Dawn]
-* [ ] 2020-12-20, Final payment of $22,750 is due. Ticket # OSD-3068, [Dawn]
+* [ ] 2019-11-15, Secure insurance for event per terms of contract (See below), [Dawn]
+* [ ] 2019-12-20, Final payment of $22,750 is due. Ticket # OSD-3068, [Dawn]
 
 ## Leadership
 
