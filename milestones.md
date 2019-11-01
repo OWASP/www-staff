@@ -23,12 +23,14 @@ layout: full-width
    <li>{{ milestone.milestone_date }} - <a href='{{ project.url }}'>{{ milestone.project_name }}</a>, {{ milestone.description }}, [{{ milestone.owner }}]</li>
 {% endfor %}
 </ul> 
+</div>
 
 
 {% for owner in owners_unique %}
 <section id="{{ owner | replace: ' ', '-' }}">
-<h3>{{ owner }}'s Milestones</h2>
-<ul>
+<h2>{{ owner }}'s Milestones</h2>
+
+<div class='milestones'><ul>
 {% for milestone in site.data.milestones %}
     {% assign project = site.data.projects | where: 'name', milestone.project_name | first %}
    <li>{{ milestone.milestone_date }} - <a href='{{ project.url }}'>{{ milestone.project_name }}</a>, {{ milestone.description }}, [{{ milestone.owner }}]</li>
