@@ -45,6 +45,7 @@ Contact info is https://owasporg.atlassian.net/servicedesk/customer/portal/7/gro
 * Day 0 – Welcome, Thanks for joining, link to the website
 * Day 3 – Chapter meetings; join a local chapter, there are 267 local chapters
 * Day 7 – All you can do as a member, i.e. conference and trainings, local meetings – call to action
+* Day 14 - Become a donor
 
 ### Memberships Expiring cadence and messaging
 * 60 days in advance of expiration – Highlight the benefits of membership, discounts on conference prices,
