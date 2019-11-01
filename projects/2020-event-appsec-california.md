@@ -80,9 +80,35 @@ Staff Services         | $ 10
 
 ## Sponsorships
 
-This event offers several parter sponsorships opportunities.  If you are interested in supporting the event please contact [kelly@owasp.org](mailto:kelly@owasp.org&subject:Eventname). Below is a list of existing and available sponsorships. Please note all sponsorship levels include a table in the exhibition area and logos on conference materials and signage. All sponsor assets will go in a folder named sponsors in this repo.
+This event offers several parter sponsorships opportunities.  If you are interested in supporting the event please contact [kelly@owasp.org](mailto:kelly@owasp.org&subject:Eventname). Below is a list of existing and available sponsorships. Please note all sponsorship levels include a table in the exhibition area and logos on conference materials and signage. All sponsor assets will go in a folder named sponsors in this repo. 
 
 For internal accouting practices, the revenue split for Corporate Sponors who select this event will be $8,350 which is roughly equivilent to $7,000 plus two regularly priced conference passes and a badge scanner. The Corporate Sponsor will receive the same benefits as other Event Gold Sponsors.
+
+Sponsorship Contract Status to Date (as of 08:00amET November 1, 2019). Amount contracted: $169,900/USD Amount Collected: $98,150.00/USD
+
+Diamond (3) - 2 remaining
+- Shiftleft
+
+Platinum (3) - 3 remaining
+
+Gold 
+- Altitude Networks (CS)
+- Avatao (CS) 
+- Cequence Security (CS) 
+- Checkmarx (CS)
+- Code DX (CS)
+- Gitlab 
+- HackerOne
+- MicroFocus
+- Netsparker
+- NowSecure (CS)
+- Qualys (CS)
+- Secure Code Warrior (CS) 
+- Security Journey (CS) 
+- Snyk (CS)
+- Synopsys (CS)
+- Wallarm (CS)
+- Waratek (CS) 
 
 ## Legal
 
