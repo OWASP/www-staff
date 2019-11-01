@@ -6,19 +6,58 @@ layout: full-width
 ---
 # AppSec California 2020
 
-## Overview
+<!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+<!-- Place this tag where you want the button to render. --><a class="github-button" href="https://github.com/owasp/www-staff"  data-icon="octicon-eye" data-size="large" data-show-count="true" aria-label="Watch ntkme/github-buttons on GitHub">Watch</a>
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/owasp/www-staff" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star ntkme/github-buttons on GitHub">Star</a>
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/owasp/www-staff/issues" data-icon="octicon-issue-opened" data-size="large" data-show-count="true" aria-label="Issue owasp/www-staff on GitHub">Issue</a>
 
-Each project will have a 2-3 paragraph overview narrative. Keep to the key top points about the project. Visitors should be able to read this short narrative and have a good understanding of the project without having to scroll the entire document.
+## Sponsorships
+
+This event offers several parter sponsorships opportunities.  If you are interested in supporting the event please contact [kelly@owasp.org](mailto:kelly@owasp.org&subject:Eventname). Below is a list of existing and available sponsorships. Please note all sponsorship levels include a table in the exhibition area and logos on conference materials and signage. All sponsor assets will go in a folder named sponsors in this repo. 
+
+For internal accouting practices, the revenue split for Corporate Sponors who select this event will be $8,350 which is roughly equivilent to $7,000 plus two regularly priced conference passes and a badge scanner. The Corporate Sponsor will receive the same benefits as other Event Gold Sponsors.
+
+## Sponsorship Status
+
+Sponsorship Contract Status to Date (as of 08:00amET November 1, 2019). Amount contracted: $169,900/USD Amount Collected: $98,150.00/USD
+
+#### Diamond (3) - 2 remaining
+- Shiftleft
+
+#### Platinum (3) - 3 remaining
+
+#### Gold 
+- Altitude Networks (CS)
+- Avatao (CS) 
+- Cequence Security (CS) 
+- Checkmarx (CS)
+- Code DX (CS)
+- Gitlab 
+- HackerOne
+- MicroFocus
+- Netsparker
+- NowSecure (CS)
+- Qualys (CS)
+- Secure Code Warrior (CS) 
+- Security Journey (CS) 
+- Snyk (CS)
+- Synopsys (CS)
+- Wallarm (CS)
+- Waratek (CS) 
+
+#### Conference Bag Sponsorship (2) - SOLD OUT
+- NCC Group
+- SecureWorks
+
+#### Lanyard Sponsorship (1) - SOLD OUT
+- SecureWorks
 
 ## Project Links
 
 * [AppSec California Registration Site](https://2020.appseccalifornia.org/)
-
-## Goals
-
-1. Include top-level goals of the project in an ordered list
-2. Give thought to the ordering of goals. Revenue, attendance, launch date
-3. Make sure goals are measurable from undisputed source
 
 ## Milestones
 
@@ -29,13 +68,13 @@ Each project will have a 2-3 paragraph overview narrative. Keep to the key top p
 
 * [Richard Greenberg](mailto:richard.greenberg@owasp.org?subject=OWASP%20California%20Project)
 
-## Insurance Requiremnets from Venue Contract
+## Insurance Requirements from Venue Contract
 Prior to Permit being granted, Permittee shall procure/maintain a Commercial General Liability insurance
 policy in the amount of one million dollars ($1,000,000) per occurrence. The policy must provide coverage for
 participant liability. Events with attendance in excess of 100 persons will be required to provide Commercial
 General Liability insurance in the amount of $2 million dollars ($2,000,000) per occurrence.
 
-## Logistics
+## Logistics  (Work in Progess)
 
 ### Name & URLs
 
@@ -53,7 +92,7 @@ Hyperlink, address and phone number of lodging options. If a negotiated rate has
 
 List all registration options and their prices and what conditions are required for certain discounts (if any). Include a link to the registration page. Note the registration link should ALSO be available in the Key Resources sections above.
 
-## Budget 
+## Budget (Work in Progess)
 
 The high level budget should be listed below as a table. The full budget should be linked here and in a Google Sheet in the OWASP instance set to public (read only).
 
@@ -77,45 +116,6 @@ Catering               | $ 10
 Staff Services         | $ 10 
 ***Total Expenses**    | **$ 100**
 **Net Profit**         | **$ 100**
-
-## Sponsorships
-
-This event offers several parter sponsorships opportunities.  If you are interested in supporting the event please contact [kelly@owasp.org](mailto:kelly@owasp.org&subject:Eventname). Below is a list of existing and available sponsorships. Please note all sponsorship levels include a table in the exhibition area and logos on conference materials and signage. All sponsor assets will go in a folder named sponsors in this repo. 
-
-For internal accouting practices, the revenue split for Corporate Sponors who select this event will be $8,350 which is roughly equivilent to $7,000 plus two regularly priced conference passes and a badge scanner. The Corporate Sponsor will receive the same benefits as other Event Gold Sponsors.
-
-Sponsorship Contract Status to Date (as of 08:00amET November 1, 2019). Amount contracted: $169,900/USD Amount Collected: $98,150.00/USD
-
-Diamond (3) - 2 remaining
-- Shiftleft
-
-Platinum (3) - 3 remaining
-
-Gold 
-- Altitude Networks (CS)
-- Avatao (CS) 
-- Cequence Security (CS) 
-- Checkmarx (CS)
-- Code DX (CS)
-- Gitlab 
-- HackerOne
-- MicroFocus
-- Netsparker
-- NowSecure (CS)
-- Qualys (CS)
-- Secure Code Warrior (CS) 
-- Security Journey (CS) 
-- Snyk (CS)
-- Synopsys (CS)
-- Wallarm (CS)
-- Waratek (CS) 
-
-Conference Bag Sponsorship (2) - SOLD OUT
-- NCC Group
-- SecureWorks
-
-Lanyard Sponsorship (1) - SOLD OUT
-- SecureWorks
 
 ## Legal
 
