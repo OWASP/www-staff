@@ -57,7 +57,7 @@ OWASP, if you’ve downloaded our work consider rejoining
 * 0 membership has expired – supporting open source security, stress the importance, non-profit,
 membership is important
 * -3 days after membership has expired – sorry decided not to rejoin, make a small donation
-* -7 after membership has expired
+* -60 Day after expiration - "we miss you"
 
 ## Blogs/Spotlights for publishing on the OWASP web (Goal #3)
 
