@@ -9,7 +9,7 @@ layout: full-width
    {% assign owners_unique = site.data.milestones | map: 'owner' | join: ',' | split: ',' | uniq | sort %}
 
 <div style='display:block;'>
-<h2>Milestones By Member</h2>
+<h2>Organizational View</h2>
 <ul class='milestone_members'>
    {% for owner in owners_unique %}
     <li><a href="#{{ owner | replace: ' ', '-'}}">{{ owner }}</a></li>
