@@ -25,12 +25,12 @@ Use this section for important links for projects/events that visitors will need
 
 ## Milestones
 
-[ ] 2019-10-31, Stub website with Sponsor pricing/info online. [Harold]
-[ ] 2019-11-04, Launch Call for Program Team Members, [Emily]
-[ ] 2019-12-01, Close Call for Program Team Members, [Emily]
-[ ] 2019-12-02, Payment 10% of Rental Fee due, [Emily]
-[ ] 2020-01-06, Payment 45% of Rental Fee due, [Emily]
-[ ] 2020-05-15, Payment 45% of Rental Fee due, [Emily]
+- [ ] 2019-10-31, Stub website with Sponsor pricing/info online. [Harold]
+- [ ] 2019-11-04, Launch Call for Program Team Members, [Emily]
+- [ ] 2019-12-01, Close Call for Program Team Members, [Emily]
+- [ ] 2019-12-02, Payment 10% of Rental Fee due, [Emily]
+- [ ] 2020-01-06, Payment 45% of Rental Fee due, [Emily]
+- [ ] 2020-05-15, Payment 45% of Rental Fee due, [Emily]
 
 
 
