@@ -24,9 +24,9 @@ layout: full-width
 * [ ] 2019-11-15 Register volunteers and schedule[Lisa]
 * [ ] 2019-11-18 Finalize SWAG and handouts with Mike and order[Mike & Lisa]
 * [ ] A milestone isn't everyone’s to-do list, it is the high level tasks of the project
-* [ ] If you have more than 20 milestones, you’re being too granular
-* [ ] 2020-01-01, New Year's Eve Holiday, [All]
-* [ ] 2020-07-04, Independence Day (US) Holiday, [All]
+- [ ] If you have more than 30 milestones, you’re being too granular
+- [x] 2019-09-22, Action item completed, [All]
+- [x] 2019-09-30, You can leave the box UNCHECKED if not completed but you must edit page to change state, [All]
 
 ## Venue
 
