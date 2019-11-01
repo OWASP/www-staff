@@ -31,7 +31,7 @@ layout: full-width
 <ul>
 {% for milestone in site.data.milestones %}
     {% assign project = site.data.projects | where: 'name', milestone.project_name | first %}
-   <li>{{ milestone.milestone_date }}, {{ milestone.owner }}, {{ milestone.description }} - <a href='{{ project.url }}'>{{ milestone.project_name }}</a></li>
+   <li>{{ milestone.milestone_date }} - <a href='{{ project.url }}'>{{ milestone.project_name }}</a>, {{ milestone.description }}, [{{ milestone.owner }}]</li>
 {% endfor %}
 </ul> 
 
