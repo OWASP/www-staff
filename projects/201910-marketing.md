@@ -30,18 +30,9 @@ layout: full-width
 ## Milestones
 - [ ] 2019-10-23, Connect Rebecca and Susan with Project and Chapter leaders for copy [Mike]
 - [ ] 2019-12-13, Spotlight Content Complete and Ready for launch [Susan]
-- [ ] 2019-12-12, Retire SalesForce member notification system
-- [ ] 2019-12-17, EXPECTED Website launch
+- [ ] 2019-12-12, Retire SalesForce member notification system [Harold]
+- [ ] 2019-12-17, EXPECTED Website launch [Harold]
 - [ ] 2019-12-20, Launch End of Year Giving Campaign [Susan]
-- [ ] In an unordered list (billeted) list major milestones in chronological order
-- [ ] Use the syntax of 2019-01-19, Milestone name, [Name of Owner]
-- [x] When milestones are completed, mark them with an "x"
-- [ ] A milestone isn't everyone’s to-do list, it is the high level tasks of the project
-- [ ] If you have more than 20 milestones, you’re being too granular
-- [ ] 2020-01-01, New Year's Eve Holiday, [All]
- [ ] 2020-07-04, Independence Day (US) Holiday, [All]
-
-
 
 ## Email Curriculum for onboarding and offboarding (Goals #1 & #2)
 As part of the new webite and membership database launch, all reminder emails for membership will be sent from Mailchimp instead of SalesForce effective 2019-12-13. A series on ongoing campaigns will be developed in Mailchimp that will use member join and expiration dates fields for control. When members elect to renew, they will fall out of the reminder campaign until their membership again comes up for renewal.
