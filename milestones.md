@@ -4,7 +4,7 @@ title: Milestones
 layout: full-width
 
 ---
-{% site.time %}
+{{ site.time }}
 
    {% assign owners_unique = site.data.milestones | map: 'owner' | join: ',' | split: ',' | uniq | sort %}
 
