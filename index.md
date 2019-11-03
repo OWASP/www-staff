@@ -8,6 +8,7 @@ layout: full-width
 # Staff Projects
 
 [Milestone View](/www-staff/milestones)
+
 <!-- Place this tag in your head or just before your close body tag. -->
 <script async defer src="https://buttons.github.io/buttons.js"></script>
 <!-- Place this tag where you want the button to render. --><a class="github-button" href="https://github.com/owasp/www-staff"  data-icon="octicon-eye" data-size="large" data-show-count="true" aria-label="Watch ntkme/github-buttons on GitHub">Watch</a>
@@ -16,19 +17,14 @@ layout: full-width
 <!-- Place this tag where you want the button to render. -->
 <a class="github-button" href="https://github.com/owasp/www-staff/issues" data-icon="octicon-issue-opened" data-size="large" data-show-count="true" aria-label="Issue owasp/www-staff on GitHub">Issue</a>
 
-## Themes for 2020: Simplify, Unify, Grow
-* Simplify: Reduce the complexity of advancing the mission of the Foundation
-* Unify: Create and nurture a shared culture of success within the community
-* Grow: Increase reputation of Foundation that will grow involvement and influence
-
-## Staff Projects
+# Staff Projects
 
 Staff Projects are work products primarily done by staff that require either 40+hrs of staff time or have a financial obligation of more than $10,000. **Active** Staff Projects have written plans that include measurable goals, milestones, and should be linked below.  **Prioritized** Staff Projects are in the formation stages and are listed in rank importance. **Unprioritized** Staff Projects are items that lack a plan and are in a "bucket list" until they get prioritized with a project plan. *Note this project list is not the exhaustive list of staff daily work product. These are the key projects above everyday work that is purposefully planned to deliver on the Foundation Goals. Generally the process we will use to implement our plans are: 
 
 *Concept >> Document >> Socialize >> Iterate >> [Approval if needed] >> Plan >> Implement >> Report >> Revisit*
 
 ## Active Projects
-* 2020 Operating Plan [Mike]
+* [2020 Operating Plan -DRAFT 2](/www-staff/projects/operating-plan/) [Mike]
 * 2020 Budget (with monthly forecast) [Mike]
 * [Website Relaunch](/www-staff/projects/201912-Website-Launch), [Harold]
 * Commerce Platform for Website Launch
