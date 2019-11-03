@@ -4,7 +4,7 @@ title: OWASP Employee Manual
 layout: col-sidebar
 
 ---
-Version 2019-10-30 - Draft
+Version 2019-11-01 - Final
 
 This handbook was developed to provide you with guidelines to our company policies and to outline programs and benefits available to you. You should familiarize yourself with the contents as soon as possible so you will know what is expected of you and what you can expect from our organization.
 
@@ -670,18 +670,25 @@ Employees are encouraged to fulfill their civic responsibility by voting in loca
 <a name="acknowledgment"></a>
 # HANDBOOK ACKNOWLEDGMENT
 
-I acknowledge receipt of The OWASP Foundation’s Employee Handbook ("Handbook"). I understand the Handbook is not a written employment contract for any specific term. My employment with Insperity is at-will. My employment with Company is at-will unless an authorized employment agreement with The OWASP Foundation provides otherwise.
+I acknowledge receipt of The OWASP Foundation’s Employee Handbook ("Handbook") as found in the Policies section of the OWASP website. I understand the Handbook is not a written employment contract for any specific term. My employment with Insperity is at-will. My employment with Company is at-will unless an authorized employment agreement with The OWASP Foundation provides otherwise.
 
 I further understand that only the executive director, (or any other individual with similar authority as identified and determined by the company) of the company has any authority to change my at-will status or enter into any agreement guaranteeing employment with the Company for any specific period of time. I also understand that if any agreement is made, it will not be authorized and enforceable unless it is in writing and signed by both parties. 
 
-I also understand that an agreement made by either the executive director of The OWASP Foundation is not binding on Insperity unless it is agreed to in writing by either the president or senior vice president of Insperity.
+I also understand that an agreement made by executive director of The OWASP Foundation is not binding on Insperity unless it is agreed to in writing by either the president or senior vice president of Insperity.
 
-I understand that if I have any questions about the interpretation or application of any policies contained in the Handbook, I should direct these questions to the onsite supervisor.
+I understand that if I have any questions about the interpretation or application of any policies contained in the Handbook, I should direct these questions to my supervisor. 
 
 I further understand the Company reserves the right to modify the policies and benefits in the Handbook at any time without notice.
 
 My signature below acknowledges that I have received the Handbook and understand it Is my responsibility to read and comply with all policies contained in this Handbook, including state specific addendums (if any), and any revisions made to it. 
-                                                                                                                                   
-Employee Signature
+           
+_________________________________
+Employee Signature and Date
+
+_________________________________
+Print Name
+
+_________________________________
+Insperity Employee ID Number 
 
 Please sign and return one acknowledgment to your supervisor and retain the other for your records. A copy of this signed acknowledgment should be sent to Insperity.
