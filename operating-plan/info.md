@@ -1,6 +1,6 @@
-## 2020 Budget (WIP)
-## Operating Plan
-###  Operations
+### 2020 Budget (WIP)
+### Operating Plan
+####  Operations
 * [Single Source of Truth](#truth)
 * [Retool Business Operations](#retool-operations)
 * [Project Planning and Budgeting](#planning-budgeting)
@@ -11,24 +11,24 @@
 * [Trademark Registration](#trademark)
 * [KPI Dashboard](#kpi)
 * [Committee 2.0](#committee2)
-### Community
+#### Community
 * [Build Community](#build-community)
 * [Chapter Operations](#chapter-operations)
 * [Individual Membership](#individual-membership)
 * [Corporate Membership](#corporate-membership)
 * [Local Partnerships](#local-partnerships)
 * [Community Outreach](#community-outreach)
-### Projects](#projects)
+#### Projects
 * [OWASP Top 10 - 2020 Edition](#top-10)
 * [Project Operations](#project-operations)
 * [Project Nurishment](#project-nurishment)
 * [Project Summits](#projoect-summits)
-### Events](#events)
+#### Events
 * [Global AppSec Events](#global-appse)
 * [Global AppSec Program Team](#global-team)
 * [AppSec Days](#appsec-days)
 * [Regional Events](#regional-events)
-### Growth & Partnering](#growth-planning)
+#### Growth & Partnering
 * [Branding](#branding)
 * [Website 2.0](#web2)
 * [Corporate Sponsorship](#corporate-sponsorship)
