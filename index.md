@@ -24,7 +24,7 @@ Staff Projects are work products primarily done by staff that require either 40+
 *Concept >> Document >> Socialize >> Iterate >> [Approval if needed] >> Plan >> Implement >> Report >> Revisit*
 
 ## Active Projects
-* [2020 Operating Plan -DRAFT 2](/www-staff/operating-plan/2020) [Mike]
+* [2020 Operating Plan - DRAFT 2](/www-staff/operating-plan/2020) [Mike]
 * 2020 Budget (with monthly forecast) [Mike]
 * [Website Relaunch](/www-staff/projects/201912-Website-Launch), [Harold]
 * Commerce Platform for Website Launch
