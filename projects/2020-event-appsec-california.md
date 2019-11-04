@@ -8,7 +8,7 @@ layout: full-width
 
 ## Sponsorships
 
-This event offers several parter sponsorships opportunities.  If you are interested in supporting the event please contact [kelly.santalucia@owasp.com](mailto:kelly.santalucai@owasp.com&subject:Eventname). Below is a list of existing and available sponsorships. Please note all sponsorship levels include a table in the exhibition area and logos on conference materials and signage. All sponsor assets will go in a folder named sponsors in this repo. 
+This event offers several parter sponsorships opportunities.  If you are interested in supporting the event please contact [kelly.santalucia@owasp.com](mailto:kelly.santalucai@owasp.com). Below is a list of existing and available sponsorships. Please note all sponsorship levels include a table in the exhibition area and logos on conference materials and signage. All sponsor assets will go in a folder named sponsors in this repo. 
 
 For internal accouting practices, the revenue split for Corporate Sponors who select this event will be $8,350 which is roughly equivilent to $7,000 plus two regularly priced conference passes and a badge scanner. The Corporate Sponsor will receive the same benefits as other Event Gold Sponsors.
 
