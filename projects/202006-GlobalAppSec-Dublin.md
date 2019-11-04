@@ -85,7 +85,7 @@ Staff Services         | € 100,000
 
 ## Sponsorships
 
-This event offers several parter sponsorships opportunities.  If you are interested in supporting the event please contact [kelly@owasp.org](mailto:kelly@owasp.org&subject:Dublin). Below is a list of existing and available sponsorships. Please note all sponsorship levels include a table in the exhibition area and logos on conference materials and signage. All sponsor assets will go in a folder named sponsors in this repo.
+This event offers several parter sponsorships opportunities.  If you are interested in supporting the event please contact [kelly@owasp.org](mailto:kelly@owasp.org&subject:Dublin%20Sponsorship). Below is a list of existing and available sponsorships. Please note all sponsorship levels include a table in the exhibition area and logos on conference materials and signage. All sponsor assets will go in a folder named sponsors in this repo.
 
 * Gold Sponsor. $5,000. Recognition and five-minute talk at keynote
 * Gold Sponsor. $5,000. Github
