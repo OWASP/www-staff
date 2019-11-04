@@ -14,7 +14,7 @@ For internal accouting practices, the revenue split for Corporate Sponors who se
 
 ## Sponsorship Status
 
-Sponsorship Contract Status to Date (as of 08:00amET November 1, 2019). Amount contracted: $169,900/USD Amount Collected: $98,150.00/USD
+Sponsorship Contract Status to Date (as of 08:00amET November 1, 2019). Amount contracted: $178,250/USD Amount Collected: $98,150.00/USD
 
 #### Diamond (3) - 2 remaining
 - Shiftleft
@@ -36,6 +36,7 @@ Sponsorship Contract Status to Date (as of 08:00amET November 1, 2019). Amount c
 - Secure Code Warrior (CS) 
 - Security Journey (CS) 
 - Snyk (CS)
+- Sqreen (CS)
 - Synopsys (CS)
 - Wallarm (CS)
 - Waratek (CS) 
