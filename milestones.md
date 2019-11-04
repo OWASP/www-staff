@@ -23,7 +23,7 @@ layout: full-width
 {% for milestone in site.data.milestones %}
     {% assign project = site.data.projects | where: 'name', milestone.project_name | first %}
    <li class='{{ milestone.status }}'>
-        {{ milestone.milestone_date }}:<a href='{{ project.url }}'>{{ milestone.project_name }}</a> {{ milestone.description }} Owner: {{ milestone.owner }}
+        {{ milestone.milestone_date }}:&nbsp;&nbsp;<a href='{{ project.url }}'>{{ milestone.project_name }}</a>&nbsp;&nbsp;{{ milestone.description }}&nbsp;&nbsp;Owner: {{ milestone.owner }}
     </li>
 {% endfor %}
 </ul> 
@@ -35,8 +35,8 @@ layout: full-width
     {% for milestone in site.data.milestones %}
     {% assign project = site.data.projects | where: 'name', milestone.project_name | first %}
         {% if milestone.owner == owner %}
-        <li class='{{ milestone.status }}'> {{ milestone.milestone_date }}: <a href='{{ project.url }}'>{{ milestone.project_name }}</a>
-            {{ milestone.description }}
+        <li class='{{ milestone.status }}'> {{ milestone.milestone_date }}:&nbsp;&nbsp;<a href='{{ project.url }}'>{{ milestone.project_name }}</a>&nbsp;&nbsp;
+            {{ milestone.description }}&nbsp;&nbsp;
             Owner: {{ milestone.owner }}
         </li>
         {% endif %}
