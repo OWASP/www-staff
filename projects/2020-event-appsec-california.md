@@ -17,7 +17,7 @@ For internal accouting practices, the revenue split for Corporate Sponors who se
 Sponsorship Contract Status to Date (as of 08:00amET November 1, 2019). Amount contracted: $178,250/USD Amount Collected: $98,150.00/USD
 
 #### Diamond (3) - 2 remaining
-- Shiftleft
+- Shiftleft (CS)
 
 #### Platinum (3) - 3 remaining
 
@@ -27,7 +27,7 @@ Sponsorship Contract Status to Date (as of 08:00amET November 1, 2019). Amount c
 - Cequence Security (CS) 
 - Checkmarx (CS)
 - Code DX (CS)
-- Gitlab 
+- GitLab 
 - HackerOne
 - MicroFocus
 - Netsparker
