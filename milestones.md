@@ -4,22 +4,28 @@ title: Milestones
 layout: full-width
 
 ---
+
 {% assign owners_unique = site.data.milestones | map: 'owner' | join: ',' | split: ',' | uniq | sort %}
 
-<div style='display:block;'>
+<div class='milestones'>
 <h2>Organizational View</h2>
-<ul class='milestone_members'>
+<div>
+<nav>
+<ul>
    {% for owner in owners_unique %}
     <li><a href="#{{ owner | replace: ' ', '-'}}">{{ owner }}</a></li>
    {% endfor %}
 </ul>
+</nav>
 </div>
 <div class='milestones'>
 <ul>
 {% for milestone in site.data.milestones %}
     {% assign project = site.data.projects | where: 'name', milestone.project_name | first %}
-   <li>{{ milestone.milestone_date }} - <a href='{{ project.url }}'>{{ milestone.project_name }}</a>, {{ milestone.description }}, [{{ milestone.owner }}]</li>
-   {% endfor %}
+   <li class='{{ milestone.status }}'>
+        {{ milestone.milestone_date }}:<a href='{{ project.url }}'>{{ milestone.project_name }}</a> {{ milestone.description }} Owner: {{ milestone.owner }}
+    </li>
+{% endfor %}
 </ul> 
 
 {% for owner in owners_unique %}
@@ -29,8 +35,10 @@ layout: full-width
     {% for milestone in site.data.milestones %}
     {% assign project = site.data.projects | where: 'name', milestone.project_name | first %}
         {% if milestone.owner == owner %}
-          <li>{{ milestone.milestone_date }} - <a href='{{ project.url }}'>{{ milestone.project_name }}</a>, {{ milestone.description }}, [{{ milestone.owner }}]
-         </li>
+        <li class='{{ milestone.status }}'> {{ milestone.milestone_date }}: <a href='{{ project.url }}'>{{ milestone.project_name }}</a>
+            {{ milestone.description }}
+            Owner: {{ milestone.owner }}
+        </li>
         {% endif %}
     {% endfor %}
 </ul>
