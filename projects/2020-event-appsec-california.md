@@ -14,7 +14,7 @@ For internal accouting practices, the revenue split for Corporate Sponors who se
 
 ## Sponsorship Status
 
-Sponsorship Contract Status to Date (as of 08:00amET November 5, 2019). Amount contracted: $186,600/USD Amount Collected: $98,150.00/USD
+Sponsorship Contract Status to Date (as of 08:00amET November 5, 2019). Amount contracted: $187,550/USD Amount Collected: $98,150.00/USD
 
 #### Diamond (3) - 2 remaining
 - Shiftleft (CS)
@@ -48,6 +48,9 @@ Sponsorship Contract Status to Date (as of 08:00amET November 5, 2019). Amount c
 
 #### Lanyard Sponsorship (1) - SOLD OUT
 - SecureWorks
+
+#### Career Fair 
+- Citrix
 
 ## Project Links
 
