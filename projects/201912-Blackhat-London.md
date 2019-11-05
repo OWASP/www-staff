@@ -14,19 +14,19 @@ layout: full-width
 * Briefing & Business Hall Hours:  
 * Wednesday, December 4, 10:30 AM - 7:00 PM | Business Hall Reception, 5:30 PM - 7:00 PM  
 * Thursday, December 5: 10:00 AM - 4:00 PM
-* Wednesday, December 4 - 3:25 PM - 4:15 PM WIA Community Session "Share insights they have gained at different stages of their careers   that could help other women grow their our own careers and maximize the contribution of women in the field." 
+* Wednesday, December 4 - 3:25 PM - 4:15 PM WIA Community Session "Share insights they have gained at different stages of their   careers that could help other women grow their our own careers and maximize the contribution of women in the field." 
 * Wednesday, December 4 - 4:30 PM - 5:30 PM Women in Security Mixer 
 
 ## Milestones
 
 * [x] 2019-10-20 Andra Leader with Lauren host WIA Community Session at BlackHat [Andra confirmed]
-* [x] 2019-10-28 Volunteer sent out [Lisa] 
-* [ ] 2019-11-15 Register volunteers and schedule[Lisa]
-* [ ] 2019-11-18 Finalize SWAG and handouts with Mike and order[Mike & Lisa]
-* [ ] A milestone isn't everyone’s to-do list, it is the high level tasks of the project
-- [ ] If you have more than 30 milestones, you’re being too granular
-- [x] 2019-09-22, Action item completed, [All]
-- [x] 2019-09-30, You can leave the box UNCHECKED if not completed but you must edit page to change state, [All]
+* [x] 2019-10-28 Call for Volunteers Google Form sent to London chapter sent. [Lisa]
+* [x] 2019-11-4 Wufoo volunteer link posted on Wiki events page and social media. [Lisa}
+* [ } 2019-11-4  Wufoo form sent to all European Chapter leaders on the wiki. [Lisa]
+* [ ] 2019-11-11 Ship and order all SWAG in preparation of holiday and increase shipping traffic.[Mike & Lisa]
+* [ ] 2019-11-15 Evaluate if enough volunteers to move forward with booth. 
+* [ ] 2019-11-15 Register volunteers, and local onsite contact and post the schedule[Lisa]
+
 
 ## Venue
 
