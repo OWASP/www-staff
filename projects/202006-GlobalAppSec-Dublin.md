@@ -29,9 +29,10 @@ Use this section for important links for projects/events that visitors will need
 - [ ] 2019-11-04, Launch Call for Program Team Members, [Emily]
 - [ ] 2019-11-06, Sign contract, [Mike]
 - [ ] 2019-12-01, Close Call for Program Team Members, [Emily]
-- [ ] 2019-12-02, Payment 10% of Rental Fee due, [Emily]
+- [ ] 2019-12-02, Payment 10% of Rental Fee and Catering fees due, [Emily]
 - [ ] 2020-01-06, Payment 45% of Rental Fee due, [Emily]
-- [ ] 2020-05-15, Payment 45% of Rental Fee due, [Emily]
+- [ ] 2020-03-16, Payment 45% of Catering fee due, [Emily]
+- [ ] 2020-05-15, Payment 45% of Rental and Catering Fee due, [Emily]
 
 
 
