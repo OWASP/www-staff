@@ -89,19 +89,31 @@
         "name": "BlackHat London 2019",
         "milestones": [
             {
-                "milestone_date": "2019-11-15",
-                "description": "egister volunteers and schedule",
+                "milestone_date": "2019-11-4",
+                "description": "ufoo form sent to all European Chapter leaders on the wiki.",
                 "owner": "Lisa",
                 "project_name": "BlackHat London 2019"
             },
             {
-                "milestone_date": "2019-11-18",
-                "description": "inalize SWAG and handouts with Mike and order",
+                "milestone_date": "2019-11-11",
+                "description": "hip and order all SWAG for booth needs to arrive at one address if prior to Nov 30th and another address           after Nov 3oth.",
                 "owner": "Mike & Lisa",
+                "project_name": "BlackHat London 2019"
+            },
+            {
+                "milestone_date": "2019-11-15",
+                "description": "valuate if enough volunteers to move forward with booth.",
+                "owner": "No Owner",
+                "project_name": "BlackHat London 2019"
+            },
+            {
+                "milestone_date": "2019-11-15",
+                "description": "egister volunteers, and local onsite contact and post the schedule",
+                "owner": "Lisa",
                 "project_name": "BlackHat London 2019"
             }
         ],
-        "description": "* [Conference call minutes from 10/9/2019](https://drive.google.com/open?id=1KukrG-jbV3PErZrK4WfUzwOORa7quZ05nefgM3i_-dM)* [BlackHat London 2019 website](https://www.blackhat.com/eu-19/)* December 2-5, 2019  Briefing on Dec 4 & 5  * Briefing & Business Hall Hours:  * Wednesday, December 4, 10:30 AM - 7:00 PM | Business Hall Reception, 5:30 PM - 7:00 PM  * Thursday, December 5: 10:00 AM - 4:00 PM* Wednesday, December 4 - 3:25 PM - 4:15 PM WIA Community Session \"Share insights they have gained at different stages of their careers   that could help other women grow their our own careers and maximize the contribution of women in the field.\" * Wednesday, December 4 - 4:30 PM - 5:30 PM Women in Security Mixer",
+        "description": "* [Conference call minutes from 10/9/2019](https://drive.google.com/open?id=1KukrG-jbV3PErZrK4WfUzwOORa7quZ05nefgM3i_-dM)* [BlackHat London 2019 website](https://www.blackhat.com/eu-19/)* December 2-5, 2019  Briefing on Dec 4 & 5  * Briefing & Business Hall Hours:  * Wednesday, December 4, 10:30 AM - 7:00 PM | Business Hall Reception, 5:30 PM - 7:00 PM  * Thursday, December 5: 10:00 AM - 4:00 PM* Wednesday, December 4 - 3:25 PM - 4:15 PM WIA Community Session \"Share insights they have gained at different stages of their   careers that could help other women grow their our own careers and maximize the contribution of women in the field.\" * Wednesday, December 4 - 4:30 PM - 5:30 PM Women in Security Mixer",
         "leaders": [],
         "url": "https://www2.owasp.org/www-staff/projects/201912-Blackhat-London"
     },
@@ -365,6 +377,12 @@
                 "project_name": "Global AppSec - Dublin"
             },
             {
+                "milestone_date": "2019-11-06",
+                "description": "Sign contract",
+                "owner": "Mike",
+                "project_name": "Global AppSec - Dublin"
+            },
+            {
                 "milestone_date": "2019-12-01",
                 "description": "Close Call for Program Team Members",
                 "owner": "Emily",
@@ -372,7 +390,7 @@
             },
             {
                 "milestone_date": "2019-12-02",
-                "description": "Payment 10% of Rental Fee due",
+                "description": "Payment 10% of Rental Fee and Catering fees due",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin"
             },
@@ -383,8 +401,14 @@
                 "project_name": "Global AppSec - Dublin"
             },
             {
+                "milestone_date": "2020-03-16",
+                "description": "Payment 45% of Catering fee due",
+                "owner": "Emily",
+                "project_name": "Global AppSec - Dublin"
+            },
+            {
                 "milestone_date": "2020-05-15",
-                "description": "Payment 45% of Rental Fee due",
+                "description": "Payment 45% of Rental and Catering Fee due",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin"
             }
