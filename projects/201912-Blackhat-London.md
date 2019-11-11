@@ -21,8 +21,8 @@ layout: full-width
 
 * [x] 2019-10-20 Andra Leader with Lauren host WIA Community Session at BlackHat [Andra confirmed]
 * [x] 2019-10-28 Call for Volunteers Google Form sent to London chapter sent. [Lisa]
-* [x] 2019-11-4 Wufoo volunteer link posted on Wiki events page and social media. [Lisa}
-* [ ] 2019-11-4  Wufoo form sent to all European Chapter leaders on the wiki. [Lisa]
+* [x] 2019-11-04 Wufoo volunteer link posted on Wiki events page and social media. [Lisa}
+* [ ] 2019-11-04 Wufoo form sent to all European Chapter leaders on the wiki. [Lisa]
 * [ ] 2019-11-11 Ship and order all SWAG for booth needs to arrive at one address if prior to Nov 30th and another address           after Nov 3oth. [Mike & Lisa]
 * [ ] 2019-11-15 Evaluate if enough volunteers to move forward with booth. 
 * [ ] 2019-11-15 Register volunteers, and local onsite contact and post the schedule[Lisa]
