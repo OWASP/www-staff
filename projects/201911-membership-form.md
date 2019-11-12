@@ -21,7 +21,7 @@ As part of the OWASP website migration, we will creating a new membership form a
 - [x] 2019-10-24, Kickoff call [Mike]
 - [x] 2019-10-28, Contract signed and project underway, [Mike]
 - [x] 2019-11-08, Onboard Simon to Azure and Stripe, [Harold]
-- [x] 2019-11-10, Wireframe sent [Membership Form wireframe](/www-staff/files/membership-form.pdf), [Mike] 
+- [x] 2019-11-10, Wireframe sent [Membership Form wireframe](/www-staff/files/membership-wireframe.pdf), [Mike] 
 - [ ] 2019-11-15, Form completed for demonstration, [Simone]
 - [ ] 2019-11-19, Regression testing complete, [Harold]
 - [ ] 2019-11-20, Project Complete ready for deployment, [Harold]
@@ -56,5 +56,5 @@ As part of the OWASP website migration, we will creating a new membership form a
 Hourly rate expected to be less than $1,500.
 
 ## Project Links
-* [Donation Form wireframe](/www-staff/files/membership-form.pdf)
+* [Donation Form wireframe](/www-staff/files/membership-wireframe.pdf)
 
