@@ -40,7 +40,7 @@
                 "description": "Retire SalesForce member notification system",
                 "owner": "Harold",
                 "project_name": "2019Q4 Marketing",
-                "status": "future"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2019-12-13",
@@ -96,7 +96,7 @@
         "name": "BlackHat London 2019",
         "milestones": [
             {
-                "milestone_date": "2019-11-4",
+                "milestone_date": "2019-11-04",
                 "description": "ufoo form sent to all European Chapter leaders on the wiki.",
                 "owner": "Lisa",
                 "project_name": "BlackHat London 2019",
@@ -360,18 +360,6 @@
         "url": "https://www2.owasp.org/www-staff/projects/2020-staff-holidays"
     },
     {
-        "name": "Project Name",
-        "milestones": [],
-        "description": "Each project will have a 2-3 paragraph overview narrative. Keep to the key top points about the project. Visitors should be able to read this short narrative and have a good understanding of the project without having to scroll the entire document.",
-        "leaders": [
-            {
-                "name": "Mike McCamon",
-                "email": "mike.mccamon@owasp.com"
-            }
-        ],
-        "url": "https://www2.owasp.org/www-staff/projects/202001-Yay-A-Project"
-    },
-    {
         "name": "ProjectS Summit - Winter 2020",
         "milestones": [],
         "description": "Each project will have a 2-3 paragraph overview narrative. Keep to the key top points about the project. Visitors should be able to read this short narrative and have a good understanding of the project without having to scroll the entire document.",
@@ -424,13 +412,6 @@
                 "milestone_date": "2019-11-04",
                 "description": "Launch Call for Program Team Members",
                 "owner": "Emily",
-                "project_name": "Global AppSec - Dublin",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2019-11-06",
-                "description": "Sign contract",
-                "owner": "Mike",
                 "project_name": "Global AppSec - Dublin",
                 "status": "overdue"
             },
