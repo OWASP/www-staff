@@ -100,7 +100,7 @@ Upon the completion of this project, OWASP.org will be hosted in Github. The arc
 * www-board - board meetings
 * www-staff - staff projects
 * www-policy - overview, membership, sponsorship, finance, donations, handbooks, guidelines
-* www-community - future "free and open" space
+* www-community - "free and open" space for user contributed content
 * www-members - future place for member pages
 * www-event-2020-GlobalAppSecSF
 * www-event-2020-GlobalAppSecDublin
@@ -113,3 +113,6 @@ Upon the completion of this project, OWASP.org will be hosted in Github. The arc
 * www-committee-wia
 * www-committee-projects
 
+## Other Information
+There is a [trello board](https://trello.com/b/2S05WSJY/website-migration) for an overview of general things left to do.
+A link to the list of top URLs according to analytics can be found [here](https://docs.google.com/spreadsheets/d/1QjjziOQ4mKDNMYeML0voRh-ywfwKBaArsL1qPFuAqbo/edit?usp=sharing)
