@@ -27,7 +27,7 @@ Staff Projects are work products primarily done by staff that require either 40+
 * [Website Relaunch](/www-staff/projects/201912-Website-Launch), [Harold]
 * Commerce Platform for Website Launch
   * [Donate Form](/www-staff/projects/201911-donate-form)
-  * [Membership Form] (/www-staff/projects/201911-membership-form)
+  * [Membership Form](/www-staff/projects/201911-membership-form)
   * [Event Registration](/www-staff/projects/201912-events-form)
 * [Mailchimp as Member CRM](/www-staff/projects/201912-mailchimp)
 * Policy and Handbook Reorganization, [Dawn]
