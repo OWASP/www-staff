@@ -22,19 +22,19 @@ Staff Projects are work products primarily done by staff that require either 40+
 *Concept >> Document >> Socialize >> Iterate >> [Approval if needed] >> Plan >> Implement >> Report >> Revisit*
 
 ## Active Projects
-* [2020 Operating Plan - DRAFT 2](/www-staff/operating-plan/2020) [Mike]
+* [2020 Operating Plan - DRAFT 3](/www-staff/operating-plan/2020) [Mike]
 * 2020 Budget (with monthly forecast) [Mike]
 * [Website Relaunch](/www-staff/projects/201912-Website-Launch), [Harold]
 * Commerce Platform for Website Launch
   * [Donate Form](/www-staff/projects/201911-donate-form)
-  * Membership
+  * [Membership Form] (/www-staff/projects/201911-membership-form)
   * [Event Registration](/www-staff/projects/201912-events-form)
+* [Mailchimp as Member CRM](/www-staff/projects/201912-mailchimp)
 * Policy and Handbook Reorganization, [Dawn]
 * Leader Agreement (Project, Chapter, Event) [Mike]
 * [Email List GDPR & Clean Up](/www-staff/projects/201910-Email-Cleanup)
 * [2019-Q4 Marketing](/www-staff/projects/201910-marketing)
 * Community Managed Events
-  * [AppSec Days Melbourne, 1 November, 2019](https://www.owasp.org/index.php/Staff-Projects/20191101-AppSecDay-Melbourne)
   * [AppSec California, 21 January, 2020](/www-staff/projects/2020-event-appsec-california)
 * Global Partnerships
   * [BlackHat London Dec 2-5, 2019](/www-staff/projects/201912-Blackhat-London), [Lisa]
@@ -50,23 +50,15 @@ Staff Projects are work products primarily done by staff that require either 40+
 
 ## Prioritized Projects
 * SalesForce New Instance > Migration
+  * Invoice Workflow (SalesForce & JIRA)
   * SalesForce Invoicing
   * SalesForce Sales Pipeline
-* Forms Tool Migration [Harold]
-  * Free-form Payments
-  * Conference Registration
-  * Donations
-  * Join as Member
-    * First time
-    * Recurring
-    * Renewals [https://owaspstaff.slack.com/files/U9N7HF4V9/FGC6TUGJW/membership_whiteboard.jpg whiteboard]
-* [Staff-Projects/Global Supporting Parnership - Marketing Plan|Global Supporting Partnership Plan] [Lisa] 
 
 ## Unprioritized Projects
-* Invoice Workflow (SalesForce & JIRA)
 * Bi-Annual Signatory/Password Audit Jan/June
 
 ## Recently Completed Projects
+* [AppSec Days Melbourne, 1 November, 2019](https://www.owasp.org/index.php/Staff-Projects/20191101-AppSecDay-Melbourne)
 
 ## Templates 
 * [Blank Template](/www-staff/projects/202001-template)
@@ -78,14 +70,14 @@ Staff Projects are work products primarily done by staff that require either 40+
 * Professionalize administrative and operational tasks and practices.
 * Redesign financial model and membership benefits.
 
-## Foundation Goals for 2020 - DRAFT 
-
-* Optimize business operations to overachieve financial and membership targets.
-* Manage two profitable global conferences, planning three in 2021.
-* Relaunch Project Summits
-* Increase relevance and reputation of OWASP measured by 5% increase in web traffic.
-* Improve satisfaction with OWASP by survey measured 5% increase.
-* Increase membership by 20% and Corporate Sponsorship revenue by 25%.
+## Foundation Goals for 2020
+1. Launch updated version of OWASP Top 10 by June 2020.
+1. Continue to optimize business operations to overachieve financial and membership targets.
+1. Manage two successful global conferences planning three in 2021.
+1. Launch Project Summits and AppSec Days to over 500 attendees
+1. Increase relevance and reputation of OWASP measured by 10% increase in web traffic.
+1. Improve satisfaction with OWASP by survey measured a 5% increase.
+1. Increase all classes of membership by 25%
 
 *Vision: Global and open resource for software security*
 
