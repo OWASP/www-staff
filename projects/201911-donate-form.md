@@ -11,7 +11,6 @@ layout: full-width
 
 As part of the OWASP website migration, we will creating a new Donation form that will use Stripe as a back end. This should be a simple form that is hosted on the website and will serve as a proof of concept for (1) hosting secure forms on github, (2) test the viability of Stripe for payment processing, and (3) integrating Stripe form activities with light integrations with other key data in the OWASP ecosystem.
 
-
 ## Goals
 
 1. Securely host a form oun our public github instance and collect donations
@@ -22,15 +21,13 @@ As part of the OWASP website migration, we will creating a new Donation form tha
 ## Milestones
 
 - [x] 2019-10-24, Kickoff call [Mike]
-- [ ] 2019-10-28, Contract signed and project underway
-- [ ] In an unordered list (billeted) list major milestones in chronological order
-- [ ] Use the syntax of 2019-01-19, Milestone name, [Name of Owner]
-- [x] When milestones are completed, mark them with an "x"
-- [ ] A milestone isn't everyone’s to-do list, it is the high level tasks of the project
-- [ ] If you have more than 30 milestones, you’re being too granular
-- [x] 2019-09-22, Action item completed, [All]
-- [x] 2019-09-30, You can leave the box UNCHECKED if not completed but you must edit page to change state, [All]
-TBD
+- [x] 2019-10-28, Contract signed and project underway, [Mike]
+- [x] 2019-11-08, Onboard Simon to Azure and Stripe, [Harold]
+- [x] 2019-11-10, Wireframe sent [Donation Form wireframe](/www-staff/files/donation-form.pdf), [Mike] 
+- [ ] 2019-11-15, Form completed for demonstration, [Simone]
+- [ ] 2019-11-19, Regression testing complete, [Harold]
+- [ ] 2019-11-20, Project Complete ready for deployment, [Harold]
+- [ ] 2019-12-11, Deploy to new website in production, [Harold]
 
 ## Leadership
 
@@ -69,10 +66,8 @@ TBD
 6. After completing integrations, update field in Stripe that donation was processed through integrations.
   
 ## Budget
+Hourly rate expected to be less than $1,500.
 
 ## Project Links
-
-Use this section for important links for projects/events that visitors will need. For instance, if this is an event, links to CFT, CPT and registration is handy If there is a microsite, that would be good to link to as well 
-* [Example link to Google](https://google.com)
-* [Example relative link to Blank Template Page](/www--staff/Projects/202001-template)
+* [Donation Form wireframe](/www-staff/files/donation-form.pdf)
 
