@@ -32,7 +32,8 @@ As part of the OWASP website migration, we will creating a new membership form a
 * [Harold Blankenship - Lead](mailto:Harold.blankenship@owasp.com?subject=Project:%20Donation%20Form)
 * [Mike McCamon](mailto:mike.mccamon@owasp.com?subject=Project:%20Donation%20Form)
 
-## Workflow
+## Workflows
+### New/Renew Membership
 1. Visitor clicks on a Join link someplace in OWASP Universe
    1. Page on website
    2. Link from an email
@@ -51,6 +52,12 @@ As part of the OWASP website migration, we will creating a new membership form a
 4. All form data and transaction stored into Stripe
 5. Light Integrations move data
 6. After completing integrations, update field in Stripe that donation was processed through integrations.
+
+### Change Billing Info
+1. User visits new 'Subscription Management' page of OWASP site
+2. User inputs email address into form field
+3. User submits form and sees a message that says if an active subscription was found, a link to manage it has been emailed to the address.  This message appears whether or not a subscription was found.
+4. If a subscription was found with a matching email address, an email is sent to it that contains a unique link to Stripe Checkout where the payment information can be updated.
   
 ## Budget
 Hourly rate expected to be less than $1,500.
