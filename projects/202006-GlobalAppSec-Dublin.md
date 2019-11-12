@@ -110,3 +110,4 @@ This section will include a checklist of the key contracts and legal documents n
 
 ## Creative
 
+Marketing kit and image [TBD]
