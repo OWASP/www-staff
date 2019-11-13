@@ -7,13 +7,6 @@
         "status": "overdue"
     },
     {
-        "milestone_date": "2019-10-28",
-        "description": "Contract signed and project underway",
-        "owner": "No Owner",
-        "project_name": "Donation Form",
-        "status": "overdue"
-    },
-    {
         "milestone_date": "2019-10-30",
         "description": "Events pages migrated and in production",
         "owner": "No Owner",
@@ -78,6 +71,20 @@
     },
     {
         "milestone_date": "2019-11-15",
+        "description": "Form completed for demonstration",
+        "owner": "Simone",
+        "project_name": "Donation Form",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2019-11-15",
+        "description": "Form completed for demonstration",
+        "owner": "Simone",
+        "project_name": "Membership Form",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2019-11-15",
         "description": "valuate if enough volunteers to move forward with booth.",
         "owner": "No Owner",
         "project_name": "BlackHat London 2019",
@@ -95,6 +102,34 @@
         "description": "Secure insurance for event per terms of contract (See below)",
         "owner": "Dawn",
         "project_name": "AppSec California 2020",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2019-11-19",
+        "description": "Regression testing complete",
+        "owner": "Harold",
+        "project_name": "Donation Form",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2019-11-19",
+        "description": "Regression testing complete",
+        "owner": "Harold",
+        "project_name": "Membership Form",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2019-11-20",
+        "description": "Project Complete ready for deployment",
+        "owner": "Harold",
+        "project_name": "Donation Form",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2019-11-20",
+        "description": "Project Complete ready for deployment",
+        "owner": "Harold",
+        "project_name": "Membership Form",
         "status": "on-time"
     },
     {
@@ -133,6 +168,20 @@
         "status": "on-time"
     },
     {
+        "milestone_date": "2019-12-11",
+        "description": "Deploy to new website in production",
+        "owner": "Harold",
+        "project_name": "Donation Form",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2019-12-11",
+        "description": "Deploy to new website in production",
+        "owner": "Harold",
+        "project_name": "Membership Form",
+        "status": "on-time"
+    },
+    {
         "milestone_date": "2019-12-12",
         "description": "Retire SalesForce member notification system",
         "owner": "Harold",
@@ -144,21 +193,21 @@
         "description": "Spotlight Content Complete and Ready for launch",
         "owner": "Susan",
         "project_name": "2019Q4 Marketing",
-        "status": "future"
+        "status": "on-time"
     },
     {
         "milestone_date": "2019-12-13",
         "description": "Redirect system in place and ready for launch",
         "owner": "No Owner",
         "project_name": "Website Re-launch",
-        "status": "future"
+        "status": "on-time"
     },
     {
         "milestone_date": "2019-12-13",
         "description": "Validate in-bound search redirect working on events/policy pages",
         "owner": "No Owner",
         "project_name": "Website Re-launch",
-        "status": "future"
+        "status": "on-time"
     },
     {
         "milestone_date": "2019-12-17",
