@@ -47,7 +47,7 @@
                 "description": "Spotlight Content Complete and Ready for launch",
                 "owner": "Susan",
                 "project_name": "2019Q4 Marketing",
-                "status": "future"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2019-12-17",
@@ -72,11 +72,32 @@
         "name": "Donation Form",
         "milestones": [
             {
-                "milestone_date": "2019-10-28",
-                "description": "Contract signed and project underway",
-                "owner": "No Owner",
+                "milestone_date": "2019-11-15",
+                "description": "Form completed for demonstration",
+                "owner": "Simone",
                 "project_name": "Donation Form",
-                "status": "overdue"
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2019-11-19",
+                "description": "Regression testing complete",
+                "owner": "Harold",
+                "project_name": "Donation Form",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2019-11-20",
+                "description": "Project Complete ready for deployment",
+                "owner": "Harold",
+                "project_name": "Donation Form",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2019-12-11",
+                "description": "Deploy to new website in production",
+                "owner": "Harold",
+                "project_name": "Donation Form",
+                "status": "on-time"
             }
         ],
         "description": "As part of the OWASP website migration, we will creating a new Donation form that will use Stripe as a back end. This should be a simple form that is hosted on the website and will serve as a proof of concept for (1) hosting secure forms on github, (2) test the viability of Stripe for payment processing, and (3) integrating Stripe form activities with light integrations with other key data in the OWASP ecosystem.",
@@ -91,6 +112,51 @@
             }
         ],
         "url": "https://www2.owasp.org/www-staff/projects/201911-donate-form"
+    },
+    {
+        "name": "Membership Form",
+        "milestones": [
+            {
+                "milestone_date": "2019-11-15",
+                "description": "Form completed for demonstration",
+                "owner": "Simone",
+                "project_name": "Membership Form",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2019-11-19",
+                "description": "Regression testing complete",
+                "owner": "Harold",
+                "project_name": "Membership Form",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2019-11-20",
+                "description": "Project Complete ready for deployment",
+                "owner": "Harold",
+                "project_name": "Membership Form",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2019-12-11",
+                "description": "Deploy to new website in production",
+                "owner": "Harold",
+                "project_name": "Membership Form",
+                "status": "on-time"
+            }
+        ],
+        "description": "As part of the OWASP website migration, we will creating a new membership form and process that will use Stripe as a back end. Following the successful test of the Donation Form, this project should be relatively easy with some small differences from that project. Once implemented, we will unwide our dependency on Fontiva and will migrate to using Mailchimp as a \"light\" member CRM with all history transaction data stored in Stripe.",
+        "leaders": [
+            {
+                "name": "Harold Blankenship ",
+                "email": "Harold.blankenship@owasp.com"
+            },
+            {
+                "name": "Mike McCamon",
+                "email": "mike.mccamon@owasp.com"
+            }
+        ],
+        "url": "https://www2.owasp.org/www-staff/projects/201911-membership-form"
     },
     {
         "name": "BlackHat London 2019",
@@ -171,14 +237,14 @@
                 "description": "Redirect system in place and ready for launch",
                 "owner": "No Owner",
                 "project_name": "Website Re-launch",
-                "status": "future"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2019-12-13",
                 "description": "Validate in-bound search redirect working on events/policy pages",
                 "owner": "No Owner",
                 "project_name": "Website Re-launch",
-                "status": "future"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2019-12-20",
