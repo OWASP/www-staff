@@ -1,6 +1,6 @@
 ---
 
-title: ProjectS Summit - Winter 2020
+title: Projects Summit - Winter 2020
 layout: full-width
 
 ---
@@ -9,7 +9,11 @@ layout: full-width
 
 ## Overview
 
-The OWASP Foundation will host a three-day working session for FIVE selected projects in Cancun, Mexico, Feburary 20-22, 2020. Arrival day will be Wednesday the 19th and departures will be the 23rd. Projects must apply and then get selected to participate. The application process will require project meeting goals, workplan, key contributors, and expected attendance. The event program will solely include heads-down work time for OWASP projects. Any "group" gatherings will be during meal times. Spectators are not welcomed.  Limited travel assistance will be provided for up to five key project leaders/contributors per project selected.
+The OWASP Foundation will host a three-day working session for FIVE selected projects in Cancun, Mexico, Feburary 20-22, 2020. Arrival day will be Wednesday the 19th and departures will be the 23rd. Projects must apply and then get selected to participate. The application process will require project meeting goals, workplan, key contributors, and expected attendance. The OWASP Foundation Officers Group will make the final selection.
+
+The event program will solely include heads-down work time for OWASP projects. Any "group" gatherings will be during meal times. Spectators are not welcomed and attendance is limited to OWASP Members. Limited travel assistance will be provided for up to five key project leaders/contributors per project selected.
+
+Leaders of projects selected are required to attend or that project will not be selected. If a project fails to secure five attendees, their project's invitation will be rescinded.
 
 ## Goals
 
