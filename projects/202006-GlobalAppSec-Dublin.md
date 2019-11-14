@@ -26,7 +26,7 @@ Join us for a celebration of leading application security technologies, speakers
 
 1. Bring Industry-leading AppSec and InfoSec content to the global security community
 2. Grow the OWASP community with an increase in first-time attendees and onsite memberhsip conversions
-3. Make sure goals are measurable from undisputed source
+3. Act as revenue source for the Foundation 
 
 ## Milestones
 
