@@ -24,13 +24,13 @@ The OWASP Foundation will host a three-day working session for FIVE selected pro
 - [ ] 2019-12-16, Project Nomination Opens, [Harold]
 - [ ] 2019-12-16, Email solicitation sent to Leaders list, [Harold]
 - [ ] 2019-12-20, Reminder #2, [Harold]
-- [ ] 2019-12-31, Reminder #2, [Harold]
-- [ ] 2020-01-08, Reminder #2, [Harold]
-- [ ] 2020-01-10, Reminder #2, [Harold]
+- [ ] 2019-12-31, Reminder #3, [Harold]
+- [ ] 2020-01-08, Reminder #4, [Harold]
+- [ ] 2020-01-10, Reminder #5, [Harold]
 - [ ] 2020-01-14, Project Nomination Form Closes, [Harold]
 - [ ] 2020-01-20, Projects Selected (5), [Harold]
-- [ ] 2020-02-03, Flight bookings complete to qualify for reimbursement/travel grant
-- [ ] 2020-02-20, Summitt Hours 9a-5p
+- [ ] 2020-02-03, Flight bookings complete to qualify for reimbursement/travel assistance grants
+- [ ] 2020-02-20, Summitt Hours 10a-6p
 - [ ] 2020-02-21, Summitt Hours 9a-5p
 - [ ] 2020-02-22, Summitt Hours 9a-5p
 - [ ] 2020-04-22, Deadline for invoices and expense reimbursement requests, [Dawn]
