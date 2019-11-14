@@ -426,13 +426,123 @@
         "url": "https://www2.owasp.org/www-staff/projects/2020-staff-holidays"
     },
     {
-        "name": "ProjectS Summit - Winter 2020",
-        "milestones": [],
-        "description": "Each project will have a 2-3 paragraph overview narrative. Keep to the key top points about the project. Visitors should be able to read this short narrative and have a good understanding of the project without having to scroll the entire document.",
+        "name": "Projects Summit - Winter 2020",
+        "milestones": [
+            {
+                "milestone_date": "2019-11-28",
+                "description": "Venue contract signed",
+                "owner": "Emily",
+                "project_name": "Projects Summit - Winter 2020",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2019-12-14",
+                "description": "Project Nomination Form online",
+                "owner": "Mike",
+                "project_name": "Projects Summit - Winter 2020",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2019-12-16",
+                "description": "Project Nomination Opens",
+                "owner": "Harold",
+                "project_name": "Projects Summit - Winter 2020",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2019-12-16",
+                "description": "Email solicitation sent to Leaders list",
+                "owner": "Harold",
+                "project_name": "Projects Summit - Winter 2020",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2019-12-20",
+                "description": "Reminder #2",
+                "owner": "Harold",
+                "project_name": "Projects Summit - Winter 2020",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2019-12-31",
+                "description": "Reminder #3",
+                "owner": "Harold",
+                "project_name": "Projects Summit - Winter 2020",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-01-08",
+                "description": "Reminder #4",
+                "owner": "Harold",
+                "project_name": "Projects Summit - Winter 2020",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-01-10",
+                "description": "Reminder #5",
+                "owner": "Harold",
+                "project_name": "Projects Summit - Winter 2020",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-01-14",
+                "description": "Project Nomination Form Closes",
+                "owner": "Harold",
+                "project_name": "Projects Summit - Winter 2020",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-01-20",
+                "description": "Projects Selected (5)",
+                "owner": "Harold",
+                "project_name": "Projects Summit - Winter 2020",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-02-03",
+                "description": "Flight bookings complete to qualify for reimbursement/travel assistance grants",
+                "owner": "No Owner",
+                "project_name": "Projects Summit - Winter 2020",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-02-20",
+                "description": "Summitt Hours 10a-6p",
+                "owner": "No Owner",
+                "project_name": "Projects Summit - Winter 2020",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-02-21",
+                "description": "Summitt Hours 9a-5p",
+                "owner": "No Owner",
+                "project_name": "Projects Summit - Winter 2020",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-02-22",
+                "description": "Summitt Hours 9a-5p",
+                "owner": "No Owner",
+                "project_name": "Projects Summit - Winter 2020",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-04-22",
+                "description": "Deadline for invoices and expense reimbursement requests",
+                "owner": "Dawn",
+                "project_name": "Projects Summit - Winter 2020",
+                "status": "future"
+            }
+        ],
+        "description": "The OWASP Foundation will host a three-day working session for FIVE selected projects in Cancun, Mexico, Feburary 20-22, 2020. Arrival day will be Wednesday the 19th and departures will be the 23rd. Projects must apply and then get selected to participate. The application process will require project meeting goals, workplan, key contributors, and expected attendance. The OWASP Foundation Officers Group will make the final selection.The event program will solely include heads-down work time for OWASP projects. Any \"group\" gatherings will be during meal times. Spectators are not welcomed and attendance is limited to OWASP Members. Limited travel assistance will be provided for up to five key project leaders/contributors per project selected.Leaders of projects selected are required to attend or that project will not be selected. If a project fails to secure five attendees, their project's invitation will be rescinded.",
         "leaders": [
             {
-                "name": "Mike McCamon",
-                "email": "mike.mccamon@owasp.com"
+                "name": "Project - Harold Blankenship",
+                "email": "harold.blankenship@owasp.com"
+            },
+            {
+                "name": "Venue - Emily Bermna",
+                "email": "emily.berman@owasp.com"
             }
         ],
         "url": "https://www2.owasp.org/www-staff/projects/202002-Projects-Summit-Q1"
