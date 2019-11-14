@@ -54,7 +54,7 @@ Join us for a celebration of leading application security technologies, speakers
 
 ## Leadership
 
-* Volunteer Prgram Team
+* Volunteer Program Team
 * [Mike McCamon](mailto:mike.mccamon@owasp.com?subject=An%20Interesting%20Email)
 * [Emily Berman](mailto:emily.berman@owasp.com?subject=An%20Interesting%20Email)
 
