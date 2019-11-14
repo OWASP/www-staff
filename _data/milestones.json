@@ -140,6 +140,13 @@
         "status": "on-time"
     },
     {
+        "milestone_date": "2019-11-28",
+        "description": "Venue contract signed",
+        "owner": "Emily",
+        "project_name": "Projects Summit - Winter 2020",
+        "status": "on-time"
+    },
+    {
         "milestone_date": "2019-12-01",
         "description": "Close Call for Program Team Members",
         "owner": "Emily",
@@ -210,6 +217,27 @@
         "status": "on-time"
     },
     {
+        "milestone_date": "2019-12-14",
+        "description": "Project Nomination Form online",
+        "owner": "Mike",
+        "project_name": "Projects Summit - Winter 2020",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2019-12-16",
+        "description": "Project Nomination Opens",
+        "owner": "Harold",
+        "project_name": "Projects Summit - Winter 2020",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2019-12-16",
+        "description": "Email solicitation sent to Leaders list",
+        "owner": "Harold",
+        "project_name": "Projects Summit - Winter 2020",
+        "status": "future"
+    },
+    {
         "milestone_date": "2019-12-17",
         "description": "EXPECTED Website launch",
         "owner": "Harold",
@@ -252,6 +280,20 @@
         "status": "future"
     },
     {
+        "milestone_date": "2019-12-20",
+        "description": "Reminder #2",
+        "owner": "Harold",
+        "project_name": "Projects Summit - Winter 2020",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2019-12-31",
+        "description": "Reminder #3",
+        "owner": "Harold",
+        "project_name": "Projects Summit - Winter 2020",
+        "status": "future"
+    },
+    {
         "milestone_date": "2020-01-01",
         "description": "New Year\u2019s Day",
         "owner": "No Owner",
@@ -280,10 +322,45 @@
         "status": "future"
     },
     {
+        "milestone_date": "2020-01-08",
+        "description": "Reminder #4",
+        "owner": "Harold",
+        "project_name": "Projects Summit - Winter 2020",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-01-10",
+        "description": "Reminder #5",
+        "owner": "Harold",
+        "project_name": "Projects Summit - Winter 2020",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-01-14",
+        "description": "Project Nomination Form Closes",
+        "owner": "Harold",
+        "project_name": "Projects Summit - Winter 2020",
+        "status": "future"
+    },
+    {
         "milestone_date": "2020-01-15",
         "description": "Validate Meetup Connector",
         "owner": "No Owner",
         "project_name": "Website Re-launch",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-01-20",
+        "description": "Projects Selected (5)",
+        "owner": "Harold",
+        "project_name": "Projects Summit - Winter 2020",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-02-03",
+        "description": "Flight bookings complete to qualify for reimbursement/travel assistance grants",
+        "owner": "No Owner",
+        "project_name": "Projects Summit - Winter 2020",
         "status": "future"
     },
     {
@@ -294,10 +371,38 @@
         "status": "future"
     },
     {
+        "milestone_date": "2020-02-20",
+        "description": "Summitt Hours 10a-6p",
+        "owner": "No Owner",
+        "project_name": "Projects Summit - Winter 2020",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-02-21",
+        "description": "Summitt Hours 9a-5p",
+        "owner": "No Owner",
+        "project_name": "Projects Summit - Winter 2020",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-02-22",
+        "description": "Summitt Hours 9a-5p",
+        "owner": "No Owner",
+        "project_name": "Projects Summit - Winter 2020",
+        "status": "future"
+    },
+    {
         "milestone_date": "2020-03-16",
         "description": "Payment 45% of Catering fee due",
         "owner": "Emily",
         "project_name": "Global AppSec - Dublin",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-04-22",
+        "description": "Deadline for invoices and expense reimbursement requests",
+        "owner": "Dawn",
+        "project_name": "Projects Summit - Winter 2020",
         "status": "future"
     },
     {
