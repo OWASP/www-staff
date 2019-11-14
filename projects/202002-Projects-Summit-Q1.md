@@ -9,43 +9,40 @@ layout: full-width
 
 ## Overview
 
-Each project will have a 2-3 paragraph overview narrative. Keep to the key top points about the project. Visitors should be able to read this short narrative and have a good understanding of the project without having to scroll the entire document.
-
-## Project Links
-
-Use this section for important links for projects/events that visitors will need. For instance, if this is an event, links to CFT, CPT and registration is handy If there is a microsite, that would be good to link to as well 
-* [Example link to Google](https://google.com)
-* [Example relative link to Blank Template Page](/www--staff/Projects/202001-template)
+The OWASP Foundation will host a three-day working session for FIVE selected projects in Cancun, Mexico, Feburary 20-22, 2020. Arrival day will be Wednesday the 19th and departures will be the 23rd. Projects must apply and then get selected to participate. The application process will require project meeting goals, workplan, key contributors, and expected attendance. The event program will solely include heads-down work time for OWASP projects. Any "group" gatherings will be during meal times. Spectators are not welcomed.  Limited travel assistance will be provided for up to five key project leaders/contributors per project selected.
 
 ## Goals
 
-1. Include top-level goals of the project in an ordered list
-2. Give thought to the ordering of goals. Revenue, attendance, launch date
-3. Make sure goals are measurable from undisputed source
+1. Provide a venue and opporunity for measurable progress on key OWASP Projects
+2. Facetime for projet teams and leadership
+3. Test concept, and if successful, repeat in summer 2020
 
 ## Milestones
 
-- [ ] In an unordered list (billeted) list major milestones in chronological order
-- [ ] Use the syntax of 2019-01-19, Milestone name, [Name of Owner]
-- [x] When milestones are completed, mark them with an "x"
-- [ ] A milestone isn't everyone’s to-do list, it is the high level tasks of the project
-- [ ] If you have more than 30 milestones, you’re being too granular
-- [x] 2019-09-22, Action item completed, [All]
-- [x] 2019-09-30, You can leave the box UNCHECKED if not completed but you must edit page to change state, [All]
+- [ ] 2019-11-28, Venue contract signed, [Emily]
+- [ ] 2019-12-14, Project Nomination Form online, [Mike]
+- [ ] 2019-12-16, Project Nomination Opens, [Harold]
+- [ ] 2019-12-16, Email solicitation sent to Leaders list, [Harold]
+- [ ] 2019-12-20, Reminder #2, [Harold]
+- [ ] 2019-12-31, Reminder #2, [Harold]
+- [ ] 2020-01-08, Reminder #2, [Harold]
+- [ ] 2020-01-10, Reminder #2, [Harold]
+- [ ] 2020-01-14, Project Nomination Form Closes, [Harold]
+- [ ] 2020-01-20, Projects Selected (5), [Harold]
+- [ ] 2020-02-03, Flight bookings complete to qualify for reimbursement/travel grant
+- [ ] 2020-02-20, Summitt Hours 9a-5p
+- [ ] 2020-02-21, Summitt Hours 9a-5p
+- [ ] 2020-02-22, Summitt Hours 9a-5p
+- [ ] 2020-04-22, Deadline for invoices and expense reimbursement requests, [Dawn]
 
 ## Leadership
 
-* unordered list of each leader and a hyperlink to their email address.
-* [Mike McCamon](mailto:mike.mccamon@owasp.com?subject=An%20Interesting%20Email)
+* [Project - Harold Blankenship](mailto:harold.blankenship@owasp.com?subject=Project%20Summit)
+* [Venue - Emily Bermna](mailto:emily.berman@owasp.com?subject=Project%20Summit)
 
 ## **FOLLOWING ONLY NEEDED FOR EVENTS**
 
 ## Logistics
-
-### Name & URLs
-
-* Name: Global AppSec Tel Aviv
-* URL: [https://telaviv.appsecglobal.org/](https://telaviv.appsecglobal.org/)
 
 ### Venue
 
@@ -66,52 +63,23 @@ The high level budget should be listed below as a table. The full budget should 
 Description            | Amount
 --------------         | ------------:
 **Income**             | 
-Registration           | &euro;308,800 
-Training               | &euro;191,250
-Sponsorships           | &euro;450,000
-**Total Income**       | **&euro;950,050**
+Registration           | $0
+**Total Income**       | **$0**
 **Expenses**           | 
-Accomodations          | &euro;17,615 
-Travel                 | &euro;22,400 
-Internet               | &euro;27,500 
-Marketing/Swag         | &euro;13,200
-AV                     | &euro;16,500 
-Printing & Branding    | &euro;16,868 
-Expo                   | &euro;20,020
-Meeting Room Rental    | &euro;148,500
-Catering               | &euro;218,504
-Staff Services         | &euro;100,000 
-***Total Expenses**    | **&euro;601,107**
-**Net Profit**         | **&euro;348,943**
+Travel Assistance      | $32,500 
+Hotel Accomodations    | $32,500 
+Internet               | $7,500 
+Swag                   | $500
+AV                     | $2,000 
+Catering               | included
+***Total Expenses**    | **$75,000**
+**Net Profit**         | **($75,000)**
 
-
-## Sponsorships
-
-This event offers several parter sponsorships opportunities.  If you are interested in supporting the event please contact [kelly@owasp.org](mailto:kelly@owasp.org&subject:Eventname). Below is a list of existing and available sponsorships. Please note all sponsorship levels include a table in the exhibition area and logos on conference materials and signage. All sponsor assets will go in a folder named sponsors in this repo.
-
-* Gold Sponsor. $5,000. Recognition and five-minute talk at keynote
-* Gold Sponsor. $5,000. Github
-* Bronze Sponsor, $1,000
-* Bronze Sponsor, $1,000
-* Bronze Sponsor, $1,000
-* Bronze Sponsor, $1,000
-* Bronze Sponsor, $1,000
 
 ## Legal
 
-This section will include a checklist of the key contracts and legal documents needed to execute an event. A folder in this repo named files will include PDFs of all fully executed agreements. IF any agreeement isn’t completed the status should be provided here.
-
-* Conference Organizing [ ]
 * Venue [ ]
 * Venue A/V (if different vendor [ ]
 * Catering [ ]
 * Event Insurance [ ]
-* Lead Collection [ ]
-
-## Creative
-
-Column1 | Column2
-------- | -------
-abc | defg
-abc | defg
 
