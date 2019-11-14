@@ -42,7 +42,7 @@ Leaders of projects selected are required to attend or that project will not be 
 ## Leadership
 
 * [Project - Harold Blankenship](mailto:harold.blankenship@owasp.com?subject=Project%20Summit)
-* [Venue - Emily Bermna](mailto:emily.berman@owasp.com?subject=Project%20Summit)
+* [Venue - Emily Berman](mailto:emily.berman@owasp.com?subject=Project%20Summit)
 
 ## **FOLLOWING ONLY NEEDED FOR EVENTS**
 
