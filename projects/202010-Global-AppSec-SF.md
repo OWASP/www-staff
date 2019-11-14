@@ -9,19 +9,25 @@ layout: full-width
 
 ## Overview
 
-Each project will have a 2-3 paragraph overview narrative. Keep to the key top points about the project. Visitors should be able to read this short narrative and have a good understanding of the project without having to scroll the entire document.
+Ocotber 19-23, 2020
+  
+  Training Days: Ocotber 19-21, 2020
+  Conference Days: October 22-23, 2020
+
+Welcome to Global AppSec San Francisco 2020 presented by the OWASP Foundation. The Global AppSec Conference is the premier application security conference for developers and security experts. Designed for private and public sector infosec professionals, the OWASP three day training and two day conference equips developers, defenders, and advocates to build a more secure web.
+
+Join us for a celebration of leading application security technologies, speakers, prospects, and community, in a unique event that will build on everything you already know to expect from an OWASP Global Conference.
+
 
 ## Project Links
 
-Use this section for important links for projects/events that visitors will need. For instance, if this is an event, links to CFT, CPT and registration is handy If there is a microsite, that would be good to link to as well 
-* [Example link to Google](https://google.com)
-* [Example relative link to Blank Template Page](/www--staff/Projects/202001-template)
+* [Hyatt Regency SF Contract](www-staff/files/HyattRegencySFContract.pdf)
 
 ## Goals
 
-1. Include top-level goals of the project in an ordered list
-2. Give thought to the ordering of goals. Revenue, attendance, launch date
-3. Make sure goals are measurable from undisputed source
+1. Bring Industry-leading AppSec and InfoSec content to the global security community
+2. Grow the OWASP community with an increase in first-time attendees and onsite memberhsip conversions
+3. Act as revenue source for the Foundation 
 
 ## Milestones
 
@@ -30,10 +36,26 @@ Use this section for important links for projects/events that visitors will need
 - [x] 2019-10-01, Sign contract for venue, [Mike]
 - [ ] 2019-10-31, Stub website with Sponsor pricing/info online. [Harold]
 - [ ] 2019-11-10, Populate Project Page with required content, [Emily]
+- [ ] 2019-11-15, Launch Call for Program Team Members, [Emily]
+- [ ] 2020-01-02, Close Call for Program Team Members, [Emily]
+- [ ] 2020-02-01, Open CFT/CFP, [Emily]
+- [ ] 2020-03-01, Close CFT/CFP, [Emily]
+- [ ] 2020-03-15, CFT/CFP Review Complete, [Emily]
+- [ ] 2020-04-01, Prgram Announced, [Emily]
+- [ ] 2020-05-01, Keynotes Announces, [Emily]
+- [ ] 2020-04-01, Registration Opens, [Emily]
+- [ ] 2019-12-31, General Service Contract Signed, [Emily]
+- [ ] 2020-08-01, AV Contract Signed, [Emily]
+- [ ] 2020-08-15, SWAG Ordered, [Emily]
+- [ ] 2020-09-15, Signage Ordered, [Emily]
+- [ ] 2020-10-01, F&B Order Complete, [Emily]
+
 ## Leadership
 
-* unordered list of each leader and a hyperlink to their email address.
+* Volunteer Program Team
 * [Mike McCamon](mailto:mike.mccamon@owasp.com?subject=An%20Interesting%20Email)
+* [Emily Berman](mailto:emily.berman@owasp.com?subject=An%20Interesting%20Email)
+
 
 ## **FOLLOWING ONLY NEEDED FOR EVENTS**
 
@@ -41,20 +63,26 @@ Use this section for important links for projects/events that visitors will need
 
 ### Name & URLs
 
-* Name: Global AppSec Tel Aviv
-* URL: [https://telaviv.appsecglobal.org/](https://telaviv.appsecglobal.org/)
+* Name: Global AppSec Sn Francisco
+* URL: [https://globalappsec.org/](https://globalappsec.org/)
 
 ### Venue
 
-Minimally the address and phone number of the venue for the event. Note the distance of the venue from the nearest likely airport for travelers and public transit information if available.
+Hyatt Regency San Francisco
+5 Embarcadero Center, San Francisco, CA 94111
 
 ### Lodging 
 
-Hyperlink, address and phone number of lodging options. If a negotiated rate has been secured it should be noted. If possible please include 3-4 lodging options and list distance of each location from venue and the nearest likely airport for travelers.
+Hyatt Regency San Francisco
+5 Embarcadero Center, San Francisco, CA 94111
+
+Room block opens early 2020
 
 ### Registration 
 
-List all registration options and their prices and what conditions are required for certain discounts (if any). Include a link to the registration page. Note the registration link should ALSO be available in the Key Resources sections above.
+Full Conference Passes for OWASP Members starts at $895 and training classes start at $850 per day.
+
+Registations Opens May 2020
 
 ## Budget 
 
