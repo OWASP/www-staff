@@ -14,7 +14,7 @@ For internal accouting practices, the revenue split for Corporate Sponors who se
 
 ## Sponsorship Status
 
-Sponsorship Contract Status to Date (as of 08:00amET November 5, 2019). Amount contracted: $187,550/USD Amount Collected: $98,150.00/USD
+Sponsorship Contract Status to Date (as of 08:00amET November 15, 2019). Amount contracted: $252,550/USD Amount Collected: $98,150.00/USD
 
 #### Diamond (3) - 2 remaining
 - Shiftleft (CS)
@@ -25,11 +25,16 @@ Sponsorship Contract Status to Date (as of 08:00amET November 5, 2019). Amount c
 #### Gold 
 - Altitude Networks (CS)
 - Avatao (CS) 
+- Bugcrowd (CS)
 - Cequence Security (CS) 
 - Checkmarx (CS)
 - Code DX (CS)
+- Contrast Security (CS)
+- Detectify (CS)
+- Extrahop
 - GitLab 
 - HackerOne
+- Lyft (CS)
 - MicroFocus
 - Netsparker
 - NowSecure (CS)
@@ -37,10 +42,12 @@ Sponsorship Contract Status to Date (as of 08:00amET November 5, 2019). Amount c
 - Secure Code Warrior (CS) 
 - Security Journey (CS) 
 - Snyk (CS)
+- Sonatype
 - Sqreen (CS)
 - Synopsys (CS)
 - Wallarm (CS)
 - Waratek (CS) 
+- Whitesource Security (CS)
 
 #### Conference Bag Sponsorship (2) - SOLD OUT
 - NCC Group
