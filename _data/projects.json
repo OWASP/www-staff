@@ -541,7 +541,7 @@
                 "email": "harold.blankenship@owasp.com"
             },
             {
-                "name": "Venue - Emily Bermna",
+                "name": "Venue - Emily Berman",
                 "email": "emily.berman@owasp.com"
             }
         ],
@@ -575,63 +575,137 @@
         "url": "https://www2.owasp.org/www-staff/projects/202003-Blackhat-Asia"
     },
     {
-        "name": "Global AppSec - Dublin",
+        "name": "Global AppSec - Dublin 2020",
         "milestones": [
             {
                 "milestone_date": "2019-10-31",
                 "description": "Stub website with Sponsor pricing/info online.",
                 "owner": "Harold",
-                "project_name": "Global AppSec - Dublin",
+                "project_name": "Global AppSec - Dublin 2020",
                 "status": "overdue"
             },
             {
-                "milestone_date": "2019-11-04",
+                "milestone_date": "2019-11-15",
                 "description": "Launch Call for Program Team Members",
                 "owner": "Emily",
-                "project_name": "Global AppSec - Dublin",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2019-12-01",
-                "description": "Close Call for Program Team Members",
-                "owner": "Emily",
-                "project_name": "Global AppSec - Dublin",
+                "project_name": "Global AppSec - Dublin 2020",
                 "status": "on-time"
             },
             {
-                "milestone_date": "2019-12-02",
-                "description": "Payment 10% of Rental Fee and Catering fees due",
+                "milestone_date": "2019-12-15",
+                "description": "Close Call for Program Team Members",
                 "owner": "Emily",
-                "project_name": "Global AppSec - Dublin",
+                "project_name": "Global AppSec - Dublin 2020",
                 "status": "on-time"
             },
             {
                 "milestone_date": "2020-01-06",
                 "description": "Payment 45% of Rental Fee due",
                 "owner": "Emily",
-                "project_name": "Global AppSec - Dublin",
+                "project_name": "Global AppSec - Dublin 2020",
                 "status": "future"
             },
             {
                 "milestone_date": "2020-03-16",
                 "description": "Payment 45% of Catering fee due",
                 "owner": "Emily",
-                "project_name": "Global AppSec - Dublin",
+                "project_name": "Global AppSec - Dublin 2020",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2019-12-01",
+                "description": "Open CFT/CFP",
+                "owner": "Emily",
+                "project_name": "Global AppSec - Dublin 2020",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2019-12-31",
+                "description": "Close CFT/CFP",
+                "owner": "Emily",
+                "project_name": "Global AppSec - Dublin 2020",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-02-15",
+                "description": "CFT/CFP Review Complete",
+                "owner": "Emily",
+                "project_name": "Global AppSec - Dublin 2020",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-03-09",
+                "description": "Prgram Announced",
+                "owner": "Emily",
+                "project_name": "Global AppSec - Dublin 2020",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-02-01",
+                "description": "Keynotes Announces",
+                "owner": "Emily",
+                "project_name": "Global AppSec - Dublin 2020",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-03-09",
+                "description": "Registration Opens",
+                "owner": "Emily",
+                "project_name": "Global AppSec - Dublin 2020",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2019-12-31",
+                "description": "General Service Contract Signed",
+                "owner": "Emily",
+                "project_name": "Global AppSec - Dublin 2020",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2019-12-31",
+                "description": "Hotel Room Block COntract Signed",
+                "owner": "Emily",
+                "project_name": "Global AppSec - Dublin 2020",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-04-01",
+                "description": "AV Contract Signed",
+                "owner": "Emily",
+                "project_name": "Global AppSec - Dublin 2020",
                 "status": "future"
             },
             {
                 "milestone_date": "2020-05-15",
-                "description": "Payment 45% of Rental and Catering Fee due",
+                "description": "SWAG Ordered",
                 "owner": "Emily",
-                "project_name": "Global AppSec - Dublin",
+                "project_name": "Global AppSec - Dublin 2020",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-05-15",
+                "description": "Signage Ordered",
+                "owner": "Emily",
+                "project_name": "Global AppSec - Dublin 2020",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-06-01",
+                "description": "F&B Order Complete",
+                "owner": "Emily",
+                "project_name": "Global AppSec - Dublin 2020",
                 "status": "future"
             }
         ],
-        "description": "Each project will have a 2-3 paragraph overview narrative. Keep to the key top points about the project. Visitors should be able to read this short narrative and have a good understanding of the project without having to scroll the entire document.",
+        "description": "June 15-19, 2020    Training Days: June 15-17, 2020  Conference Days: June 18-19, 2020Welcome to Global AppSec Dublin 2020 presented by the OWASP Foundation. The Global AppSec Conference is the premier application security conference for developers and security experts. Designed for private and public sector infosec professionals, the OWASP three day training and two day conference equips developers, defenders, and advocates to build a more secure web.Join us for a celebration of leading application security technologies, speakers, prospects, and community, in a unique event that will build on everything you already know to expect from an OWASP Global Conference.",
         "leaders": [
             {
                 "name": "Mike McCamon",
                 "email": "mike.mccamon@owasp.com"
+            },
+            {
+                "name": "Emily Berman",
+                "email": "emily.berman@owasp.com"
             }
         ],
         "url": "https://www2.owasp.org/www-staff/projects/202006-GlobalAppSec-Dublin"
@@ -702,14 +776,109 @@
                 "description": "Populate Project Page with required content",
                 "owner": "Emily",
                 "project_name": "Global AppSec - San Francisco",
+                "status": "overdue"
+            },
+            {
+                "milestone_date": "2019-11-15",
+                "description": "Launch Call for Program Team Members",
+                "owner": "Emily",
+                "project_name": "Global AppSec - San Francisco",
                 "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-01-02",
+                "description": "Close Call for Program Team Members",
+                "owner": "Emily",
+                "project_name": "Global AppSec - San Francisco",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-02-01",
+                "description": "Open CFT/CFP",
+                "owner": "Emily",
+                "project_name": "Global AppSec - San Francisco",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-03-01",
+                "description": "Close CFT/CFP",
+                "owner": "Emily",
+                "project_name": "Global AppSec - San Francisco",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-03-15",
+                "description": "CFT/CFP Review Complete",
+                "owner": "Emily",
+                "project_name": "Global AppSec - San Francisco",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-04-01",
+                "description": "Prgram Announced",
+                "owner": "Emily",
+                "project_name": "Global AppSec - San Francisco",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-05-01",
+                "description": "Keynotes Announces",
+                "owner": "Emily",
+                "project_name": "Global AppSec - San Francisco",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-04-01",
+                "description": "Registration Opens",
+                "owner": "Emily",
+                "project_name": "Global AppSec - San Francisco",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2019-12-31",
+                "description": "General Service Contract Signed",
+                "owner": "Emily",
+                "project_name": "Global AppSec - San Francisco",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-08-01",
+                "description": "AV Contract Signed",
+                "owner": "Emily",
+                "project_name": "Global AppSec - San Francisco",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-08-15",
+                "description": "SWAG Ordered",
+                "owner": "Emily",
+                "project_name": "Global AppSec - San Francisco",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-09-15",
+                "description": "Signage Ordered",
+                "owner": "Emily",
+                "project_name": "Global AppSec - San Francisco",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-10-01",
+                "description": "F&B Order Complete",
+                "owner": "Emily",
+                "project_name": "Global AppSec - San Francisco",
+                "status": "future"
             }
         ],
-        "description": "Each project will have a 2-3 paragraph overview narrative. Keep to the key top points about the project. Visitors should be able to read this short narrative and have a good understanding of the project without having to scroll the entire document.",
+        "description": "Ocotber 19-23, 2020    Training Days: Ocotber 19-21, 2020  Conference Days: October 22-23, 2020Welcome to Global AppSec San Francisco 2020 presented by the OWASP Foundation. The Global AppSec Conference is the premier application security conference for developers and security experts. Designed for private and public sector infosec professionals, the OWASP three day training and two day conference equips developers, defenders, and advocates to build a more secure web.Join us for a celebration of leading application security technologies, speakers, prospects, and community, in a unique event that will build on everything you already know to expect from an OWASP Global Conference.",
         "leaders": [
             {
                 "name": "Mike McCamon",
                 "email": "mike.mccamon@owasp.com"
+            },
+            {
+                "name": "Emily Berman",
+                "email": "emily.berman@owasp.com"
             }
         ],
         "url": "https://www2.owasp.org/www-staff/projects/202010-Global-AppSec-SF"
