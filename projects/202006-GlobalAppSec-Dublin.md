@@ -30,7 +30,7 @@ Join us for a celebration of leading application security technologies, speakers
 
 ## Milestones
 
-- [ ] 2019-10-31, Stub website with Sponsor pricing/info online. [Harold]
+- [x] 2019-10-31, Stub website with Sponsor pricing/info online. [Harold]
 - [ ] 2019-11-15, Launch Call for Program Team Members, [Emily]
 - [x] 2019-11-06, Sign contract, [Mike]
 - [ ] 2019-12-15, Close Call for Program Team Members, [Emily]
