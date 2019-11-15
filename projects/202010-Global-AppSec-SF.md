@@ -49,6 +49,7 @@ Join us for a celebration of leading application security technologies, speakers
 - [ ] 2020-08-15, SWAG Ordered, [Emily]
 - [ ] 2020-09-15, Signage Ordered, [Emily]
 - [ ] 2020-10-01, F&B Order Complete, [Emily]
+- [ ] 2020-09-15, Volunteers finalized and communication initiated, [Emily]
 
 ## Leadership
 
