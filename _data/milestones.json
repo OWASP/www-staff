@@ -24,7 +24,7 @@
         "milestone_date": "2019-10-31",
         "description": "Stub website with Sponsor pricing/info online.",
         "owner": "Harold",
-        "project_name": "Global AppSec - Dublin",
+        "project_name": "Global AppSec - Dublin 2020",
         "status": "overdue"
     },
     {
@@ -42,18 +42,11 @@
         "status": "overdue"
     },
     {
-        "milestone_date": "2019-11-04",
-        "description": "Launch Call for Program Team Members",
-        "owner": "Emily",
-        "project_name": "Global AppSec - Dublin",
-        "status": "overdue"
-    },
-    {
         "milestone_date": "2019-11-10",
         "description": "Populate Project Page with required content",
         "owner": "Emily",
         "project_name": "Global AppSec - San Francisco",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2019-11-11",
@@ -105,6 +98,20 @@
         "status": "on-time"
     },
     {
+        "milestone_date": "2019-11-15",
+        "description": "Launch Call for Program Team Members",
+        "owner": "Emily",
+        "project_name": "Global AppSec - Dublin 2020",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2019-11-15",
+        "description": "Launch Call for Program Team Members",
+        "owner": "Emily",
+        "project_name": "Global AppSec - San Francisco",
+        "status": "on-time"
+    },
+    {
         "milestone_date": "2019-11-19",
         "description": "Regression testing complete",
         "owner": "Harold",
@@ -148,16 +155,9 @@
     },
     {
         "milestone_date": "2019-12-01",
-        "description": "Close Call for Program Team Members",
+        "description": "Open CFT/CFP",
         "owner": "Emily",
-        "project_name": "Global AppSec - Dublin",
-        "status": "on-time"
-    },
-    {
-        "milestone_date": "2019-12-02",
-        "description": "Payment 10% of Rental Fee and Catering fees due",
-        "owner": "Emily",
-        "project_name": "Global AppSec - Dublin",
+        "project_name": "Global AppSec - Dublin 2020",
         "status": "on-time"
     },
     {
@@ -221,6 +221,13 @@
         "description": "Project Nomination Form online",
         "owner": "Mike",
         "project_name": "Projects Summit - Winter 2020",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2019-12-15",
+        "description": "Close Call for Program Team Members",
+        "owner": "Emily",
+        "project_name": "Global AppSec - Dublin 2020",
         "status": "on-time"
     },
     {
@@ -294,6 +301,34 @@
         "status": "future"
     },
     {
+        "milestone_date": "2019-12-31",
+        "description": "Close CFT/CFP",
+        "owner": "Emily",
+        "project_name": "Global AppSec - Dublin 2020",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2019-12-31",
+        "description": "General Service Contract Signed",
+        "owner": "Emily",
+        "project_name": "Global AppSec - Dublin 2020",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2019-12-31",
+        "description": "Hotel Room Block COntract Signed",
+        "owner": "Emily",
+        "project_name": "Global AppSec - Dublin 2020",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2019-12-31",
+        "description": "General Service Contract Signed",
+        "owner": "Emily",
+        "project_name": "Global AppSec - San Francisco",
+        "status": "future"
+    },
+    {
         "milestone_date": "2020-01-01",
         "description": "New Year\u2019s Day",
         "owner": "No Owner",
@@ -315,10 +350,17 @@
         "status": "future"
     },
     {
+        "milestone_date": "2020-01-02",
+        "description": "Close Call for Program Team Members",
+        "owner": "Emily",
+        "project_name": "Global AppSec - San Francisco",
+        "status": "future"
+    },
+    {
         "milestone_date": "2020-01-06",
         "description": "Payment 45% of Rental Fee due",
         "owner": "Emily",
-        "project_name": "Global AppSec - Dublin",
+        "project_name": "Global AppSec - Dublin 2020",
         "status": "future"
     },
     {
@@ -357,10 +399,31 @@
         "status": "future"
     },
     {
+        "milestone_date": "2020-02-01",
+        "description": "Keynotes Announces",
+        "owner": "Emily",
+        "project_name": "Global AppSec - Dublin 2020",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-02-01",
+        "description": "Open CFT/CFP",
+        "owner": "Emily",
+        "project_name": "Global AppSec - San Francisco",
+        "status": "future"
+    },
+    {
         "milestone_date": "2020-02-03",
         "description": "Flight bookings complete to qualify for reimbursement/travel assistance grants",
         "owner": "No Owner",
         "project_name": "Projects Summit - Winter 2020",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-02-15",
+        "description": "CFT/CFP Review Complete",
+        "owner": "Emily",
+        "project_name": "Global AppSec - Dublin 2020",
         "status": "future"
     },
     {
@@ -392,10 +455,59 @@
         "status": "future"
     },
     {
+        "milestone_date": "2020-03-01",
+        "description": "Close CFT/CFP",
+        "owner": "Emily",
+        "project_name": "Global AppSec - San Francisco",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-03-09",
+        "description": "Prgram Announced",
+        "owner": "Emily",
+        "project_name": "Global AppSec - Dublin 2020",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-03-09",
+        "description": "Registration Opens",
+        "owner": "Emily",
+        "project_name": "Global AppSec - Dublin 2020",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-03-15",
+        "description": "CFT/CFP Review Complete",
+        "owner": "Emily",
+        "project_name": "Global AppSec - San Francisco",
+        "status": "future"
+    },
+    {
         "milestone_date": "2020-03-16",
         "description": "Payment 45% of Catering fee due",
         "owner": "Emily",
-        "project_name": "Global AppSec - Dublin",
+        "project_name": "Global AppSec - Dublin 2020",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-04-01",
+        "description": "AV Contract Signed",
+        "owner": "Emily",
+        "project_name": "Global AppSec - Dublin 2020",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-04-01",
+        "description": "Prgram Announced",
+        "owner": "Emily",
+        "project_name": "Global AppSec - San Francisco",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-04-01",
+        "description": "Registration Opens",
+        "owner": "Emily",
+        "project_name": "Global AppSec - San Francisco",
         "status": "future"
     },
     {
@@ -406,10 +518,24 @@
         "status": "future"
     },
     {
-        "milestone_date": "2020-05-15",
-        "description": "Payment 45% of Rental and Catering Fee due",
+        "milestone_date": "2020-05-01",
+        "description": "Keynotes Announces",
         "owner": "Emily",
-        "project_name": "Global AppSec - Dublin",
+        "project_name": "Global AppSec - San Francisco",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-05-15",
+        "description": "SWAG Ordered",
+        "owner": "Emily",
+        "project_name": "Global AppSec - Dublin 2020",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-05-15",
+        "description": "Signage Ordered",
+        "owner": "Emily",
+        "project_name": "Global AppSec - Dublin 2020",
         "status": "future"
     },
     {
@@ -417,6 +543,13 @@
         "description": "Memorial Day",
         "owner": "No Owner",
         "project_name": "OWASP Staff Holidays",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-06-01",
+        "description": "F&B Order Complete",
+        "owner": "Emily",
+        "project_name": "Global AppSec - Dublin 2020",
         "status": "future"
     },
     {
@@ -441,10 +574,38 @@
         "status": "future"
     },
     {
+        "milestone_date": "2020-08-01",
+        "description": "AV Contract Signed",
+        "owner": "Emily",
+        "project_name": "Global AppSec - San Francisco",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-08-15",
+        "description": "SWAG Ordered",
+        "owner": "Emily",
+        "project_name": "Global AppSec - San Francisco",
+        "status": "future"
+    },
+    {
         "milestone_date": "2020-09-07",
         "description": "Labor Day",
         "owner": "No Owner",
         "project_name": "OWASP Staff Holidays",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-09-15",
+        "description": "Signage Ordered",
+        "owner": "Emily",
+        "project_name": "Global AppSec - San Francisco",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-10-01",
+        "description": "F&B Order Complete",
+        "owner": "Emily",
+        "project_name": "Global AppSec - San Francisco",
         "status": "future"
     },
     {
