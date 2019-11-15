@@ -34,7 +34,7 @@ Join us for a celebration of leading application security technologies, speakers
 - [x] 2019-09-22, Action item completed, [All]
 - [x] 2019-09-30, You can leave the box UNCHECKED if not completed but you must edit page to change state, [All]
 - [x] 2019-10-01, Sign contract for venue, [Mike]
-- [ ] 2019-10-31, Stub website with Sponsor pricing/info online. [Harold]
+- [x] 2019-10-31, Stub website with Sponsor pricing/info online. [Harold]
 - [ ] 2019-11-10, Populate Project Page with required content, [Emily]
 - [ ] 2019-11-15, Launch Call for Program Team Members, [Emily]
 - [ ] 2020-01-02, Close Call for Program Team Members, [Emily]
