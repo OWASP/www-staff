@@ -31,25 +31,23 @@ Join us for a celebration of leading application security technologies, speakers
 
 ## Milestones
 
-- [x] 2019-09-22, Action item completed, [All]
-- [x] 2019-09-30, You can leave the box UNCHECKED if not completed but you must edit page to change state, [All]
 - [x] 2019-10-01, Sign contract for venue, [Mike]
 - [x] 2019-10-31, Stub website with Sponsor pricing/info online. [Harold]
-- [ ] 2019-11-10, Populate Project Page with required content, [Emily]
+- [x] 2019-11-10, Populate Project Page with required content, [Emily]
 - [ ] 2019-11-15, Launch Call for Program Team Members, [Emily]
+- [ ] 2019-12-31, General Service Contract Signed, [Emily]
 - [ ] 2020-01-02, Close Call for Program Team Members, [Emily]
 - [ ] 2020-02-01, Open CFT/CFP, [Emily]
 - [ ] 2020-03-01, Close CFT/CFP, [Emily]
 - [ ] 2020-03-15, CFT/CFP Review Complete, [Emily]
 - [ ] 2020-04-01, Prgram Announced, [Emily]
-- [ ] 2020-05-01, Keynotes Announces, [Emily]
 - [ ] 2020-04-01, Registration Opens, [Emily]
-- [ ] 2019-12-31, General Service Contract Signed, [Emily]
+- [ ] 2020-05-01, Keynotes Announces, [Emily]
 - [ ] 2020-08-01, AV Contract Signed, [Emily]
 - [ ] 2020-08-15, SWAG Ordered, [Emily]
 - [ ] 2020-09-15, Signage Ordered, [Emily]
-- [ ] 2020-10-01, F&B Order Complete, [Emily]
 - [ ] 2020-09-15, Volunteers finalized and communication initiated, [Emily]
+- [ ] 2020-10-01, F&B Order Complete, [Emily]
 
 ## Leadership
 
