@@ -21,39 +21,11 @@
         "status": "overdue"
     },
     {
-        "milestone_date": "2019-10-31",
-        "description": "Stub website with Sponsor pricing/info online.",
-        "owner": "Harold",
-        "project_name": "Global AppSec - Dublin 2020",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2019-10-31",
-        "description": "Stub website with Sponsor pricing/info online.",
-        "owner": "Harold",
-        "project_name": "Global AppSec - San Francisco",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2019-11-04",
-        "description": "ufoo form sent to all European Chapter leaders on the wiki.",
-        "owner": "Lisa",
-        "project_name": "BlackHat London 2019",
-        "status": "overdue"
-    },
-    {
         "milestone_date": "2019-11-10",
         "description": "Populate Project Page with required content",
         "owner": "Emily",
         "project_name": "Global AppSec - San Francisco",
         "status": "overdue"
-    },
-    {
-        "milestone_date": "2019-11-11",
-        "description": "hip and order all SWAG for booth needs to arrive at one address if prior to Nov 30th and another address           after Nov 3oth.",
-        "owner": "Mike & Lisa",
-        "project_name": "BlackHat London 2019",
-        "status": "on-time"
     },
     {
         "milestone_date": "2019-11-15",
@@ -74,20 +46,6 @@
         "description": "Form completed for demonstration",
         "owner": "Simone",
         "project_name": "Membership Form",
-        "status": "on-time"
-    },
-    {
-        "milestone_date": "2019-11-15",
-        "description": "valuate if enough volunteers to move forward with booth.",
-        "owner": "No Owner",
-        "project_name": "BlackHat London 2019",
-        "status": "on-time"
-    },
-    {
-        "milestone_date": "2019-11-15",
-        "description": "egister volunteers, and local onsite contact and post the schedule",
-        "owner": "Lisa",
-        "project_name": "BlackHat London 2019",
         "status": "on-time"
     },
     {
@@ -137,6 +95,13 @@
         "description": "Project Complete ready for deployment",
         "owner": "Harold",
         "project_name": "Membership Form",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2019-11-20",
+        "description": "rder Stickers with Giant",
+        "owner": "Mike",
+        "project_name": "BlackHat London 2019",
         "status": "on-time"
     },
     {
@@ -235,14 +200,14 @@
         "description": "Project Nomination Opens",
         "owner": "Harold",
         "project_name": "Projects Summit - Winter 2020",
-        "status": "future"
+        "status": "on-time"
     },
     {
         "milestone_date": "2019-12-16",
         "description": "Email solicitation sent to Leaders list",
         "owner": "Harold",
         "project_name": "Projects Summit - Winter 2020",
-        "status": "future"
+        "status": "on-time"
     },
     {
         "milestone_date": "2019-12-17",
@@ -539,6 +504,13 @@
         "status": "future"
     },
     {
+        "milestone_date": "2020-05-15",
+        "description": "Volunteers finalized and communication initiated",
+        "owner": "Emily",
+        "project_name": "Global AppSec - Dublin 2020",
+        "status": "future"
+    },
+    {
         "milestone_date": "2020-05-25",
         "description": "Memorial Day",
         "owner": "No Owner",
@@ -597,6 +569,13 @@
     {
         "milestone_date": "2020-09-15",
         "description": "Signage Ordered",
+        "owner": "Emily",
+        "project_name": "Global AppSec - San Francisco",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-09-15",
+        "description": "Volunteers finalized and communication initiated",
         "owner": "Emily",
         "project_name": "Global AppSec - San Francisco",
         "status": "future"
