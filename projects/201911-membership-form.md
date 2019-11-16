@@ -25,6 +25,7 @@ As part of the OWASP website migration, we will creating a new membership form a
 - [ ] 2019-11-19, Form completed for demonstration, [Simone]
 - [ ] 2019-11-21, Regression testing complete, [Harold]
 - [ ] 2019-11-22, Project Complete ready for deployment, [Harold]
+- [ ] 2019-12-01, Load historical Membership transaction data into Stripe with email as key, [Harold]
 - [ ] 2019-12-11, Deploy to new website in production, [Harold]
 
 ## Leadership
