@@ -31,26 +31,25 @@ Join us for a celebration of leading application security technologies, speakers
 ## Milestones
 
 - [x] 2019-10-31, Stub website with Sponsor pricing/info online. [Harold]
-- [ ] 2019-11-15, Launch Call for Program Team Members, [Emily]
 - [x] 2019-11-06, Sign contract, [Mike]
-- [ ] 2019-12-15, Close Call for Program Team Members, [Emily]
+- [ ] 2019-11-15, Launch Call for Program Team Members, [Emily]
 - [x] 2019-12-01, Payment 10% of Rental and Catering Fee due, [Emily]
-- [ ] 2020-01-06, Payment 45% of Rental Fee due, [Emily]
-- [ ] 2020-03-16, Payment 45% of Catering fee due, [Emily]
 - [ ] 2019-12-01, Open CFT/CFP, [Emily]
+- [ ] 2019-12-15, Close Call for Program Team Members, [Emily]
 - [ ] 2019-12-31, Close CFT/CFP, [Emily]
-- [ ] 2020-02-15, CFT/CFP Review Complete, [Emily]
-- [ ] 2020-03-09, Prgram Announced, [Emily]
-- [ ] 2020-02-01, Keynotes Announces, [Emily]
-- [ ] 2020-03-09, Registration Opens, [Emily]
 - [ ] 2019-12-31, General Service Contract Signed, [Emily]
 - [ ] 2019-12-31, Hotel Room Block COntract Signed, [Emily]
+- [ ] 2020-01-06, Payment 45% of Rental Fee due, [Emily]
+- [ ] 2020-02-01, Keynotes Announces, [Emily]
+- [ ] 2020-02-15, CFT/CFP Review Complete, [Emily]
+- [ ] 2020-03-09, Prgram Announced, [Emily]
+- [ ] 2020-03-09, Registration Opens, [Emily]
+- [ ] 2020-03-16, Payment 45% of Catering fee due, [Emily]
 - [ ] 2020-04-01, AV Contract Signed, [Emily]
 - [ ] 2020-05-15, SWAG Ordered, [Emily]
 - [ ] 2020-05-15, Signage Ordered, [Emily]
-- [ ] 2020-06-01, F&B Order Complete, [Emily]
 - [ ] 2020-05-15, Volunteers finalized and communication initiated, [Emily]
-
+- [ ] 2020-06-01, F&B Order Complete, [Emily]
 
 ## Leadership
 
