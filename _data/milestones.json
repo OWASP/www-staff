@@ -7,45 +7,10 @@
         "status": "overdue"
     },
     {
-        "milestone_date": "2019-10-30",
-        "description": "Events pages migrated and in production",
-        "owner": "No Owner",
-        "project_name": "Website Re-launch",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2019-10-30",
-        "description": "Policy pages migrated and ready for Board Approval",
-        "owner": "No Owner",
-        "project_name": "Website Re-launch",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2019-11-10",
-        "description": "Populate Project Page with required content",
-        "owner": "Emily",
-        "project_name": "Global AppSec - San Francisco",
-        "status": "overdue"
-    },
-    {
         "milestone_date": "2019-11-15",
         "description": "Connect Susan to personalities for EOY Campaign",
         "owner": "Mike",
         "project_name": "2019Q4 Marketing",
-        "status": "on-time"
-    },
-    {
-        "milestone_date": "2019-11-15",
-        "description": "Form completed for demonstration",
-        "owner": "Simone",
-        "project_name": "Donation Form",
-        "status": "on-time"
-    },
-    {
-        "milestone_date": "2019-11-15",
-        "description": "Form completed for demonstration",
-        "owner": "Simone",
-        "project_name": "Membership Form",
         "status": "on-time"
     },
     {
@@ -71,30 +36,23 @@
     },
     {
         "milestone_date": "2019-11-19",
-        "description": "Regression testing complete",
-        "owner": "Harold",
+        "description": "Form completed for demonstration",
+        "owner": "Simone",
         "project_name": "Donation Form",
         "status": "on-time"
     },
     {
         "milestone_date": "2019-11-19",
-        "description": "Regression testing complete",
-        "owner": "Harold",
+        "description": "Form completed for demonstration",
+        "owner": "Simone",
         "project_name": "Membership Form",
         "status": "on-time"
     },
     {
-        "milestone_date": "2019-11-20",
-        "description": "Project Complete ready for deployment",
-        "owner": "Harold",
-        "project_name": "Donation Form",
-        "status": "on-time"
-    },
-    {
-        "milestone_date": "2019-11-20",
-        "description": "Project Complete ready for deployment",
-        "owner": "Harold",
-        "project_name": "Membership Form",
+        "milestone_date": "2019-11-19",
+        "description": "Events pages migrated and in production",
+        "owner": "No Owner",
+        "project_name": "Website Re-launch",
         "status": "on-time"
     },
     {
@@ -105,10 +63,31 @@
         "status": "on-time"
     },
     {
-        "milestone_date": "2019-11-28",
-        "description": "Corporate pages migrated (not production)",
-        "owner": "No Owner",
-        "project_name": "Website Re-launch",
+        "milestone_date": "2019-11-21",
+        "description": "Regression testing complete",
+        "owner": "Harold",
+        "project_name": "Donation Form",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2019-11-21",
+        "description": "Regression testing complete",
+        "owner": "Harold",
+        "project_name": "Membership Form",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2019-11-22",
+        "description": "Project Complete ready for deployment",
+        "owner": "Harold",
+        "project_name": "Donation Form",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2019-11-22",
+        "description": "Project Complete ready for deployment",
+        "owner": "Harold",
+        "project_name": "Membership Form",
         "status": "on-time"
     },
     {
@@ -116,6 +95,27 @@
         "description": "Venue contract signed",
         "owner": "Emily",
         "project_name": "Projects Summit - Winter 2020",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2019-12-01",
+        "description": "Load historical Membership transaction data into Stripe with email as key",
+        "owner": "Harold",
+        "project_name": "Membership Form",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2019-12-01",
+        "description": "Policy pages migrated and ready for Board Approval",
+        "owner": "No Owner",
+        "project_name": "Website Re-launch",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2019-12-01",
+        "description": "Corporate pages migrated (not production)",
+        "owner": "No Owner",
+        "project_name": "Website Re-launch",
         "status": "on-time"
     },
     {
@@ -214,7 +214,7 @@
         "description": "EXPECTED Website launch",
         "owner": "Harold",
         "project_name": "2019Q4 Marketing",
-        "status": "future"
+        "status": "on-time"
     },
     {
         "milestone_date": "2019-12-18",
