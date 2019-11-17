@@ -54,7 +54,7 @@
                 "description": "EXPECTED Website launch",
                 "owner": "Harold",
                 "project_name": "2019Q4 Marketing",
-                "status": "future"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2019-12-20",
@@ -72,21 +72,21 @@
         "name": "Donation Form",
         "milestones": [
             {
-                "milestone_date": "2019-11-15",
+                "milestone_date": "2019-11-19",
                 "description": "Form completed for demonstration",
                 "owner": "Simone",
                 "project_name": "Donation Form",
                 "status": "on-time"
             },
             {
-                "milestone_date": "2019-11-19",
+                "milestone_date": "2019-11-21",
                 "description": "Regression testing complete",
                 "owner": "Harold",
                 "project_name": "Donation Form",
                 "status": "on-time"
             },
             {
-                "milestone_date": "2019-11-20",
+                "milestone_date": "2019-11-22",
                 "description": "Project Complete ready for deployment",
                 "owner": "Harold",
                 "project_name": "Donation Form",
@@ -117,22 +117,29 @@
         "name": "Membership Form",
         "milestones": [
             {
-                "milestone_date": "2019-11-15",
+                "milestone_date": "2019-11-19",
                 "description": "Form completed for demonstration",
                 "owner": "Simone",
                 "project_name": "Membership Form",
                 "status": "on-time"
             },
             {
-                "milestone_date": "2019-11-19",
+                "milestone_date": "2019-11-21",
                 "description": "Regression testing complete",
                 "owner": "Harold",
                 "project_name": "Membership Form",
                 "status": "on-time"
             },
             {
-                "milestone_date": "2019-11-20",
+                "milestone_date": "2019-11-22",
                 "description": "Project Complete ready for deployment",
+                "owner": "Harold",
+                "project_name": "Membership Form",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2019-12-01",
+                "description": "Load historical Membership transaction data into Stripe with email as key",
                 "owner": "Harold",
                 "project_name": "Membership Form",
                 "status": "on-time"
@@ -177,21 +184,21 @@
         "name": "Website Re-launch",
         "milestones": [
             {
-                "milestone_date": "2019-10-30",
+                "milestone_date": "2019-11-19",
                 "description": "Events pages migrated and in production",
                 "owner": "No Owner",
                 "project_name": "Website Re-launch",
-                "status": "overdue"
+                "status": "on-time"
             },
             {
-                "milestone_date": "2019-10-30",
+                "milestone_date": "2019-12-01",
                 "description": "Policy pages migrated and ready for Board Approval",
                 "owner": "No Owner",
                 "project_name": "Website Re-launch",
-                "status": "overdue"
+                "status": "on-time"
             },
             {
-                "milestone_date": "2019-11-28",
+                "milestone_date": "2019-12-01",
                 "description": "Corporate pages migrated (not production)",
                 "owner": "No Owner",
                 "project_name": "Website Re-launch",
@@ -564,11 +571,39 @@
                 "status": "on-time"
             },
             {
+                "milestone_date": "2019-12-01",
+                "description": "Open CFT/CFP",
+                "owner": "Emily",
+                "project_name": "Global AppSec - Dublin 2020",
+                "status": "on-time"
+            },
+            {
                 "milestone_date": "2019-12-15",
                 "description": "Close Call for Program Team Members",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin 2020",
                 "status": "on-time"
+            },
+            {
+                "milestone_date": "2019-12-31",
+                "description": "Close CFT/CFP",
+                "owner": "Emily",
+                "project_name": "Global AppSec - Dublin 2020",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2019-12-31",
+                "description": "General Service Contract Signed",
+                "owner": "Emily",
+                "project_name": "Global AppSec - Dublin 2020",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2019-12-31",
+                "description": "Hotel Room Block COntract Signed",
+                "owner": "Emily",
+                "project_name": "Global AppSec - Dublin 2020",
+                "status": "future"
             },
             {
                 "milestone_date": "2020-01-06",
@@ -578,22 +613,8 @@
                 "status": "future"
             },
             {
-                "milestone_date": "2020-03-16",
-                "description": "Payment 45% of Catering fee due",
-                "owner": "Emily",
-                "project_name": "Global AppSec - Dublin 2020",
-                "status": "future"
-            },
-            {
-                "milestone_date": "2019-12-01",
-                "description": "Open CFT/CFP",
-                "owner": "Emily",
-                "project_name": "Global AppSec - Dublin 2020",
-                "status": "on-time"
-            },
-            {
-                "milestone_date": "2019-12-31",
-                "description": "Close CFT/CFP",
+                "milestone_date": "2020-02-01",
+                "description": "Keynotes Announces",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin 2020",
                 "status": "future"
@@ -613,13 +634,6 @@
                 "status": "future"
             },
             {
-                "milestone_date": "2020-02-01",
-                "description": "Keynotes Announces",
-                "owner": "Emily",
-                "project_name": "Global AppSec - Dublin 2020",
-                "status": "future"
-            },
-            {
                 "milestone_date": "2020-03-09",
                 "description": "Registration Opens",
                 "owner": "Emily",
@@ -627,15 +641,8 @@
                 "status": "future"
             },
             {
-                "milestone_date": "2019-12-31",
-                "description": "General Service Contract Signed",
-                "owner": "Emily",
-                "project_name": "Global AppSec - Dublin 2020",
-                "status": "future"
-            },
-            {
-                "milestone_date": "2019-12-31",
-                "description": "Hotel Room Block COntract Signed",
+                "milestone_date": "2020-03-16",
+                "description": "Payment 45% of Catering fee due",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin 2020",
                 "status": "future"
@@ -662,15 +669,15 @@
                 "status": "future"
             },
             {
-                "milestone_date": "2020-06-01",
-                "description": "F&B Order Complete",
+                "milestone_date": "2020-05-15",
+                "description": "Volunteers finalized and communication initiated",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin 2020",
                 "status": "future"
             },
             {
-                "milestone_date": "2020-05-15",
-                "description": "Volunteers finalized and communication initiated",
+                "milestone_date": "2020-06-01",
+                "description": "F&B Order Complete",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin 2020",
                 "status": "future"
@@ -744,18 +751,18 @@
         "name": "Global AppSec - San Francisco",
         "milestones": [
             {
-                "milestone_date": "2019-11-10",
-                "description": "Populate Project Page with required content",
-                "owner": "Emily",
-                "project_name": "Global AppSec - San Francisco",
-                "status": "overdue"
-            },
-            {
                 "milestone_date": "2019-11-15",
                 "description": "Launch Call for Program Team Members",
                 "owner": "Emily",
                 "project_name": "Global AppSec - San Francisco",
                 "status": "on-time"
+            },
+            {
+                "milestone_date": "2019-12-31",
+                "description": "General Service Contract Signed",
+                "owner": "Emily",
+                "project_name": "Global AppSec - San Francisco",
+                "status": "future"
             },
             {
                 "milestone_date": "2020-01-02",
@@ -793,13 +800,6 @@
                 "status": "future"
             },
             {
-                "milestone_date": "2020-05-01",
-                "description": "Keynotes Announces",
-                "owner": "Emily",
-                "project_name": "Global AppSec - San Francisco",
-                "status": "future"
-            },
-            {
                 "milestone_date": "2020-04-01",
                 "description": "Registration Opens",
                 "owner": "Emily",
@@ -807,8 +807,8 @@
                 "status": "future"
             },
             {
-                "milestone_date": "2019-12-31",
-                "description": "General Service Contract Signed",
+                "milestone_date": "2020-05-01",
+                "description": "Keynotes Announces",
                 "owner": "Emily",
                 "project_name": "Global AppSec - San Francisco",
                 "status": "future"
@@ -835,15 +835,15 @@
                 "status": "future"
             },
             {
-                "milestone_date": "2020-10-01",
-                "description": "F&B Order Complete",
+                "milestone_date": "2020-09-15",
+                "description": "Volunteers finalized and communication initiated",
                 "owner": "Emily",
                 "project_name": "Global AppSec - San Francisco",
                 "status": "future"
             },
             {
-                "milestone_date": "2020-09-15",
-                "description": "Volunteers finalized and communication initiated",
+                "milestone_date": "2020-10-01",
+                "description": "F&B Order Complete",
                 "owner": "Emily",
                 "project_name": "Global AppSec - San Francisco",
                 "status": "future"
