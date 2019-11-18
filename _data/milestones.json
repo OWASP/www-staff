@@ -221,14 +221,14 @@
         "description": "Validate Google Analytics instance running",
         "owner": "No Owner",
         "project_name": "Website Re-launch",
-        "status": "future"
+        "status": "on-time"
     },
     {
         "milestone_date": "2019-12-18",
         "description": "Validate search redirect working site-wide",
         "owner": "No Owner",
         "project_name": "Website Re-launch",
-        "status": "future"
+        "status": "on-time"
     },
     {
         "milestone_date": "2019-12-20",
