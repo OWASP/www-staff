@@ -34,18 +34,19 @@ Upon the completion of this project, OWASP.org will be hosted in Github. The arc
 * Retire full Mediawiki instance before Dec 15, 2020
 
 ## Milestones
-* [x] 2019-10-10, Staff Projects migrated and in production
-* [ ] 2019-11-19, Events pages migrated and in production
-* [ ] 2019-12-01, Policy pages migrated and ready for Board Approval
-* [ ] 2019-12-01, Corporate pages migrated (not production)
-* [ ] 2019-12-06, Chapter pages migrated (not production)
-* [ ] 2019-12-06, Project pages migrated (not production)
+* [x] 2019-10-10, Staff Projects migrated and in production, [Harold]
+* [ ] 2019-11-19, Events pages migrated and in production, [Harold]
+* [ ] 2019-12-01, Policy pages migrated and ready for Board Approval, [Mike]
+* [ ] 2019-12-01, Corporate pages migrated (not production), [Mike]
+* [ ] 2019-12-06, Chapter pages migrated (not production), [Harold]
+* [ ] 2019-12-06, Project pages migrated (not production), [Harold]
+* [ ] 2019-12-10, Corporate bios complete (450-510 chars), [Lisa]
 * [ ] 2019-12-13, Redirect system in place and ready for launch
-* [ ] 2019-12-13, Validate in-bound search redirect working on events/policy pages
+* [ ] 2019-12-13, Validate in-bound search redirect working on events/policy pages, [Harold]
 * [ ] 2019-12-20, Website Launch [Harold]
-* [ ] 2019-12-18, Validate Google Analytics instance running
-* [ ] 2019-12-18, Validate search redirect working site-wide
-* [ ] 2020-01-15, Validate Meetup Connector
+* [ ] 2019-12-18, Validate Google Analytics instance running, [Harold]
+* [ ] 2019-12-18, Validate search redirect working site-wide, [Harold]
+* [ ] 2020-01-15, Validate Meetup Connector, [Harold]
 * Donation Form
 * Membership Form
 * Events Form
