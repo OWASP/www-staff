@@ -6,6 +6,33 @@ layout: full-width
 ---
 # AppSec California 2020
 
+## Overview
+
+Each project will have a 2-3 paragraph overview narrative. Keep to the key top points about the project. Visitors should be able to read this short narrative and have a good understanding of the project without having to scroll the entire document.
+
+## Project Links
+
+* [AppSec California Website](https://2020.appseccalifornia.org/)
+
+## Goals
+
+1. Include top-level goals of the project in an ordered list
+2. Give thought to the ordering of goals. Revenue, attendance, launch date
+3. Make sure goals are measurable from undisputed source
+
+## Leadership
+
+* [Richard Greenberg](mailto:richard.greenberg@owasp.org?subject=OWASP%20California%20Project)
+* [Elizabeth Dugan - Venue/Contracts](mailto:Elizabeth.Dugan@smgov.net?subject=OWASP%20California%20Project)
+
+## Milestones
+
+* [ ] 2019-11-15, Secure insurance for event per terms of contract (See below), [Dawn]
+* [ ] 2019-12-20, Final payment of $22,750 is due. Ticket # OSD-3068, [Dawn]
+* [ ] 2019-12-21, 30 Day out Check-in, [Emily]
+* [ ] 2020-01-21, AppSec California
+* [ ] 2020-03-24, Close P&L, [Dawn]
+
 ## Sponsorships
 
 This event offers several parter sponsorships opportunities.  If you are interested in supporting the event please contact [kelly.santalucia@owasp.com](mailto:kelly.santalucai@owasp.com). Below is a list of existing and available sponsorships. Please note all sponsorship levels include a table in the exhibition area and logos on conference materials and signage. All sponsor assets will go in a folder named sponsors in this repo. 
@@ -59,19 +86,6 @@ Sponsorship Contract Status to Date (as of 08:00amET November 15, 2019). Amount 
 #### Career Fair 
 - Citrix
 
-## Project Links
-
-* [AppSec California Registration Site](https://2020.appseccalifornia.org/)
-
-## Milestones
-
-* [ ] 2019-11-15, Secure insurance for event per terms of contract (See below), [Dawn]
-* [ ] 2019-12-20, Final payment of $22,750 is due. Ticket # OSD-3068, [Dawn]
-
-## Leadership
-
-* [Richard Greenberg](mailto:richard.greenberg@owasp.org?subject=OWASP%20California%20Project)
-* [Elizabeth Dugan - Venue/Contracts](mailto:Elizabeth.Dugan@smgov.net?subject=OWASP%20California%20Project)
 
 ## Insurance Requirements from Venue Contract
 Prior to Permit being granted, Permittee shall procure/maintain a Commercial General Liability insurance
@@ -87,7 +101,10 @@ General Liability insurance in the amount of $2 million dollars ($2,000,000) per
 
 ### Venue
 
-Minimally the address and phone number of the venue for the event. Note the distance of the venue from the nearest likely airport for travelers and public transit information if available.
+```
+Annenberg Community Beach House
+415 Pacific Coast Hwy Santa Monica, CA 90402
+```
 
 ### Lodging 
 
