@@ -18,6 +18,7 @@
 * [Corporate Membership](#corporate-membership)
 * [Local Partnerships](#local-partnerships)
 * [Community Outreach](#community-outreach)
+* [Town Halls](#town-hall)
 #### Projects
 * [OWASP Top 10 - 2020 Edition](#top-10)
 * [Project Operations](#project-operations)
