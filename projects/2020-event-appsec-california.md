@@ -71,6 +71,7 @@ Sponsorship Contract Status to Date (as of 08:00amET November 15, 2019). Amount 
 ## Leadership
 
 * [Richard Greenberg](mailto:richard.greenberg@owasp.org?subject=OWASP%20California%20Project)
+* [Elizabeth Dugan - Venue/Contracts](mailto:Elizabeth.Dugan@smgov.net?subject=OWASP%20California%20Project)
 
 ## Insurance Requirements from Venue Contract
 Prior to Permit being granted, Permittee shall procure/maintain a Commercial General Liability insurance
