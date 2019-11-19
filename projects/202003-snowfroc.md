@@ -19,6 +19,8 @@ Each project will have a 2-3 paragraph overview narrative. Keep to the key top p
 
 ## Milestones
 
+- [x] 2019-11-19, Contract Signed, [Mike]
+- [x] 2019-11-19, Pay Venue Deposit $7,500, [Mike]
 - [ ] 2020-02-15, Ship Stickers to SnowFROC, [Lisa]
 - [ ] 2020-02-05, Confirm attendance. If over 500 please notify Dawn to update Insurance Policy, [Emily]
 - [ ] 2020-03-05, SnowFROC, Denver
@@ -80,8 +82,7 @@ This event offers several parter sponsorships opportunities.  If you are interes
 
 This section will include a checklist of the key contracts and legal documents needed to execute an event. A folder in this repo named files will include PDFs of all fully executed agreements. IF any agreeement isn’t completed the status should be provided here.
 
-* Conference Organizing [ ]
-* Venue [ ]
+* Venue [x]
 * Venue A/V (if different vendor [ ]
 * Catering [ ]
 * Event Insurance [ ]
