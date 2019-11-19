@@ -64,6 +64,19 @@ As part of the OWASP website migration, we will creating a new Donation form tha
       2. Boolean for "marketing_emails" in Mailchimp will be set to true
    2. If donor slected "Publicly list me.." - a pull request will be created for the page target project/chapter page of tab_onlinedonors.md that will add the name to an unordered list for that page.
 6. After completing integrations, update field in Stripe that donation was processed through integrations.
+
+## Mailchimp CRM Insert
+``
+email
+name
+country
+postal-code
+~~membership-start-date~~ {unused}
+~~membership-end-date~~ {unused}
+~~membership-type~~ {unused}
+source [donateform-api]
+```
+
   
 ## Budget
 Hourly rate expected to be less than $1,500.
