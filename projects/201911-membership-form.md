@@ -60,6 +60,31 @@ As part of the OWASP website migration, we will creating a new membership form a
 3. User submits form and sees a message that says if an active subscription was found, a link to manage it has been emailed to the address.  This message appears whether or not a subscription was found.
 4. If a subscription was found with a matching email address, an email is sent to it that contains a unique link to Stripe Checkout where the payment information can be updated.
   
+## Schema for MailChimp
+
+```
+email
+name
+company
+country
+postal-code
+membership-start-date = current-date
+membership-end-date = current-date + 365
+membership-type [one, two, lifetime, honorary, student]
+source [memberform-api]
+```
+
+The Membeship form will either creates a new list member OR just updates these fields when there is a renewal
+
+```
+company
+country
+postal-code
+membership-end-date {current-date+365 days}
+membership-type [one, two, lifetime, honorary]
+source [memberform-api]
+```
+  
 ## Budget
 Hourly rate expected to be less than $1,500.
 
