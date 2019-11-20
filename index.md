@@ -54,6 +54,7 @@ Staff Projects are work products primarily done by staff that require either 40+
   * Invoice Workflow (SalesForce & JIRA)
   * SalesForce Invoicing
   * SalesForce Sales Pipeline
+* Backup plan for Meetup
 
 ## Unprioritized Projects
 * Bi-Annual Signatory/Password Audit Jan/June
