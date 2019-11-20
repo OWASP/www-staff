@@ -94,6 +94,7 @@ Upon the completion of this project, OWASP.org will be hosted in Github. The arc
 1. Nice to have: Decorate rendered certain pages with WATCH/STAR repo tools
 1. Nice to have: Search content in site
 1. Nice to have: ability to duplicate Meetup widget functionality (pull in Meetup JSON and render "future meetings")
+1. Nice to have: Meta data/tags to improve SEO peformance
 
 ##  Required Templates
 * Home page
