@@ -26,18 +26,19 @@ layout: full-width
 * [X] 2019-11-11 Ship and order all SWAG & Printing [Lisa]
 * [X] 2019-11-15 Evaluate if enough volunteers to move forward with booth. 
 * [X] 2019-11-15 Register volunteers, and local onsite contact and post the schedule[Lisa]
-* [ ] 2019-11-20 Order Stickers with Giant [Mike]
+* [x] 2019-11-20 Order Stickers from StickerGiant [Mike]
 
 
 ## Venue
 
-> EXCEL LONDON
-> One Western Gateway
-> Royal Victoria Dock
-> London E16 1XL
-> Booth 1015
-> URL: https://www.blackhat.com/eu-19/travel.html
-
+```
+EXCEL LONDON
+One Western Gateway
+Royal Victoria Dock
+London E16 1XL
+Booth 1015
+URL: https://www.blackhat.com/eu-19/travel.html
+```
 ## Registration
 
 [BlackHat London 2019](https://blackhateurope.informatech.com/2019/?)
