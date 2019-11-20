@@ -61,4 +61,5 @@ The high level budget should be listed below as a table. The full budget should 
 * Business cards or consolidated card with staff contact information. ie. Kelly for Corporate sponsorship packages
 * Promote New Website
 * DONE -  Sibah if she knows of printer and SWAG distributor in London to use and avoid customs.
+* Stickers are shippping on 20-Nov. UPS Tracking number is 1Z12Y17R6756664325
 
