@@ -36,12 +36,15 @@ Upon the completion of this project, OWASP.org will be hosted in Github. The arc
 ## Milestones
 * [ ] 2019-11-20, Update community regarding website migration [Harold]
 * [ ] 2019-11-25, Donation form (poc) [Simon]
+* [ ] 2019-12-01, Redirect inventory from SEO firm [Mike]
 * [ ] 2019-12-02, Membership form (poc) [Simon]
-* [ ] 2019-12-05, Policy pages migrated and ready for Board Approval, [Mike]
+* [ ] 2019-12-05, Policy pages migrated and ready for community review and Board Approval, [Mike]
 * [ ] 2019-12-05, Corporate pages migrated (not production), [Mike]
 * [ ] 2019-12-05, Chapter pages migrated (not production), [Harold]
 * [ ] 2019-12-05, Project pages migrated (not production), [Harold]
 * [ ] 2019-12-05, Events pages migrated (not production), [Harold]
+* [ ] 2019-12-06, Metadata template information from SEO firm, [Harold]
+* [ ] 2019-12-10, Integrate meta tag info into templates, [Harold]
 * [ ] 2019-12-10, Corporate bios complete (450-510 chars), [Lisa]
 * [ ] 2019-12-13, Redirect system in place and ready for launch
 * [ ] 2019-12-13, Validate in-bound search redirect working on events/policy pages, [Harold]
