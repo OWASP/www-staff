@@ -1,11 +1,11 @@
 ---
 
-title: Projects Summit Summer
+title: Projects Summit - Summer
 layout: full-width
 
 ---
 
-# Projects Summit Summer
+# Projects Summit - Summer
 
 ## Overview
 
