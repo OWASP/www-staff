@@ -44,7 +44,23 @@ URL: https://www.blackhat.com/eu-19/travel.html
 
 [BlackHat London 2019](https://blackhateurope.informatech.com/2019/?)
 10/28/2019 [Volunteer](https://owasp.wufoo.com/forms/q1m4my2a1br8l7g/) form sent to london-chapter@owasp.org
-6 tickets available
+
+Sam Stepanyan and Paul Harragan will be speaking on Wednesday but submitted to volunteer at the booth.  
+BlackHat Volunteers	
+12/4/2019	Wednesday 
+Wojciech Cichon	10:00 - 15:00
+Grant Onger	10:00 - 15:00
+Alexios Mylonas 	11:00 - 19:00 
+Mark Marich	13:00 - 19:00
+Jeremy Lawrence	13:00 - 19:00
+	
+12/5/2019	Thursday
+Jim Gumbley	10:00 - 16:00
+Wojciech Cichon	10:00 - 14:00
+Andra Lezza 	10:00 - 16:00
+Grant Onger	12:00 - 16:00
+Mark Marich	12:00 - 16:00
+Jeremy Lawrence	12:00 - 16:00
 
 ## Budget
 
