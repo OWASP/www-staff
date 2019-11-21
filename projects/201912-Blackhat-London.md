@@ -56,11 +56,9 @@ The high level budget should be listed below as a table. The full budget should 
 
 ## Creative
 
-* Postcards to promote Global AppSec Dublin and San Francisco 2020
-* Discount code for conference ticket for Global AppSec Events
-* Solicit "NEW" CFP and CFT papers for global events.
-* Business cards or consolidated card with staff contact information. ie. Kelly for Corporate sponsorship packages
-* Promote New Website
-* DONE -  Sibah if she knows of printer and SWAG distributor in London to use and avoid customs.
+* Postcards Sibah ordered in London
+* Booth Merchandise shipped DHL 
+  * 1 pkgs delivered 11/18/19 Waybill Number 5011954076
+  * 2 pkgs shipped 11/21/19 Waybill Number 1958252822
 * Stickers are shippping on 20-Nov. UPS Tracking number is 1Z12Y17R6756664325
 
