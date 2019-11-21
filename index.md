@@ -58,6 +58,7 @@ Staff Projects are work products primarily done by staff that require either 40+
 
 ## Unprioritized Projects
 * Bi-Annual Signatory/Password Audit Jan/June
+* Submittable download stylesheet for owasp.org website
 
 ## Recently Completed Projects
 * [AppSec Days Melbourne, 1 November, 2019](https://www.owasp.org/index.php/Staff-Projects/20191101-AppSecDay-Melbourne)
