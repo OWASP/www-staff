@@ -167,15 +167,7 @@
     },
     {
         "name": "BlackHat London 2019",
-        "milestones": [
-            {
-                "milestone_date": "2019-11-20",
-                "description": "rder Stickers with Giant",
-                "owner": "Mike",
-                "project_name": "BlackHat London 2019",
-                "status": "on-time"
-            }
-        ],
+        "milestones": [],
         "description": "* [Conference call minutes from 10/9/2019](https://drive.google.com/open?id=1KukrG-jbV3PErZrK4WfUzwOORa7quZ05nefgM3i_-dM)* [BlackHat London 2019 website](https://www.blackhat.com/eu-19/)* December 2-5, 2019  Briefing on Dec 4 & 5  * Briefing & Business Hall Hours:  * Wednesday, December 4, 10:30 AM - 7:00 PM | Business Hall Reception, 5:30 PM - 7:00 PM  * Thursday, December 5: 10:00 AM - 4:00 PM* Wednesday, December 4 - 3:25 PM - 4:15 PM WIA Community Session \"Share insights they have gained at different stages of their   careers that could help other women grow their our own careers and maximize the contribution of women in the field.\" * Wednesday, December 4 - 4:30 PM - 5:30 PM Women in Security Mixer",
         "leaders": [],
         "url": "https://www2.owasp.org/www-staff/projects/201912-Blackhat-London"
@@ -184,36 +176,78 @@
         "name": "Website Re-launch",
         "milestones": [
             {
-                "milestone_date": "2019-11-19",
-                "description": "Events pages migrated and in production",
+                "milestone_date": "2019-11-20",
+                "description": "Update community regarding website migration",
                 "owner": "Harold",
                 "project_name": "Website Re-launch",
                 "status": "overdue"
             },
             {
-                "milestone_date": "2019-12-01",
-                "description": "Policy pages migrated and ready for Board Approval",
-                "owner": "Mike",
+                "milestone_date": "2019-11-25",
+                "description": "Donation form (poc)",
+                "owner": "Simon",
                 "project_name": "Website Re-launch",
                 "status": "on-time"
             },
             {
                 "milestone_date": "2019-12-01",
+                "description": "Redirect inventory from SEO firm",
+                "owner": "Mike",
+                "project_name": "Website Re-launch",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2019-12-02",
+                "description": "Membership form (poc)",
+                "owner": "Simon",
+                "project_name": "Website Re-launch",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2019-12-05",
+                "description": "Policy pages migrated and ready for community review and Board Approval",
+                "owner": "Mike",
+                "project_name": "Website Re-launch",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2019-12-05",
                 "description": "Corporate pages migrated (not production)",
                 "owner": "Mike",
                 "project_name": "Website Re-launch",
                 "status": "on-time"
             },
             {
-                "milestone_date": "2019-12-06",
+                "milestone_date": "2019-12-05",
                 "description": "Chapter pages migrated (not production)",
                 "owner": "Harold",
                 "project_name": "Website Re-launch",
                 "status": "on-time"
             },
             {
-                "milestone_date": "2019-12-06",
+                "milestone_date": "2019-12-05",
                 "description": "Project pages migrated (not production)",
+                "owner": "Harold",
+                "project_name": "Website Re-launch",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2019-12-05",
+                "description": "Events pages migrated (not production)",
+                "owner": "Harold",
+                "project_name": "Website Re-launch",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2019-12-06",
+                "description": "Metadata template information from SEO firm",
+                "owner": "Harold",
+                "project_name": "Website Re-launch",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2019-12-10",
+                "description": "Integrate meta tag info into templates",
                 "owner": "Harold",
                 "project_name": "Website Re-launch",
                 "status": "on-time"
@@ -235,6 +269,48 @@
             {
                 "milestone_date": "2019-12-13",
                 "description": "Validate in-bound search redirect working on events/policy pages",
+                "owner": "Harold",
+                "project_name": "Website Re-launch",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2019-12-13",
+                "description": "Events form (poc)",
+                "owner": "Simon",
+                "project_name": "Website Re-launch",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2019-12-13",
+                "description": "Donation form online",
+                "owner": "Simon",
+                "project_name": "Website Re-launch",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2019-12-13",
+                "description": "Membership form onine",
+                "owner": "Simon",
+                "project_name": "Website Re-launch",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2019-12-16",
+                "description": "Remaining chapter pages auto-migrated",
+                "owner": "Harold",
+                "project_name": "Website Re-launch",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2019-12-16",
+                "description": "Remaining project pages auto-migrated",
+                "owner": "Harold",
+                "project_name": "Website Re-launch",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2019-12-16",
+                "description": "Events pages migrated",
                 "owner": "Harold",
                 "project_name": "Website Re-launch",
                 "status": "on-time"
@@ -339,7 +415,7 @@
                 "description": "30 Day out Check-in",
                 "owner": "Emily",
                 "project_name": "AppSec California 2020",
-                "status": "future"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-01-21",
