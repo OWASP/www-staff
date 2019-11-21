@@ -87,7 +87,7 @@ Staff Projects are work products primarily done by staff that require either 40+
 
 {% assign pages = site.pages | sort: 'title' | limit: 10 %}
 {% for page in pages %}
-   {% if page.path contains 'projects/' %}* [{{ page.title }}](/www-community{{ page.url }}){% if page.author %} by {{ page.author }} {% endif %}
+   {% if page.path contains 'projects/' %}* [{{ page.title }}](/www-staff{{ page.url }}){% if page.author %} by {{ page.author }} {% endif %}
  {% endif %}
 {% endfor %}
 
