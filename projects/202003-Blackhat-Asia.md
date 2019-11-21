@@ -2,6 +2,7 @@
 
 title: BlackHat Asia
 layout: full-width
+date: March 31 - April 3, 2020
 
 ---
 
