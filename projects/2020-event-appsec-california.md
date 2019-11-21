@@ -2,6 +2,7 @@
 
 title: AppSec California 2020
 layout: full-width
+owner: Emily Berman
 
 ---
 # AppSec California 2020
