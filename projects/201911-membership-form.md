@@ -22,9 +22,9 @@ As part of the OWASP website migration, we will creating a new membership form a
 - [x] 2019-10-28, Contract signed and project underway, [Mike]
 - [x] 2019-11-08, Onboard Simon to Azure and Stripe, [Harold]
 - [x] 2019-11-10, Wireframe sent [Membership Form wireframe](/www-staff/files/membership-wireframe.pdf), [Mike] 
-- [ ] 2019-11-19, Form completed for demonstration, [Simone]
-- [ ] 2019-11-21, Regression testing complete, [Harold]
-- [ ] 2019-11-22, Project Complete ready for deployment, [Harold]
+- [ ] 2019-11-22, Form completed for demonstration, [Simone]
+- [ ] 2019-12-01, Regression testing complete, [Harold]
+- [ ] 2019-12-05, Project Complete ready for deployment, [Harold]
 - [ ] 2019-12-01, Load historical Membership transaction data into Stripe with email as key, [Harold]
 - [ ] 2019-12-11, Deploy to new website in production, [Harold]
 
