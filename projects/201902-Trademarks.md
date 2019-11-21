@@ -1,6 +1,6 @@
 ---
 
-title: OWASP Trademarks
+title: Trademarks
 layout: full-width
 
 ---
@@ -30,8 +30,8 @@ Today our institutional name and the events we host are not protected by copyrig
 
 ## Leader
 
-* (OWASP: Mike McCamon)[mailto:mike.mccamon@owasp.com?subject=Trademark%20Project]
-* (Schwabe: Yvonne Tingleaf)[mailto:ytingleaf@schwabe.com?subject=OWASP%20Trademark%20Project]
+* [OWASP: Mike McCamon](mailto:mike.mccamon@owasp.com?subject=Trademark%20Project)
+* [Schwabe: Yvonne Tingleaf](mailto:ytingleaf@schwabe.com?subject=OWASP%20Trademark%20Project)
 
 ## Budget
 
