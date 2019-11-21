@@ -2,6 +2,7 @@
 
 title: Global AppSec - Dublin 2020
 layout: full-width
+date: June 15-19, 2020
 
 ---
 
