@@ -85,3 +85,8 @@ Staff Projects are work products primarily done by staff that require either 40+
 *Vision: Global and open resource for software security*
 
 
+{% assign pages = site.pages | sort: 'date' | limit: 10 %}
+{% for page in pages %}
+{% if page.path contains 'projects/' %}* [{{ page.title }}](/www-community{{ page.url }}){% if page.author %} by {{ page.author }}{% endif %}{% endif %}{% endfor %}
+
+
