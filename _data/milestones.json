@@ -49,20 +49,13 @@
         "status": "overdue"
     },
     {
-        "milestone_date": "2019-11-19",
-        "description": "Events pages migrated and in production",
+        "milestone_date": "2019-11-20",
+        "description": "Update community regarding website migration",
         "owner": "Harold",
         "project_name": "Website Re-launch",
         "status": "overdue"
     },
     {
-        "milestone_date": "2019-11-20",
-        "description": "rder Stickers with Giant",
-        "owner": "Mike",
-        "project_name": "BlackHat London 2019",
-        "status": "on-time"
-    },
-    {
         "milestone_date": "2019-11-21",
         "description": "Regression testing complete",
         "owner": "Harold",
@@ -88,6 +81,13 @@
         "description": "Project Complete ready for deployment",
         "owner": "Harold",
         "project_name": "Membership Form",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2019-11-25",
+        "description": "Donation form (poc)",
+        "owner": "Simon",
+        "project_name": "Website Re-launch",
         "status": "on-time"
     },
     {
@@ -106,14 +106,7 @@
     },
     {
         "milestone_date": "2019-12-01",
-        "description": "Policy pages migrated and ready for Board Approval",
-        "owner": "Mike",
-        "project_name": "Website Re-launch",
-        "status": "on-time"
-    },
-    {
-        "milestone_date": "2019-12-01",
-        "description": "Corporate pages migrated (not production)",
+        "description": "Redirect inventory from SEO firm",
         "owner": "Mike",
         "project_name": "Website Re-launch",
         "status": "on-time"
@@ -126,15 +119,57 @@
         "status": "on-time"
     },
     {
-        "milestone_date": "2019-12-06",
+        "milestone_date": "2019-12-02",
+        "description": "Membership form (poc)",
+        "owner": "Simon",
+        "project_name": "Website Re-launch",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2019-12-05",
+        "description": "Policy pages migrated and ready for community review and Board Approval",
+        "owner": "Mike",
+        "project_name": "Website Re-launch",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2019-12-05",
+        "description": "Corporate pages migrated (not production)",
+        "owner": "Mike",
+        "project_name": "Website Re-launch",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2019-12-05",
         "description": "Chapter pages migrated (not production)",
         "owner": "Harold",
         "project_name": "Website Re-launch",
         "status": "on-time"
     },
     {
-        "milestone_date": "2019-12-06",
+        "milestone_date": "2019-12-05",
         "description": "Project pages migrated (not production)",
+        "owner": "Harold",
+        "project_name": "Website Re-launch",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2019-12-05",
+        "description": "Events pages migrated (not production)",
+        "owner": "Harold",
+        "project_name": "Website Re-launch",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2019-12-06",
+        "description": "Metadata template information from SEO firm",
+        "owner": "Harold",
+        "project_name": "Website Re-launch",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2019-12-10",
+        "description": "Integrate meta tag info into templates",
         "owner": "Harold",
         "project_name": "Website Re-launch",
         "status": "on-time"
@@ -189,6 +224,27 @@
         "status": "on-time"
     },
     {
+        "milestone_date": "2019-12-13",
+        "description": "Events form (poc)",
+        "owner": "Simon",
+        "project_name": "Website Re-launch",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2019-12-13",
+        "description": "Donation form online",
+        "owner": "Simon",
+        "project_name": "Website Re-launch",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2019-12-13",
+        "description": "Membership form onine",
+        "owner": "Simon",
+        "project_name": "Website Re-launch",
+        "status": "on-time"
+    },
+    {
         "milestone_date": "2019-12-14",
         "description": "Project Nomination Form online",
         "owner": "Mike",
@@ -200,6 +256,27 @@
         "description": "Close Call for Program Team Members",
         "owner": "Emily",
         "project_name": "Global AppSec - Dublin 2020",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2019-12-16",
+        "description": "Remaining chapter pages auto-migrated",
+        "owner": "Harold",
+        "project_name": "Website Re-launch",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2019-12-16",
+        "description": "Remaining project pages auto-migrated",
+        "owner": "Harold",
+        "project_name": "Website Re-launch",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2019-12-16",
+        "description": "Events pages migrated",
+        "owner": "Harold",
+        "project_name": "Website Re-launch",
         "status": "on-time"
     },
     {
@@ -270,7 +347,7 @@
         "description": "30 Day out Check-in",
         "owner": "Emily",
         "project_name": "AppSec California 2020",
-        "status": "future"
+        "status": "on-time"
     },
     {
         "milestone_date": "2019-12-31",
