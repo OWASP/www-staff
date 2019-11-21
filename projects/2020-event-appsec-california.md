@@ -2,7 +2,7 @@
 
 title: AppSec California 2020
 layout: full-width
-owner: 
+date: January 21-24, 2020
 
 ---
 # AppSec California 2020
