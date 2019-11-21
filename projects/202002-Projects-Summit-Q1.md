@@ -2,6 +2,7 @@
 
 title: Projects Summit - Winter 2020
 layout: full-width
+date: February 20-22, 2020
 
 ---
 
