@@ -2,17 +2,17 @@
 
 title: Global AppSec - San Francisco
 layout: full-width
-
+date: October 19-23, 2020
 ---
 
 # Global AppSec - San Francisco
 
 ## Overview
 
-Ocotber 19-23, 2020
-  
-  Training Days: Ocotber 19-21, 2020
-  Conference Days: October 22-23, 2020
+```
+Training Days: Ocotber 19-21, 2020
+Conference Days: October 22-23, 2020
+```
 
 Welcome to Global AppSec San Francisco 2020 presented by the OWASP Foundation. The Global AppSec Conference is the premier application security conference for developers and security experts. Designed for private and public sector infosec professionals, the OWASP three day training and two day conference equips developers, defenders, and advocates to build a more secure web.
 
@@ -52,8 +52,8 @@ Join us for a celebration of leading application security technologies, speakers
 ## Leadership
 
 * Volunteer Program Team
-* [Mike McCamon](mailto:mike.mccamon@owasp.com?subject=An%20Interesting%20Email)
 * [Emily Berman](mailto:emily.berman@owasp.com?subject=An%20Interesting%20Email)
+* [Mike McCamon](mailto:mike.mccamon@owasp.com?subject=An%20Interesting%20Email)
 
 
 ## **FOLLOWING ONLY NEEDED FOR EVENTS**
@@ -63,25 +63,19 @@ Join us for a celebration of leading application security technologies, speakers
 ### Name & URLs
 
 * Name: Global AppSec Sn Francisco
-* URL: [https://globalappsec.org/](https://globalappsec.org/)
+* URL: [https://sf.globalappsec.org/](https://sf.globalappsec.org/)
 
-### Venue
+### Venue & Lodging
 
+```
 Hyatt Regency San Francisco
 5 Embarcadero Center, San Francisco, CA 94111
-
-### Lodging 
-
-Hyatt Regency San Francisco
-5 Embarcadero Center, San Francisco, CA 94111
-
 Room block opens early 2020
+```
 
 ### Registration 
 
-Full Conference Passes for OWASP Members starts at $895 and training classes start at $850 per day.
-
-Registations Opens May 2020
+Full Conference Passes for OWASP Members starts at $895 and training classes start at $850 per day. Registations Opens May 2020
 
 ## Budget 
 
