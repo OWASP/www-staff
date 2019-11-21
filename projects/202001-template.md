@@ -1,6 +1,6 @@
 ---
 
-title: Project Name
+title: Project Template
 layout: full-width
 
 ---
