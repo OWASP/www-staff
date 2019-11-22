@@ -35,51 +35,16 @@
         "status": "overdue"
     },
     {
-        "milestone_date": "2019-11-19",
+        "milestone_date": "2019-11-22",
         "description": "Form completed for demonstration",
         "owner": "Simon",
         "project_name": "Donation Form",
-        "status": "overdue"
+        "status": "on-time"
     },
     {
-        "milestone_date": "2019-11-19",
+        "milestone_date": "2019-11-22",
         "description": "Form completed for demonstration",
         "owner": "Simone",
-        "project_name": "Membership Form",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2019-11-20",
-        "description": "Update community regarding website migration",
-        "owner": "Harold",
-        "project_name": "Website Re-launch",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2019-11-21",
-        "description": "Regression testing complete",
-        "owner": "Harold",
-        "project_name": "Donation Form",
-        "status": "on-time"
-    },
-    {
-        "milestone_date": "2019-11-21",
-        "description": "Regression testing complete",
-        "owner": "Harold",
-        "project_name": "Membership Form",
-        "status": "on-time"
-    },
-    {
-        "milestone_date": "2019-11-22",
-        "description": "Project Complete ready for deployment",
-        "owner": "Harold",
-        "project_name": "Donation Form",
-        "status": "on-time"
-    },
-    {
-        "milestone_date": "2019-11-22",
-        "description": "Project Complete ready for deployment",
-        "owner": "Harold",
         "project_name": "Membership Form",
         "status": "on-time"
     },
@@ -95,6 +60,13 @@
         "description": "Venue contract signed",
         "owner": "Emily",
         "project_name": "Projects Summit - Winter 2020",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2019-12-01",
+        "description": "Regression testing complete",
+        "owner": "Harold",
+        "project_name": "Membership Form",
         "status": "on-time"
     },
     {
@@ -120,9 +92,30 @@
     },
     {
         "milestone_date": "2019-12-02",
+        "description": "Regression testing complete",
+        "owner": "Harold",
+        "project_name": "Donation Form",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2019-12-02",
         "description": "Membership form (poc)",
         "owner": "Simon",
         "project_name": "Website Re-launch",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2019-12-05",
+        "description": "Project Complete ready for deployment",
+        "owner": "Harold",
+        "project_name": "Donation Form",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2019-12-05",
+        "description": "Project Complete ready for deployment",
+        "owner": "Harold",
+        "project_name": "Membership Form",
         "status": "on-time"
     },
     {
@@ -402,7 +395,7 @@
         "milestone_date": "2020-01-01",
         "description": "New Year's Eve Holiday",
         "owner": "All",
-        "project_name": "Projects Summit Summer",
+        "project_name": "Projects Summit - Summer",
         "status": "future"
     },
     {
@@ -675,7 +668,7 @@
         "milestone_date": "2020-07-04",
         "description": "Independence Day (US) Holiday",
         "owner": "All",
-        "project_name": "Projects Summit Summer",
+        "project_name": "Projects Summit - Summer",
         "status": "future"
     },
     {
