@@ -76,7 +76,7 @@
                 "description": "Form completed for demonstration",
                 "owner": "Simon",
                 "project_name": "Donation Form",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2019-12-02",
@@ -121,7 +121,7 @@
                 "description": "Form completed for demonstration",
                 "owner": "Simone",
                 "project_name": "Membership Form",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2019-12-01",
