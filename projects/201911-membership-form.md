@@ -11,6 +11,8 @@ layout: full-width
 
 As part of the OWASP website migration, we will creating a new membership form and process that will use Stripe as a back end. Following the successful test of the Donation Form, this project should be relatively easy with some small differences from that project. Once implemented, we will unwide our dependency on Fontiva and will migrate to using Mailchimp as a "light" member CRM with all history transaction data stored in Stripe.
 
+Current demo is at https://www2.owasp.org/membership
+
 ## Goals
 1. Securely host a form oun our public github instance and collect donations
 2. Put form into production as of 22-November
