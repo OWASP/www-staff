@@ -2,6 +2,7 @@
 
 title: Projects Summit - Summer
 layout: full-width
+date: July 30- August 2, 2020
 
 ---
 
@@ -25,25 +26,32 @@ Use this section for important links for projects/events that visitors will need
 
 ## Milestones
 
-* [ ] In an unordered list (billeted) list major milestones in chronological order
-* [ ] Use the syntax of 2019-01-19, Milestone name, [Name of Owner]
-* [x] When milestones are completed, mark them with an "x"
-* [ ] A milestone isn't everyone’s to-do list, it is the high level tasks of the project
-* [ ] If you have more than 20 milestones, you’re being too granular
-* [ ] 2020-01-01, New Year's Eve Holiday, [All]
-* [ ] 2020-07-04, Independence Day (US) Holiday, [All]
+* [ ] 2020-05-30
+* [ ] 2020-07-30, Day One, Projects Summit - Summer, [All]
+
+- [ ] 2019-06-05, Venue contract signed, [Emily]
+- [ ] 2019-06-12, Project Nomination Form online, [Mike]
+- [ ] 2019-06-17, Project Nomination Opens, [Harold]
+- [ ] 2019-06-18, Email solicitation sent to Leaders list, [Harold]
+- [ ] 2019-06-22, Reminder #2, [Harold]
+- [ ] 2019-06-26, Reminder #3, [Harold]
+- [ ] 2020-07-03, Reminder #4, [Harold]
+- [ ] 2020-07-07, Reminder #5, [Harold]
+- [ ] 2020-07-09, Project Nomination Form Closes, [Harold]
+- [ ] 2020-07-10, Projects Selected (5), [Harold]
+- [ ] 2020-07-15, Flight bookings complete to qualify for reimbursement/travel assistance grants
+- [ ] 2020-07-30, Summitt Hours 10a-6p
+- [ ] 2020-02-21, Summitt Hours 9a-5p
+- [ ] 2020-02-22, Summitt Hours 9a-5p
+- [ ] 2020-04-22, Deadline for invoices and expense reimbursement requests, [Dawn]
+
 
 ## Leadership
 
-* unordered list of each leader and a hyperlink to their email address.
-* [Mike McCamon](mailto:mike.mccamon@owasp.com?subject=An%20Interesting%20Email)
+* [Harold Blankenship](mailto:harold.blankenship@owasp.com?subject=Project%20Summit%20Summer)
+* [Emily Berman](mailto:emily.berman@owasp.com?subject=Project%20Summit%20Summer)
 
 ## Logistics
-
-### Name & URLs
-
-* Name: Global AppSec Tel Aviv
-* URL: [https://telaviv.appsecglobal.org/](https://telaviv.appsecglobal.org/)
 
 ### Venue
 
@@ -64,23 +72,19 @@ The high level budget should be listed below as a table. The full budget should 
 Description            | Amount
 --------------         | ------------:
 **Income**             | 
-Registration           | &euro;308,800 
-Training               | &euro;191,250
-Sponsorships           | &euro;450,000
-**Total Income**       | **&euro;950,050**
+Registration           | &euro;10 
+**Total Income**       | **&euro;10**
 **Expenses**           | 
-Accomodations          | &euro;17,615 
-Travel                 | &euro;22,400 
-Internet               | &euro;27,500 
-Marketing/Swag         | &euro;13,200
-AV                     | &euro;16,500 
-Printing & Branding    | &euro;16,868 
-Expo                   | &euro;20,020
-Meeting Room Rental    | &euro;148,500
-Catering               | &euro;218,504
-Staff Services         | &euro;100,000 
-***Total Expenses**    | **&euro;601,107**
-**Net Profit**         | **&euro;348,943**
+Accomodations & Travel      | &euro;70,000 
+Travel                 | &euro;0 
+Internet               | &euro;0 
+Marketing/Swag         | &euro;0
+AV                     | &euro;0 
+Meeting Room Rental    | &euro;0
+Catering               | &euro;0
+Staff Services         | &euro;5,000 
+***Total Expenses**    | **&euro;75,000**
+**Net Profit**         | **-&euro;74,990**
 
 ## Legal
 
