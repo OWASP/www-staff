@@ -11,7 +11,7 @@ layout: full-width
 
 As part of the OWASP website migration, we will creating a new Donation form that will use Stripe as a back end. This should be a simple form that is hosted on the website and will serve as a proof of concept for (1) hosting secure forms on github, (2) test the viability of Stripe for payment processing, and (3) integrating Stripe form activities with light integrations with other key data in the OWASP ecosystem.
 
-Current working demo at https://www2.owasp.org/donate Form will handle &title and &currency parameters
+Current working demo at [https://www2.owasp.org/donate](https://www2.owasp.org/donate) Form will handle &title and &currency parameters
 
 ## Goals
 
