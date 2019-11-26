@@ -2,7 +2,7 @@
 
 title: Projects Summit - Winter 2020
 layout: full-width
-date: February 20-22, 2020
+date: February 27-29, 2020
 
 ---
 
@@ -34,10 +34,10 @@ Leaders of projects selected are required to attend or that project will not be 
 - [ ] 2020-01-10, Reminder #5, [Harold]
 - [ ] 2020-01-14, Project Nomination Form Closes, [Harold]
 - [ ] 2020-01-20, Projects Selected (5), [Harold]
-- [ ] 2020-02-03, Flight bookings complete to qualify for reimbursement/travel assistance grants
-- [ ] 2020-02-20, Summitt Hours 10a-6p
-- [ ] 2020-02-21, Summitt Hours 9a-5p
-- [ ] 2020-02-22, Summitt Hours 9a-5p
+- [ ] 2020-02-10, Flight bookings complete to qualify for reimbursement/travel assistance grants
+- [ ] 2020-02-27, Summitt Hours 10a-6p
+- [ ] 2020-02-28, Summitt Hours 9a-5p
+- [ ] 2020-02-29, Summitt Hours 9a-5p
 - [ ] 2020-04-22, Deadline for invoices and expense reimbursement requests, [Dawn]
 
 ## Leadership
