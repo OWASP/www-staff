@@ -72,13 +72,6 @@
         "name": "Donation Form",
         "milestones": [
             {
-                "milestone_date": "2019-11-22",
-                "description": "Form completed for demonstration",
-                "owner": "Simon",
-                "project_name": "Donation Form",
-                "status": "overdue"
-            },
-            {
                 "milestone_date": "2019-12-02",
                 "description": "Regression testing complete",
                 "owner": "Harold",
@@ -100,7 +93,7 @@
                 "status": "on-time"
             }
         ],
-        "description": "As part of the OWASP website migration, we will creating a new Donation form that will use Stripe as a back end. This should be a simple form that is hosted on the website and will serve as a proof of concept for (1) hosting secure forms on github, (2) test the viability of Stripe for payment processing, and (3) integrating Stripe form activities with light integrations with other key data in the OWASP ecosystem.",
+        "description": "As part of the OWASP website migration, we will creating a new Donation form that will use Stripe as a back end. This should be a simple form that is hosted on the website and will serve as a proof of concept for (1) hosting secure forms on github, (2) test the viability of Stripe for payment processing, and (3) integrating Stripe form activities with light integrations with other key data in the OWASP ecosystem.Current working demo at [https://www2.owasp.org/donate](https://www2.owasp.org/donate) Form will handle &title and &currency parameters",
         "leaders": [
             {
                 "name": "Harold Blankenship ",
@@ -116,13 +109,6 @@
     {
         "name": "Membership Form",
         "milestones": [
-            {
-                "milestone_date": "2019-11-22",
-                "description": "Form completed for demonstration",
-                "owner": "Simone",
-                "project_name": "Membership Form",
-                "status": "overdue"
-            },
             {
                 "milestone_date": "2019-12-01",
                 "description": "Regression testing complete",
@@ -150,9 +136,16 @@
                 "owner": "Harold",
                 "project_name": "Membership Form",
                 "status": "on-time"
+            },
+            {
+                "milestone_date": "2019-12-17",
+                "description": "Have Board vote to set 50% discount for residents of bottom 50% of Adjusted net national income per capita (current US$) [https://data.worldbank.org/indicator/NY.ADJ.NNTY.PC.CD](https://data.worldbank.org/indicator/NY.ADJ.NNTY.PC.CD)",
+                "owner": "Mike",
+                "project_name": "Membership Form",
+                "status": "on-time"
             }
         ],
-        "description": "As part of the OWASP website migration, we will creating a new membership form and process that will use Stripe as a back end. Following the successful test of the Donation Form, this project should be relatively easy with some small differences from that project. Once implemented, we will unwide our dependency on Fontiva and will migrate to using Mailchimp as a \"light\" member CRM with all history transaction data stored in Stripe.",
+        "description": "As part of the OWASP website migration, we will creating a new membership form and process that will use Stripe as a back end. Following the successful test of the Donation Form, this project should be relatively easy with some small differences from that project. Once implemented, we will unwide our dependency on Fontiva and will migrate to using Mailchimp as a \"light\" member CRM with all history transaction data stored in Stripe.Current demo is at https://www2.owasp.org/membership",
         "leaders": [
             {
                 "name": "Harold Blankenship ",
@@ -180,7 +173,7 @@
                 "description": "Donation form (poc)",
                 "owner": "Simon",
                 "project_name": "Website Re-launch",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2019-12-01",
@@ -532,7 +525,7 @@
         "name": "Projects Summit - Winter 2020",
         "milestones": [
             {
-                "milestone_date": "2019-11-28",
+                "milestone_date": "2019-12-06",
                 "description": "Venue contract signed",
                 "owner": "Emily",
                 "project_name": "Projects Summit - Winter 2020",
@@ -878,16 +871,121 @@
         "name": "Projects Summit - Summer",
         "milestones": [
             {
-                "milestone_date": "2020-01-01",
-                "description": "New Year's Eve Holiday",
+                "milestone_date": "2020-05-30",
+                "description": "",
+                "owner": "No Owner",
+                "project_name": "Projects Summit - Summer",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-07-30",
+                "description": "Day One, Projects Summit - Summer",
                 "owner": "All",
                 "project_name": "Projects Summit - Summer",
                 "status": "future"
             },
             {
-                "milestone_date": "2020-07-04",
-                "description": "Independence Day (US) Holiday",
-                "owner": "All",
+                "milestone_date": "2019-06-05",
+                "description": "Venue contract signed",
+                "owner": "Emily",
+                "project_name": "Projects Summit - Summer",
+                "status": "overdue"
+            },
+            {
+                "milestone_date": "2019-06-12",
+                "description": "Project Nomination Form online",
+                "owner": "Mike",
+                "project_name": "Projects Summit - Summer",
+                "status": "overdue"
+            },
+            {
+                "milestone_date": "2019-06-17",
+                "description": "Project Nomination Opens",
+                "owner": "Harold",
+                "project_name": "Projects Summit - Summer",
+                "status": "overdue"
+            },
+            {
+                "milestone_date": "2019-06-18",
+                "description": "Email solicitation sent to Leaders list",
+                "owner": "Harold",
+                "project_name": "Projects Summit - Summer",
+                "status": "overdue"
+            },
+            {
+                "milestone_date": "2019-06-22",
+                "description": "Reminder #2",
+                "owner": "Harold",
+                "project_name": "Projects Summit - Summer",
+                "status": "overdue"
+            },
+            {
+                "milestone_date": "2019-06-26",
+                "description": "Reminder #3",
+                "owner": "Harold",
+                "project_name": "Projects Summit - Summer",
+                "status": "overdue"
+            },
+            {
+                "milestone_date": "2020-07-03",
+                "description": "Reminder #4",
+                "owner": "Harold",
+                "project_name": "Projects Summit - Summer",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-07-07",
+                "description": "Reminder #5",
+                "owner": "Harold",
+                "project_name": "Projects Summit - Summer",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-07-09",
+                "description": "Project Nomination Form Closes",
+                "owner": "Harold",
+                "project_name": "Projects Summit - Summer",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-07-10",
+                "description": "Projects Selected (5)",
+                "owner": "Harold",
+                "project_name": "Projects Summit - Summer",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-07-15",
+                "description": "Flight bookings complete to qualify for reimbursement/travel assistance grants",
+                "owner": "No Owner",
+                "project_name": "Projects Summit - Summer",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-07-30",
+                "description": "Summitt Hours 10a-6p",
+                "owner": "No Owner",
+                "project_name": "Projects Summit - Summer",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-02-21",
+                "description": "Summitt Hours 9a-5p",
+                "owner": "No Owner",
+                "project_name": "Projects Summit - Summer",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-02-22",
+                "description": "Summitt Hours 9a-5p",
+                "owner": "No Owner",
+                "project_name": "Projects Summit - Summer",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-04-22",
+                "description": "Deadline for invoices and expense reimbursement requests",
+                "owner": "Dawn",
                 "project_name": "Projects Summit - Summer",
                 "status": "future"
             }
@@ -895,8 +993,12 @@
         "description": "Each project will have a 2-3 paragraph overview narrative. Keep to the key top points about the project. Visitors should be able to read this short narrative and have a good understanding of the project without having to scroll the entire document.",
         "leaders": [
             {
-                "name": "Mike McCamon",
-                "email": "mike.mccamon@owasp.com"
+                "name": "Harold Blankenship",
+                "email": "harold.blankenship@owasp.com"
+            },
+            {
+                "name": "Emily Berman",
+                "email": "emily.berman@owasp.com"
             }
         ],
         "url": "https://www2.owasp.org/www-staff/projects/202007-Projects-Summit-Q3"
