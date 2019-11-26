@@ -71,8 +71,8 @@ Description            | Amount
 Registration           | $0
 **Total Income**       | **$0**
 **Expenses**           | 
-Travel Assistance      | $32,500 
-Hotel Accomodations    | $32,500 
+Travel Assistance      | $30,000 
+Hotel Accomodations    | $35,000 
 Internet               | $7,500 
 Swag                   | $500
 AV                     | $2,000 
