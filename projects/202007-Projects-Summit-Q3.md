@@ -26,16 +26,17 @@ Use this section for important links for projects/events that visitors will need
 
 ## Milestones
 
-- [ ] 2019-06-05, Venue contract signed, [Emily]
-- [ ] 2019-06-12, Project Nomination Form online, [Mike]
-- [ ] 2019-06-17, Project Nomination Opens, [Harold]
-- [ ] 2019-06-18, Email solicitation sent to Leaders list, [Harold]
-- [ ] 2019-06-22, Reminder #2, [Harold]
-- [ ] 2019-06-26, Reminder #3, [Harold]
-- [ ] 2020-07-03, Reminder #4, [Harold]
-- [ ] 2020-07-07, Reminder #5, [Harold]
-- [ ] 2020-07-09, Project Nomination Form Closes, [Harold]
-- [ ] 2020-07-10, Projects Selected (5), [Harold]
+- [ ] 2020-05-02, Venue contract signed, [Emily]
+- [ ] 2020-06-05, Project Nomination Form online, [Mike]
+- [ ] 2020-06-08, Project Nomination Opens, [Harold]
+- [ ] 2020-06-09, Email solicitation sent to Leaders list, [Harold]
+- [ ] 2020-06-11, Reminder #2, [Harold]
+- [ ] 2020-06-17, Reminder #3, [Harold]
+- [ ] 2020-06-23, Reminder #4, [Harold]
+- [ ] 2020-06-25, Reminder #5, [Harold]
+- [ ] 2020-06-29, Project Nomination Form Closes, [Harold]
+- [ ] 2020-07-01, Projects Selected (5), [Harold]
+- [ ] 2020-07-01, Registration Form Online, [Harold]
 - [ ] 2020-07-15, Flight bookings complete to qualify for reimbursement/travel assistance grants
 - [ ] 2020-07-30, Summitt Hours 10a-6p
 - [ ] 2020-07-31, Summitt Hours 9a-5p
@@ -54,26 +55,26 @@ TBD
 
 ### Registration 
 
-Coming July 10, 2020
+Coming July 1, 2020
 
 ## Budget 
 
 Description            | Amount
 --------------         | ------------:
 **Income**             | 
-Registration           | &euro;10 
-**Total Income**       | **&euro;10**
+Registration           | &euro;0 
+**Total Income**       | **&euro;0**
 **Expenses**           | 
-Accomodations & Travel      | &euro;70,000 
-Travel                 | &euro;0 
-Internet               | &euro;0 
-Marketing/Swag         | &euro;0
+Accomodations          | &euro;35,000 
+Travel                 | &euro;30,000 
+Internet               | &euro;5,000 
+Marketing/Swag         | &euro;500
 AV                     | &euro;0 
 Meeting Room Rental    | &euro;0
 Catering               | &euro;0
-Staff Services         | &euro;5,000 
+Staff Services         | &euro;4,500 
 ***Total Expenses**    | **&euro;75,000**
-**Net Profit**         | **-&euro;74,990**
+**Net Profit**         | **-&euro;75,000**
 
 ## Legal
 
