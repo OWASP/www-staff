@@ -24,16 +24,16 @@ Leaders of projects selected are required to attend or that project will not be 
 
 ## Milestones
 
-- [ ] 2019-12-06, Venue contract signed, [Emily]
-- [ ] 2019-12-14, Project Nomination Form online, [Mike]
-- [ ] 2019-12-16, Project Nomination Opens, [Harold]
-- [ ] 2019-12-16, Email solicitation sent to Leaders list, [Harold]
-- [ ] 2019-12-20, Reminder #2, [Harold]
-- [ ] 2019-12-31, Reminder #3, [Harold]
-- [ ] 2020-01-08, Reminder #4, [Harold]
-- [ ] 2020-01-10, Reminder #5, [Harold]
-- [ ] 2020-01-14, Project Nomination Form Closes, [Harold]
-- [ ] 2020-01-20, Projects Selected (5), [Harold]
+- [ ] 2019-11-29, Venue contract signed, [Emily]
+- [ ] 2020-01-02, Project Nomination Form online, [Mike]
+- [ ] 2020-01-05, Project Nomination Opens, [Harold]
+- [ ] 2020-01-06, Email solicitation sent to Leaders list, [Harold]
+- [ ] 2020-01-08, Reminder #2, [Harold]
+- [ ] 2020-01-14, Reminder #3, [Harold]
+- [ ] 2020-01-20, Reminder #4, [Harold]
+- [ ] 2020-01-22, Reminder #5, [Harold]
+- [ ] 2020-01-26, Project Nomination Form Closes, [Harold]
+- [ ] 2020-01-28, Projects Selected (5), [Harold]
 - [ ] 2020-02-10, Flight bookings complete to qualify for reimbursement/travel assistance grants
 - [ ] 2020-02-27, Summitt Hours 10a-6p
 - [ ] 2020-02-28, Summitt Hours 9a-5p
