@@ -497,17 +497,17 @@
         "status": "future"
     },
     {
-        "milestone_date": "2020-02-03",
-        "description": "Flight bookings complete to qualify for reimbursement/travel assistance grants",
-        "owner": "No Owner",
-        "project_name": "Projects Summit - Winter 2020",
-        "status": "future"
-    },
-    {
         "milestone_date": "2020-02-05",
         "description": "Confirm attendance. If over 500 please notify Dawn to update Insurance Policy",
         "owner": "Emily",
         "project_name": "OWASP SnowFROC",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-02-10",
+        "description": "Flight bookings complete to qualify for reimbursement/travel assistance grants",
+        "owner": "No Owner",
+        "project_name": "Projects Summit - Winter 2020",
         "status": "future"
     },
     {
@@ -532,38 +532,38 @@
         "status": "future"
     },
     {
-        "milestone_date": "2020-02-20",
+        "milestone_date": "2020-02-21",
+        "description": "Summitt Hours 9a-5p",
+        "owner": "No Owner",
+        "project_name": "Projects Summit - Summer",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-02-22",
+        "description": "Summitt Hours 9a-5p",
+        "owner": "No Owner",
+        "project_name": "Projects Summit - Summer",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-02-27",
         "description": "Summitt Hours 10a-6p",
         "owner": "No Owner",
         "project_name": "Projects Summit - Winter 2020",
         "status": "future"
     },
     {
-        "milestone_date": "2020-02-21",
+        "milestone_date": "2020-02-28",
         "description": "Summitt Hours 9a-5p",
         "owner": "No Owner",
         "project_name": "Projects Summit - Winter 2020",
         "status": "future"
     },
     {
-        "milestone_date": "2020-02-21",
-        "description": "Summitt Hours 9a-5p",
-        "owner": "No Owner",
-        "project_name": "Projects Summit - Summer",
-        "status": "future"
-    },
-    {
-        "milestone_date": "2020-02-22",
+        "milestone_date": "2020-02-29",
         "description": "Summitt Hours 9a-5p",
         "owner": "No Owner",
         "project_name": "Projects Summit - Winter 2020",
-        "status": "future"
-    },
-    {
-        "milestone_date": "2020-02-22",
-        "description": "Summitt Hours 9a-5p",
-        "owner": "No Owner",
-        "project_name": "Projects Summit - Summer",
         "status": "future"
     },
     {
