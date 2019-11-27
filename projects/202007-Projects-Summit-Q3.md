@@ -26,9 +26,6 @@ Use this section for important links for projects/events that visitors will need
 
 ## Milestones
 
-* [ ] 2020-05-30
-* [ ] 2020-07-30, Day One, Projects Summit - Summer, [All]
-
 - [ ] 2019-06-05, Venue contract signed, [Emily]
 - [ ] 2019-06-12, Project Nomination Form online, [Mike]
 - [ ] 2019-06-17, Project Nomination Opens, [Harold]
@@ -41,10 +38,9 @@ Use this section for important links for projects/events that visitors will need
 - [ ] 2020-07-10, Projects Selected (5), [Harold]
 - [ ] 2020-07-15, Flight bookings complete to qualify for reimbursement/travel assistance grants
 - [ ] 2020-07-30, Summitt Hours 10a-6p
-- [ ] 2020-02-21, Summitt Hours 9a-5p
-- [ ] 2020-02-22, Summitt Hours 9a-5p
-- [ ] 2020-04-22, Deadline for invoices and expense reimbursement requests, [Dawn]
-
+- [ ] 2020-07-31, Summitt Hours 9a-5p
+- [ ] 2020-08-01, Summitt Hours 9a-5p
+- [ ] 2020-09-30, Deadline for invoices and expense reimbursement requests, [Dawn]
 
 ## Leadership
 
@@ -53,21 +49,14 @@ Use this section for important links for projects/events that visitors will need
 
 ## Logistics
 
-### Venue
-
-Minimally the address and phone number of the venue for the event. Note the distance of the venue from the nearest likely airport for travelers and public transit information if available.
-
-### Lodging 
-
-Hyperlink, address and phone number of lodging options. If a negotiated rate has been secured it should be noted. If possible please include 3-4 lodging options and list distance of each location from venue and the nearest likely airport for travelers.
+### Venue & Lodging
+TBD
 
 ### Registration 
 
-List all registration options and their prices and what conditions are required for certain discounts (if any). Include a link to the registration page. Note the registration link should ALSO be available in the Key Resources sections above.
+Coming July 10, 2020
 
 ## Budget 
-
-The high level budget should be listed below as a table. The full budget should be linked here and in a Google Sheet in the OWASP instance set to public (read only).
 
 Description            | Amount
 --------------         | ------------:
