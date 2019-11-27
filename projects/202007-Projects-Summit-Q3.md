@@ -63,15 +63,21 @@ Registration           | &euro;0
 **Total Income**       | **&euro;0**
 **Expenses**           | 
 Accomodations          | &euro;35,000 
-Travel                 | &euro;30,000 
-Internet               | &euro;5,000 
+Travel Assistance      | &euro;30,000 
+Internet               | &euro;7,500 
 Marketing/Swag         | &euro;500
-AV                     | &euro;0 
+AV                     | &euro;2,000
 Meeting Room Rental    | &euro;0
 Catering               | &euro;0
-Staff Services         | &euro;4,500 
 ***Total Expenses**    | **&euro;75,000**
 **Net Profit**         | **-&euro;75,000**
+
+Travel Assistance      | $30,000 
+Hotel Accomodations    | $35,000 
+Internet               | $7,500 
+Swag                   | $500
+AV                     | $2,000 
+Catering               | included
 
 ## Legal
 
