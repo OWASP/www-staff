@@ -10,19 +10,16 @@ date: July 30- August 2, 2020
 
 ## Overview
 
-Each project will have a 2-3 paragraph overview narrative. Keep to the key top points about the project. Visitors should be able to read this short narrative and have a good understanding of the project without having to scroll the entire document.
+The OWASP Foundation will host a three-day working session for FIVE selected projects in Europe, July 30 - August 1, 2020. Arrival day will be Wednesday the 19th and departures will be the 23rd. Projects must apply and then get selected to participate. The application process will require project meeting goals, workplan, key contributors, and expected attendance. The OWASP Foundation Officers Group will make the final selection.
 
-## Project Links
+The event program will solely include heads-down work time for OWASP projects. Any "group" gatherings will be during meal times. Spectators are not welcomed and attendance is limited to OWASP Members. Limited travel assistance will be provided for up to five key project leaders/contributors per project selected.
 
-Use this section for important links for projects/events that visitors will need. For instance, if this is an event, links to CFT, CPT and registration is handy If there is a microsite, that would be good to link to as well 
-* [Example link to Google](https://google.com)
-* [Example relative link to Blank Template Page](/www--staff/Projects/202001-template)
+Leaders of projects selected are required to attend or that project will not be selected. If a project fails to secure five attendees, their project's invitation will be rescinded.
 
 ## Goals
 
-1. Include top-level goals of the project in an ordered list
-2. Give thought to the ordering of goals. Revenue, attendance, launch date
-3. Make sure goals are measurable from undisputed source
+1. Provide a venue and opporunity for measurable progress on key OWASP Projects
+2. Facetime for projet teams and leadership
 
 ## Milestones
 
@@ -37,7 +34,7 @@ Use this section for important links for projects/events that visitors will need
 - [ ] 2020-06-29, Project Nomination Form Closes, [Harold]
 - [ ] 2020-07-01, Projects Selected (5), [Harold]
 - [ ] 2020-07-01, Registration Form Online, [Harold]
-- [ ] 2020-07-15, Flight bookings complete to qualify for reimbursement/travel assistance grants
+- [ ] 2020-07-14, Flight bookings complete to qualify for reimbursement/travel assistance grants
 - [ ] 2020-07-30, Summitt Hours 10a-6p
 - [ ] 2020-07-31, Summitt Hours 9a-5p
 - [ ] 2020-08-01, Summitt Hours 9a-5p
@@ -80,9 +77,7 @@ Staff Services         | &euro;4,500
 
 This section will include a checklist of the key contracts and legal documents needed to execute an event. A folder in this repo named files will include PDFs of all fully executed agreements. IF any agreeement isn’t completed the status should be provided here.
 
-* Conference Organizing [ ]
 * Venue [ ]
 * Venue A/V (if different vendor [ ]
 * Catering [ ]
 * Event Insurance [ ]
-* Lead Collection [ ]
