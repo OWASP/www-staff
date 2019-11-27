@@ -45,21 +45,16 @@ Leaders of projects selected are required to attend or that project will not be 
 * [Project - Harold Blankenship](mailto:harold.blankenship@owasp.com?subject=Project%20Summit)
 * [Venue - Emily Berman](mailto:emily.berman@owasp.com?subject=Project%20Summit)
 
-## **FOLLOWING ONLY NEEDED FOR EVENTS**
 
 ## Logistics
 
-### Venue
+### Venue & Lodging
 
-Minimally the address and phone number of the venue for the event. Note the distance of the venue from the nearest likely airport for travelers and public transit information if available.
-
-### Lodging 
-
-Hyperlink, address and phone number of lodging options. If a negotiated rate has been secured it should be noted. If possible please include 3-4 lodging options and list distance of each location from venue and the nearest likely airport for travelers.
+TBD
 
 ### Registration 
 
-List all registration options and their prices and what conditions are required for certain discounts (if any). Include a link to the registration page. Note the registration link should ALSO be available in the Key Resources sections above.
+Coming Soon
 
 ## Budget 
 
