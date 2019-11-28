@@ -1,47 +1,5 @@
 [
     {
-        "milestone_date": "2019-06-05",
-        "description": "Venue contract signed",
-        "owner": "Emily",
-        "project_name": "Projects Summit - Summer",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2019-06-12",
-        "description": "Project Nomination Form online",
-        "owner": "Mike",
-        "project_name": "Projects Summit - Summer",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2019-06-17",
-        "description": "Project Nomination Opens",
-        "owner": "Harold",
-        "project_name": "Projects Summit - Summer",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2019-06-18",
-        "description": "Email solicitation sent to Leaders list",
-        "owner": "Harold",
-        "project_name": "Projects Summit - Summer",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2019-06-22",
-        "description": "Reminder #2",
-        "owner": "Harold",
-        "project_name": "Projects Summit - Summer",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2019-06-26",
-        "description": "Reminder #3",
-        "owner": "Harold",
-        "project_name": "Projects Summit - Summer",
-        "status": "overdue"
-    },
-    {
         "milestone_date": "2019-10-23",
         "description": "Connect Rebecca and Susan with Project and Chapter leaders for copy",
         "owner": "Mike",
@@ -82,6 +40,13 @@
         "owner": "Simon",
         "project_name": "Website Re-launch",
         "status": "overdue"
+    },
+    {
+        "milestone_date": "2019-11-29",
+        "description": "Venue contract signed",
+        "owner": "Emily",
+        "project_name": "Projects Summit - Winter 2020",
+        "status": "on-time"
     },
     {
         "milestone_date": "2019-12-01",
@@ -182,13 +147,6 @@
         "status": "on-time"
     },
     {
-        "milestone_date": "2019-12-06",
-        "description": "Venue contract signed",
-        "owner": "Emily",
-        "project_name": "Projects Summit - Winter 2020",
-        "status": "on-time"
-    },
-    {
         "milestone_date": "2019-12-10",
         "description": "Integrate meta tag info into templates",
         "owner": "Harold",
@@ -266,13 +224,6 @@
         "status": "on-time"
     },
     {
-        "milestone_date": "2019-12-14",
-        "description": "Project Nomination Form online",
-        "owner": "Mike",
-        "project_name": "Projects Summit - Winter 2020",
-        "status": "on-time"
-    },
-    {
         "milestone_date": "2019-12-15",
         "description": "Close Call for Program Team Members",
         "owner": "Emily",
@@ -298,20 +249,6 @@
         "description": "Events pages migrated",
         "owner": "Harold",
         "project_name": "Website Re-launch",
-        "status": "on-time"
-    },
-    {
-        "milestone_date": "2019-12-16",
-        "description": "Project Nomination Opens",
-        "owner": "Harold",
-        "project_name": "Projects Summit - Winter 2020",
-        "status": "on-time"
-    },
-    {
-        "milestone_date": "2019-12-16",
-        "description": "Email solicitation sent to Leaders list",
-        "owner": "Harold",
-        "project_name": "Projects Summit - Winter 2020",
         "status": "on-time"
     },
     {
@@ -364,25 +301,11 @@
         "status": "on-time"
     },
     {
-        "milestone_date": "2019-12-20",
-        "description": "Reminder #2",
-        "owner": "Harold",
-        "project_name": "Projects Summit - Winter 2020",
-        "status": "on-time"
-    },
-    {
         "milestone_date": "2019-12-21",
         "description": "30 Day out Check-in",
         "owner": "Emily",
         "project_name": "AppSec California 2020",
         "status": "on-time"
-    },
-    {
-        "milestone_date": "2019-12-31",
-        "description": "Reminder #3",
-        "owner": "Harold",
-        "project_name": "Projects Summit - Winter 2020",
-        "status": "future"
     },
     {
         "milestone_date": "2019-12-31",
@@ -428,9 +351,30 @@
     },
     {
         "milestone_date": "2020-01-02",
+        "description": "Project Nomination Form online",
+        "owner": "Mike",
+        "project_name": "Projects Summit - Winter 2020",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-01-02",
         "description": "Close Call for Program Team Members",
         "owner": "Emily",
         "project_name": "Global AppSec - San Francisco",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-01-05",
+        "description": "Project Nomination Opens",
+        "owner": "Harold",
+        "project_name": "Projects Summit - Winter 2020",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-01-06",
+        "description": "Email solicitation sent to Leaders list",
+        "owner": "Harold",
+        "project_name": "Projects Summit - Winter 2020",
         "status": "future"
     },
     {
@@ -442,21 +386,14 @@
     },
     {
         "milestone_date": "2020-01-08",
-        "description": "Reminder #4",
-        "owner": "Harold",
-        "project_name": "Projects Summit - Winter 2020",
-        "status": "future"
-    },
-    {
-        "milestone_date": "2020-01-10",
-        "description": "Reminder #5",
+        "description": "Reminder #2",
         "owner": "Harold",
         "project_name": "Projects Summit - Winter 2020",
         "status": "future"
     },
     {
         "milestone_date": "2020-01-14",
-        "description": "Project Nomination Form Closes",
+        "description": "Reminder #3",
         "owner": "Harold",
         "project_name": "Projects Summit - Winter 2020",
         "status": "future"
@@ -470,7 +407,7 @@
     },
     {
         "milestone_date": "2020-01-20",
-        "description": "Projects Selected (5)",
+        "description": "Reminder #4",
         "owner": "Harold",
         "project_name": "Projects Summit - Winter 2020",
         "status": "future"
@@ -480,6 +417,27 @@
         "description": "AppSec California",
         "owner": "No Owner",
         "project_name": "AppSec California 2020",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-01-22",
+        "description": "Reminder #5",
+        "owner": "Harold",
+        "project_name": "Projects Summit - Winter 2020",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-01-26",
+        "description": "Project Nomination Form Closes",
+        "owner": "Harold",
+        "project_name": "Projects Summit - Winter 2020",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-01-28",
+        "description": "Projects Selected (5)",
+        "owner": "Harold",
+        "project_name": "Projects Summit - Winter 2020",
         "status": "future"
     },
     {
@@ -529,20 +487,6 @@
         "description": "Presidents Day",
         "owner": "No Owner",
         "project_name": "OWASP Staff Holidays",
-        "status": "future"
-    },
-    {
-        "milestone_date": "2020-02-21",
-        "description": "Summitt Hours 9a-5p",
-        "owner": "No Owner",
-        "project_name": "Projects Summit - Summer",
-        "status": "future"
-    },
-    {
-        "milestone_date": "2020-02-22",
-        "description": "Summitt Hours 9a-5p",
-        "owner": "No Owner",
-        "project_name": "Projects Summit - Summer",
         "status": "future"
     },
     {
@@ -644,17 +588,17 @@
         "status": "future"
     },
     {
-        "milestone_date": "2020-04-22",
-        "description": "Deadline for invoices and expense reimbursement requests",
-        "owner": "Dawn",
-        "project_name": "Projects Summit - Summer",
-        "status": "future"
-    },
-    {
         "milestone_date": "2020-05-01",
         "description": "Keynotes Announces",
         "owner": "Emily",
         "project_name": "Global AppSec - San Francisco",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-05-02",
+        "description": "Venue contract signed",
+        "owner": "Emily",
+        "project_name": "Projects Summit - Summer",
         "status": "future"
     },
     {
@@ -693,17 +637,80 @@
         "status": "future"
     },
     {
-        "milestone_date": "2020-05-30",
-        "description": "",
-        "owner": "No Owner",
-        "project_name": "Projects Summit - Summer",
-        "status": "future"
-    },
-    {
         "milestone_date": "2020-06-01",
         "description": "F&B Order Complete",
         "owner": "Emily",
         "project_name": "Global AppSec - Dublin 2020",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-06-05",
+        "description": "Project Nomination Form online",
+        "owner": "Mike",
+        "project_name": "Projects Summit - Summer",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-06-08",
+        "description": "Project Nomination Opens",
+        "owner": "Harold",
+        "project_name": "Projects Summit - Summer",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-06-09",
+        "description": "Email solicitation sent to Leaders list",
+        "owner": "Harold",
+        "project_name": "Projects Summit - Summer",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-06-11",
+        "description": "Reminder #2",
+        "owner": "Harold",
+        "project_name": "Projects Summit - Summer",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-06-17",
+        "description": "Reminder #3",
+        "owner": "Harold",
+        "project_name": "Projects Summit - Summer",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-06-23",
+        "description": "Reminder #4",
+        "owner": "Harold",
+        "project_name": "Projects Summit - Summer",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-06-25",
+        "description": "Reminder #5",
+        "owner": "Harold",
+        "project_name": "Projects Summit - Summer",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-06-29",
+        "description": "Project Nomination Form Closes",
+        "owner": "Harold",
+        "project_name": "Projects Summit - Summer",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-07-01",
+        "description": "Projects Selected (5)",
+        "owner": "Harold",
+        "project_name": "Projects Summit - Summer",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-07-01",
+        "description": "Registration Form Online",
+        "owner": "Harold",
+        "project_name": "Projects Summit - Summer",
         "status": "future"
     },
     {
@@ -714,13 +721,6 @@
         "status": "future"
     },
     {
-        "milestone_date": "2020-07-03",
-        "description": "Reminder #4",
-        "owner": "Harold",
-        "project_name": "Projects Summit - Summer",
-        "status": "future"
-    },
-    {
         "milestone_date": "2020-07-04",
         "description": "Independence Day (US) Holiday",
         "owner": "All",
@@ -728,28 +728,7 @@
         "status": "future"
     },
     {
-        "milestone_date": "2020-07-07",
-        "description": "Reminder #5",
-        "owner": "Harold",
-        "project_name": "Projects Summit - Summer",
-        "status": "future"
-    },
-    {
-        "milestone_date": "2020-07-09",
-        "description": "Project Nomination Form Closes",
-        "owner": "Harold",
-        "project_name": "Projects Summit - Summer",
-        "status": "future"
-    },
-    {
-        "milestone_date": "2020-07-10",
-        "description": "Projects Selected (5)",
-        "owner": "Harold",
-        "project_name": "Projects Summit - Summer",
-        "status": "future"
-    },
-    {
-        "milestone_date": "2020-07-15",
+        "milestone_date": "2020-07-14",
         "description": "Flight bookings complete to qualify for reimbursement/travel assistance grants",
         "owner": "No Owner",
         "project_name": "Projects Summit - Summer",
@@ -757,14 +736,21 @@
     },
     {
         "milestone_date": "2020-07-30",
-        "description": "Day One, Projects Summit - Summer",
-        "owner": "All",
+        "description": "Summitt Hours 10a-6p",
+        "owner": "No Owner",
         "project_name": "Projects Summit - Summer",
         "status": "future"
     },
     {
-        "milestone_date": "2020-07-30",
-        "description": "Summitt Hours 10a-6p",
+        "milestone_date": "2020-07-31",
+        "description": "Summitt Hours 9a-5p",
+        "owner": "No Owner",
+        "project_name": "Projects Summit - Summer",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-08-01",
+        "description": "Summitt Hours 9a-5p",
         "owner": "No Owner",
         "project_name": "Projects Summit - Summer",
         "status": "future"
@@ -802,6 +788,13 @@
         "description": "Volunteers finalized and communication initiated",
         "owner": "Emily",
         "project_name": "Global AppSec - San Francisco",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-09-30",
+        "description": "Deadline for invoices and expense reimbursement requests",
+        "owner": "Dawn",
+        "project_name": "Projects Summit - Summer",
         "status": "future"
     },
     {
