@@ -12,7 +12,7 @@ date: June 15-19, 2020
   
 ```
 Training Days: June 15-17, 2020
-  Conference Days: June 18-19, 2020
+Conference Days: June 18-19, 2020
 ```
 
 Welcome to Global AppSec Dublin 2020 presented by the OWASP Foundation. The Global AppSec Conference is the premier application security conference for developers and security experts. Designed for private and public sector infosec professionals, the OWASP three day training and two day conference equips developers, defenders, and advocates to build a more secure web.
