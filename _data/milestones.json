@@ -46,7 +46,7 @@
         "description": "Venue contract signed",
         "owner": "Emily",
         "project_name": "Projects Summit - Winter 2020",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2019-12-01",
