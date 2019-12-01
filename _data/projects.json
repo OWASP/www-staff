@@ -760,21 +760,21 @@
                 "description": "Close CFT/CFP",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin 2020",
-                "status": "future"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2019-12-31",
                 "description": "General Service Contract Signed",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin 2020",
-                "status": "future"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2019-12-31",
                 "description": "Hotel Room Block COntract Signed",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin 2020",
-                "status": "future"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-01-06",
@@ -1035,7 +1035,7 @@
                 "description": "General Service Contract Signed",
                 "owner": "Emily",
                 "project_name": "Global AppSec - San Francisco",
-                "status": "future"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-01-02",
