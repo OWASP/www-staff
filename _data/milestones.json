@@ -53,28 +53,28 @@
         "description": "Regression testing complete",
         "owner": "Harold",
         "project_name": "Membership Form",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2019-12-01",
         "description": "Load historical Membership transaction data into Stripe with email as key",
         "owner": "Harold",
         "project_name": "Membership Form",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2019-12-01",
         "description": "Redirect inventory from SEO firm",
         "owner": "Mike",
         "project_name": "Website Re-launch",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2019-12-01",
         "description": "Open CFT/CFP",
         "owner": "Emily",
         "project_name": "Global AppSec - Dublin 2020",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2019-12-02",
@@ -340,14 +340,14 @@
         "description": "New Year\u2019s Day",
         "owner": "No Owner",
         "project_name": "OWASP Staff Holidays",
-        "status": "future"
+        "status": "on-time"
     },
     {
         "milestone_date": "2020-01-01",
         "description": "New Year's Eve Holiday",
         "owner": "All",
         "project_name": "BlackHat Asia",
-        "status": "future"
+        "status": "on-time"
     },
     {
         "milestone_date": "2020-01-02",
