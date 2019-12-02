@@ -10,7 +10,7 @@ date: October 19-23, 2020
 ## Overview
 
 ```
-Training Days: Ocotber 19-21, 2020
+Training Days: October 19-21, 2020
 Conference Days: October 22-23, 2020
 ```
 
