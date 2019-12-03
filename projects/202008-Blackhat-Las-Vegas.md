@@ -3,6 +3,8 @@
 title: BlackHat Las Vegas
 layout: full-width
 date: August 1-6, 2020
+project: active
+
 ---
 
 # BlackHat Las Vegas
