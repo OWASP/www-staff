@@ -81,14 +81,14 @@
         "description": "Regression testing complete",
         "owner": "Harold",
         "project_name": "Donation Form",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2019-12-02",
         "description": "Membership form (poc)",
         "owner": "Simon",
         "project_name": "Website Re-launch",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2019-12-05",
@@ -354,14 +354,14 @@
         "description": "Project Nomination Form online",
         "owner": "Mike",
         "project_name": "Projects Summit - Winter 2020",
-        "status": "future"
+        "status": "on-time"
     },
     {
         "milestone_date": "2020-01-02",
         "description": "Close Call for Program Team Members",
         "owner": "Emily",
         "project_name": "Global AppSec - San Francisco",
-        "status": "future"
+        "status": "on-time"
     },
     {
         "milestone_date": "2020-01-05",
