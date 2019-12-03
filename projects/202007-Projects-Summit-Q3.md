@@ -3,8 +3,6 @@
 title: Projects Summit - Summer
 layout: full-width
 date: July 30- August 2, 2020
-project: active
-
 
 ---
 
