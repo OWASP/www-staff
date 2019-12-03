@@ -23,31 +23,14 @@ Staff Projects are work products primarily done by staff that require either 40+
 
 ## Active Projects
 * [2020 Operating Plan - DRAFT 3](/www-staff/operating-plan/2020) [Mike]
-* 2020 Budget (with monthly forecast) [Mike]
-* [Website Relaunch](/www-staff/projects/201912-Website-Launch), [Harold]
-* Commerce Platform for Website Launch
-  * [Donate Form](/www-staff/projects/201911-donate-form)
-  * [Membership Form](/www-staff/projects/201911-membership-form)
-  * [Event Registration](/www-staff/projects/201912-events-form)
-* [Mailchimp as Member CRM](/www-staff/projects/201912-mailchimp)
-* Policy and Handbook Reorganization, [Dawn]
-* Leader Agreement (Project, Chapter, Event) [Mike]
-* [Email List GDPR & Clean Up](/www-staff/projects/201910-Email-Cleanup)
-* [2019-Q4 Marketing](/www-staff/projects/201910-marketing)
-* Community Managed Events
-  * [AppSec California, 21 January, 2020](/www-staff/projects/2020-event-appsec-california)
-  * [OWASP SnowFROC, 5 March, 2020](/www-staff/projects/202003-snowfroc)
-* Global Partnerships
-  * [BlackHat London Dec 2-5, 2019](/www-staff/projects/201912-Blackhat-London), [Lisa]
-  * [BlackHat Asia Mar 31- Apr 3, 2020](/www-staff/projects/202003-Blackhat-Asia), [Lisa]
-  * [BlackHat USA Las Vegas 2020 Aug 1-6, 2020](/www-staff/projects/202008-Blackhat-Las-Vegas), [Lisa]
-  * [DefCon28 Aug 6-9, 2020](/www-staff/projects/202008-Defcon-28), [Lisa]
-* Staff Managed Events
-  * [Projects Summit Winter, February 20-22, 2020](/www-staff/projects/202002-Projects-Summit-Q1)
-  * [Global AppSec - Dublin, June 15-19, 2020](/www-staff/projects/202006-GlobalAppSec-Dublin)
-  * [Projects Summit Summer, date TBD](/www-staff/projects/202007-Projects-Summit-Q3)
-  * [Global AppSec - San Francisco, October 19-23, 2020](/www-staff/projects/202010-Global-AppSec-SF)
-* [Trademark](/www-staff/projects/201902-Trademarks), [Mike]
+{% assign pages = site.pages | sort: 'title' | limit: 1000 %}
+<ul>
+{% for page in pages %}
+ {% if page.path contains 'projects/' %}
+ <li><a href='/www-staff{{ page.url }}'>{{ page.title }}</a>{% if page.date %}, {{ page.date }}{% endif %}</li>
+ {% endif %}
+{% endfor %}
+</ul>
 
 ## Prioritized Projects
 * SalesForce New Instance > Migration
@@ -83,15 +66,3 @@ Staff Projects are work products primarily done by staff that require either 40+
 1. Increase all classes of membership by 25%
 
 *Vision: Global and open resource for software security*
-
-
-## Active Projects
-{% assign pages = site.pages | sort: 'title' | limit: 1000 %}
-<ul>
-{% for page in pages %}
- {% if page.path contains 'projects/' %}
- <li><a href='/www-staff{{ page.url }}'>{{ page.title }}</a>{% if page.date %}, {{ page.date }}{% endif %}</li>
- {% endif %}
-{% endfor %}
-</ul>
-
