@@ -2,7 +2,6 @@
 
 title: Mailchimp as CRM
 layout: full-width
-project: active
 
 ---
 
