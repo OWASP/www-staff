@@ -3,7 +3,6 @@
 title: BlackHat London 2019
 layout: full-width
 date: December 2-5, 2019
-project: active
 
 ---
 # BlackHat London 2019
