@@ -2,6 +2,7 @@
 
 title: Email Clean-Up
 layout: full-width
+project: active
 
 ---
 
