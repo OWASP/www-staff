@@ -15,6 +15,8 @@ The project will primarily be a series of emails requesting recipients to opt-in
 
 ## Project Links
 
+https://mailchimp.com/help/collect-consent-with-gdpr-forms/
+
 ## Goals
 
 1. Include top-level goals of the project in an ordered list
