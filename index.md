@@ -45,6 +45,15 @@ Staff Projects are work products primarily done by staff that require either 40+
 
 ## Recently Completed Projects
 * [AppSec Days Melbourne, 1 November, 2019](https://www.owasp.org/index.php/Staff-Projects/20191101-AppSecDay-Melbourne)
+{% assign pages = site.pages | sort: 'title' | limit: 1000 %}
+<ul>
+{% for page in pages %}
+ {% if page.path contains 'projects-historical/' %}
+ <li><a href='/www-staff{{ page.url }}'>{{ page.title }}</a></li>
+ {% endif %}
+{% endfor %}
+</ul>
+
 
 ## Templates 
 * [Blank Template](/www-staff/projects/202001-template)
