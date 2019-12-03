@@ -2,7 +2,6 @@
 
 title: RegOnline Closure
 layout: full-width
-project: active
 
 ---
 
