@@ -3,7 +3,6 @@
 title: AppSec California 2020
 layout: full-width
 date: January 21-24, 2020
-project: active
 
 ---
 # AppSec California 2020
