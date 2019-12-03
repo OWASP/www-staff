@@ -89,7 +89,7 @@ Staff Projects are work products primarily done by staff that require either 40+
 {% assign pages = site.pages | sort: 'title' | limit: 1000 %}
 <ul>
 {% for page in pages %}
- {% if page.path contains 'projects' %}
+ {% if page.path contains 'projects/' %}
  <li><a href='/www-staff{{ page.url }}'>{{ page.title }}{% if page.date %}, {{ page.date }}{% endif %}</a></li>
  {% endif %}
 {% endfor %}
