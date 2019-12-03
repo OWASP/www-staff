@@ -3,7 +3,6 @@
 title: Global AppSec - San Francisco
 layout: full-width
 date: October 19-23, 2020
-project: active
 
 ---
 
