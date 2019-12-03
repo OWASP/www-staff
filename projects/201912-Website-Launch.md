@@ -34,29 +34,26 @@ Upon the completion of this project, OWASP.org will be hosted in Github. The arc
 * Retire full Mediawiki instance before Dec 15, 2020
 
 ## Milestones
-* [x] 2019-11-20, Update community regarding website migration [Harold]
-* [ ] 2019-11-25, Donation form (poc) [Simon]
-* [ ] 2019-12-01, Redirect inventory from SEO firm [Mike]
-* [ ] 2019-12-02, Membership form (poc) [Simon]
-* [ ] 2019-12-05, Policy pages migrated and ready for community review and Board Approval, [Mike]
-* [ ] 2019-12-05, Corporate pages migrated (not production), [Mike]
 * [ ] 2019-12-05, Chapter pages migrated (not production), [Harold]
 * [ ] 2019-12-05, Project pages migrated (not production), [Harold]
 * [ ] 2019-12-05, Events pages migrated (not production), [Harold]
 * [ ] 2019-12-06, Metadata template information from SEO firm, [Harold]
-* [ ] 2019-12-10, Integrate meta tag info into templates, [Harold]
+* [ ] 2019-12-09, Redirect inventory from SEO firm [Mike]
 * [ ] 2019-12-10, Corporate bios complete (450-510 chars), [Lisa]
+* [ ] 2019-12-10, Integrate meta tag info into templates, [Harold]
+* [ ] 2019-12-12, Policy pages migrated and ready for community review and Board Approval, [Mike]
+* [ ] 2019-12-12, Corporate pages migrated (not production), [Mike]
 * [ ] 2019-12-13, Redirect system in place and ready for launch
 * [ ] 2019-12-13, Validate in-bound search redirect working on events/policy pages, [Harold]
-* [ ] 2019-12-13, Events form (poc) [Simon]
 * [ ] 2019-12-13, Donation form online [Simon]
 * [ ] 2019-12-13, Membership form onine [Simon]
 * [ ] 2019-12-16, Remaining chapter pages auto-migrated, [Harold]
 * [ ] 2019-12-16, Remaining project pages auto-migrated, [Harold]
 * [ ] 2019-12-16, Events pages migrated, [Harold]
-* [ ] 2019-12-20, Website Launch [Harold]
 * [ ] 2019-12-18, Validate Google Analytics instance running, [Harold]
 * [ ] 2019-12-18, Validate search redirect working site-wide, [Harold]
+* [ ] 2019-12-20, Website Launch [Harold]
+* [ ] 2019-12-24, Events form (poc) [Simon]
 * [ ] 2020-01-15, Validate Meetup Connector, [Harold]
 
 ## Historical Milestones (Completed)
@@ -69,6 +66,9 @@ Upon the completion of this project, OWASP.org will be hosted in Github. The arc
 * [x] 2019-09-01, Determine site-wide Search tool/solution [Harold]
 * [x] 2019-09-05, Rollout for Leaders starting at Global AppSec DC and continuing at AMS
 * [x] 2019-10-10, Staff Projects migrated and in production, [Harold]
+* [x] 2019-11-20, Update community regarding website migration [Harold]
+* [x] 2019-11-25, Donation form (poc) [Simon]
+* [x] 2019-12-02, Membership form (poc) [Simon]
 
 
 ## Leadership
