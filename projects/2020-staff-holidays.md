@@ -2,6 +2,7 @@
 
 title: OWASP Staff Holidays
 layout: full-width
+project: active
 
 ---
 
