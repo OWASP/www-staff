@@ -2,6 +2,7 @@
 
 title: Trademarks
 layout: full-width
+project: active
 
 ---
 
