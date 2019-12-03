@@ -31,6 +31,7 @@ Leaders of projects selected are required to attend or that project will not be 
 - [ ] 2020-06-17, Reminder #3, [Harold]
 - [ ] 2020-06-23, Reminder #4, [Harold]
 - [ ] 2020-06-25, Reminder #5, [Harold]
+- [ ] 2020-06-25, Form online to accept Attendee registrations (wuFoo), [Mike]
 - [ ] 2020-06-29, Project Nomination Form Closes, [Harold]
 - [ ] 2020-07-01, Projects Selected (5), [Harold]
 - [ ] 2020-07-01, Registration Form Online, [Harold]
