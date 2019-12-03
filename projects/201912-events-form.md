@@ -2,6 +2,7 @@
 
 title: Events Form
 layout: full-width
+project: active
 
 ---
 
