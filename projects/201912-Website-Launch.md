@@ -2,7 +2,6 @@
 
 title: Website Re-launch
 layout: full-width
-project: active
 
 ---
 
