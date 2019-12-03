@@ -53,7 +53,12 @@ Leaders of projects selected are required to attend or that project will not be 
 
 ### Venue & Lodging
 
+``` 
 Presidente Intercontinental Cancun Resort
+Address: Blvd. Kukulcan Km 7.5, Punta Cancun, Zona Hotelera, 77500 Cancún, Q.R., Mexico
+Phone: +52 998 848 8700
+https://www.ihg.com/intercontinental/hotels/us/en/cancun/cunhc/hoteldetail
+```
 
 
 ### Registration 
