@@ -24,7 +24,7 @@ Leaders of projects selected are required to attend or that project will not be 
 
 ## Milestones
 
-- [ ] 2019-11-29, Venue contract signed, [Emily]
+- [ ] 2019-12-06, Venue contract signed, [Emily]
 - [ ] 2020-01-02, Project Nomination Form online, [Mike]
 - [ ] 2020-01-05, Project Nomination Opens, [Harold]
 - [ ] 2020-01-06, Email solicitation sent to Leaders list, [Harold]
