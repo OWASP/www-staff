@@ -27,10 +27,10 @@ RegOnline/account_number/files
 
 ## Milestones
 
+- [x] 2019-12-04, Remove the ability to donation via RegOnline on wiki, [Harold]
 - [x] 2019-12-06, Scheudle meeting to discuss plan/owners, [Mike]
 - [ ] 2019-12-13, Ensure all funds have been tranferred out of all FOUR RegOnline to OWASP Bank accounts, [Dawn]
 - [ ] 2019-12-20, Download all historical data from RegOline, [Dawn]
-- [ ] 2019-12-21, Donation Page, Membership Pages Local Chapter Supports on wiki point to new donate, [Harold]
 
 Export everything from run several reports for every event
 Take PDF of event snapshot
