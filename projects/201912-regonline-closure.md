@@ -18,8 +18,12 @@ RegOnline has been discontinued by the vender and the EOL is end of December 201
 - 431824 - Main (Admin username) - Emily
 - 320076 - Dawn/Kelly - Kelly
 
+```
 RegOnline/account_number/files
-
+PDF Files of Dashboard
+CVS of Attendees
+All events listed
+```
 
 ## Goals
 
