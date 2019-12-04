@@ -11,7 +11,7 @@
 
 
 
-![Good Old Boys](/files/goodolboys.png){:height="700px" width="400px"}
+![Good Old Boys](/files/goodolboys.png){:height="700px" :width="400px"}
 
 |Left Side | Center | Right Side|
 |:---|:---:|---:|
