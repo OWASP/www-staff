@@ -169,41 +169,6 @@
         "name": "Website Re-launch",
         "milestones": [
             {
-                "milestone_date": "2019-11-25",
-                "description": "Donation form (poc)",
-                "owner": "Simon",
-                "project_name": "Website Re-launch",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2019-12-01",
-                "description": "Redirect inventory from SEO firm",
-                "owner": "Mike",
-                "project_name": "Website Re-launch",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2019-12-02",
-                "description": "Membership form (poc)",
-                "owner": "Simon",
-                "project_name": "Website Re-launch",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2019-12-05",
-                "description": "Policy pages migrated and ready for community review and Board Approval",
-                "owner": "Mike",
-                "project_name": "Website Re-launch",
-                "status": "on-time"
-            },
-            {
-                "milestone_date": "2019-12-05",
-                "description": "Corporate pages migrated (not production)",
-                "owner": "Mike",
-                "project_name": "Website Re-launch",
-                "status": "on-time"
-            },
-            {
                 "milestone_date": "2019-12-05",
                 "description": "Chapter pages migrated (not production)",
                 "owner": "Harold",
@@ -232,9 +197,9 @@
                 "status": "on-time"
             },
             {
-                "milestone_date": "2019-12-10",
-                "description": "Integrate meta tag info into templates",
-                "owner": "Harold",
+                "milestone_date": "2019-12-09",
+                "description": "Redirect inventory from SEO firm",
+                "owner": "Mike",
                 "project_name": "Website Re-launch",
                 "status": "on-time"
             },
@@ -242,6 +207,27 @@
                 "milestone_date": "2019-12-10",
                 "description": "Corporate bios complete (450-510 chars)",
                 "owner": "Lisa",
+                "project_name": "Website Re-launch",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2019-12-10",
+                "description": "Integrate meta tag info into templates",
+                "owner": "Harold",
+                "project_name": "Website Re-launch",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2019-12-12",
+                "description": "Policy pages migrated and ready for community review and Board Approval",
+                "owner": "Mike",
+                "project_name": "Website Re-launch",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2019-12-12",
+                "description": "Corporate pages migrated (not production)",
+                "owner": "Mike",
                 "project_name": "Website Re-launch",
                 "status": "on-time"
             },
@@ -256,13 +242,6 @@
                 "milestone_date": "2019-12-13",
                 "description": "Validate in-bound search redirect working on events/policy pages",
                 "owner": "Harold",
-                "project_name": "Website Re-launch",
-                "status": "on-time"
-            },
-            {
-                "milestone_date": "2019-12-13",
-                "description": "Events form (poc)",
-                "owner": "Simon",
                 "project_name": "Website Re-launch",
                 "status": "on-time"
             },
@@ -302,13 +281,6 @@
                 "status": "on-time"
             },
             {
-                "milestone_date": "2019-12-20",
-                "description": "Website Launch",
-                "owner": "Harold",
-                "project_name": "Website Re-launch",
-                "status": "on-time"
-            },
-            {
                 "milestone_date": "2019-12-18",
                 "description": "Validate Google Analytics instance running",
                 "owner": "Harold",
@@ -319,6 +291,20 @@
                 "milestone_date": "2019-12-18",
                 "description": "Validate search redirect working site-wide",
                 "owner": "Harold",
+                "project_name": "Website Re-launch",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2019-12-20",
+                "description": "Website Launch",
+                "owner": "Harold",
+                "project_name": "Website Re-launch",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2019-12-24",
+                "description": "Events form (poc)",
+                "owner": "Simon",
                 "project_name": "Website Re-launch",
                 "status": "on-time"
             },
@@ -380,56 +366,38 @@
         "url": "https://www2.owasp.org/www-staff/projects/201912-mailchimp"
     },
     {
-        "name": "AppSec California 2020",
+        "name": "RegOnline Closure",
         "milestones": [
             {
-                "milestone_date": "2019-11-15",
-                "description": "Secure insurance for event per terms of contract (See below)",
+                "milestone_date": "2019-12-06",
+                "description": "Scheudle meeting to discuss plan/owners",
+                "owner": "Mike",
+                "project_name": "RegOnline Closure",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2019-12-13",
+                "description": "Ensure all funds have been tranferred out of RegOnline to OWASP Bank accounts",
                 "owner": "Dawn",
-                "project_name": "AppSec California 2020",
-                "status": "overdue"
+                "project_name": "RegOnline Closure",
+                "status": "on-time"
             },
             {
                 "milestone_date": "2019-12-20",
-                "description": "Final payment of $22,750 is due. Ticket # OSD-3068",
+                "description": "Download all historical data from RegOline",
                 "owner": "Dawn",
-                "project_name": "AppSec California 2020",
+                "project_name": "RegOnline Closure",
                 "status": "on-time"
-            },
-            {
-                "milestone_date": "2019-12-21",
-                "description": "30 Day out Check-in",
-                "owner": "Emily",
-                "project_name": "AppSec California 2020",
-                "status": "on-time"
-            },
-            {
-                "milestone_date": "2020-01-21",
-                "description": "AppSec California",
-                "owner": "No Owner",
-                "project_name": "AppSec California 2020",
-                "status": "future"
-            },
-            {
-                "milestone_date": "2020-03-24",
-                "description": "Close P&L",
-                "owner": "Dawn",
-                "project_name": "AppSec California 2020",
-                "status": "future"
             }
         ],
-        "description": "Each project will have a 2-3 paragraph overview narrative. Keep to the key top points about the project. Visitors should be able to read this short narrative and have a good understanding of the project without having to scroll the entire document.",
+        "description": "RegOnline has been discontinued by the vender and the EOL is end of December 2019. OWASP has used RegOnline for Global and various events for the past several years. There is event metric and attendee information in the platform that we would want to archive prior to the system going offline. Additioanlly we should ensure our credit balances have been completely moved to our bank accounts prior to December 31, 2019.",
         "leaders": [
             {
-                "name": "Richard Greenberg",
-                "email": "richard.greenberg@owasp.org"
-            },
-            {
-                "name": "Elizabeth Dugan - Venue/Contracts",
-                "email": "Elizabeth.Dugan@smgov.net"
+                "name": "Dawn Aitken",
+                "email": "dawn.aitken@owasp.com"
             }
         ],
-        "url": "https://www2.owasp.org/www-staff/projects/2020-event-appsec-california"
+        "url": "https://www2.owasp.org/www-staff/projects/201912-regonline-closure"
     },
     {
         "name": "OWASP Staff Holidays",
@@ -522,14 +490,66 @@
         "url": "https://www2.owasp.org/www-staff/projects/2020-staff-holidays"
     },
     {
+        "name": "AppSec California 2020",
+        "milestones": [
+            {
+                "milestone_date": "2019-11-15",
+                "description": "Secure insurance for event per terms of contract (See below)",
+                "owner": "Dawn",
+                "project_name": "AppSec California 2020",
+                "status": "overdue"
+            },
+            {
+                "milestone_date": "2019-12-20",
+                "description": "Final payment of $22,750 is due. Ticket # OSD-3068",
+                "owner": "Dawn",
+                "project_name": "AppSec California 2020",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2019-12-21",
+                "description": "30 Day out Check-in",
+                "owner": "Emily",
+                "project_name": "AppSec California 2020",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-01-21",
+                "description": "AppSec California",
+                "owner": "No Owner",
+                "project_name": "AppSec California 2020",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-03-24",
+                "description": "Close P&L",
+                "owner": "Dawn",
+                "project_name": "AppSec California 2020",
+                "status": "future"
+            }
+        ],
+        "description": "Each project will have a 2-3 paragraph overview narrative. Keep to the key top points about the project. Visitors should be able to read this short narrative and have a good understanding of the project without having to scroll the entire document.",
+        "leaders": [
+            {
+                "name": "Richard Greenberg",
+                "email": "richard.greenberg@owasp.org"
+            },
+            {
+                "name": "Elizabeth Dugan - Venue/Contracts",
+                "email": "Elizabeth.Dugan@smgov.net"
+            }
+        ],
+        "url": "https://www2.owasp.org/www-staff/projects/202001-event-appsec-california"
+    },
+    {
         "name": "Projects Summit - Winter 2020",
         "milestones": [
             {
-                "milestone_date": "2019-11-29",
+                "milestone_date": "2019-12-06",
                 "description": "Venue contract signed",
                 "owner": "Emily",
                 "project_name": "Projects Summit - Winter 2020",
-                "status": "overdue"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-01-02",
@@ -588,6 +608,13 @@
                 "status": "future"
             },
             {
+                "milestone_date": "2020-01-26",
+                "description": "Form online to accept Attendee registrations (wuFoo)",
+                "owner": "Mike",
+                "project_name": "Projects Summit - Winter 2020",
+                "status": "future"
+            },
+            {
                 "milestone_date": "2020-01-28",
                 "description": "Projects Selected (5)",
                 "owner": "Harold",
@@ -597,6 +624,13 @@
             {
                 "milestone_date": "2020-02-10",
                 "description": "Flight bookings complete to qualify for reimbursement/travel assistance grants",
+                "owner": "No Owner",
+                "project_name": "Projects Summit - Winter 2020",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-02-26",
+                "description": "Arrival Day",
                 "owner": "No Owner",
                 "project_name": "Projects Summit - Winter 2020",
                 "status": "future"
@@ -618,6 +652,13 @@
             {
                 "milestone_date": "2020-02-29",
                 "description": "Summitt Hours 9a-5p",
+                "owner": "No Owner",
+                "project_name": "Projects Summit - Winter 2020",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-03-01",
+                "description": "Departure Day",
                 "owner": "No Owner",
                 "project_name": "Projects Summit - Winter 2020",
                 "status": "future"
@@ -735,29 +776,15 @@
         "name": "Global AppSec - Dublin 2020",
         "milestones": [
             {
-                "milestone_date": "2019-11-15",
+                "milestone_date": "2019-12-05",
                 "description": "Launch Call for Program Team Members",
-                "owner": "Emily",
-                "project_name": "Global AppSec - Dublin 2020",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2019-12-01",
-                "description": "Open CFT/CFP",
-                "owner": "Emily",
-                "project_name": "Global AppSec - Dublin 2020",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2019-12-15",
-                "description": "Close Call for Program Team Members",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin 2020",
                 "status": "on-time"
             },
             {
                 "milestone_date": "2019-12-31",
-                "description": "Close CFT/CFP",
+                "description": "Close Call for Program Team Members",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin 2020",
                 "status": "on-time"
@@ -784,6 +811,13 @@
                 "status": "future"
             },
             {
+                "milestone_date": "2020-01-10",
+                "description": "Open CFT/CFP",
+                "owner": "Emily",
+                "project_name": "Global AppSec - Dublin 2020",
+                "status": "future"
+            },
+            {
                 "milestone_date": "2020-02-01",
                 "description": "Keynotes Announces",
                 "owner": "Emily",
@@ -791,7 +825,7 @@
                 "status": "future"
             },
             {
-                "milestone_date": "2020-02-15",
+                "milestone_date": "2020-02-14",
                 "description": "CFT/CFP Review Complete",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin 2020",
@@ -923,6 +957,13 @@
                 "milestone_date": "2020-06-25",
                 "description": "Reminder #5",
                 "owner": "Harold",
+                "project_name": "Projects Summit - Summer",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-06-25",
+                "description": "Form online to accept Attendee registrations (wuFoo)",
+                "owner": "Mike",
                 "project_name": "Projects Summit - Summer",
                 "status": "future"
             },
