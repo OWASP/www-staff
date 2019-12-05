@@ -133,15 +133,18 @@ Staff Services         | € 100,000
 
 ## Sponsorships
 
-This event offers several parter sponsorships opportunities.  If you are interested in supporting the event please contact [kelly@owasp.org](mailto:kelly@owasp.org&subject:Dublin%20Sponsorship). Below is a list of existing and available sponsorships. Please note all sponsorship levels include a table in the exhibition area and logos on conference materials and signage. All sponsor assets will go in a folder named sponsors in this repo.
+This event offers several parter sponsorship opportunities.  If you are interested in supporting the event please contact [kelly@owasp.com](mailto:kelly@owasp.com&subject:Dublin%20Sponsorship). Below is a list of existing and available sponsorships. All sponsor assets will go in a folder named sponsors in this repo.
 
-* Gold Sponsor. $5,000. Recognition and five-minute talk at keynote
-* Gold Sponsor. $5,000. Github
-* Bronze Sponsor, $1,000
-* Bronze Sponsor, $1,000
-* Bronze Sponsor, $1,000
-* Bronze Sponsor, $1,000
-* Bronze Sponsor, $1,000
+Sponsorship Status
+Sponsorship Contract Status to Date (as of 08:00amET December 5, 2019) Amount Contracted: €25,500.00 Amount Collected: 0
+
+### Ruby 
+- Cobalt Labs
+- Security Journey
+- White Source Software
+
+### Lanyards (1) SOLD OUT
+- BCC Risk
 
 ## Legal
 
