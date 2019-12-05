@@ -105,7 +105,7 @@ Staff Services         | &euro;100,000
 
 
 ## Sponsorships
-Sponsorship Contract Status to Date (as of 08:00amET December 5, 2019). Amount Contracted: $280,000 Amount Collected: 
+Sponsorship Contract Status to Date (as of 08:00amET December 5, 2019). Amount Contracted: $280,000/USD Amount Collected: $60,000/USD
 
 #### Sapphire
 - Acunetix
