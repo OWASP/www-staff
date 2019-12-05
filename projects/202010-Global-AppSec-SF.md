@@ -105,6 +105,10 @@ Staff Services         | &euro;100,000
 
 
 ## Sponsorships
+
+This event offers several parter sponsorships opportunities.  If you are interested in supporting the event please contact [kelly@owasp.com](mailto:kelly@owasp.com&subject:Eventname). Below is a list of existing and available sponsorships. All sponsor assets will go in a folder named sponsors in this repo.
+
+## Sponsorship Status
 Sponsorship Contract Status to Date (as of 08:00amET December 5, 2019). Amount Contracted: $280,000/USD Amount Collected: $60,000/USD
 
 #### Sapphire
@@ -129,11 +133,6 @@ Sponsorship Contract Status to Date (as of 08:00amET December 5, 2019). Amount C
 - Sqreen (Silver Corporate Supporter)
 - White Source Software (Silver Corporate Supporter)
 - Zero North (Silver Corporate Supporter)
-
-This event offers several parter sponsorships opportunities.  If you are interested in supporting the event please contact [kelly@owasp.org](mailto:kelly@owasp.org&subject:Eventname). Below is a list of existing and available sponsorships. All sponsor assets will go in a folder named sponsors in this repo.
-
-## Sponsorship Status
-
 
 ## Legal
 
