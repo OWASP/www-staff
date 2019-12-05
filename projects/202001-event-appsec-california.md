@@ -85,13 +85,13 @@ Sponsorship Contract Status to Date (as of 08:00amET December 5, 2019). Amount c
 #### Lanyard Sponsorship (1) - SOLD OUT
 - SecureWorks
 
-### Capture the Flag (1) - SOLD OUT
+#### Capture the Flag (1) - SOLD OUT
 - Security Innovation 
 
-### Diversity Sponsorship  
+#### Diversity Sponsorship  
 - TEK Systems
 
-### Women in AppSec/Diversity Breakfast Sponsorship (3)
+#### Women in AppSec/Diversity Breakfast Sponsorship (3)
 - Detectify
 
 #### Career Fair 
