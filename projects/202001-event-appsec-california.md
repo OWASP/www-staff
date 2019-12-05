@@ -42,7 +42,7 @@ For internal accouting practices, the revenue split for Corporate Sponors who se
 
 ## Sponsorship Status
 
-Sponsorship Contract Status to Date (as of 08:00amET December 5, 2019). Amount contracted: $279,550/USD Amount Collected: $98,150.00/USD
+Sponsorship Contract Status to Date (as of 08:00amET December 5, 2019). Amount contracted: $279,550/USD Amount Collected: $106,500/USD
 
 #### Diamond (3) - 1 remaining
 - Shiftleft (CS)
