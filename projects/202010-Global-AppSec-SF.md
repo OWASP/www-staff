@@ -105,16 +105,35 @@ Staff Services         | &euro;100,000
 
 
 ## Sponsorships
+Sponsorship Contract Status to Date (as of 08:00amET December 5, 2019). Amount Contracted: $280,000 Amount Collected: 
 
-This event offers several parter sponsorships opportunities.  If you are interested in supporting the event please contact [kelly@owasp.org](mailto:kelly@owasp.org&subject:Eventname). Below is a list of existing and available sponsorships. Please note all sponsorship levels include a table in the exhibition area and logos on conference materials and signage. All sponsor assets will go in a folder named sponsors in this repo.
+#### Sapphire
+- Acunetix
+- Micro Focus
+- Netsparker
+- Rapid7
+- Security Compass
 
-* Gold Sponsor. $5,000. Recognition and five-minute talk at keynote
-* Gold Sponsor. $5,000. Github
-* Bronze Sponsor, $1,000
-* Bronze Sponsor, $1,000
-* Bronze Sponsor, $1,000
-* Bronze Sponsor, $1,000
-* Bronze Sponsor, $1,000
+#### Ruby
+- Altitude Networks (Silver Corporate Supporter)
+- Bugcrowd (Silver Corporate Supporter)
+- Cequence Security
+- Intertrust (Silver Corporate Supporter)
+- Lyft (Silver Corporate Supporter)
+- NowSecure (Silver Corporate Supporter)
+- Qualys (Silver Corporate Supporter)
+- Salt Security
+- Secure Code Warrior (Gold Corporate Supporter)
+- Security Innovation
+- Security Journey (Silver Corporate Supporter)
+- Sqreen (Silver Corporate Supporter)
+- White Source Software (Silver Corporate Supporter)
+- Zero North (Silver Corporate Supporter)
+
+This event offers several parter sponsorships opportunities.  If you are interested in supporting the event please contact [kelly@owasp.org](mailto:kelly@owasp.org&subject:Eventname). Below is a list of existing and available sponsorships. All sponsor assets will go in a folder named sponsors in this repo.
+
+## Sponsorship Status
+
 
 ## Legal
 
