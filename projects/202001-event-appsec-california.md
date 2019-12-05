@@ -36,16 +36,17 @@ Each project will have a 2-3 paragraph overview narrative. Keep to the key top p
 
 ## Sponsorships
 
-This event offers several parter sponsorships opportunities.  If you are interested in supporting the event please contact [kelly.santalucia@owasp.com](mailto:kelly.santalucai@owasp.com). Below is a list of existing and available sponsorships. Please note all sponsorship levels include a table in the exhibition area and logos on conference materials and signage. All sponsor assets will go in a folder named sponsors in this repo. 
+This event offers several parter sponsorships opportunities.  If you are interested in supporting the event please contact [kelly.santalucia@owasp.com](mailto:kelly.santalucai@owasp.com). Below is a list of existing and available sponsorships. All sponsor assets will go in a folder named sponsors in this repo. 
 
 For internal accouting practices, the revenue split for Corporate Sponors who select this event will be $8,350 which is roughly equivilent to $7,000 plus two regularly priced conference passes and a badge scanner. The Corporate Sponsor will receive the same benefits as other Event Gold Sponsors.
 
 ## Sponsorship Status
 
-Sponsorship Contract Status to Date (as of 08:00amET November 15, 2019). Amount contracted: $252,550/USD Amount Collected: $98,150.00/USD
+Sponsorship Contract Status to Date (as of 08:00amET December 5, 2019). Amount contracted: $279,550/USD Amount Collected: $98,150.00/USD
 
-#### Diamond (3) - 2 remaining
+#### Diamond (3) - 1 remaining
 - Shiftleft (CS)
+- Contrast Security
 
 #### Platinum (3) - 2 remaining
 - Zero North (CS)
@@ -62,6 +63,7 @@ Sponsorship Contract Status to Date (as of 08:00amET November 15, 2019). Amount 
 - Extrahop
 - GitLab 
 - HackerOne
+- Intertrust (CS)
 - Lyft (CS)
 - MicroFocus
 - Netsparker
@@ -83,6 +85,15 @@ Sponsorship Contract Status to Date (as of 08:00amET November 15, 2019). Amount 
 
 #### Lanyard Sponsorship (1) - SOLD OUT
 - SecureWorks
+
+### Capture the Flag (1) - SOLD OUT
+- Security Innovation 
+
+### Diversity Sponsorship  
+- TEK Systems
+
+### Women in AppSec/Diversity Breakfast Sponsorship (3)
+- Detectify
 
 #### Career Fair 
 - Citrix
