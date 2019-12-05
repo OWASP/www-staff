@@ -140,7 +140,7 @@ Sponsorship Contract Status to Date (as of 08:00amET December 5, 2019) Amount Co
 
 ### Ruby 
 - Cobalt Labs
-- Secure Code Warrior (CS)
+- Secure Code Warrior (Gold Corporate Supporter)
 - Security Journey
 - White Source Software
 
