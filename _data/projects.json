@@ -369,28 +369,28 @@
         "name": "RegOnline Closure",
         "milestones": [
             {
-                "milestone_date": "2019-12-06",
-                "description": "Scheudle meeting to discuss plan/owners",
+                "milestone_date": "2019-12-13",
+                "description": "Ensure all funds have been tranferred out of all FOUR RegOnline to OWASP Bank accounts",
+                "owner": "Dawn",
+                "project_name": "RegOnline Closure",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2019-12-16",
+                "description": "Notify Leaders that RegOnline is no longer available for donations please use new donate",
                 "owner": "Mike",
                 "project_name": "RegOnline Closure",
                 "status": "on-time"
             },
             {
-                "milestone_date": "2019-12-13",
-                "description": "Ensure all funds have been tranferred out of RegOnline to OWASP Bank accounts",
-                "owner": "Dawn",
-                "project_name": "RegOnline Closure",
-                "status": "on-time"
-            },
-            {
                 "milestone_date": "2019-12-20",
-                "description": "Download all historical data from RegOline",
-                "owner": "Dawn",
+                "description": "Download all historical data from RegOline, [Dawn]Export everything from run several reports for every eventTake PDF of event snapshot",
+                "owner": "No Owner",
                 "project_name": "RegOnline Closure",
                 "status": "on-time"
             }
         ],
-        "description": "RegOnline has been discontinued by the vender and the EOL is end of December 2019. OWASP has used RegOnline for Global and various events for the past several years. There is event metric and attendee information in the platform that we would want to archive prior to the system going offline. Additioanlly we should ensure our credit balances have been completely moved to our bank accounts prior to December 31, 2019.",
+        "description": "RegOnline has been discontinued by the vender and the EOL is end of December 2019. OWASP has used RegOnline for Global and various events for the past several years. There is event metric and attendee information in the platform that we would want to archive prior to the system going offline. Additionally we should ensure our credit balances have been completely moved to our bank accounts prior to December 31, 2019.",
         "leaders": [
             {
                 "name": "Dawn Aitken",
@@ -1064,13 +1064,6 @@
     {
         "name": "Global AppSec - San Francisco",
         "milestones": [
-            {
-                "milestone_date": "2019-11-15",
-                "description": "Launch Call for Program Team Members",
-                "owner": "Emily",
-                "project_name": "Global AppSec - San Francisco",
-                "status": "overdue"
-            },
             {
                 "milestone_date": "2019-12-31",
                 "description": "General Service Contract Signed",
