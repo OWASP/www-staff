@@ -58,7 +58,6 @@ Sponsorship Contract Status to Date (as of 08:00amET December 5, 2019). Amount c
 - Cequence Security (CS) 
 - Checkmarx (CS)
 - Code DX (CS)
-- Contrast Security (CS)
 - Detectify (CS)
 - Extrahop
 - GitLab 
