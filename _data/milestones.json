@@ -21,13 +21,6 @@
         "status": "overdue"
     },
     {
-        "milestone_date": "2019-11-15",
-        "description": "Launch Call for Program Team Members",
-        "owner": "Emily",
-        "project_name": "Global AppSec - San Francisco",
-        "status": "overdue"
-    },
-    {
         "milestone_date": "2019-12-01",
         "description": "Regression testing complete",
         "owner": "Harold",
@@ -95,13 +88,6 @@
         "description": "Metadata template information from SEO firm",
         "owner": "Harold",
         "project_name": "Website Re-launch",
-        "status": "on-time"
-    },
-    {
-        "milestone_date": "2019-12-06",
-        "description": "Scheudle meeting to discuss plan/owners",
-        "owner": "Mike",
-        "project_name": "RegOnline Closure",
         "status": "on-time"
     },
     {
@@ -204,7 +190,7 @@
     },
     {
         "milestone_date": "2019-12-13",
-        "description": "Ensure all funds have been tranferred out of RegOnline to OWASP Bank accounts",
+        "description": "Ensure all funds have been tranferred out of all FOUR RegOnline to OWASP Bank accounts",
         "owner": "Dawn",
         "project_name": "RegOnline Closure",
         "status": "on-time"
@@ -228,6 +214,13 @@
         "description": "Events pages migrated",
         "owner": "Harold",
         "project_name": "Website Re-launch",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2019-12-16",
+        "description": "Notify Leaders that RegOnline is no longer available for donations please use new donate",
+        "owner": "Mike",
+        "project_name": "RegOnline Closure",
         "status": "on-time"
     },
     {
@@ -274,8 +267,8 @@
     },
     {
         "milestone_date": "2019-12-20",
-        "description": "Download all historical data from RegOline",
-        "owner": "Dawn",
+        "description": "Download all historical data from RegOline, [Dawn]Export everything from run several reports for every eventTake PDF of event snapshot",
+        "owner": "No Owner",
         "project_name": "RegOnline Closure",
         "status": "on-time"
     },
