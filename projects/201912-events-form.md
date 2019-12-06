@@ -94,10 +94,16 @@ As part of the OWASP website migration, we will creating a new Events form that 
    3. If result set is > 100 records add "More..." link as button to retrieve more records
 3. /event-attendee-details {StripeTransactionID}
    1. Responds with all data from that Stripe Transction and first line of response includes email as mailto URL
+4. /event-refund {StripeTranactionID} {amount as number}
+   1. Refund a transaction or a portion based on the amount. Amount is required and is a number, not a current-dependent number
+   2. Make sure that reporting is net refunds
+5. /event-comp-attendee {Event Identifier} {First name} {Last Name} {Company} {email} [NICE TO HAVE MAYBE NOT]
+   
 
 ## Questions
 1. Collect email popup we can do ambandoned shopping cart and "return to complete form"
 2. Group discounts will be handled with an invoice - not online
+3. Need an easy to quickly add lots of Complimentary Registrations (like for Sponors, Booth, staff, etc)
 
 ## Budget
 
