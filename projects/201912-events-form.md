@@ -45,6 +45,8 @@ As part of the OWASP website migration, we will creating a new Events form that 
 2. Discount codes created in Stripe
    1. Can we set limits for number of uses of a particular Discount Code.
    2. need to determine how we handle Member Discounts
+      1. Preference is for member to enter address, and MailGun send discount code if they are member
+      2. Need to include link on Event Form for "Need Member Discount Code?"
 1. Visitor clicks on a event link someplace in OWASP Universe
    1. Page on website
    2. Link from an email
@@ -60,10 +62,13 @@ As part of the OWASP website migration, we will creating a new Events form that 
    1. Text field for DISCOUNT CODE
    1. Drop down or Security Industry Experience [Beginner/Intermediate/Advanced]
    1. Drop down for Persona [Defender/Builder/Breaker]
-   1. Check box for Photo Release (Detault is ON)
+   1. Check box for "Agree to Terms of Purchase"
+      1. Registration fees are non-refundable and non-transferable. Additionally, lost or stolen badges will not be replaced.
+      1. While attending event, if you allow vendor to scan badge they will get x, y, z.
+      1. Follow Code of Conduct can be expelled.
+      2. Agree to being photographed
    1. Text field to indicate dietary restrictions
    4. Check box to "Join the OWASP Mailing List"
-   4. Small legal copy about refunds
    4. Link to "Invoice me instead of paying online" that goes to (New) WuFoo Form
 3. Click "Purchase" and given Stripe transaction form
 4. All form data and transaction stored into Stripe
