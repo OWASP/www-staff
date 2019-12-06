@@ -46,46 +46,39 @@
         "description": "Project Complete ready for deployment",
         "owner": "Harold",
         "project_name": "Donation Form",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2019-12-05",
         "description": "Project Complete ready for deployment",
         "owner": "Harold",
         "project_name": "Membership Form",
-        "status": "on-time"
-    },
-    {
-        "milestone_date": "2019-12-05",
-        "description": "Chapter pages migrated (not production)",
-        "owner": "Harold",
-        "project_name": "Website Re-launch",
-        "status": "on-time"
-    },
-    {
-        "milestone_date": "2019-12-05",
-        "description": "Project pages migrated (not production)",
-        "owner": "Harold",
-        "project_name": "Website Re-launch",
-        "status": "on-time"
-    },
-    {
-        "milestone_date": "2019-12-05",
-        "description": "Events pages migrated (not production)",
-        "owner": "Harold",
-        "project_name": "Website Re-launch",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2019-12-05",
         "description": "Launch Call for Program Team Members",
         "owner": "Emily",
         "project_name": "Global AppSec - Dublin 2020",
+        "status": "overdue"
+    },
+    {
+        "milestone_date": "2019-12-06",
+        "description": "Chapter pages migrated (not production)",
+        "owner": "Harold",
+        "project_name": "Website Re-launch",
         "status": "on-time"
     },
     {
         "milestone_date": "2019-12-06",
-        "description": "Metadata template information from SEO firm",
+        "description": "Project pages migrated (not production)",
+        "owner": "Harold",
+        "project_name": "Website Re-launch",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2019-12-06",
+        "description": "Events pages migrated (not production)",
         "owner": "Harold",
         "project_name": "Website Re-launch",
         "status": "on-time"
@@ -95,6 +88,13 @@
         "description": "Venue contract signed",
         "owner": "Emily",
         "project_name": "Projects Summit - Winter 2020",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2019-12-09",
+        "description": "Metadata template information from SEO firm",
+        "owner": "Harold",
+        "project_name": "Website Re-launch",
         "status": "on-time"
     },
     {
@@ -354,7 +354,7 @@
         "description": "Project Nomination Opens",
         "owner": "Harold",
         "project_name": "Projects Summit - Winter 2020",
-        "status": "future"
+        "status": "on-time"
     },
     {
         "milestone_date": "2020-01-06",
