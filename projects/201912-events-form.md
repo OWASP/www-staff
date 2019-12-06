@@ -81,10 +81,11 @@ As part of the OWASP website migration, we will creating a new Events form that 
    1. Responds with a list of events from now-30 days through "end of time" that include Name (as URL to online report from above), total-Number-of-registrats
 1. /event-history 
    1. Same as event-lookup but responds with ALL historical events
-2. /event-attendee {email}
-   1. responds with any registrations/purchases from that email address sorted in chronological order. First line of response includes email as mailto URL
+2. /event-attendee {string}
+   1. responds with any event registrations where first-name, last-name, company, or email-address CONTAINS {string} sorted in chronological order. First line of response includes email as mailto URL
       1. List should include Event Name, Product Purchased, Amount Paid, Discount code used and StripeTransactionID
    2. responds with "None Found" if no records found in Stripe
+   3. If result set is > 100 records add "More..." link as button to retrieve more records
 3. /event-attendee-details {StripeTransactionID}
    1. Responds with all data from that Stripe Transction and first line of response includes email as mailto URL
 
