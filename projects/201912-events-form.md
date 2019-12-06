@@ -15,6 +15,7 @@ As part of the OWASP website migration, we will creating a new Events form that 
 
 1. Securely host a form on our public github instance and collect event registrations
 1. Designed and built for re-use on up to 15 events per calendar year (Product ID/SKU)
+1. Strike is the single (private) source of pricing, inventory, and discount code truth
 2. Put form into production as of January 24, 2020
 3. Move data from successful Sripe tranactions into Mailchimp
 3. Light reporting on attendance metrics
