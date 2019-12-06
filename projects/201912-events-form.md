@@ -82,7 +82,7 @@ As part of the OWASP website migration, we will creating a new Events form that 
 1. /event-history 
    1. Same as event-lookup but responds with ALL historical events
 2. /event-attendee {string}
-   1. responds with any event registrations where first-name, last-name, company, or email-address CONTAINS {string} sorted in chronological order. First line of response includes email as mailto URL
+   1. responds with any event registrations where first-name, last-name, company, or email-address CONTAINS {string} sorted in last-name/first-name ascending order. First line of response includes email as mailto URL
       1. List should include Event Name, Product Purchased, Amount Paid, Discount code used and StripeTransactionID
    2. responds with "None Found" if no records found in Stripe
    3. If result set is > 100 records add "More..." link as button to retrieve more records
