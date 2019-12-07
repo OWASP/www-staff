@@ -173,21 +173,21 @@
                 "description": "Chapter pages migrated (not production)",
                 "owner": "Harold",
                 "project_name": "Website Re-launch",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2019-12-06",
                 "description": "Project pages migrated (not production)",
                 "owner": "Harold",
                 "project_name": "Website Re-launch",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2019-12-06",
                 "description": "Events pages migrated (not production)",
                 "owner": "Harold",
                 "project_name": "Website Re-launch",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2019-12-09",
@@ -331,8 +331,58 @@
     },
     {
         "name": "Events Form",
-        "milestones": [],
-        "description": "As part of the OWASP website migration, we will creating a new Events form that will use Stripe as a back end. This should be a simple form that is hosted on the website and will serve as the prmiary e-commerce path for all OWASP Global and Regional events replacing Eventbrite for (1) hosting secure forms on github, (2) presenting and then selecting multiple SKUs from a single Product ID as in Training Class A for Event X and Early Bird ticket for Event X, (3) 2-3 aggregate online reports, (4) validate Strike can manage inventory of SKUs, and (5) integrating Stripe form activities with light integrations with other key data in the OWASP ecosystem.",
+        "milestones": [
+            {
+                "milestone_date": "2019-12-31",
+                "description": "Wireframe of Event Form",
+                "owner": "Mike",
+                "project_name": "Events Form",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-01-03",
+                "description": "Test Event as SKU in Stripe for dev effort",
+                "owner": "Mike",
+                "project_name": "Events Form",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-01-10",
+                "description": "Beta version of Event Form Ready for testing",
+                "owner": "Simon",
+                "project_name": "Events Form",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-01-17",
+                "description": "Relecase Candiate of Form ready for regression testing",
+                "owner": "Simon",
+                "project_name": "Events Form",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-01-23",
+                "description": "Launch form with Global AppSec - Dublin as first product",
+                "owner": "Harold",
+                "project_name": "Events Form",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-01-31",
+                "description": "Release Candidate of Forms and Slack bot",
+                "owner": "Simon",
+                "project_name": "Events Form",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-02-07",
+                "description": "Project Complete",
+                "owner": "Harold",
+                "project_name": "Events Form",
+                "status": "future"
+            }
+        ],
+        "description": "As part of the OWASP website migration, we will creating a new Events form that will use Stripe as a back end. This should be a simple form that is hosted on the website and will EVENUTALLY serve as the prmiary e-commerce path for all OWASP Global and Regional events replacing Eventbrite for (1) hosting secure forms on github, (2) presenting and then selecting multiple SKUs from a single Product ID as in Training Class A for Event X and Early Bird ticket for Event X, (3) 2-3 aggregate online reports, (4) validate Stripe can manage inventory of SKUs, and (5) integrating Stripe form activities with light integrations with other key data in the OWASP ecosystem.",
         "leaders": [
             {
                 "name": "Harold Blankenship ",
@@ -549,7 +599,7 @@
                 "description": "Venue contract signed",
                 "owner": "Emily",
                 "project_name": "Projects Summit - Winter 2020",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-01-02",
@@ -570,7 +620,7 @@
                 "description": "Email solicitation sent to Leaders list",
                 "owner": "Harold",
                 "project_name": "Projects Summit - Winter 2020",
-                "status": "future"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-01-08",
@@ -808,7 +858,7 @@
                 "description": "Payment 45% of Rental Fee due",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin 2020",
-                "status": "future"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-01-10",
