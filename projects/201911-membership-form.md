@@ -87,7 +87,17 @@ membership-end-date {current-date+365 days}
 membership-type [one, two, lifetime, honorary]
 source [memberform-api]
 ```
-  
+## Slack Bots
+1. /contact-lookup {string}
+   1. responds with any names in MailChimp Main Audience where first-name, last-name, company, or email-address CONTAINS {string} sorted in last-name/first-name ascending order. First items of response includes email as mailto URL and other details from MailChimp.
+   2. responds with "None Found" if no records found in Stripe
+   3. If result set is > 100 records add "More..." link as button to retrieve more records
+2. /contact-details {email}
+   1. Responds with all transactions found with email address from Stripe including date, description,source, amount, and Stripe Transaction ID
+   2. responds with "None Found" if no records found in Stripe
+3. /stipe-details {stripe transaction id}
+   1. Lists all the details from Stripe (including name,address, etc) for a specific transaction
+   
 ## Budget
 Hourly rate expected to be less than $1,500.
 
