@@ -82,7 +82,7 @@ As part of the OWASP website migration, we will creating a new Events form that 
    3. CSV export for badges
    4. [Nice to have] Live link with Boomset for badge
    
-## Slack Bot Requirments
+## Slack Bot Requirements
 1. /event-lookup
    1. Responds with a list of events from now-30 days through "end of time" that include Name (as URL to online report from above), total-Number-of-registrats
 1. /event-history 
