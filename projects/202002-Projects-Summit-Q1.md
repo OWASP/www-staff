@@ -24,12 +24,14 @@ Leaders of projects selected are required to attend or that project will not be 
 
 ## Milestones
 
-- [ ] 2019-12-06, Venue contract signed, [Emily]
+- [x] 2019-12-06, Venue contract signed, [Emily]
+- [ ] 2019-12-20, Venue 30% deposit of $13,910.40 is due, [Emily]
 - [ ] 2020-01-02, Project Nomination Form online, [Mike]
 - [ ] 2020-01-05, Project Nomination Opens, [Harold]
 - [ ] 2020-01-06, Email solicitation sent to Leaders list, [Harold]
 - [ ] 2020-01-08, Reminder #2, [Harold]
 - [ ] 2020-01-14, Reminder #3, [Harold]
+- [ ] 2020-01-15, Venue 70% Remaining balance due of $32,457.60, [Emily]
 - [ ] 2020-01-20, Reminder #4, [Harold]
 - [ ] 2020-01-22, Reminder #5, [Harold]
 - [ ] 2020-01-26, Project Nomination Form Closes, [Harold]
