@@ -67,28 +67,28 @@
         "description": "Chapter pages migrated (not production)",
         "owner": "Harold",
         "project_name": "Website Re-launch",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2019-12-06",
         "description": "Project pages migrated (not production)",
         "owner": "Harold",
         "project_name": "Website Re-launch",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2019-12-06",
         "description": "Events pages migrated (not production)",
         "owner": "Harold",
         "project_name": "Website Re-launch",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2019-12-06",
         "description": "Venue contract signed",
         "owner": "Emily",
         "project_name": "Projects Summit - Winter 2020",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2019-12-09",
@@ -295,6 +295,13 @@
     },
     {
         "milestone_date": "2019-12-31",
+        "description": "Wireframe of Event Form",
+        "owner": "Mike",
+        "project_name": "Events Form",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2019-12-31",
         "description": "Close Call for Program Team Members",
         "owner": "Emily",
         "project_name": "Global AppSec - Dublin 2020",
@@ -350,6 +357,13 @@
         "status": "on-time"
     },
     {
+        "milestone_date": "2020-01-03",
+        "description": "Test Event as SKU in Stripe for dev effort",
+        "owner": "Mike",
+        "project_name": "Events Form",
+        "status": "on-time"
+    },
+    {
         "milestone_date": "2020-01-05",
         "description": "Project Nomination Opens",
         "owner": "Harold",
@@ -361,20 +375,27 @@
         "description": "Email solicitation sent to Leaders list",
         "owner": "Harold",
         "project_name": "Projects Summit - Winter 2020",
-        "status": "future"
+        "status": "on-time"
     },
     {
         "milestone_date": "2020-01-06",
         "description": "Payment 45% of Rental Fee due",
         "owner": "Emily",
         "project_name": "Global AppSec - Dublin 2020",
-        "status": "future"
+        "status": "on-time"
     },
     {
         "milestone_date": "2020-01-08",
         "description": "Reminder #2",
         "owner": "Harold",
         "project_name": "Projects Summit - Winter 2020",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-01-10",
+        "description": "Beta version of Event Form Ready for testing",
+        "owner": "Simon",
+        "project_name": "Events Form",
         "status": "future"
     },
     {
@@ -399,6 +420,13 @@
         "status": "future"
     },
     {
+        "milestone_date": "2020-01-17",
+        "description": "Relecase Candiate of Form ready for regression testing",
+        "owner": "Simon",
+        "project_name": "Events Form",
+        "status": "future"
+    },
+    {
         "milestone_date": "2020-01-20",
         "description": "Reminder #4",
         "owner": "Harold",
@@ -417,6 +445,13 @@
         "description": "Reminder #5",
         "owner": "Harold",
         "project_name": "Projects Summit - Winter 2020",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-01-23",
+        "description": "Launch form with Global AppSec - Dublin as first product",
+        "owner": "Harold",
+        "project_name": "Events Form",
         "status": "future"
     },
     {
@@ -441,6 +476,13 @@
         "status": "future"
     },
     {
+        "milestone_date": "2020-01-31",
+        "description": "Release Candidate of Forms and Slack bot",
+        "owner": "Simon",
+        "project_name": "Events Form",
+        "status": "future"
+    },
+    {
         "milestone_date": "2020-02-01",
         "description": "Keynotes Announces",
         "owner": "Emily",
@@ -459,6 +501,13 @@
         "description": "Confirm attendance. If over 500 please notify Dawn to update Insurance Policy",
         "owner": "Emily",
         "project_name": "OWASP SnowFROC",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-02-07",
+        "description": "Project Complete",
+        "owner": "Harold",
+        "project_name": "Events Form",
         "status": "future"
     },
     {
