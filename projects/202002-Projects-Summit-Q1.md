@@ -80,9 +80,9 @@ Description            | Amount
 Registration           | $0
 **Total Income**       | **$0**
 **Expenses**           | 
-Travel Assistance      | $30,000 
-Hotel Accomodations    | $35,000 
-Internet               | $7,500 
+Travel Assistance      | $28,000 
+Hotel Accomodations    | $45,000 
+Internet               | included
 Swag                   | $500
 AV                     | $2,000 
 Catering               | included
@@ -92,8 +92,8 @@ Catering               | included
 
 ## Legal
 
-* Venue [ ]
+* Venue [x]
 * Venue A/V (if different vendor [ ]
-* Catering [ ]
+* Catering [x]
 * Event Insurance [ ]
 
