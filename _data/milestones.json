@@ -28,13 +28,6 @@
         "status": "overdue"
     },
     {
-        "milestone_date": "2019-12-01",
-        "description": "Load historical Membership transaction data into Stripe with email as key",
-        "owner": "Harold",
-        "project_name": "Membership Form",
-        "status": "overdue"
-    },
-    {
         "milestone_date": "2019-12-02",
         "description": "Regression testing complete",
         "owner": "Harold",
@@ -84,13 +77,6 @@
         "status": "overdue"
     },
     {
-        "milestone_date": "2019-12-06",
-        "description": "Venue contract signed",
-        "owner": "Emily",
-        "project_name": "Projects Summit - Winter 2020",
-        "status": "overdue"
-    },
-    {
         "milestone_date": "2019-12-09",
         "description": "Metadata template information from SEO firm",
         "owner": "Harold",
@@ -102,6 +88,13 @@
         "description": "Redirect inventory from SEO firm",
         "owner": "Mike",
         "project_name": "Website Re-launch",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2019-12-10",
+        "description": "Load historical Membership transaction data into Stripe with email as key",
+        "owner": "Harold",
+        "project_name": "Membership Form",
         "status": "on-time"
     },
     {
@@ -231,13 +224,6 @@
         "status": "on-time"
     },
     {
-        "milestone_date": "2019-12-17",
-        "description": "Have Board vote to set 50% discount for residents of bottom 50% of Adjusted net national income per capita (current US$) [https://data.worldbank.org/indicator/NY.ADJ.NNTY.PC.CD](https://data.worldbank.org/indicator/NY.ADJ.NNTY.PC.CD)",
-        "owner": "Mike",
-        "project_name": "Membership Form",
-        "status": "on-time"
-    },
-    {
         "milestone_date": "2019-12-18",
         "description": "Validate Google Analytics instance running",
         "owner": "Harold",
@@ -277,6 +263,13 @@
         "description": "Final payment of $22,750 is due. Ticket # OSD-3068",
         "owner": "Dawn",
         "project_name": "AppSec California 2020",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2019-12-20",
+        "description": "Venue 30% deposit of $13,910.40 is due",
+        "owner": "Emily",
+        "project_name": "Projects Summit - Winter 2020",
         "status": "on-time"
     },
     {
@@ -417,6 +410,13 @@
         "description": "Validate Meetup Connector",
         "owner": "Harold",
         "project_name": "Website Re-launch",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-01-15",
+        "description": "Venue 70% Remaining balance due of $32,457.60",
+        "owner": "Emily",
+        "project_name": "Projects Summit - Winter 2020",
         "status": "future"
     },
     {
