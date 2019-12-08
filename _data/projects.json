@@ -124,23 +124,16 @@
                 "status": "overdue"
             },
             {
-                "milestone_date": "2019-12-01",
+                "milestone_date": "2019-12-10",
                 "description": "Load historical Membership transaction data into Stripe with email as key",
-                "owner": "Harold",
-                "project_name": "Membership Form",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2019-12-11",
-                "description": "Deploy to new website in production",
                 "owner": "Harold",
                 "project_name": "Membership Form",
                 "status": "on-time"
             },
             {
-                "milestone_date": "2019-12-17",
-                "description": "Have Board vote to set 50% discount for residents of bottom 50% of Adjusted net national income per capita (current US$) [https://data.worldbank.org/indicator/NY.ADJ.NNTY.PC.CD](https://data.worldbank.org/indicator/NY.ADJ.NNTY.PC.CD)",
-                "owner": "Mike",
+                "milestone_date": "2019-12-11",
+                "description": "Deploy to new website in production",
+                "owner": "Harold",
                 "project_name": "Membership Form",
                 "status": "on-time"
             }
@@ -595,11 +588,11 @@
         "name": "Projects Summit - Winter 2020",
         "milestones": [
             {
-                "milestone_date": "2019-12-06",
-                "description": "Venue contract signed",
+                "milestone_date": "2019-12-20",
+                "description": "Venue 30% deposit of $13,910.40 is due",
                 "owner": "Emily",
                 "project_name": "Projects Summit - Winter 2020",
-                "status": "overdue"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-01-02",
@@ -633,6 +626,13 @@
                 "milestone_date": "2020-01-14",
                 "description": "Reminder #3",
                 "owner": "Harold",
+                "project_name": "Projects Summit - Winter 2020",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-01-15",
+                "description": "Venue 70% Remaining balance due of $32,457.60",
+                "owner": "Emily",
                 "project_name": "Projects Summit - Winter 2020",
                 "status": "future"
             },
