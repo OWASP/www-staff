@@ -69,7 +69,7 @@ Current working demo at [https://www2.owasp.org/donate](https://www2.owasp.org/d
 
 ## Added Feature: Handling (Optional) Restricted Gifts
 1. Donation form includes another check box field "restricted" that by default is HIDDEN and not required input.
- 1. If the query string includes "restricted=yes" the field is shown CHECKED with {copy to be provided}.
+ 1. If the query string includes "restricted=yes" the field is shown CHECKED with "I understand this restricted gift amount is net 15% administration costs and unspent restricted gift balances become unrestricted at the end of each calendar year."
    1. When Restricted, to submit the form:
      1. The amount MUST be more than $1,000
      2. The checkbox MUST be checked.
