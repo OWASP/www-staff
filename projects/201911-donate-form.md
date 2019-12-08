@@ -67,6 +67,13 @@ Current working demo at [https://www2.owasp.org/donate](https://www2.owasp.org/d
    2. If donor slected "Publicly list me.." - a pull request will be created for the page target project/chapter page of tab_onlinedonors.md that will add the name to an unordered list for that page.
 6. After completing integrations, update field in Stripe that donation was processed through integrations.
 
+## Added Feature
+1. Handling (Optional) Restricted Gifts
+   1. Donation form includes another check box field "restricted" that by default is HIDDEN and not required input.
+   2. If the query string includes "restricted=yes" the field is shown CHECKED with {copy to be provided}.
+   3. BONUS: If the field is shown the checkbox MUST be checked to submit.
+   4. State of this field is saved as "yes" when checked, NULL when empty.
+
 ## Mailchimp CRM Insert
 ```
 email
