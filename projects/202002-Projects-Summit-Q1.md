@@ -10,7 +10,7 @@ date: February 27-29, 2020
 
 ## Overview
 
-The OWASP Foundation will host a three-day working session for FIVE selected projects in Cancun, Mexico, Feburary 20-22, 2020. Arrival day will be Wednesday the 19th and departures will be the 23rd. Projects must apply and then get selected to participate. The application process will require project meeting goals, workplan, key contributors, and expected attendance. The OWASP Foundation Officers Group will make the final selection.
+The OWASP Foundation will host a three-day working session for FIVE selected projects in Cancun, Mexico, Feburary 27-29, 2020. Arrival day will be Wednesday the 26th and departures will be March 1st. Projects must apply and then get selected to participate. The application process will require project meeting goals, workplan, key contributors, and expected attendance. The OWASP Foundation Officers Group will make the final selection.
 
 The event program will solely include heads-down work time for OWASP projects. Any "group" gatherings will be during meal times. Spectators are not welcomed and attendance is limited to OWASP Members. Limited travel assistance will be provided for up to five key project leaders/contributors per project selected.
 
