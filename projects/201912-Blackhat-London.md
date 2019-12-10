@@ -28,10 +28,12 @@ date: December 2-5, 2019
 * [X] 2019-11-15 Evaluate if enough volunteers to move forward with booth. 
 * [X] 2019-11-15 Register volunteers, and local onsite contact and post the schedule[Lisa]
 * [x] 2019-11-20 Order Stickers from StickerGiant [Mike]
+* [x] 2019-12-4&5 Show at Excel for BlackHat EU
+* [x] 2019-12-10 GES Logistics Bill processed for payment OSD-3234(https://owasporg.atlassian.net/browse/OSD-3234)[Lisa] 
+* [x] 2019-12-10 OSD-3234 approved for payment [Mike] 
 
 
 ## Venue
-
 ```
 EXCEL LONDON
 One Western Gateway
@@ -50,7 +52,7 @@ BlackHat Volunteers
 12/4/2019	Wednesday 
 Wojciech Cichon	10:00 - 15:00
 Grant Onger	10:00 - 15:00
-Alexios Mylonas 	11:00 - 19:00 
+Alexios 	11:00 - 19:00 
 Mark Marich	13:00 - 19:00
 Jeremy Lawrence	13:00 - 19:00
 	
