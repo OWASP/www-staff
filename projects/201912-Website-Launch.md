@@ -34,24 +34,24 @@ Upon the completion of this project, OWASP.org will be hosted in Github. The arc
 * Retire full Mediawiki instance before Dec 15, 2020
 
 ## Milestones
-* [ ] 2019-12-06, Events pages migrated (not production), [Harold]
-* [ ] 2019-12-09, Metadata template information from SEO firm, [Harold]
-* [ ] 2019-12-09, Redirect inventory from SEO firm [Mike]
-* [ ] 2019-12-10, Corporate bios complete (450-510 chars), [Lisa]
-* [ ] 2019-12-10, Integrate meta tag info into templates, [Harold]
+* [x] 2019-12-06, Events pages migrated, [Mike]
+* [x] 2019-12-10, Corporate bios complete (450-510 chars), [Lisa]
 * [ ] 2019-12-12, Policy pages migrated and ready for community review and Board Approval, [Mike]
-* [ ] 2019-12-12, Corporate pages migrated (not production), [Mike]
-* [ ] 2019-12-13, Redirect system in place and ready for launch
-* [ ] 2019-12-13, Validate in-bound search redirect working on events/policy pages, [Harold]
-* [ ] 2019-12-13, Donation form online [Simon]
-* [ ] 2019-12-13, Membership form onine [Simon]
-* [ ] 2019-12-16, Remaining chapter pages auto-migrated, [Harold]
+* [x] 2019-12-12, Corporate pages migrated (not production), [Mike]
+* [x] 2019-12-13, Donation form online - In Test Mode [Simon]
+* [x] 2019-12-13, Membership form onine - In Test Mode [Simon]
+* [ ] 2019-12-16, Redirect inventory from SEO firm [Mike]
+* [x] 2019-12-16, Remaining chapter pages auto-migrated, [Harold]
 * [ ] 2019-12-16, Remaining project pages auto-migrated, [Harold]
 * [ ] 2019-12-16, Events pages migrated, [Harold]
+* [ ] 2019-12-18, Redirect system in place and ready for launch
+* [ ] 2019-12-18, Validate in-bound search redirect working on events/policy pages, [Harold]
 * [ ] 2019-12-18, Validate Google Analytics instance running, [Harold]
 * [ ] 2019-12-18, Validate search redirect working site-wide, [Harold]
 * [ ] 2019-12-20, Website Launch [Harold]
-* [ ] 2019-12-24, Events form (poc) [Simon]
+* [ ] 2019-01-02, Metadata template information from SEO firm, [Harold]
+* [ ] 2019-01-05, Integrate meta tag info into templates, [Harold]
+* [ ] 2019-01-15, Events form (poc) [Simon]
 * [ ] 2020-01-15, Validate Meetup Connector, [Harold]
 
 ## Historical Milestones (Completed)
