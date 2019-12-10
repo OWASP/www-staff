@@ -34,8 +34,6 @@ Upon the completion of this project, OWASP.org will be hosted in Github. The arc
 * Retire full Mediawiki instance before Dec 15, 2020
 
 ## Milestones
-* [ ] 2019-12-06, Chapter pages migrated (not production), [Harold]
-* [ ] 2019-12-06, Project pages migrated (not production), [Harold]
 * [ ] 2019-12-06, Events pages migrated (not production), [Harold]
 * [ ] 2019-12-09, Metadata template information from SEO firm, [Harold]
 * [ ] 2019-12-09, Redirect inventory from SEO firm [Mike]
@@ -71,6 +69,8 @@ Upon the completion of this project, OWASP.org will be hosted in Github. The arc
 * [x] 2019-12-02, Membership form (poc) [Simon]
 * [x] 2019-12-05, Attack pages migrated (not production), [Harold]
 * [x] 2019-12-05, Vulnerability pages migrated (not production), [Harold]
+* [x] 2019-12-06, Chapter pages migrated (not production), [Harold]
+* [x] 2019-12-06, Project pages migrated (not production), [Harold]
 
 
 
