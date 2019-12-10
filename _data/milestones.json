@@ -81,14 +81,14 @@
         "description": "Metadata template information from SEO firm",
         "owner": "Harold",
         "project_name": "Website Re-launch",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2019-12-09",
         "description": "Redirect inventory from SEO firm",
         "owner": "Mike",
         "project_name": "Website Re-launch",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2019-12-10",
