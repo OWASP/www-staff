@@ -1,5 +1,26 @@
 [
     {
+        "milestone_date": "2019-01-02",
+        "description": "Metadata template information from SEO firm",
+        "owner": "Harold",
+        "project_name": "Website Re-launch",
+        "status": "overdue"
+    },
+    {
+        "milestone_date": "2019-01-05",
+        "description": "Integrate meta tag info into templates",
+        "owner": "Harold",
+        "project_name": "Website Re-launch",
+        "status": "overdue"
+    },
+    {
+        "milestone_date": "2019-01-15",
+        "description": "Events form (poc)",
+        "owner": "Simon",
+        "project_name": "Website Re-launch",
+        "status": "overdue"
+    },
+    {
         "milestone_date": "2019-10-23",
         "description": "Connect Rebecca and Susan with Project and Chapter leaders for copy",
         "owner": "Mike",
@@ -56,60 +77,11 @@
         "status": "overdue"
     },
     {
-        "milestone_date": "2019-12-06",
-        "description": "Chapter pages migrated (not production)",
-        "owner": "Harold",
-        "project_name": "Website Re-launch",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2019-12-06",
-        "description": "Project pages migrated (not production)",
-        "owner": "Harold",
-        "project_name": "Website Re-launch",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2019-12-06",
-        "description": "Events pages migrated (not production)",
-        "owner": "Harold",
-        "project_name": "Website Re-launch",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2019-12-09",
-        "description": "Metadata template information from SEO firm",
-        "owner": "Harold",
-        "project_name": "Website Re-launch",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2019-12-09",
-        "description": "Redirect inventory from SEO firm",
-        "owner": "Mike",
-        "project_name": "Website Re-launch",
-        "status": "overdue"
-    },
-    {
         "milestone_date": "2019-12-10",
         "description": "Load historical Membership transaction data into Stripe with email as key",
         "owner": "Harold",
         "project_name": "Membership Form",
-        "status": "on-time"
-    },
-    {
-        "milestone_date": "2019-12-10",
-        "description": "Corporate bios complete (450-510 chars)",
-        "owner": "Lisa",
-        "project_name": "Website Re-launch",
-        "status": "on-time"
-    },
-    {
-        "milestone_date": "2019-12-10",
-        "description": "Integrate meta tag info into templates",
-        "owner": "Harold",
-        "project_name": "Website Re-launch",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2019-12-11",
@@ -140,45 +112,10 @@
         "status": "on-time"
     },
     {
-        "milestone_date": "2019-12-12",
-        "description": "Corporate pages migrated (not production)",
-        "owner": "Mike",
-        "project_name": "Website Re-launch",
-        "status": "on-time"
-    },
-    {
         "milestone_date": "2019-12-13",
         "description": "Spotlight Content Complete and Ready for launch",
         "owner": "Susan",
         "project_name": "2019Q4 Marketing",
-        "status": "on-time"
-    },
-    {
-        "milestone_date": "2019-12-13",
-        "description": "Redirect system in place and ready for launch",
-        "owner": "No Owner",
-        "project_name": "Website Re-launch",
-        "status": "on-time"
-    },
-    {
-        "milestone_date": "2019-12-13",
-        "description": "Validate in-bound search redirect working on events/policy pages",
-        "owner": "Harold",
-        "project_name": "Website Re-launch",
-        "status": "on-time"
-    },
-    {
-        "milestone_date": "2019-12-13",
-        "description": "Donation form online",
-        "owner": "Simon",
-        "project_name": "Website Re-launch",
-        "status": "on-time"
-    },
-    {
-        "milestone_date": "2019-12-13",
-        "description": "Membership form onine",
-        "owner": "Simon",
-        "project_name": "Website Re-launch",
         "status": "on-time"
     },
     {
@@ -190,8 +127,8 @@
     },
     {
         "milestone_date": "2019-12-16",
-        "description": "Remaining chapter pages auto-migrated",
-        "owner": "Harold",
+        "description": "Redirect inventory from SEO firm",
+        "owner": "Mike",
         "project_name": "Website Re-launch",
         "status": "on-time"
     },
@@ -221,6 +158,20 @@
         "description": "EXPECTED Website launch",
         "owner": "Harold",
         "project_name": "2019Q4 Marketing",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2019-12-18",
+        "description": "Redirect system in place and ready for launch",
+        "owner": "No Owner",
+        "project_name": "Website Re-launch",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2019-12-18",
+        "description": "Validate in-bound search redirect working on events/policy pages",
+        "owner": "Harold",
+        "project_name": "Website Re-launch",
         "status": "on-time"
     },
     {
@@ -277,13 +228,6 @@
         "description": "30 Day out Check-in",
         "owner": "Emily",
         "project_name": "AppSec California 2020",
-        "status": "on-time"
-    },
-    {
-        "milestone_date": "2019-12-24",
-        "description": "Events form (poc)",
-        "owner": "Simon",
-        "project_name": "Website Re-launch",
         "status": "on-time"
     },
     {
@@ -389,14 +333,14 @@
         "description": "Beta version of Event Form Ready for testing",
         "owner": "Simon",
         "project_name": "Events Form",
-        "status": "future"
+        "status": "on-time"
     },
     {
         "milestone_date": "2020-01-10",
         "description": "Open CFT/CFP",
         "owner": "Emily",
         "project_name": "Global AppSec - Dublin 2020",
-        "status": "future"
+        "status": "on-time"
     },
     {
         "milestone_date": "2020-01-14",
