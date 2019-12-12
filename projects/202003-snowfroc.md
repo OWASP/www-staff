@@ -22,7 +22,7 @@ Each project will have a 2-3 paragraph overview narrative. Keep to the key top p
 
 - [x] 2019-11-19, Contract Signed, [Mike]
 - [x] 2019-11-19, Pay Venue Deposit $7,500, [Mike]
-- [ ] 2020-02-15, Ship Stickers to SnowFROC, [Lisa]
+- [ ] 2020-02-15, Ship Stickers to SnowFROC, 12/11/19 told Mike need cc to order.[Lisa]
 - [ ] 2020-02-05, Confirm attendance. If over 500 please notify Dawn to update Insurance Policy, [Emily]
 - [ ] 2020-03-05, SnowFROC, Denver
 - [ ] 2020-05-05, Close P&L, [Dawn]
