@@ -90,7 +90,7 @@
                 "description": "Deploy to new website in production",
                 "owner": "Harold",
                 "project_name": "Donation Form",
-                "status": "on-time"
+                "status": "overdue"
             }
         ],
         "description": "As part of the OWASP website migration, we will creating a new Donation form that will use Stripe as a back end. This should be a simple form that is hosted on the website and will serve as a proof of concept for (1) hosting secure forms on github, (2) test the viability of Stripe for payment processing, and (3) integrating Stripe form activities with light integrations with other key data in the OWASP ecosystem.Current working demo at [https://www2.owasp.org/donate](https://www2.owasp.org/donate) Form will handle &title and &currency parameters",
@@ -124,15 +124,15 @@
                 "status": "overdue"
             },
             {
-                "milestone_date": "2019-12-10",
-                "description": "Load historical Membership transaction data into Stripe with email as key",
+                "milestone_date": "2019-12-11",
+                "description": "Deploy to new website in production",
                 "owner": "Harold",
                 "project_name": "Membership Form",
                 "status": "overdue"
             },
             {
-                "milestone_date": "2019-12-11",
-                "description": "Deploy to new website in production",
+                "milestone_date": "2019-12-31",
+                "description": "Load historical Membership transaction data into Stripe with email as key",
                 "owner": "Harold",
                 "project_name": "Membership Form",
                 "status": "on-time"
@@ -777,6 +777,13 @@
                 "status": "overdue"
             },
             {
+                "milestone_date": "2019-12-20",
+                "description": "Website ready for traffic",
+                "owner": "Emily",
+                "project_name": "Global AppSec - Dublin 2020",
+                "status": "on-time"
+            },
+            {
                 "milestone_date": "2019-12-31",
                 "description": "Close Call for Program Team Members",
                 "owner": "Emily",
@@ -1071,6 +1078,13 @@
                 "owner": "Emily",
                 "project_name": "Global AppSec - San Francisco",
                 "status": "on-time"
+            },
+            {
+                "milestone_date": "2019-01-10",
+                "description": "Website ready for traffic",
+                "owner": "Emily",
+                "project_name": "Global AppSec - San Francisco",
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-02-01",
