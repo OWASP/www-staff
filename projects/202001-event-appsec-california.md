@@ -42,11 +42,12 @@ For internal accouting practices, the revenue split for Corporate Sponors who se
 
 ## Sponsorship Status
 
-Sponsorship Contract Status to Date (as of 08:00amET December 5, 2019). Amount contracted: $279,550/USD Amount Collected: $106,500/USD
+Sponsorship Contract Status to Date (as of 08:00amET December 12, 2019). Amount contracted: $294,950/USD Amount Collected: $123,200/USD
 
-#### Diamond (3) - 1 remaining
-- Shiftleft (CS)
+#### Diamond (3) - SOLD OUT
 - Contrast Security
+- Shiftleft (CS)
+- Tala Security (CS)
 
 #### Platinum (3) - 2 remaining
 - Zero North (CS)
@@ -62,6 +63,7 @@ Sponsorship Contract Status to Date (as of 08:00amET December 5, 2019). Amount c
 - Extrahop
 - GitLab 
 - HackerOne
+- HCL
 - Intertrust (CS)
 - Lyft (CS)
 - MicroFocus
