@@ -102,14 +102,14 @@
         "description": "Retire SalesForce member notification system",
         "owner": "Harold",
         "project_name": "2019Q4 Marketing",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2019-12-12",
         "description": "Policy pages migrated and ready for community review and Board Approval",
         "owner": "Mike",
         "project_name": "Website Re-launch",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2019-12-13",
@@ -484,7 +484,7 @@
     },
     {
         "milestone_date": "2020-02-15",
-        "description": "Ship Stickers to SnowFROC",
+        "description": "Ship Stickers to SnowFROC, 12/11/19 told Mike need cc to order.",
         "owner": "Lisa",
         "project_name": "OWASP SnowFROC",
         "status": "future"
