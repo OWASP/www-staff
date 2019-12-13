@@ -32,36 +32,36 @@ Interest  |       |  $5,000  |    |
 Online Training     |    |  $75,000  |  $0  |  
   |    Total Income  |  $4,873,750  |  $3,198,705  |  52.4%
 
-**EXPENSES** |    |    |  **FY20**  |  **FY19 YTD**  |  **%Chg**
+**EXPENSES** |     |  **FY20**  |  **FY19 YTD**  |  **%Chg**
 --------------       | ----: | ----: | ----: | ----: | ----: | ----: 
-Conferences  |    |    |  3005000  |  1559811  |  92.7%
-Projects  |    |    |  25000  |  47526  |  -47.4%
-Chapters  |    |    |    |    |  
-       |  Local Meetings  |    |  200000  |  175488  |  14.0%
-       |  Local Outreach  |    |  25000  |  33540  |  -25.5%
-Marketing  |    |    |    |    |  
-       |  Website Refresh  |    |  0  |  28156  |  
-       |  Event Promotions  |    |  50000  |    |  
-       |  Online, Branding, Trademark  |    |  40000  |    |  
-       |  Public Relations  |    |  25000  |    |  
-       |  Co-Marketing Partnerships  |    |  20000  |    |  
-Travel  |    |    |    |    |  0.0%
-       |  Board F2F Meetings (2x/yr)  |    |  50000  |  29020  |  72.3%
-       |  Travel Assistance  |    |  175000  |    |  
-       |  Staff  |    |  75000  |  100736  |  -25.5%
+Conferences  |    |  $3,005,000  |  $1,559,811  |  92.7%
+Projects  |    |  $25,000  |  $47,526  |  -47.4%
+Chapters  |    |    |    |  
+       |  Local Meetings  |  $200,000  |  $175,488  |  14.0%
+       |  Local Outreach  |  $25,000  |  $33,540  |  -25.5%
+Marketing  |    |    |    |  
+       |  Website Refresh  |    |  0  |  $28,156  |  
+       |  Event Promotions  |    |  $50,000  |    |  
+       |  Online, Branding, Trademark  |    |  $40,000  |    |  
+       |  Public Relations  |    |  $25,000  |    |  
+       |  Co-Marketing Partnerships  |    |  $20,000  |    |  
+Travel  |    |    |    |  
+       |  Board F2F Meetings (2x/yr)  |  $50,000  |  $29,020  |  72.3%
+       |  Travel Assistance  |    |  $175,000  |    |  
+       |  Staff  |  $75,000  |  $100,736  |  -25.5%
 Legal & Insurance  |    |    |  10000  |    |  
-Staffing  |    |    |    |  764914.8  |  19.7%
-       |  General & Administration  |    |  144000  |    |  
-       |  Community & Membership  |    |  $ -  |    |  
-       |  Programs  |    |  582000  |    |  
-       |  Projects  |    |  $ -  |    |  
-       |  Marketing  |    |  $ -  |    |  
-       |  Events Management  |    |  $ -  |    |  
-       |  Fundraising & Development  |    |  189400  |    |  
-       |  Professional Services  |    |  120000  |  130946.4  |  -8.4%
-Bank Service Charges  |    |    |  69000  |  30477.6  |  126.4%
-Other G&A  |    |    |  60000  |  63982.8  |  -6.2%
-Software/Internet/Hosting  |    |    |  10000  |  44484  |  -77.5%
-Bad Debt  |    |    |  10000  |    |  0.0%
-  |    |  Total Expenses  |  4884400  |  3009082.6  |  62.3%
-  |    |  P/L  |  -10650  |  189622.4  |  
+Staffing  |    |  $0,000  |  $764,915  |  19.7%
+       |  General & Administration  |  144000  |    |  
+       |  Community & Membership  |  $ -  |    |  
+       |  Programs  |  582000  |    |  
+       |  Projects  |  $ -  |    |  
+       |  Marketing  |  $ -  |    |  
+       |  Events Management  |  $ -  |    |  
+       |  Fundraising & Development  |  $189,400  |    |  
+       |  Professional Services  |  $120,000  |  $130,946  |  -8.4%
+Bank Service Charges  |    |  $69,000  |  $30,478  |  126.4%
+Other G&A  |    |  $60,000  |  $63,983  |  -6.2%
+Software/Internet/Hosting  |    |  $10,000  |  $44,484  |  -77.5%
+Bad Debt  |    |  $10,000  |  $0,000  |  0.0%
+  |  Total Expenses  |  $4,884,400  |  $3,009,083  |  62.3%
+  |  P/L  |  -$10,650  |  $189,622  | 
