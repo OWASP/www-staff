@@ -18,6 +18,7 @@ Travel expenses show one of the larger changes from FY19.  Staff travel is expec
 ## 2020 Budget Comparison
 
 ### Income
+
 Descripion |    |  **FY20**  |  **FY19 YTD**  |  **%Chg**
 --------------       | ----: | ----: | ----: | ----: | ----: | ----: 
 Conferences  |    |    |    |    |  
@@ -34,7 +35,8 @@ Online Training     |    |  $75,000  |  $0  |
   |    **Total Income**  |  **$4,873,750**  |  **$3,198,705**  |  **52.4%**
 
 ### Expenses
-Description |     |  **FY20**  |  **FY19 YTD**  |  **%Chg**
+
+Description |  |  **FY20**  |  **FY19 YTD**  |  **%Chg**
 --------------       | ----: | ----: | ----: | ----: | ----: | ----: 
 Conferences  |    |  $3,005,000  |  $1,559,811  |  92.7%
 Projects  |    |  $25,000  |  $47,526  |  -47.4%
