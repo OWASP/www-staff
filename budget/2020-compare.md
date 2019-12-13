@@ -17,7 +17,7 @@ Travel expenses show one of the larger changes from FY19.  Staff travel is expec
 
 ## 2020 Budget Comparison
 
-**INCOME** |    |    |  **FY20**  |  **FY19 YTD**  |  **%Chg**
+**INCOME** |    |  **FY20**  |  **FY19 YTD**  |  **%Chg**
 --------------       | ----: | ----: | ----: | ----: | ----: | ----: 
 Conferences  |    |    |    |    |  
        |  Registrations     |  $2,065,000  |  $686,206  |  200.9%
@@ -30,7 +30,7 @@ Merchandise  |       |  $0  |  $1,030  |
 Donations  |       |  $225,000  |  $148,361  |  51.7%
 Interest  |       |  $5,000  |    |  
 Online Training     |    |  $75,000  |  $0  |  
-  |    Total Income  |  $4,873,750  |  $3,198,705  |  52.4%
+  |    **Total Income**  |  **$4,873,750**  |  **$3,198,705**  |  **52.4%**
 
 **EXPENSES** |     |  **FY20**  |  **FY19 YTD**  |  **%Chg**
 --------------       | ----: | ----: | ----: | ----: | ----: | ----: 
