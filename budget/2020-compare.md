@@ -15,23 +15,25 @@ For the seventh year in a row, Chapter expenses are expected be under $200,000. 
 
 Travel expenses show one of the larger changes from FY19.  Staff travel is expected to be less, as in FY19 some Staff travel wasn't applied as expenses to conferences. Also the introduction of Project Summits with member travel is a new $150,000 expense in FY20.  Staffing costs are generally flat when considering 1H19 had a 1/2FTE ED. Also increased commission-based revenue is better modeled this this year's budget.  Finally Bank Service Charges increases are driven by higher donations and event registrations. The migration from Paypal/Regonline to Stripe is essentially a lateral cost move for processing fees.
 
-**2019 OWASP Budget** |    |    |  **FY20**  |  **FY19 YTD**  |  **%Chg**
---------------       | ----: | ----: | ----: | ----: | ----: | ----: 
-Income  |    |    |    |    |  
-Conferences  |    |    |    |    |  
-       |  Registrations  |    |  2065000  |  686206  |  200.9%
-       |  Sponsorships  |    |  1685000  |  1937787  |  -13.0%
-Other Conferences  |    |    |    |  50100  |  
-Membership  |    |    |    |    |  
-       |  Individual  |    |  143750  |  148421  |  -3.1%
-Corporate Sponsorships  |    |    |  675000  |  226800  |  197.6%
-Merchandise  |    |    |  0  |  1030  |  
-Donations  |    |    |  225000  |  148361  |  51.7%
-Interest  |    |    |  5000  |    |  
-Online Training  |    |    |  75000  |  0  |  
-  |    |  Total Income  |  4873750  |  3198705  |  52.4%
+## 2020 Budget Comparison
 
-Expenses  |    |    |    |    |  
+**INCOME** |    |    |  **FY20**  |  **FY19 YTD**  |  **%Chg**
+--------------       | ----: | ----: | ----: | ----: | ----: | ----: 
+Conferences  |    |    |    |    |  
+       |  Registrations     |  $2,065,000  |  $686,206  |  200.9%
+       |  Sponsorships     |  $1,685,000  |  $1,937,787  |  -13.0%
+Other Conferences  |       |    |  $50,100  |  
+Membership  |       |    |    |  
+       |  Individual     |  $143,750  |  $148,421  |  -3.1%
+Corporate Sponsorships     |    |  $675,000  |  $226,800  |  197.6%
+Merchandise  |       |  $0  |  $1,030  |  
+Donations  |       |  $225,000  |  $148,361  |  51.7%
+Interest  |       |  $5,000  |    |  
+Online Training     |    |  $75,000  |  $0  |  
+  |    Total Income  |  $4,873,750  |  $3,198,705  |  52.4%
+
+**EXPENSES** |    |    |  **FY20**  |  **FY19 YTD**  |  **%Chg**
+--------------       | ----: | ----: | ----: | ----: | ----: | ----: 
 Conferences  |    |    |  3005000  |  1559811  |  92.7%
 Projects  |    |    |  25000  |  47526  |  -47.4%
 Chapters  |    |    |    |    |  
