@@ -17,7 +17,8 @@ Travel expenses show one of the larger changes from FY19.  Staff travel is expec
 
 ## 2020 Budget Comparison
 
-**INCOME** |    |  **FY20**  |  **FY19 YTD**  |  **%Chg**
+### Income
+ |    |  **FY20**  |  **FY19 YTD**  |  **%Chg**
 --------------       | ----: | ----: | ----: | ----: | ----: | ----: 
 Conferences  |    |    |    |    |  
        |  Registrations     |  $2,065,000  |  $686,206  |  200.9%
@@ -32,7 +33,8 @@ Interest  |       |  $5,000  |    |
 Online Training     |    |  $75,000  |  $0  |  
   |    **Total Income**  |  **$4,873,750**  |  **$3,198,705**  |  **52.4%**
 
-**EXPENSES** |     |  **FY20**  |  **FY19 YTD**  |  **%Chg**
+### Expenses
+ |     |  **FY20**  |  **FY19 YTD**  |  **%Chg**
 --------------       | ----: | ----: | ----: | ----: | ----: | ----: 
 Conferences  |    |  $3,005,000  |  $1,559,811  |  92.7%
 Projects  |    |  $25,000  |  $47,526  |  -47.4%
@@ -49,11 +51,11 @@ Travel  |    |    |    |
        |  Board F2F Meetings (2x/yr)  |  $50,000  |  $29,020  |  72.3%
        |  Travel Assistance  |    |  $175,000  |    |  
        |  Staff  |  $75,000  |  $100,736  |  -25.5%
-Legal & Insurance  |    |    |  10000  |    |  
-Staffing  |    |  $0,000  |  $764,915  |  19.7%
-       |  General & Administration  |  144000  |    |  
+Legal & Insurance  |    |    |  $10,000  |    |  
+Staffing  |    |   |  $764,915  |  19.7%
+       |  General & Administration  |  $144,000  |    |  
        |  Community & Membership  |  $ -  |    |  
-       |  Programs  |  582000  |    |  
+       |  Programs  |  $582,000  |    |  
        |  Projects  |  $ -  |    |  
        |  Marketing  |  $ -  |    |  
        |  Events Management  |  $ -  |    |  
@@ -63,5 +65,5 @@ Bank Service Charges  |    |  $69,000  |  $30,478  |  126.4%
 Other G&A  |    |  $60,000  |  $63,983  |  -6.2%
 Software/Internet/Hosting  |    |  $10,000  |  $44,484  |  -77.5%
 Bad Debt  |    |  $10,000  |  $0,000  |  0.0%
-  |  Total Expenses  |  $4,884,400  |  $3,009,083  |  62.3%
+  |  **Total Expenses**  |  **$4,884,400**  |  **$3,009,083**  |  **62.3%**
   |  P/L  |  -$10,650  |  $189,622  | 
