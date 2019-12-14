@@ -47,7 +47,7 @@
                 "description": "Spotlight Content Complete and Ready for launch",
                 "owner": "Susan",
                 "project_name": "2019Q4 Marketing",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2019-12-17",
@@ -360,7 +360,7 @@
                 "description": "Ensure all funds have been tranferred out of all FOUR RegOnline to OWASP Bank accounts",
                 "owner": "Dawn",
                 "project_name": "RegOnline Closure",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2019-12-16",
