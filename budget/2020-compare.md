@@ -34,17 +34,17 @@ Online Training                            $75,000
      Total Income                       $4,831,532     $3,198,705   51.0%
                                                                          
 Expenses                                                                 
-Conferences                             $2,465,469     $1,559,811   58.1%
-Projects                                   $25,000        $47,526  -47.4%
+Conferences                             $2,385,468     $1,559,811   52.9%
+Projects                                   $50,000        $47,526    5.2%
 Chapters                                                                 
      Local Meetings                       $250,000       $175,488   42.5%
      Local Outreach                        $25,000        $33,540  -25.5%
 Marketing                                                                
      Website Refresh                                      $28,156        
      Event Promotions                      $50,000                       
-     Online, Branding, Trademark           $40,000                       
-     Public Relations                      $25,000                       
-     Co-Marketing Partnerships             $20,000                       
+     Online, Branding, Trademark           $50,000                       
+     Public Relations                      $50,000                       
+     Co-Marketing Partnerships             $40,000                       
 Travel                                                                   
      Board F2F Meetings (2x/yr)            $50,000        $29,020   72.3%
      Travel Assistance                    $175,000                       
@@ -63,6 +63,6 @@ Bank Service Charges                       $68,000        $30,478  123.1%
 Other G&A                                  $60,000        $63,983   -6.2%
 Software/Internet/Hosting                  $10,000        $44,484  -77.5%
 Bad Debt                                   $10,000                       
-     Total Expenses                     $4,523,669     $3,009,083   50.3%
-     P/L                                  $307,863       $189,622   62.4%
+     Total Expenses                     $4,523,668     $3,009,083   50.3%
+     P/L                                  $307,864       $189,622   62.4%
 ```
