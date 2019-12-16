@@ -368,14 +368,14 @@
         "description": "Validate Meetup Connector",
         "owner": "Harold",
         "project_name": "Website Re-launch",
-        "status": "future"
+        "status": "on-time"
     },
     {
         "milestone_date": "2020-01-15",
         "description": "Venue 70% Remaining balance due of $32,457.60",
         "owner": "Emily",
         "project_name": "Projects Summit - Winter 2020",
-        "status": "future"
+        "status": "on-time"
     },
     {
         "milestone_date": "2020-01-17",
