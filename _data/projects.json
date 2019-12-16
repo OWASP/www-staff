@@ -250,7 +250,7 @@
                 "description": "Validate Meetup Connector",
                 "owner": "Harold",
                 "project_name": "Website Re-launch",
-                "status": "future"
+                "status": "on-time"
             }
         ],
         "description": "Before December 20, 2019, the Foundation will launch a new website designed to engage visitors and professionally convey the value of our collective work. Rather than just re-skinning our current wiki or placing a simplified landing page in front of our site, we plan to migrate to an entirely new platform. The project must better connect with our developer audience and be valuable when visited on a variety of devices. It must be possible for elements of our site to be managed by our communities or through automation and any platform change must retain these attributes as well as ensuring continuity of analytics, permissions design, and redirect of inbound links. A proof of concept will be complete by July 1. Once the new website is launched, the wiki will be archived through 2020 for historical purposes.Upon the completion of this project, OWASP.org will be hosted in Github. The architecture will place a repository for each logical entity of the foundation in one organizational account. For instance, there would be a repo for each chapter, project, event, and several other organizational entities. This design will increase source control and allow us to connect visitors with the content that is of interest to them.",
@@ -578,7 +578,7 @@
                 "description": "Venue 70% Remaining balance due of $32,457.60",
                 "owner": "Emily",
                 "project_name": "Projects Summit - Winter 2020",
-                "status": "future"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-01-20",
