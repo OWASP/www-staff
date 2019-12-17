@@ -110,7 +110,7 @@ Staff Services         | &euro;100,000
 This event offers several parter sponsorships opportunities.  If you are interested in supporting the event please contact [kelly@owasp.com](mailto:kelly@owasp.com&subject:Eventname). Below is a list of existing and available sponsorships. All sponsor assets will go in a folder named sponsors in this repo.
 
 ## Sponsorship Status
-Sponsorship Contract Status to Date (as of 08:00amET December 5, 2019). Amount Contracted: $280,000/USD Amount Collected: $60,000/USD
+Sponsorship Contract Status to Date (as of 08:00amET December 17, 2019). Amount Contracted: $285,500/USD Amount Collected: $120,000/USD
 
 #### Sapphire
 - Acunetix
@@ -122,7 +122,6 @@ Sponsorship Contract Status to Date (as of 08:00amET December 5, 2019). Amount C
 #### Ruby
 - Altitude Networks (Silver Corporate Supporter)
 - Bugcrowd (Silver Corporate Supporter)
-- Cequence Security
 - Intertrust (Silver Corporate Supporter)
 - Lyft (Silver Corporate Supporter)
 - NowSecure (Silver Corporate Supporter)
