@@ -1,7 +1,7 @@
 ---
 
 title: OwASP Top 10, A7 - Cross-Site Scripting (XSS)
-layout: col-generic
+layout: col-sidebar
 top-ten: 7
 exploitability: 3
 prevalance: 3
@@ -10,6 +10,9 @@ techincal: 2
 og-summary: This is the summar that goes in og meta tags so when shared on social/slack it has a customized summary of the page as opposed to random front content
 
 ---
+
+## A7 - Cross-Site Scripting (XSS)
+
 <p> <i class="fa fa-exclamation-circle"  style="color:orange; padding-right: 5px"></i>Exploitablity
   <i class="fa fa-exclamation-triangle"  style="color:red; padding-left: 20px; padding-right: 5px"></i>Prevalence
   <i class="fa fa-exclamation-triangle"  style="color:red; padding-left: 20px; padding-right: 5px"></i>Detectability
