@@ -11,21 +11,17 @@ og-summary: This is the summar that goes in og meta tags so when shared on socia
 
 ---
 
-## A8 - Insecure Deserializatin
+## A7 - Cross-Site Scripting (XSS)
 <p> <i class="fa fa-exclamation-circle"  style="color:orange; padding-right: 5px"></i>Exploitablity
   <i class="fa fa-exclamation-triangle"  style="color:red; padding-left: 20px; padding-right: 5px"></i>Prevalence
   <i class="fa fa-exclamation-triangle"  style="color:red; padding-left: 20px; padding-right: 5px"></i>Detectability
   <i class="fa fa-skull-crossbones" style="color:black; padding-left: 20px; padding-right: 5px"></i>Technnical
 </p>
+The most common Cross-Site Scripting vulnerability is where the application or API includes unvalidated and unescaped user input as part of HTML output. A successful attack can allow the attacker to execute arbitrary HTML and JavaScript in the victim’s browser. Typically the user will need to interact with some malicious link that points to an attacker-controlled page, such as malicious watering hole websites, advertisements, or similar.
 
-#### Threat Agent / Attack Vectors
-Automated tools can detect and exploit all three forms of XSS, and there are freely available exploitation frameworks.
-
-##### Security Weakness
-XSS is the second most prevalent issue in the OWASP Top 10, and is found in around two thirds of all applications.<br/>Automated tools can find some XSS problems automatically, particularly in mature technologies such as PHP, J2EE / JSP, and ASP.NET.
-
-##### Impacts
-The impact of XSS is moderate for reflected and DOM XSS, and severe for stored XSS, with remote code execution on the victim's browser, such as stealing credentials, sessions, or delivering malware to the victim.
+- Threat Agent / Attack Vectors: Automated tools can detect and exploit all three forms of XSS, and there are freely available exploitation frameworks.
+- Security Weakness: XSS is the second most prevalent issue in the OWASP Top 10, and is found in around two thirds of all applications.<br/>Automated tools can find some XSS problems automatically, particularly in mature technologies such as PHP, J2EE / JSP, and ASP.NET.
+- Impacts: The impact of XSS is moderate for reflected and DOM XSS, and severe for stored XSS, with remote code execution on the victim's browser, such as stealing credentials, sessions, or delivering malware to the victim.
  
 ### Is the Applicaton Vulnerable
 There are three forms of XSS, usually targeting users' browsers:
