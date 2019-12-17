@@ -1,7 +1,7 @@
 ---
 
 title: OWASP Top 10, A7 - Cross-Site Scripting (XSS)
-layout: col-sidebar
+layout: col-generic
 top-ten: 7
 exploitability: 3
 prevalance: 3
