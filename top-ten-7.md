@@ -1,7 +1,7 @@
 ---
 
 title: A8 - Insecure Deserializatin
-layout: full-width
+layout: col-generic
 top-ten: 7
 exploitability: 3
 prevalance: 3
