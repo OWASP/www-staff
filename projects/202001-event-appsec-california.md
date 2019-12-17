@@ -42,7 +42,7 @@ For internal accouting practices, the revenue split for Corporate Sponors who se
 
 ## Sponsorship Status
 
-Sponsorship Contract Status to Date (as of 08:00amET December 12, 2019). Amount contracted: $294,950/USD Amount Collected: $123,200/USD
+Sponsorship Contract Status to Date (as of 08:00amET December 16, 2019). Amount contracted: $303,300/USD Amount Collected: $123,200/USD
 
 #### Diamond (3) - SOLD OUT
 - Contrast Security
@@ -70,6 +70,7 @@ Sponsorship Contract Status to Date (as of 08:00amET December 12, 2019). Amount 
 - Netsparker
 - NowSecure (CS)
 - Qualys (CS)
+- RIPS
 - Secure Code Warrior (CS) 
 - Security Journey (CS) 
 - Snyk (CS)
