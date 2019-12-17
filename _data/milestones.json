@@ -130,28 +130,28 @@
         "description": "Redirect inventory from SEO firm",
         "owner": "Mike",
         "project_name": "Website Re-launch",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2019-12-16",
         "description": "Remaining project pages auto-migrated",
         "owner": "Harold",
         "project_name": "Website Re-launch",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2019-12-16",
         "description": "Events pages migrated",
         "owner": "Harold",
         "project_name": "Website Re-launch",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2019-12-16",
         "description": "Notify Leaders that RegOnline is no longer available for donations please use new donate",
         "owner": "Mike",
         "project_name": "RegOnline Closure",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2019-12-17",
