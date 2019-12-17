@@ -1,6 +1,6 @@
 ---
 
-title: OwASP Top 10, A7 - Cross-Site Scripting (XSS)
+title: OWASP Top 10, A7 - Cross-Site Scripting (XSS)
 layout: col-sidebar
 top-ten: 7
 exploitability: 3
