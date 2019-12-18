@@ -38,7 +38,7 @@ Join us for a celebration of leading application security technologies, speakers
 - [x] 2019-12-05, Launch Call for Program Team Members, [Emily]
 - [ ] 2019-12-31, General Service Contract Signed, [Emily]
 - [ ] 2020-01-02, Close Call for Program Team Members, [Emily]
-- [ ] 2019-01-10, Website ready for traffic, [Emily]
+- [ ] 2020-01-10, Website ready for traffic, [Emily]
 - [ ] 2020-02-01, Open CFT/CFP, [Emily]
 - [ ] 2020-03-01, Close CFT/CFP, [Emily]
 - [ ] 2020-03-15, CFT/CFP Review Complete, [Emily]
