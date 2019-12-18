@@ -25,10 +25,10 @@ Current demo is at https://www2.owasp.org/membership
 - [x] 2019-11-08, Onboard Simon to Azure and Stripe, [Harold]
 - [x] 2019-11-10, Wireframe sent [Membership Form wireframe](/www-staff/files/membership-wireframe.pdf), [Mike] 
 - [x] 2019-11-22, Form completed for demonstration, [Simone]
-- [ ] 2019-12-01, Regression testing complete, [Harold]
-- [ ] 2019-12-05, Project Complete ready for deployment, [Harold]
-- [ ] 2019-12-11, Deploy to new website in production, [Harold]
 - [x] 2019-12-17, Have Board vote to set 50% discount for residents of bottom 50% of Adjusted net national income per capita (current US$) [https://data.worldbank.org/indicator/NY.ADJ.NNTY.PC.CD](https://data.worldbank.org/indicator/NY.ADJ.NNTY.PC.CD), [Mike]
+- [ ] 2019-12-19, Project Complete ready for deployment, [Harold]
+- [ ] 2019-12-23, Regression testing complete, [Harold]
+- [ ] 2019-12-23, Deploy to new website in production, [Harold]
 - [ ] 2019-12-31, Load historical Membership transaction data into Stripe with email as key, [Harold]
 
 ## Leadership
