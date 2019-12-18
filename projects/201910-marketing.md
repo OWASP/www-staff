@@ -29,7 +29,7 @@ layout: full-width
 
 ## Milestones
 - [ ] 2019-12-19, Connect Rebecca and Susan with Project and Chapter leaders for copy [Mike]
-- [x] 2019-12-13, Spotlight Content Complete and Ready for launch [Mike]
+- [x] 2019-12-13, Spotlight Content Complete and Ready for launch [Lisa]
 - [ ] 2019-12-17, EXPECTED Website launch [Harold]
 - [ ] 2019-12-27, Retire SalesForce member notification system [Harold]
 
