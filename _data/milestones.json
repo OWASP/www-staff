@@ -158,7 +158,7 @@
         "description": "EXPECTED Website launch",
         "owner": "Harold",
         "project_name": "2019Q4 Marketing",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2019-12-18",
@@ -382,7 +382,7 @@
         "description": "Relecase Candiate of Form ready for regression testing",
         "owner": "Simon",
         "project_name": "Events Form",
-        "status": "future"
+        "status": "on-time"
     },
     {
         "milestone_date": "2020-01-20",
