@@ -27,9 +27,9 @@ Current working demo at [https://www2.owasp.org/donate](https://www2.owasp.org/d
 - [x] 2019-11-08, Onboard Simon to Azure and Stripe, [Harold]
 - [x] 2019-11-10, Wireframe sent [Donation Form wireframe](/www-staff/files/donation-wireframe.pdf), [Mike] 
 - [x] 2019-11-22, Form completed for demonstration, [Simon]
-- [ ] 2019-12-02, Regression testing complete, [Harold]
-- [ ] 2019-12-05, Project Complete ready for deployment, [Harold]
-- [ ] 2019-12-11, Deploy to new website in production, [Harold]
+- [ ] 2019-12-19, Regression testing complete, [Harold]
+- [ ] 2019-12-23, Project Complete ready for deployment, [Harold]
+- [ ] 2019-12-23, Deploy to new website in production, [Harold]
 
 ## Leadership
 
