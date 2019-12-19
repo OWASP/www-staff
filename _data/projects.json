@@ -22,32 +22,11 @@
         "name": "2019Q4 Marketing",
         "milestones": [
             {
-                "milestone_date": "2019-10-23",
+                "milestone_date": "2019-12-19",
                 "description": "Connect Rebecca and Susan with Project and Chapter leaders for copy",
                 "owner": "Mike",
                 "project_name": "2019Q4 Marketing",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2019-11-15",
-                "description": "Connect Susan to personalities for EOY Campaign",
-                "owner": "Mike",
-                "project_name": "2019Q4 Marketing",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2019-12-12",
-                "description": "Retire SalesForce member notification system",
-                "owner": "Harold",
-                "project_name": "2019Q4 Marketing",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2019-12-13",
-                "description": "Spotlight Content Complete and Ready for launch",
-                "owner": "Susan",
-                "project_name": "2019Q4 Marketing",
-                "status": "overdue"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2019-12-17",
@@ -57,9 +36,9 @@
                 "status": "overdue"
             },
             {
-                "milestone_date": "2019-12-20",
-                "description": "Launch End of Year Giving Campaign",
-                "owner": "Susan",
+                "milestone_date": "2019-12-27",
+                "description": "Retire SalesForce member notification system",
+                "owner": "Harold",
                 "project_name": "2019Q4 Marketing",
                 "status": "on-time"
             }
@@ -72,25 +51,25 @@
         "name": "Donation Form",
         "milestones": [
             {
-                "milestone_date": "2019-12-02",
+                "milestone_date": "2019-12-19",
                 "description": "Regression testing complete",
                 "owner": "Harold",
                 "project_name": "Donation Form",
-                "status": "overdue"
+                "status": "on-time"
             },
             {
-                "milestone_date": "2019-12-05",
+                "milestone_date": "2019-12-23",
                 "description": "Project Complete ready for deployment",
                 "owner": "Harold",
                 "project_name": "Donation Form",
-                "status": "overdue"
+                "status": "on-time"
             },
             {
-                "milestone_date": "2019-12-11",
+                "milestone_date": "2019-12-23",
                 "description": "Deploy to new website in production",
                 "owner": "Harold",
                 "project_name": "Donation Form",
-                "status": "overdue"
+                "status": "on-time"
             }
         ],
         "description": "As part of the OWASP website migration, we will creating a new Donation form that will use Stripe as a back end. This should be a simple form that is hosted on the website and will serve as a proof of concept for (1) hosting secure forms on github, (2) test the viability of Stripe for payment processing, and (3) integrating Stripe form activities with light integrations with other key data in the OWASP ecosystem.Current working demo at [https://www2.owasp.org/donate](https://www2.owasp.org/donate) Form will handle &title and &currency parameters",
@@ -110,25 +89,25 @@
         "name": "Membership Form",
         "milestones": [
             {
-                "milestone_date": "2019-12-01",
-                "description": "Regression testing complete",
-                "owner": "Harold",
-                "project_name": "Membership Form",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2019-12-05",
+                "milestone_date": "2019-12-19",
                 "description": "Project Complete ready for deployment",
                 "owner": "Harold",
                 "project_name": "Membership Form",
-                "status": "overdue"
+                "status": "on-time"
             },
             {
-                "milestone_date": "2019-12-11",
+                "milestone_date": "2019-12-23",
+                "description": "Regression testing complete",
+                "owner": "Harold",
+                "project_name": "Membership Form",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2019-12-23",
                 "description": "Deploy to new website in production",
                 "owner": "Harold",
                 "project_name": "Membership Form",
-                "status": "overdue"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2019-12-31",
@@ -159,59 +138,65 @@
         "url": "https://www2.owasp.org/www-staff/projects/201912-Blackhat-London"
     },
     {
+        "name": "Consolidate Web Infrastructure",
+        "milestones": [
+            {
+                "milestone_date": "2019-12-23",
+                "description": "reate SoW",
+                "owner": "Harold Blankenship",
+                "project_name": "Consolidate Web Infrastructure",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2019-12-26",
+                "description": "ontract resource to investigate providers",
+                "owner": "Harold Blankenship",
+                "project_name": "Consolidate Web Infrastructure",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2019-12-30",
+                "description": "igration of old services to new services",
+                "owner": "Harold Blankenship",
+                "project_name": "Consolidate Web Infrastructure",
+                "status": "on-time"
+            }
+        ],
+        "description": "Consolidate all extant servers to a single provider and move all DNS to a single provider.",
+        "leaders": [
+            {
+                "name": "Harold Blankenship",
+                "email": "harold.blankenship@owasp.com"
+            }
+        ],
+        "url": "https://www2.owasp.org/www-staff/projects/201912-Consolidate-Web-Infrastructure"
+    },
+    {
         "name": "Website Re-launch",
         "milestones": [
             {
-                "milestone_date": "2019-12-12",
-                "description": "Policy pages migrated and ready for community review and Board Approval",
-                "owner": "Mike",
-                "project_name": "Website Re-launch",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2019-12-16",
+                "milestone_date": "2019-12-19",
                 "description": "Redirect inventory from SEO firm",
                 "owner": "Mike",
-                "project_name": "Website Re-launch",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2019-12-16",
-                "description": "Remaining project pages auto-migrated",
-                "owner": "Harold",
-                "project_name": "Website Re-launch",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2019-12-16",
-                "description": "Events pages migrated",
-                "owner": "Harold",
-                "project_name": "Website Re-launch",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2019-12-18",
-                "description": "Redirect system in place and ready for launch",
-                "owner": "No Owner",
                 "project_name": "Website Re-launch",
                 "status": "on-time"
             },
             {
-                "milestone_date": "2019-12-18",
+                "milestone_date": "2019-12-19",
                 "description": "Validate in-bound search redirect working on events/policy pages",
                 "owner": "Harold",
                 "project_name": "Website Re-launch",
                 "status": "on-time"
             },
             {
-                "milestone_date": "2019-12-18",
+                "milestone_date": "2019-12-19",
                 "description": "Validate Google Analytics instance running",
                 "owner": "Harold",
                 "project_name": "Website Re-launch",
                 "status": "on-time"
             },
             {
-                "milestone_date": "2019-12-18",
+                "milestone_date": "2019-12-19",
                 "description": "Validate search redirect working site-wide",
                 "owner": "Harold",
                 "project_name": "Website Re-launch",
@@ -219,6 +204,20 @@
             },
             {
                 "milestone_date": "2019-12-20",
+                "description": "Policy pages migrated and ready for community review and Board Approval",
+                "owner": "Mike",
+                "project_name": "Website Re-launch",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2019-12-20",
+                "description": "Redirect system in place and ready for launch",
+                "owner": "No Owner",
+                "project_name": "Website Re-launch",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2019-12-23",
                 "description": "Website Launch",
                 "owner": "Harold",
                 "project_name": "Website Re-launch",
@@ -481,8 +480,8 @@
         "milestones": [
             {
                 "milestone_date": "2019-11-15",
-                "description": "Secure insurance for event per terms of contract (See below)",
-                "owner": "Dawn",
+                "description": "Secure insurance for event per terms of contract (See below), [Dawn] - Done",
+                "owner": "No Owner",
                 "project_name": "AppSec California 2020",
                 "status": "overdue"
             },
@@ -1080,11 +1079,11 @@
                 "status": "on-time"
             },
             {
-                "milestone_date": "2019-01-10",
+                "milestone_date": "2020-01-10",
                 "description": "Website ready for traffic",
                 "owner": "Emily",
                 "project_name": "Global AppSec - San Francisco",
-                "status": "overdue"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-02-01",
