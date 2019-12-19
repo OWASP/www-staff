@@ -42,9 +42,9 @@ Upon the completion of this project, OWASP.org will be hosted in Github. The arc
 * [ ] 2019-12-20, Policy pages migrated and ready for community review and Board Approval, [Mike]
 * [ ] 2019-12-20, Redirect system in place and ready for launch
 * [ ] 2019-12-23, Website Launch [Harold]
-* [ ] 2019-01-02, Metadata template information from SEO firm, [Harold]
-* [ ] 2019-01-05, Integrate meta tag info into templates, [Harold]
-* [ ] 2019-01-15, Events form (poc) [Simon]
+* [ ] 2020-01-02, Metadata template information from SEO firm, [Harold]
+* [ ] 2020-01-05, Integrate meta tag info into templates, [Harold]
+* [ ] 2020-01-15, Events form (poc) [Simon]
 * [ ] 2020-01-15, Validate Meetup Connector, [Harold]
 
 ## Historical Milestones (Completed)
