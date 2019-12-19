@@ -69,7 +69,7 @@ Sponsorship Contract Status to Date (as of 08:00amET December 16, 2019). Amount 
 - MicroFocus
 - Netsparker
 - Qualys (CS)
-- RIPS
+- RIPS (CS)
 - Secure Code Warrior (CS) 
 - Security Journey (CS) 
 - Snyk (CS)
