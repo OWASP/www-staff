@@ -92,6 +92,9 @@ Sponsorship Contract Status to Date (as of 08:00amET December 16, 2019). Amount 
 #### Diversity Sponsorship  
 - TEK Systems
 
+### Opening Reception Sponsorship
+- Rapid7
+
 #### Women in AppSec/Diversity Breakfast Sponsorship (3)
 - Detectify
 
