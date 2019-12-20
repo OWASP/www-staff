@@ -1,33 +1,5 @@
 [
     {
-        "milestone_date": "2019-01-02",
-        "description": "Metadata template information from SEO firm",
-        "owner": "Harold",
-        "project_name": "Website Re-launch",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2019-01-05",
-        "description": "Integrate meta tag info into templates",
-        "owner": "Harold",
-        "project_name": "Website Re-launch",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2019-01-15",
-        "description": "Events form (poc)",
-        "owner": "Simon",
-        "project_name": "Website Re-launch",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2019-11-15",
-        "description": "Secure insurance for event per terms of contract (See below), [Dawn] - Done",
-        "owner": "No Owner",
-        "project_name": "AppSec California 2020",
-        "status": "overdue"
-    },
-    {
         "milestone_date": "2019-12-05",
         "description": "Launch Call for Program Team Members",
         "owner": "Emily",
@@ -60,49 +32,49 @@
         "description": "Connect Rebecca and Susan with Project and Chapter leaders for copy",
         "owner": "Mike",
         "project_name": "2019Q4 Marketing",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2019-12-19",
         "description": "Regression testing complete",
         "owner": "Harold",
         "project_name": "Donation Form",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2019-12-19",
         "description": "Project Complete ready for deployment",
         "owner": "Harold",
         "project_name": "Membership Form",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2019-12-19",
         "description": "Redirect inventory from SEO firm",
         "owner": "Mike",
         "project_name": "Website Re-launch",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2019-12-19",
         "description": "Validate in-bound search redirect working on events/policy pages",
         "owner": "Harold",
         "project_name": "Website Re-launch",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2019-12-19",
         "description": "Validate Google Analytics instance running",
         "owner": "Harold",
         "project_name": "Website Re-launch",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2019-12-19",
         "description": "Validate search redirect working site-wide",
         "owner": "Harold",
         "project_name": "Website Re-launch",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2019-12-20",
@@ -274,6 +246,13 @@
     },
     {
         "milestone_date": "2020-01-02",
+        "description": "Metadata template information from SEO firm",
+        "owner": "Harold",
+        "project_name": "Website Re-launch",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2020-01-02",
         "description": "Project Nomination Form online",
         "owner": "Mike",
         "project_name": "Projects Summit - Winter 2020",
@@ -291,6 +270,13 @@
         "description": "Test Event as SKU in Stripe for dev effort",
         "owner": "Mike",
         "project_name": "Events Form",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2020-01-05",
+        "description": "Integrate meta tag info into templates",
+        "owner": "Harold",
+        "project_name": "Website Re-launch",
         "status": "on-time"
     },
     {
@@ -347,6 +333,13 @@
         "description": "Reminder #3",
         "owner": "Harold",
         "project_name": "Projects Summit - Winter 2020",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2020-01-15",
+        "description": "Events form (poc)",
+        "owner": "Simon",
+        "project_name": "Website Re-launch",
         "status": "on-time"
     },
     {
@@ -562,7 +555,7 @@
     {
         "milestone_date": "2020-03-24",
         "description": "Close P&L",
-        "owner": "Emily",
+        "owner": "Dawn",
         "project_name": "AppSec California 2020",
         "status": "future"
     },
@@ -590,7 +583,7 @@
     {
         "milestone_date": "2020-04-22",
         "description": "Deadline for invoices and expense reimbursement requests",
-        "owner": "Emily",
+        "owner": "Dawn",
         "project_name": "Projects Summit - Winter 2020",
         "status": "future"
     },
@@ -611,7 +604,7 @@
     {
         "milestone_date": "2020-05-05",
         "description": "Close P&L",
-        "owner": "Emily",
+        "owner": "Dawn",
         "project_name": "OWASP SnowFROC",
         "status": "future"
     },
@@ -807,7 +800,7 @@
     {
         "milestone_date": "2020-09-30",
         "description": "Deadline for invoices and expense reimbursement requests",
-        "owner": "Emily",
+        "owner": "Dawn",
         "project_name": "Projects Summit - Summer",
         "status": "future"
     },
