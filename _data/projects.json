@@ -26,7 +26,7 @@
                 "description": "Connect Rebecca and Susan with Project and Chapter leaders for copy",
                 "owner": "Mike",
                 "project_name": "2019Q4 Marketing",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2019-12-17",
@@ -55,7 +55,7 @@
                 "description": "Regression testing complete",
                 "owner": "Harold",
                 "project_name": "Donation Form",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2019-12-23",
@@ -93,7 +93,7 @@
                 "description": "Project Complete ready for deployment",
                 "owner": "Harold",
                 "project_name": "Membership Form",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2019-12-23",
@@ -179,28 +179,28 @@
                 "description": "Redirect inventory from SEO firm",
                 "owner": "Mike",
                 "project_name": "Website Re-launch",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2019-12-19",
                 "description": "Validate in-bound search redirect working on events/policy pages",
                 "owner": "Harold",
                 "project_name": "Website Re-launch",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2019-12-19",
                 "description": "Validate Google Analytics instance running",
                 "owner": "Harold",
                 "project_name": "Website Re-launch",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2019-12-19",
                 "description": "Validate search redirect working site-wide",
                 "owner": "Harold",
                 "project_name": "Website Re-launch",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2019-12-20",
@@ -224,25 +224,25 @@
                 "status": "on-time"
             },
             {
-                "milestone_date": "2019-01-02",
+                "milestone_date": "2020-01-02",
                 "description": "Metadata template information from SEO firm",
                 "owner": "Harold",
                 "project_name": "Website Re-launch",
-                "status": "overdue"
+                "status": "on-time"
             },
             {
-                "milestone_date": "2019-01-05",
+                "milestone_date": "2020-01-05",
                 "description": "Integrate meta tag info into templates",
                 "owner": "Harold",
                 "project_name": "Website Re-launch",
-                "status": "overdue"
+                "status": "on-time"
             },
             {
-                "milestone_date": "2019-01-15",
+                "milestone_date": "2020-01-15",
                 "description": "Events form (poc)",
                 "owner": "Simon",
                 "project_name": "Website Re-launch",
-                "status": "overdue"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-01-15",
@@ -478,13 +478,6 @@
     {
         "name": "AppSec California 2020",
         "milestones": [
-            {
-                "milestone_date": "2019-11-15",
-                "description": "Secure insurance for event per terms of contract (See below), [Dawn] - Done",
-                "owner": "No Owner",
-                "project_name": "AppSec California 2020",
-                "status": "overdue"
-            },
             {
                 "milestone_date": "2019-12-20",
                 "description": "Final payment of $22,750 is due. Ticket # OSD-3068",
