@@ -28,10 +28,12 @@ Each project will have a 2-3 paragraph overview narrative. Keep to the key top p
 
 ## Milestones
 
+* [x] 2019-11-09, Initial payment for venue $20,750 OSD-3067, [Mike]
 * [X] 2019-11-15, Secure insurance for event per terms of contract (See below), [Dawn]
-* [ ] 2019-12-20, Final payment of $22,750 is due. Ticket # OSD-3068, [Dawn]
+* [x] 2019-12-20, Final payment of $22,750 is due. Ticket # OSD-3068, [Dawn]
 * [ ] 2019-12-21, 30 Day out Check-in, [Emily]
 * [ ] 2020-01-21, AppSec California
+* [ ] 2020-01-23, 2nd half of AV Payment Due. Contract is in ticket OSD-3192, [Dawn]
 * [ ] 2020-03-24, Close P&L, [Dawn]
 
 ## Sponsorships
@@ -141,16 +143,16 @@ Training               | $ 10
 Sponsorships           | $ 10
 **Total Income**       | **$ 100**
 **Expenses**           | 
-Accomodations          | $ 10
-Travel                 | $ 10 
-Internet               | $ 10 
-Marketing/Swag         | $ 10
-AV                     | $ 10 
-Printing & Branding    | $ 10
-Expo                   | $ 10
-Meeting Room Rental    | $ 10
-Catering               | $ 10
-Staff Services         | $ 10 
+Accomodations          | $ 0
+Travel                 | $ 0 
+Internet               | $ 0 
+Marketing/Swag         | $ 0
+AV                     | $ 44,759 
+Printing & Branding    | $ 0
+Expo                   | $ 0
+Meeting Room Rental    | $ 43,500
+Catering               | $ 0
+Staff Services         | $ 0 
 ***Total Expenses**    | **$ 100**
 **Net Profit**         | **$ 100**
 
