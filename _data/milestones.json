@@ -1,12 +1,5 @@
 [
     {
-        "milestone_date": "2019-12-05",
-        "description": "Launch Call for Program Team Members",
-        "owner": "Emily",
-        "project_name": "Global AppSec - Dublin 2020",
-        "status": "overdue"
-    },
-    {
         "milestone_date": "2019-12-13",
         "description": "Ensure all funds have been tranferred out of all FOUR RegOnline to OWASP Bank accounts",
         "owner": "Dawn",
@@ -81,42 +74,35 @@
         "description": "Policy pages migrated and ready for community review and Board Approval",
         "owner": "Mike",
         "project_name": "Website Re-launch",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2019-12-20",
         "description": "Redirect system in place and ready for launch",
         "owner": "No Owner",
         "project_name": "Website Re-launch",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2019-12-20",
         "description": "Download all historical data from RegOline, [Dawn]Export everything from run several reports for every eventTake PDF of event snapshot",
         "owner": "No Owner",
         "project_name": "RegOnline Closure",
-        "status": "on-time"
-    },
-    {
-        "milestone_date": "2019-12-20",
-        "description": "Final payment of $22,750 is due. Ticket # OSD-3068",
-        "owner": "Dawn",
-        "project_name": "AppSec California 2020",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2019-12-20",
         "description": "Venue 30% deposit of $13,910.40 is due",
         "owner": "Emily",
         "project_name": "Projects Summit - Winter 2020",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2019-12-20",
         "description": "Website ready for traffic",
         "owner": "Emily",
         "project_name": "Global AppSec - Dublin 2020",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2019-12-21",
@@ -368,7 +354,7 @@
         "description": "Reminder #4",
         "owner": "Harold",
         "project_name": "Projects Summit - Winter 2020",
-        "status": "future"
+        "status": "on-time"
     },
     {
         "milestone_date": "2020-01-21",
@@ -389,6 +375,13 @@
         "description": "Launch form with Global AppSec - Dublin as first product",
         "owner": "Harold",
         "project_name": "Events Form",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-01-23",
+        "description": "2nd half of AV Payment Due. Contract is in ticket OSD-3192",
+        "owner": "Dawn",
+        "project_name": "AppSec California 2020",
         "status": "future"
     },
     {
@@ -540,6 +533,13 @@
     },
     {
         "milestone_date": "2020-03-15",
+        "description": "Hotel Attritiion Milestone, OSD-3266",
+        "owner": "Emily",
+        "project_name": "Global AppSec - Dublin 2020",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-03-15",
         "description": "CFT/CFP Review Complete",
         "owner": "Emily",
         "project_name": "Global AppSec - San Francisco",
@@ -581,6 +581,13 @@
         "status": "future"
     },
     {
+        "milestone_date": "2020-04-14",
+        "description": "Hotel Attritiion Milestone, OSD-3266",
+        "owner": "Emily",
+        "project_name": "Global AppSec - Dublin 2020",
+        "status": "future"
+    },
+    {
         "milestone_date": "2020-04-22",
         "description": "Deadline for invoices and expense reimbursement requests",
         "owner": "Dawn",
@@ -606,6 +613,13 @@
         "description": "Close P&L",
         "owner": "Dawn",
         "project_name": "OWASP SnowFROC",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-05-14",
+        "description": "Hotel Attritiion Milestone, OSD-3266",
+        "owner": "Emily",
+        "project_name": "Global AppSec - Dublin 2020",
         "status": "future"
     },
     {
