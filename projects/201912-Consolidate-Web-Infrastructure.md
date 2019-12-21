@@ -18,9 +18,9 @@ Consolidate all extant servers to a single provider and move all DNS to a single
 
 ## Milestones
 
-* [ ] 2019-12-23 Create SoW, [Harold Blankenship]
-* [ ] 2019-12-26 Contract resource to investigate providers [Harold Blankenship]
-* [ ] 2019-12-30 Migration of old services to new services [Harold Blankenship] 
+* [ ] 2019-12-23, Create SoW, [Harold]
+* [ ] 2019-12-26, Contract resource to investigate providers [Harold]
+* [ ] 2019-12-30, Migration of old services to new services [Harold] 
 
 
 ## Leadership
