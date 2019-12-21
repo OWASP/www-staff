@@ -38,9 +38,6 @@ All events listed
 - [x] 2019-12-20, Download all historical data from RegOline, [Dawn]
 - [ ] 2019-12-23, Notify Leaders that RegOnline is no longer available for donations please use new donate, [Mike]
 
-Export everything from run several reports for every event
-Take PDF of event snapshot
-
 ## Leadership
 
 * [Dawn Aitken](mailto:dawn.aitken@owasp.com?subject=RegOnline%20Closure)
