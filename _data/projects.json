@@ -207,14 +207,14 @@
                 "description": "Policy pages migrated and ready for community review and Board Approval",
                 "owner": "Mike",
                 "project_name": "Website Re-launch",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2019-12-20",
                 "description": "Redirect system in place and ready for launch",
                 "owner": "No Owner",
                 "project_name": "Website Re-launch",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2019-12-23",
@@ -373,7 +373,7 @@
                 "description": "Download all historical data from RegOline, [Dawn]Export everything from run several reports for every eventTake PDF of event snapshot",
                 "owner": "No Owner",
                 "project_name": "RegOnline Closure",
-                "status": "on-time"
+                "status": "overdue"
             }
         ],
         "description": "RegOnline has been discontinued by the vender and the EOL is end of December 2019. OWASP has used RegOnline for Global and various events for the past several years. There is event metric and attendee information in the platform that we would want to archive prior to the system going offline. Additionally we should ensure our credit balances have been completely moved to our bank accounts prior to December 31, 2019.",
@@ -479,13 +479,6 @@
         "name": "AppSec California 2020",
         "milestones": [
             {
-                "milestone_date": "2019-12-20",
-                "description": "Final payment of $22,750 is due. Ticket # OSD-3068",
-                "owner": "Dawn",
-                "project_name": "AppSec California 2020",
-                "status": "on-time"
-            },
-            {
                 "milestone_date": "2019-12-21",
                 "description": "30 Day out Check-in",
                 "owner": "Emily",
@@ -496,6 +489,13 @@
                 "milestone_date": "2020-01-21",
                 "description": "AppSec California",
                 "owner": "No Owner",
+                "project_name": "AppSec California 2020",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-01-23",
+                "description": "2nd half of AV Payment Due. Contract is in ticket OSD-3192",
+                "owner": "Dawn",
                 "project_name": "AppSec California 2020",
                 "status": "future"
             },
@@ -528,7 +528,7 @@
                 "description": "Venue 30% deposit of $13,910.40 is due",
                 "owner": "Emily",
                 "project_name": "Projects Summit - Winter 2020",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-01-02",
@@ -577,7 +577,7 @@
                 "description": "Reminder #4",
                 "owner": "Harold",
                 "project_name": "Projects Summit - Winter 2020",
-                "status": "future"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-01-22",
@@ -762,18 +762,18 @@
         "name": "Global AppSec - Dublin 2020",
         "milestones": [
             {
-                "milestone_date": "2019-12-05",
-                "description": "Launch Call for Program Team Members",
+                "milestone_date": "2019-12-20",
+                "description": "Website ready for traffic",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin 2020",
                 "status": "overdue"
             },
             {
-                "milestone_date": "2019-12-20",
-                "description": "Website ready for traffic",
+                "milestone_date": "2020-03-15",
+                "description": "Hotel Attritiion Milestone, OSD-3266",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin 2020",
-                "status": "on-time"
+                "status": "future"
             },
             {
                 "milestone_date": "2019-12-31",
@@ -848,6 +848,20 @@
             {
                 "milestone_date": "2020-04-01",
                 "description": "AV Contract Signed",
+                "owner": "Emily",
+                "project_name": "Global AppSec - Dublin 2020",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-04-14",
+                "description": "Hotel Attritiion Milestone, OSD-3266",
+                "owner": "Emily",
+                "project_name": "Global AppSec - Dublin 2020",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-05-14",
+                "description": "Hotel Attritiion Milestone, OSD-3266",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin 2020",
                 "status": "future"
