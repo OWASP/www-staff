@@ -22,23 +22,16 @@
         "name": "2019Q4 Marketing",
         "milestones": [
             {
-                "milestone_date": "2019-12-19",
-                "description": "Connect Rebecca and Susan with Project and Chapter leaders for copy",
-                "owner": "Mike",
-                "project_name": "2019Q4 Marketing",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2019-12-17",
-                "description": "EXPECTED Website launch",
-                "owner": "Harold",
-                "project_name": "2019Q4 Marketing",
-                "status": "overdue"
-            },
-            {
                 "milestone_date": "2019-12-27",
                 "description": "Retire SalesForce member notification system",
                 "owner": "Harold",
+                "project_name": "2019Q4 Marketing",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2019-12-31",
+                "description": "Connect Susan with Project Leaders for copy",
+                "owner": "Mike",
                 "project_name": "2019Q4 Marketing",
                 "status": "on-time"
             }
@@ -142,22 +135,22 @@
         "milestones": [
             {
                 "milestone_date": "2019-12-23",
-                "description": "reate SoW",
-                "owner": "Harold Blankenship",
+                "description": "Create SoW",
+                "owner": "Harold",
                 "project_name": "Consolidate Web Infrastructure",
                 "status": "on-time"
             },
             {
                 "milestone_date": "2019-12-26",
-                "description": "ontract resource to investigate providers",
-                "owner": "Harold Blankenship",
+                "description": "Contract resource to investigate providers",
+                "owner": "Harold",
                 "project_name": "Consolidate Web Infrastructure",
                 "status": "on-time"
             },
             {
                 "milestone_date": "2019-12-30",
-                "description": "igration of old services to new services",
-                "owner": "Harold Blankenship",
+                "description": "Migration of old services to new services",
+                "owner": "Harold",
                 "project_name": "Consolidate Web Infrastructure",
                 "status": "on-time"
             }
@@ -355,25 +348,11 @@
         "name": "RegOnline Closure",
         "milestones": [
             {
-                "milestone_date": "2019-12-13",
-                "description": "Ensure all funds have been tranferred out of all FOUR RegOnline to OWASP Bank accounts",
-                "owner": "Dawn",
-                "project_name": "RegOnline Closure",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2019-12-16",
+                "milestone_date": "2019-12-23",
                 "description": "Notify Leaders that RegOnline is no longer available for donations please use new donate",
                 "owner": "Mike",
                 "project_name": "RegOnline Closure",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2019-12-20",
-                "description": "Download all historical data from RegOline, [Dawn]Export everything from run several reports for every eventTake PDF of event snapshot",
-                "owner": "No Owner",
-                "project_name": "RegOnline Closure",
-                "status": "overdue"
+                "status": "on-time"
             }
         ],
         "description": "RegOnline has been discontinued by the vender and the EOL is end of December 2019. OWASP has used RegOnline for Global and various events for the past several years. There is event metric and attendee information in the platform that we would want to archive prior to the system going offline. Additionally we should ensure our credit balances have been completely moved to our bank accounts prior to December 31, 2019.",
@@ -483,14 +462,14 @@
                 "description": "30 Day out Check-in",
                 "owner": "Emily",
                 "project_name": "AppSec California 2020",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-01-21",
                 "description": "AppSec California",
                 "owner": "No Owner",
                 "project_name": "AppSec California 2020",
-                "status": "future"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-01-23",
@@ -762,20 +741,6 @@
         "name": "Global AppSec - Dublin 2020",
         "milestones": [
             {
-                "milestone_date": "2019-12-20",
-                "description": "Website ready for traffic",
-                "owner": "Emily",
-                "project_name": "Global AppSec - Dublin 2020",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-03-15",
-                "description": "Hotel Attritiion Milestone, OSD-3266",
-                "owner": "Emily",
-                "project_name": "Global AppSec - Dublin 2020",
-                "status": "future"
-            },
-            {
                 "milestone_date": "2019-12-31",
                 "description": "Close Call for Program Team Members",
                 "owner": "Emily",
@@ -839,6 +804,13 @@
                 "status": "future"
             },
             {
+                "milestone_date": "2020-03-15",
+                "description": "Hotel Attrition Milestone, OSD-3266",
+                "owner": "Emily",
+                "project_name": "Global AppSec - Dublin 2020",
+                "status": "future"
+            },
+            {
                 "milestone_date": "2020-03-16",
                 "description": "Payment 45% of Catering fee due",
                 "owner": "Emily",
@@ -854,14 +826,14 @@
             },
             {
                 "milestone_date": "2020-04-14",
-                "description": "Hotel Attritiion Milestone, OSD-3266",
+                "description": "Hotel Attrition Milestone, OSD-3266",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin 2020",
                 "status": "future"
             },
             {
                 "milestone_date": "2020-05-14",
-                "description": "Hotel Attritiion Milestone, OSD-3266",
+                "description": "Hotel Attrition Milestone, OSD-3266",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin 2020",
                 "status": "future"
