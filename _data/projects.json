@@ -563,7 +563,7 @@
                 "description": "Reminder #5",
                 "owner": "Harold",
                 "project_name": "Projects Summit - Winter 2020",
-                "status": "future"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-01-26",
