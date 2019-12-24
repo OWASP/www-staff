@@ -74,49 +74,49 @@
         "description": "Project Complete ready for deployment",
         "owner": "Harold",
         "project_name": "Donation Form",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2019-12-23",
         "description": "Deploy to new website in production",
         "owner": "Harold",
         "project_name": "Donation Form",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2019-12-23",
         "description": "Regression testing complete",
         "owner": "Harold",
         "project_name": "Membership Form",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2019-12-23",
         "description": "Deploy to new website in production",
         "owner": "Harold",
         "project_name": "Membership Form",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2019-12-23",
         "description": "Create SoW",
         "owner": "Harold",
         "project_name": "Consolidate Web Infrastructure",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2019-12-23",
         "description": "Website Launch",
         "owner": "Harold",
         "project_name": "Website Re-launch",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2019-12-23",
         "description": "Notify Leaders that RegOnline is no longer available for donations please use new donate",
         "owner": "Mike",
         "project_name": "RegOnline Closure",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2019-12-26",
@@ -347,14 +347,14 @@
         "description": "Launch form with Global AppSec - Dublin as first product",
         "owner": "Harold",
         "project_name": "Events Form",
-        "status": "future"
+        "status": "on-time"
     },
     {
         "milestone_date": "2020-01-23",
         "description": "2nd half of AV Payment Due. Contract is in ticket OSD-3192",
         "owner": "Dawn",
         "project_name": "AppSec California 2020",
-        "status": "future"
+        "status": "on-time"
     },
     {
         "milestone_date": "2020-01-26",
