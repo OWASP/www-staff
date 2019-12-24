@@ -55,14 +55,14 @@
                 "description": "Project Complete ready for deployment",
                 "owner": "Harold",
                 "project_name": "Donation Form",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2019-12-23",
                 "description": "Deploy to new website in production",
                 "owner": "Harold",
                 "project_name": "Donation Form",
-                "status": "on-time"
+                "status": "overdue"
             }
         ],
         "description": "As part of the OWASP website migration, we will creating a new Donation form that will use Stripe as a back end. This should be a simple form that is hosted on the website and will serve as a proof of concept for (1) hosting secure forms on github, (2) test the viability of Stripe for payment processing, and (3) integrating Stripe form activities with light integrations with other key data in the OWASP ecosystem.Current working demo at [https://www2.owasp.org/donate](https://www2.owasp.org/donate) Form will handle &title and &currency parameters",
@@ -93,14 +93,14 @@
                 "description": "Regression testing complete",
                 "owner": "Harold",
                 "project_name": "Membership Form",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2019-12-23",
                 "description": "Deploy to new website in production",
                 "owner": "Harold",
                 "project_name": "Membership Form",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2019-12-31",
@@ -138,7 +138,7 @@
                 "description": "Create SoW",
                 "owner": "Harold",
                 "project_name": "Consolidate Web Infrastructure",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2019-12-26",
@@ -214,7 +214,7 @@
                 "description": "Website Launch",
                 "owner": "Harold",
                 "project_name": "Website Re-launch",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-01-02",
@@ -294,7 +294,7 @@
                 "description": "Launch form with Global AppSec - Dublin as first product",
                 "owner": "Harold",
                 "project_name": "Events Form",
-                "status": "future"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-01-31",
@@ -352,7 +352,7 @@
                 "description": "Notify Leaders that RegOnline is no longer available for donations please use new donate",
                 "owner": "Mike",
                 "project_name": "RegOnline Closure",
-                "status": "on-time"
+                "status": "overdue"
             }
         ],
         "description": "RegOnline has been discontinued by the vender and the EOL is end of December 2019. OWASP has used RegOnline for Global and various events for the past several years. There is event metric and attendee information in the platform that we would want to archive prior to the system going offline. Additionally we should ensure our credit balances have been completely moved to our bank accounts prior to December 31, 2019.",
@@ -476,7 +476,7 @@
                 "description": "2nd half of AV Payment Due. Contract is in ticket OSD-3192",
                 "owner": "Dawn",
                 "project_name": "AppSec California 2020",
-                "status": "future"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-03-24",
