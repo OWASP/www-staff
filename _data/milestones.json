@@ -56,13 +56,6 @@
         "status": "overdue"
     },
     {
-        "milestone_date": "2019-12-20",
-        "description": "Venue 30% deposit of $13,910.40 is due",
-        "owner": "Emily",
-        "project_name": "Projects Summit - Winter 2020",
-        "status": "overdue"
-    },
-    {
         "milestone_date": "2019-12-21",
         "description": "30 Day out Check-in",
         "owner": "Emily",
