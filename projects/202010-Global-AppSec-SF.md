@@ -36,7 +36,7 @@ Join us for a celebration of leading application security technologies, speakers
 - [x] 2019-10-31, Stub website with Sponsor pricing/info online. [Harold]
 - [x] 2019-11-10, Populate Project Page with required content, [Emily]
 - [x] 2019-12-05, Launch Call for Program Team Members, [Emily]
-- [ ] 2019-12-31, General Service Contract Signed, [Emily]
+- [ ] 2020-01-15, General Service Contract Signed, [Emily]
 - [ ] 2020-01-02, Close Call for Program Team Members, [Emily]
 - [ ] 2020-01-10, Website ready for traffic, [Emily]
 - [ ] 2020-02-01, Open CFT/CFP, [Emily]
