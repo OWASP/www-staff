@@ -116,7 +116,7 @@
         "description": "Contract resource to investigate providers",
         "owner": "Harold",
         "project_name": "Consolidate Web Infrastructure",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2019-12-27",
@@ -354,14 +354,14 @@
         "description": "Project Nomination Form Closes",
         "owner": "Harold",
         "project_name": "Projects Summit - Winter 2020",
-        "status": "future"
+        "status": "on-time"
     },
     {
         "milestone_date": "2020-01-26",
         "description": "Form online to accept Attendee registrations (wuFoo)",
         "owner": "Mike",
         "project_name": "Projects Summit - Winter 2020",
-        "status": "future"
+        "status": "on-time"
     },
     {
         "milestone_date": "2020-01-28",
