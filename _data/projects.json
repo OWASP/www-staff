@@ -26,7 +26,7 @@
                 "description": "Retire SalesForce member notification system",
                 "owner": "Harold",
                 "project_name": "2019Q4 Marketing",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2019-12-31",
@@ -741,18 +741,11 @@
                 "status": "on-time"
             },
             {
-                "milestone_date": "2019-12-31",
+                "milestone_date": "2020-02-01",
                 "description": "General Service Contract Signed",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin 2020",
-                "status": "on-time"
-            },
-            {
-                "milestone_date": "2019-12-31",
-                "description": "Hotel Room Block COntract Signed",
-                "owner": "Emily",
-                "project_name": "Global AppSec - Dublin 2020",
-                "status": "on-time"
+                "status": "future"
             },
             {
                 "milestone_date": "2020-01-06",
@@ -1037,7 +1030,7 @@
         "name": "Global AppSec - San Francisco",
         "milestones": [
             {
-                "milestone_date": "2019-12-31",
+                "milestone_date": "2020-01-15",
                 "description": "General Service Contract Signed",
                 "owner": "Emily",
                 "project_name": "Global AppSec - San Francisco",
