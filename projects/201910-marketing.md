@@ -29,7 +29,7 @@ layout: full-width
 
 ## Milestones
 - [x] 2019-12-13, Spotlight Content Complete and Ready for launch [Lisa]
-- [ ] 2019-12-27, Retire SalesForce member notification system [Harold]
+- [ ] 2020-01-14, Retire SalesForce member notification system [Harold]
 - [ ] 2019-12-31, Connect Susan with Project Leaders for copy [Mike]
 
 ## Email Curriculum for onboarding and offboarding (Goals #1 & #2)
