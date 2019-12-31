@@ -16,6 +16,9 @@ The event program will solely include heads-down work time for OWASP projects. A
 
 Leaders of projects selected are required to attend or that project will not be selected. If a project fails to secure five attendees, their project's invitation will be rescinded.
 
+## Links
+- [Project Nomination Form](https://owasp.wufoo.com/forms/projects-summit-application/)
+
 ## Goals
 
 1. Provide a venue and opporunity for measurable progress on key OWASP Projects
@@ -71,8 +74,6 @@ Coming Soon
 - $202/per night for one guest, $180 for additional guests
 
 ## Budget 
-
-The high level budget should be listed below as a table. The full budget should be linked here and in a Google Sheet in the OWASP instance set to public (read only).
 
 Description            | Amount
 --------------         | ------------:
