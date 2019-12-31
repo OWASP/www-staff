@@ -26,10 +26,10 @@ Current demo is at https://www2.owasp.org/membership
 - [x] 2019-11-10, Wireframe sent [Membership Form wireframe](/www-staff/files/membership-wireframe.pdf), [Mike] 
 - [x] 2019-11-22, Form completed for demonstration, [Simone]
 - [x] 2019-12-17, Have Board vote to set 50% discount for residents of bottom 50% of Adjusted net national income per capita (current US$) [https://data.worldbank.org/indicator/NY.ADJ.NNTY.PC.CD](https://data.worldbank.org/indicator/NY.ADJ.NNTY.PC.CD), [Mike]
-- [ ] 2019-12-19, Project Complete ready for deployment, [Harold]
-- [ ] 2019-12-23, Regression testing complete, [Harold]
-- [ ] 2019-12-23, Deploy to new website in production, [Harold]
-- [ ] 2019-12-31, Load historical Membership transaction data into Stripe with email as key, [Harold]
+- [x] 2019-12-20, Project Complete ready for deployment, [Simon]
+- [ ] 2019-12-31, Regression testing complete, [Mike]
+- [ ] 2019-01-07, Deploy to new website in production, [Harold]
+- [ ] 2019-01-08, Load historical Membership transaction data into Stripe with email as key, [Harold]
 
 ## Leadership
 
