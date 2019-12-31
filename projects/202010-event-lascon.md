@@ -66,9 +66,7 @@ No agreements in place
 
 List all registration options and their prices and what conditions are required for certain discounts (if any). Include a link to the registration page. Note the registration link should ALSO be available in the Key Resources sections above.
 
-## Budget (Work in Progess)
-
-The high level budget should be listed below as a table. The full budget should be linked here and in a Google Sheet in the OWASP instance set to public (read only).
+## Budge
 
 ```
 Income                                            
