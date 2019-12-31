@@ -66,7 +66,7 @@ No agreements in place
 
 List all registration options and their prices and what conditions are required for certain discounts (if any). Include a link to the registration page. Note the registration link should ALSO be available in the Key Resources sections above.
 
-## Budge
+## Budget
 
 ```
 Income                                            
