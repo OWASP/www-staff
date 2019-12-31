@@ -35,17 +35,17 @@ Upon the completion of this project, OWASP.org will be hosted in Github. The arc
 
 ## Milestones
 
-* [ ] 2019-12-19, Redirect inventory from SEO firm [Mike]
-* [ ] 2019-12-19, Validate in-bound search redirect working on events/policy pages, [Harold]
-* [ ] 2019-12-19, Validate Google Analytics instance running, [Harold]
-* [ ] 2019-12-19, Validate search redirect working site-wide, [Harold]
-* [ ] 2019-12-20, Policy pages migrated and ready for community review and Board Approval, [Mike]
-* [ ] 2019-12-20, Redirect system in place and ready for launch
-* [ ] 2019-12-23, Website Launch [Harold]
-* [ ] 2020-01-02, Metadata template information from SEO firm, [Harold]
-* [ ] 2020-01-05, Integrate meta tag info into templates, [Harold]
+* [ ] 2020-01-07, Redirect inventory from SEO firm [Harold]
+* [ ] 2019-01-07, Policy pages migrated and ready for community review and Board Approval, [Mike]
+* [ ] 2020-01-14, Validate in-bound search redirect working on events/policy pages, [Harold]
+* [ ] 2020-01-14, Validate Google Analytics instance running, [Harold]
+* [ ] 2020-01-14, Validate search redirect working site-wide, [Harold]
+* [ ] 2020-01-14, Redirect system in place and ready for launch
+* [ ] 2020-01-15, Website Launch [Harold]
 * [ ] 2020-01-15, Events form (poc) [Simon]
-* [ ] 2020-01-15, Validate Meetup Connector, [Harold]
+* [ ] 2020-01-17, Metadata template information from SEO firm, [Harold]
+* [ ] 2020-01-22, Integrate meta tag info into templates, [Harold]
+* [ ] 2020-02-15, Validate Meetup Connector, [Harold]
 
 ## Historical Milestones (Completed)
 * [x] 2019-06-01, Proof of concept complete validating Requirements (below)
