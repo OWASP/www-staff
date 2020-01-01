@@ -22,18 +22,18 @@
         "name": "2019Q4 Marketing",
         "milestones": [
             {
-                "milestone_date": "2019-12-27",
+                "milestone_date": "2020-01-14",
                 "description": "Retire SalesForce member notification system",
                 "owner": "Harold",
                 "project_name": "2019Q4 Marketing",
-                "status": "overdue"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2019-12-31",
                 "description": "Connect Susan with Project Leaders for copy",
                 "owner": "Mike",
                 "project_name": "2019Q4 Marketing",
-                "status": "on-time"
+                "status": "overdue"
             }
         ],
         "description": "tle: 2019Q4 Marketinglayout: full-width---# 2019Q4 Marketing",
@@ -44,25 +44,25 @@
         "name": "Donation Form",
         "milestones": [
             {
-                "milestone_date": "2019-12-19",
-                "description": "Regression testing complete",
-                "owner": "Harold",
-                "project_name": "Donation Form",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2019-12-23",
+                "milestone_date": "2019-12-22",
                 "description": "Project Complete ready for deployment",
-                "owner": "Harold",
+                "owner": "Simon",
                 "project_name": "Donation Form",
                 "status": "overdue"
             },
             {
-                "milestone_date": "2019-12-23",
+                "milestone_date": "2019-12-31",
+                "description": "Regression testing complete",
+                "owner": "Mike",
+                "project_name": "Donation Form",
+                "status": "overdue"
+            },
+            {
+                "milestone_date": "2020-01-07",
                 "description": "Deploy to new website in production",
                 "owner": "Harold",
                 "project_name": "Donation Form",
-                "status": "overdue"
+                "status": "on-time"
             }
         ],
         "description": "As part of the OWASP website migration, we will creating a new Donation form that will use Stripe as a back end. This should be a simple form that is hosted on the website and will serve as a proof of concept for (1) hosting secure forms on github, (2) test the viability of Stripe for payment processing, and (3) integrating Stripe form activities with light integrations with other key data in the OWASP ecosystem.Current working demo at [https://www2.owasp.org/donate](https://www2.owasp.org/donate) Form will handle &title and &currency parameters",
@@ -82,28 +82,21 @@
         "name": "Membership Form",
         "milestones": [
             {
-                "milestone_date": "2019-12-19",
-                "description": "Project Complete ready for deployment",
-                "owner": "Harold",
-                "project_name": "Membership Form",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2019-12-23",
+                "milestone_date": "2019-12-31",
                 "description": "Regression testing complete",
-                "owner": "Harold",
+                "owner": "Mike",
                 "project_name": "Membership Form",
                 "status": "overdue"
             },
             {
-                "milestone_date": "2019-12-23",
+                "milestone_date": "2020-01-07",
                 "description": "Deploy to new website in production",
                 "owner": "Harold",
                 "project_name": "Membership Form",
-                "status": "overdue"
+                "status": "on-time"
             },
             {
-                "milestone_date": "2019-12-31",
+                "milestone_date": "2020-01-08",
                 "description": "Load historical Membership transaction data into Stripe with email as key",
                 "owner": "Harold",
                 "project_name": "Membership Form",
@@ -168,64 +161,50 @@
         "name": "Website Re-launch",
         "milestones": [
             {
-                "milestone_date": "2019-12-19",
+                "milestone_date": "2020-01-07",
                 "description": "Redirect inventory from SEO firm",
-                "owner": "Mike",
-                "project_name": "Website Re-launch",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2019-12-19",
-                "description": "Validate in-bound search redirect working on events/policy pages",
                 "owner": "Harold",
                 "project_name": "Website Re-launch",
-                "status": "overdue"
+                "status": "on-time"
             },
             {
-                "milestone_date": "2019-12-19",
-                "description": "Validate Google Analytics instance running",
-                "owner": "Harold",
-                "project_name": "Website Re-launch",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2019-12-19",
-                "description": "Validate search redirect working site-wide",
-                "owner": "Harold",
-                "project_name": "Website Re-launch",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2019-12-20",
+                "milestone_date": "2019-01-07",
                 "description": "Policy pages migrated and ready for community review and Board Approval",
                 "owner": "Mike",
                 "project_name": "Website Re-launch",
                 "status": "overdue"
             },
             {
-                "milestone_date": "2019-12-20",
-                "description": "Redirect system in place and ready for launch",
-                "owner": "No Owner",
-                "project_name": "Website Re-launch",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2019-12-23",
-                "description": "Website Launch",
-                "owner": "Harold",
-                "project_name": "Website Re-launch",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-01-02",
-                "description": "Metadata template information from SEO firm",
+                "milestone_date": "2020-01-14",
+                "description": "Validate in-bound search redirect working on events/policy pages",
                 "owner": "Harold",
                 "project_name": "Website Re-launch",
                 "status": "on-time"
             },
             {
-                "milestone_date": "2020-01-05",
-                "description": "Integrate meta tag info into templates",
+                "milestone_date": "2020-01-14",
+                "description": "Validate Google Analytics instance running",
+                "owner": "Harold",
+                "project_name": "Website Re-launch",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-01-14",
+                "description": "Validate search redirect working site-wide",
+                "owner": "Harold",
+                "project_name": "Website Re-launch",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-01-14",
+                "description": "Redirect system in place and ready for launch",
+                "owner": "No Owner",
+                "project_name": "Website Re-launch",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-01-15",
+                "description": "Website Launch",
                 "owner": "Harold",
                 "project_name": "Website Re-launch",
                 "status": "on-time"
@@ -238,11 +217,25 @@
                 "status": "on-time"
             },
             {
-                "milestone_date": "2020-01-15",
-                "description": "Validate Meetup Connector",
+                "milestone_date": "2020-01-17",
+                "description": "Metadata template information from SEO firm",
                 "owner": "Harold",
                 "project_name": "Website Re-launch",
                 "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-01-22",
+                "description": "Integrate meta tag info into templates",
+                "owner": "Harold",
+                "project_name": "Website Re-launch",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-02-15",
+                "description": "Validate Meetup Connector",
+                "owner": "Harold",
+                "project_name": "Website Re-launch",
+                "status": "future"
             }
         ],
         "description": "Before December 20, 2019, the Foundation will launch a new website designed to engage visitors and professionally convey the value of our collective work. Rather than just re-skinning our current wiki or placing a simplified landing page in front of our site, we plan to migrate to an entirely new platform. The project must better connect with our developer audience and be valuable when visited on a variety of devices. It must be possible for elements of our site to be managed by our communities or through automation and any platform change must retain these attributes as well as ensuring continuity of analytics, permissions design, and redirect of inbound links. A proof of concept will be complete by July 1. Once the new website is launched, the wiki will be archived through 2020 for historical purposes.Upon the completion of this project, OWASP.org will be hosted in Github. The architecture will place a repository for each logical entity of the foundation in one organizational account. For instance, there would be a repo for each chapter, project, event, and several other organizational entities. This design will increase source control and allow us to connect visitors with the content that is of interest to them.",
@@ -266,7 +259,7 @@
                 "description": "Wireframe of Event Form",
                 "owner": "Mike",
                 "project_name": "Events Form",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-01-03",
@@ -301,7 +294,7 @@
                 "description": "Release Candidate of Forms and Slack bot",
                 "owner": "Simon",
                 "project_name": "Events Form",
-                "status": "future"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-02-07",
@@ -503,36 +496,8 @@
         "name": "Projects Summit - Winter 2020",
         "milestones": [
             {
-                "milestone_date": "2020-01-02",
-                "description": "Project Nomination Form online",
-                "owner": "Mike",
-                "project_name": "Projects Summit - Winter 2020",
-                "status": "on-time"
-            },
-            {
                 "milestone_date": "2020-01-05",
                 "description": "Project Nomination Opens",
-                "owner": "Harold",
-                "project_name": "Projects Summit - Winter 2020",
-                "status": "on-time"
-            },
-            {
-                "milestone_date": "2020-01-06",
-                "description": "Email solicitation sent to Leaders list",
-                "owner": "Harold",
-                "project_name": "Projects Summit - Winter 2020",
-                "status": "on-time"
-            },
-            {
-                "milestone_date": "2020-01-08",
-                "description": "Reminder #2",
-                "owner": "Harold",
-                "project_name": "Projects Summit - Winter 2020",
-                "status": "on-time"
-            },
-            {
-                "milestone_date": "2020-01-14",
-                "description": "Reminder #3",
                 "owner": "Harold",
                 "project_name": "Projects Summit - Winter 2020",
                 "status": "on-time"
@@ -541,20 +506,6 @@
                 "milestone_date": "2020-01-15",
                 "description": "Venue 70% Remaining balance due of $32,457.60",
                 "owner": "Emily",
-                "project_name": "Projects Summit - Winter 2020",
-                "status": "on-time"
-            },
-            {
-                "milestone_date": "2020-01-20",
-                "description": "Reminder #4",
-                "owner": "Harold",
-                "project_name": "Projects Summit - Winter 2020",
-                "status": "on-time"
-            },
-            {
-                "milestone_date": "2020-01-22",
-                "description": "Reminder #5",
-                "owner": "Harold",
                 "project_name": "Projects Summit - Winter 2020",
                 "status": "on-time"
             },
@@ -629,7 +580,7 @@
                 "status": "future"
             }
         ],
-        "description": "The OWASP Foundation will host a three-day working session for FIVE selected projects in Cancun, Mexico, Feburary 27-29, 2020. Arrival day will be Wednesday the 26th and departures will be March 1st. Projects must apply and then get selected to participate. The application process will require project meeting goals, workplan, key contributors, and expected attendance. The OWASP Foundation Officers Group will make the final selection.The event program will solely include heads-down work time for OWASP projects. Any \"group\" gatherings will be during meal times. Spectators are not welcomed and attendance is limited to OWASP Members. Limited travel assistance will be provided for up to five key project leaders/contributors per project selected.Leaders of projects selected are required to attend or that project will not be selected. If a project fails to secure five attendees, their project's invitation will be rescinded.",
+        "description": "The OWASP Foundation will host a three-day working session for FIVE selected projects in Cancun, Mexico, February 27-29, 2020. Arrival day will be Wednesday the 26th and departures will be March 1st. Projects must apply and then get selected to participate. The application process will require project meeting goals, workplan, key contributors, and expected attendance. The OWASP Foundation Officers Group will make the final selection.The event program will solely include heads-down work time for OWASP projects. Any \"group\" gatherings will be during meal times. Spectators are not welcomed and attendance is limited to OWASP Members. Limited travel assistance will be provided for up to five key project leaders/contributors per project selected.Leaders of projects selected are required to attend or that project will not be selected. If a project fails to secure five attendees, their project's invitation will be rescinded.",
         "leaders": [
             {
                 "name": "Project - Harold Blankenship",
@@ -738,7 +689,7 @@
                 "description": "Close Call for Program Team Members",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin 2020",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-02-01",
@@ -1140,5 +1091,57 @@
             }
         ],
         "url": "https://www2.owasp.org/www-staff/projects/202010-Global-AppSec-SF"
+    },
+    {
+        "name": "LASCON 2020",
+        "milestones": [
+            {
+                "milestone_date": "2019-12-31",
+                "description": "Initial payment for venue $3,000 OSD-3301",
+                "owner": "Mike",
+                "project_name": "LASCON 2020",
+                "status": "overdue"
+            },
+            {
+                "milestone_date": "2020-03-10",
+                "description": "2nd Payment of $3,000 due to venu",
+                "owner": "Emily",
+                "project_name": "LASCON 2020",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-07-01",
+                "description": "3rd Payment of $3,000 due to venue",
+                "owner": "Emily",
+                "project_name": "LASCON 2020",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-10-27",
+                "description": "LASCON 2020",
+                "owner": "No Owner",
+                "project_name": "LASCON 2020",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-12-27",
+                "description": "Close P&L",
+                "owner": "Dawn",
+                "project_name": "LASCON 2020",
+                "status": "future"
+            }
+        ],
+        "description": "Each project will have a 2-3 paragraph overview narrative. Keep to the key top points about the project. Visitors should be able to read this short narrative and have a good understanding of the project without having to scroll the entire document.",
+        "leaders": [
+            {
+                "name": "Tiana Chandler",
+                "email": "tiana.chandler@owasp.org"
+            },
+            {
+                "name": "Kyle Smith",
+                "email": "kyle.smith@owasp.org"
+            }
+        ],
+        "url": "https://www2.owasp.org/www-staff/projects/202010-event-lascon"
     }
 ]
