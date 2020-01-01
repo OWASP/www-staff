@@ -1,57 +1,8 @@
 [
     {
-        "milestone_date": "2019-12-19",
-        "description": "Regression testing complete",
-        "owner": "Harold",
-        "project_name": "Donation Form",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2019-12-19",
-        "description": "Project Complete ready for deployment",
-        "owner": "Harold",
-        "project_name": "Membership Form",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2019-12-19",
-        "description": "Redirect inventory from SEO firm",
-        "owner": "Mike",
-        "project_name": "Website Re-launch",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2019-12-19",
-        "description": "Validate in-bound search redirect working on events/policy pages",
-        "owner": "Harold",
-        "project_name": "Website Re-launch",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2019-12-19",
-        "description": "Validate Google Analytics instance running",
-        "owner": "Harold",
-        "project_name": "Website Re-launch",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2019-12-19",
-        "description": "Validate search redirect working site-wide",
-        "owner": "Harold",
-        "project_name": "Website Re-launch",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2019-12-20",
+        "milestone_date": "2019-01-07",
         "description": "Policy pages migrated and ready for community review and Board Approval",
         "owner": "Mike",
-        "project_name": "Website Re-launch",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2019-12-20",
-        "description": "Redirect system in place and ready for launch",
-        "owner": "No Owner",
         "project_name": "Website Re-launch",
         "status": "overdue"
     },
@@ -63,31 +14,10 @@
         "status": "overdue"
     },
     {
-        "milestone_date": "2019-12-23",
+        "milestone_date": "2019-12-22",
         "description": "Project Complete ready for deployment",
-        "owner": "Harold",
+        "owner": "Simon",
         "project_name": "Donation Form",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2019-12-23",
-        "description": "Deploy to new website in production",
-        "owner": "Harold",
-        "project_name": "Donation Form",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2019-12-23",
-        "description": "Regression testing complete",
-        "owner": "Harold",
-        "project_name": "Membership Form",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2019-12-23",
-        "description": "Deploy to new website in production",
-        "owner": "Harold",
-        "project_name": "Membership Form",
         "status": "overdue"
     },
     {
@@ -95,13 +25,6 @@
         "description": "Create SoW",
         "owner": "Harold",
         "project_name": "Consolidate Web Infrastructure",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2019-12-23",
-        "description": "Website Launch",
-        "owner": "Harold",
-        "project_name": "Website Re-launch",
         "status": "overdue"
     },
     {
@@ -119,13 +42,6 @@
         "status": "overdue"
     },
     {
-        "milestone_date": "2019-12-27",
-        "description": "Retire SalesForce member notification system",
-        "owner": "Harold",
-        "project_name": "2019Q4 Marketing",
-        "status": "overdue"
-    },
-    {
         "milestone_date": "2019-12-30",
         "description": "Migration of old services to new services",
         "owner": "Harold",
@@ -137,28 +53,42 @@
         "description": "Connect Susan with Project Leaders for copy",
         "owner": "Mike",
         "project_name": "2019Q4 Marketing",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2019-12-31",
-        "description": "Load historical Membership transaction data into Stripe with email as key",
-        "owner": "Harold",
+        "description": "Regression testing complete",
+        "owner": "Mike",
+        "project_name": "Donation Form",
+        "status": "overdue"
+    },
+    {
+        "milestone_date": "2019-12-31",
+        "description": "Regression testing complete",
+        "owner": "Mike",
         "project_name": "Membership Form",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2019-12-31",
         "description": "Wireframe of Event Form",
         "owner": "Mike",
         "project_name": "Events Form",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2019-12-31",
         "description": "Close Call for Program Team Members",
         "owner": "Emily",
         "project_name": "Global AppSec - Dublin 2020",
-        "status": "on-time"
+        "status": "overdue"
+    },
+    {
+        "milestone_date": "2019-12-31",
+        "description": "Initial payment for venue $3,000 OSD-3301",
+        "owner": "Mike",
+        "project_name": "LASCON 2020",
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-01-01",
@@ -172,20 +102,6 @@
         "description": "New Year's Eve Holiday",
         "owner": "All",
         "project_name": "BlackHat Asia",
-        "status": "on-time"
-    },
-    {
-        "milestone_date": "2020-01-02",
-        "description": "Metadata template information from SEO firm",
-        "owner": "Harold",
-        "project_name": "Website Re-launch",
-        "status": "on-time"
-    },
-    {
-        "milestone_date": "2020-01-02",
-        "description": "Project Nomination Form online",
-        "owner": "Mike",
-        "project_name": "Projects Summit - Winter 2020",
         "status": "on-time"
     },
     {
@@ -204,21 +120,7 @@
     },
     {
         "milestone_date": "2020-01-05",
-        "description": "Integrate meta tag info into templates",
-        "owner": "Harold",
-        "project_name": "Website Re-launch",
-        "status": "on-time"
-    },
-    {
-        "milestone_date": "2020-01-05",
         "description": "Project Nomination Opens",
-        "owner": "Harold",
-        "project_name": "Projects Summit - Winter 2020",
-        "status": "on-time"
-    },
-    {
-        "milestone_date": "2020-01-06",
-        "description": "Email solicitation sent to Leaders list",
         "owner": "Harold",
         "project_name": "Projects Summit - Winter 2020",
         "status": "on-time"
@@ -231,10 +133,31 @@
         "status": "on-time"
     },
     {
-        "milestone_date": "2020-01-08",
-        "description": "Reminder #2",
+        "milestone_date": "2020-01-07",
+        "description": "Deploy to new website in production",
         "owner": "Harold",
-        "project_name": "Projects Summit - Winter 2020",
+        "project_name": "Donation Form",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2020-01-07",
+        "description": "Deploy to new website in production",
+        "owner": "Harold",
+        "project_name": "Membership Form",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2020-01-07",
+        "description": "Redirect inventory from SEO firm",
+        "owner": "Harold",
+        "project_name": "Website Re-launch",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2020-01-08",
+        "description": "Load historical Membership transaction data into Stripe with email as key",
+        "owner": "Harold",
+        "project_name": "Membership Form",
         "status": "on-time"
     },
     {
@@ -260,22 +183,50 @@
     },
     {
         "milestone_date": "2020-01-14",
-        "description": "Reminder #3",
+        "description": "Retire SalesForce member notification system",
         "owner": "Harold",
-        "project_name": "Projects Summit - Winter 2020",
+        "project_name": "2019Q4 Marketing",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2020-01-14",
+        "description": "Validate in-bound search redirect working on events/policy pages",
+        "owner": "Harold",
+        "project_name": "Website Re-launch",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2020-01-14",
+        "description": "Validate Google Analytics instance running",
+        "owner": "Harold",
+        "project_name": "Website Re-launch",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2020-01-14",
+        "description": "Validate search redirect working site-wide",
+        "owner": "Harold",
+        "project_name": "Website Re-launch",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2020-01-14",
+        "description": "Redirect system in place and ready for launch",
+        "owner": "No Owner",
+        "project_name": "Website Re-launch",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2020-01-15",
+        "description": "Website Launch",
+        "owner": "Harold",
+        "project_name": "Website Re-launch",
         "status": "on-time"
     },
     {
         "milestone_date": "2020-01-15",
         "description": "Events form (poc)",
         "owner": "Simon",
-        "project_name": "Website Re-launch",
-        "status": "on-time"
-    },
-    {
-        "milestone_date": "2020-01-15",
-        "description": "Validate Meetup Connector",
-        "owner": "Harold",
         "project_name": "Website Re-launch",
         "status": "on-time"
     },
@@ -295,16 +246,16 @@
     },
     {
         "milestone_date": "2020-01-17",
-        "description": "Relecase Candiate of Form ready for regression testing",
-        "owner": "Simon",
-        "project_name": "Events Form",
+        "description": "Metadata template information from SEO firm",
+        "owner": "Harold",
+        "project_name": "Website Re-launch",
         "status": "on-time"
     },
     {
-        "milestone_date": "2020-01-20",
-        "description": "Reminder #4",
-        "owner": "Harold",
-        "project_name": "Projects Summit - Winter 2020",
+        "milestone_date": "2020-01-17",
+        "description": "Relecase Candiate of Form ready for regression testing",
+        "owner": "Simon",
+        "project_name": "Events Form",
         "status": "on-time"
     },
     {
@@ -316,9 +267,9 @@
     },
     {
         "milestone_date": "2020-01-22",
-        "description": "Reminder #5",
+        "description": "Integrate meta tag info into templates",
         "owner": "Harold",
-        "project_name": "Projects Summit - Winter 2020",
+        "project_name": "Website Re-launch",
         "status": "on-time"
     },
     {
@@ -361,7 +312,7 @@
         "description": "Release Candidate of Forms and Slack bot",
         "owner": "Simon",
         "project_name": "Events Form",
-        "status": "future"
+        "status": "on-time"
     },
     {
         "milestone_date": "2020-02-01",
@@ -410,6 +361,13 @@
         "description": "CFT/CFP Review Complete",
         "owner": "Emily",
         "project_name": "Global AppSec - Dublin 2020",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-02-15",
+        "description": "Validate Meetup Connector",
+        "owner": "Harold",
+        "project_name": "Website Re-launch",
         "status": "future"
     },
     {
@@ -487,6 +445,13 @@
         "description": "Registration Opens",
         "owner": "Emily",
         "project_name": "Global AppSec - Dublin 2020",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-03-10",
+        "description": "2nd Payment of $3,000 due to venu",
+        "owner": "Emily",
+        "project_name": "LASCON 2020",
         "status": "future"
     },
     {
@@ -693,6 +658,13 @@
         "status": "future"
     },
     {
+        "milestone_date": "2020-07-01",
+        "description": "3rd Payment of $3,000 due to venue",
+        "owner": "Emily",
+        "project_name": "LASCON 2020",
+        "status": "future"
+    },
+    {
         "milestone_date": "2020-07-03",
         "description": "Independence Day (Observed)",
         "owner": "No Owner",
@@ -784,6 +756,13 @@
         "status": "future"
     },
     {
+        "milestone_date": "2020-10-27",
+        "description": "LASCON 2020",
+        "owner": "No Owner",
+        "project_name": "LASCON 2020",
+        "status": "future"
+    },
+    {
         "milestone_date": "2020-11-03",
         "description": "Federal Election Day",
         "owner": "No Owner",
@@ -816,6 +795,13 @@
         "description": "Christmas Day",
         "owner": "No Owner",
         "project_name": "OWASP Staff Holidays",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-12-27",
+        "description": "Close P&L",
+        "owner": "Dawn",
+        "project_name": "LASCON 2020",
         "status": "future"
     },
     {
