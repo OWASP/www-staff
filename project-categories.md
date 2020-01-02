@@ -26,13 +26,15 @@ layout: full-width
 
 # Example Sidebar
 
-## Project Classification
+## Project Information
 #### <i class="fas fa-flag" style="font-size: 1.2em; color:#233e81;"></i>  <span style="font-size:1.2em">Flagship Project</span> 
 
+#### Classification
 <i class="fas fa-code" style="font-size: 1.2em; color:#233e81;"></i>  <span style="font-size:1.2em">Code</span>
 
 <i class="fas fa-book" style="font-size: 1.2em; color:#233e81;"></i>  <span style="font-size:1.2em">Documentation</span> 
 
+#### Audience
 <i class="fas fa-toolbox" style="font-size: 1.2em; color:#233e81;"></i> <span style="font-size:1.2em">Builder</span> 
 <i class="fas fa-hammer" style="font-size: 1.2em; color:#233e81;"></i>  <span style="font-size:1.2em">Breaker</span> 
 
