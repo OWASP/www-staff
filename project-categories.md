@@ -5,7 +5,6 @@ layout: full-width
 
 ---
 
-
 ## Project Level
 
 <i class="fas fa-flag" style="font-size: 1.2em; color:#233e81;"></i> | <span style="font-size:1.2em">Flagship Project</span> 
@@ -24,11 +23,6 @@ layout: full-width
 <i class="fas fa-toolbox" style="font-size: 1.2em; color:#233e81;"></i> | <span style="font-size:1.2em">Builder</span> 
 <i class="fas fa-hammer" style="font-size: 1.2em; color:#233e81;"></i> | <span style="font-size:1.2em">Breaker</span> 
 <i class="fas fa-shield-alt" style="font-size: 1.2em; color:#233e81;"></i> | <span style="font-size:1.2em">Defender</span> 
-
-
-#### <i class="fas fa-code" style=" color:#233e81;"></i>  Code
-#### <i class="fas fa-book" style=" color:#233e81;"></i>  Documentation
-#### <i class="fas fa-tools" style=" color:#233e81;"></i>  Tool
 
 # Example Sidebar
 
