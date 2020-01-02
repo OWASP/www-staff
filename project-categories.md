@@ -23,9 +23,24 @@ layout: full-width
 - <i class="fas fa-hammer"></i>Breaker
 - <i class="fas fa-shield-alt"></i>Defender
 
+
+
+
+## Project Classification
 | --- | --- |
-| <i class="fas fa-code" style="font-size: 3em;"></i> | <span style="font-size:24px">Code</span> |
-| <i class="fas fa-code" style="font-size: 3em;"></i> | <span style="font-size:24px">Code</span> |
-| <i class="fas fa-code" style="font-size: 3em;"></i> | <span style="font-size:24px">Code</span> |
-| <i class="fas fa-code" style="font-size: 3em;"></i> | <span style="font-size:24px">Code</span> |
-| <i class="fas fa-code" style="font-size: 3em;"></i> | <span style="font-size:24px">Code</span> |
+| <i class="fas fa-code" style="font-size: 2em; color:#233e81;"></i> | <span style="font-size:12px">Code</span> |
+| <i class="fas fa-book" style="font-size: 2em; color:#233e81;"></i> | <span style="font-size:12px">Documentation</span> |
+| <i class="fas fa-tools" style="font-size: 2em; color:#233e81;"></i> | <span style="font-size:12px">Tool</span> |
+
+## Project Level
+| --- | --- |
+| <i class="fas fa-flag" style="font-size: 2em; color:#233e81;"></i> | <span style="font-size:12px">Flagship</span> |
+| <i class="fas fa-flask" style="font-size: 2em; color:#233e81;"></i> | <span style="font-size:12px">Lab</span> |
+| <i class="fas fa-lightbulb" style="font-size: 2em; color:#233e81;"></i> | <span style="font-size:12px">Incubator</span> |
+
+## User Profile
+| --- | --- |
+| <i class="fas fa-pray" style="font-size: 2em; color:#233e81;"></i> | <span style="font-size:12px">Builder</span> |
+| <i class="fas fa-toolbox" style="font-size: 2em; color:#233e81;"></i> | <span style="font-size:12px">Builder</span> |
+| <i class="fas fa-hammer" style="font-size: 2em; color:#233e81;"></i> | <span style="font-size:12px">Breaker</span> |
+| <i class="fas fa-shield-alt" style="font-size: 2em; color:#233e81;"></i> | <span style="font-size:12px">Defender</span> |
