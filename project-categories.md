@@ -1,7 +1,7 @@
 ---
 
 title: Testing 
-layout: col-fullwidth
+layout: fullwidth
 
 ---
 
