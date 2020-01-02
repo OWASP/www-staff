@@ -18,13 +18,13 @@ layout: full-width
 
 ## Project Level
 
-<i class="fas fa-flag" style="font-size: 2em; color:#233e81;"></i> | <span style="font-size:2em">Flagship</span> 
-<i class="fas fa-flask" style="font-size: 2em; color:#233e81;"></i> | <span style="font-size:2em">Lab</span> 
-<i class="fas fa-lightbulb" style="font-size: 2em; color:#233e81;"></i> | <span style="font-size:2em">Incubator</span> 
+<i class="fas fa-flag" style="font-size: 1.2em; color:#233e81;"></i> | <span style="font-size:1.2em">Flagship</span> 
+<i class="fas fa-flask" style="font-size: 1.2em; color:#233e81;"></i> | <span style="font-size:1.2em">Lab</span> 
+<i class="fas fa-lightbulb" style="font-size: 1.2em; color:#233e81;"></i> | <span style="font-size:1.2em">Incubator</span> 
 
 ## User Profile
 
-<i class="fas fa-pray" style="font-size: 2em; color:#233e81;"></i> | <span style="font-size:2em">Builder</span> 
-<i class="fas fa-toolbox" style="font-size: 2em; color:#233e81;"></i> | <span style="font-size:2em>Builder</span> 
-<i class="fas fa-hammer" style="font-size: 2em; color:#233e81;"></i> | <span style="font-size:2em">Breaker</span> 
-<i class="fas fa-shield-alt" style="font-size: 2em; color:#233e81;"></i> | <span style="font-size:2em">Defender</span> 
+<i class="fas fa-pray" style="font-size: 1.2em; color:#233e81;"></i> | <span style="font-size:1.2em">Builder</span> 
+<i class="fas fa-toolbox" style="font-size: 1.2em; color:#233e81;"></i> | <span style="font-size:1.2em">Builder</span> 
+<i class="fas fa-hammer" style="font-size: 1.2em; color:#233e81;"></i> | <span style="font-size:1.2em">Breaker</span> 
+<i class="fas fa-shield-alt" style="font-size: 1.2em; color:#233e81;"></i> | <span style="font-size:1.2em">Defender</span> 
