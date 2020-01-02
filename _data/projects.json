@@ -365,7 +365,7 @@
                 "description": "New Year\u2019s Day",
                 "owner": "No Owner",
                 "project_name": "OWASP Staff Holidays",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-02-17",
@@ -601,7 +601,7 @@
                 "description": "New Year's Eve Holiday",
                 "owner": "All",
                 "project_name": "BlackHat Asia",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-07-04",
@@ -696,7 +696,7 @@
                 "description": "General Service Contract Signed",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin 2020",
-                "status": "future"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-01-06",
@@ -717,7 +717,7 @@
                 "description": "Keynotes Announces",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin 2020",
-                "status": "future"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-02-14",
@@ -1006,7 +1006,7 @@
                 "description": "Open CFT/CFP",
                 "owner": "Emily",
                 "project_name": "Global AppSec - San Francisco",
-                "status": "future"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-03-01",
