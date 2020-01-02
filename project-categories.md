@@ -39,3 +39,19 @@ layout: full-width
 <i class="fas fa-hammer" style="font-size: 1.2em; color:#233e81;"></i>  <span style="font-size:1.2em">Breaker</span> 
 
 
+# Example #2
+
+## Project Information
+#### <i class="fas fa-flag" style="color:#233e81;"></i>  Flagship Project
+
+#### Classification
+<i class="fas fa-code" style="color:#233e81;"></i>  Code
+
+<i class="fas fa-book" style="color:#233e81;"></i>  Documentation
+
+#### Audience
+<i class="fas fa-toolbox" style="color:#233e81;"></i> Builder 
+<i class="fas fa-hammer" style="color:#233e81;"></i>  Breaker
+
+
+
