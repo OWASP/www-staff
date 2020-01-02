@@ -7,11 +7,14 @@ layout: full-width
 
 
 ## Project Classification 
-### <i class="fas fa-code" style="font-size: 2em; color:#233e81;"></i>  <span style="font-size:2em">Code</span> 
-### <i class="fas fa-code" style=" color:#233e81;"></i>  Code
 
-<i class="fas fa-book" style="font-size: 2em; color:#233e81;"></i> | <span style="font-size:2em">Documentation</span> 
-<i class="fas fa-tools" style="font-size: 2em; color:#233e81;"></i> | <span style="font-size:2em">Tool</span> 
+### <i class="fas fa-code" style=" color:#233e81;"></i>  Code
+### <i class="fas fa-book" style=" color:#233e81;"></i>  Documentation
+### <i class="fas fa-tools" style=" color:#233e81;"></i>  Tool
+
+<i class="fas fa-code" style="font-size: 1.2em; color:#233e81;"></i> | <span style="font-size:1.2em">Code</span> 
+<i class="fas fa-book" style="font-size: 1.2em; color:#233e81;"></i> | <span style="font-size:1.2em">Documentation</span> 
+<i class="fas fa-tools" style="font-size: 1.2em; color:#233e81;"></i> | <span style="font-size:1.2em">Tool</span> 
 
 ## Project Level
  --- | --- 
