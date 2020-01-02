@@ -6,9 +6,9 @@ layout: full-width
 ---
 
 <ul>
-   <li><i class="fas fa-code" </i>Code</li>
-   <li><i class="fas fa-book" </i>Documentation</li>
-   <li><i class="fas fa-tools" </i>Tool</li>
+   <li><i class="fa fa-code" </i>Code</li>
+   <li><i class="fa fa-book" </i>Documentation</li>
+   <li><i class="fa fa-tools" </i>Tool</li>
 </ul>
 
 Project Classification
