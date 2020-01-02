@@ -6,7 +6,7 @@ layout: full-width
 ---
 
 ## Project Classification
-<span "font-size: 2em">
+style="font-size: 3em;"
 - <i class="fas fa-code"></i>Code
 - <i class="fas fa-book"></i>Documentation
 - <i class="fas fa-tools"></i>Tool
