@@ -17,6 +17,7 @@ Project Level
 
 User Profile
 - <i class="fa fa-pray" </i>Builder
+- <i class="fa fa-toolbox" </i>Builder
 - <i class="fa fa-hammer" </i>Breaker
 - <i class="fa fa-shield-alt" </i>Defender
 
