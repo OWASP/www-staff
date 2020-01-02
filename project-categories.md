@@ -40,6 +40,6 @@ layout: full-width
 #### <i class="fas fa-book" style="font-size: 1.2em; color:#233e81;"></i>  <span style="font-size:1.2em">Documentation</span> 
 
 #### <i class="fas fa-toolbox" style="font-size: 1.2em; color:#233e81;"></i> <span style="font-size:1.2em">Builder</span> 
-<i class="fas fa-hammer" style="font-size: 1.2em; color:#233e81;"></i> | <span style="font-size:1.2em">Breaker</span> 
+<i class="fas fa-hammer" style="font-size: 1.2em; color:#233e81;"></i>, <span style="font-size:1.2em">Breaker</span> 
 
 
