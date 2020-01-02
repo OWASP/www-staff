@@ -7,7 +7,7 @@ layout: full-width
 
 ## Project Classification
 <span style="font-size: 3em;">
-- <i class="fas fa-code"></i><span style="padding-left: 5px; padding-right:">Code</span>
+- <i class="fas fa-code" style="font-size: 3em;"></i><span style="padding-left: 5px; padding-right:">Code</span>
 - <i class="fas fa-book"></i><span style="padding-left: 5px; padding-right:">Documentation</span>
 - <i class="fas fa-tools"></i><span style="padding-left: 5px; padding-right:">Tool</span>
 </span>
