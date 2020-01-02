@@ -5,21 +5,27 @@ layout: full-width
 
 ---
 
+<ul>
+   <li>- <i class="fas fa-code" </i>Code
+   <li><i class="fas fa-book" </i>Documentation
+   <li><i class="fas fa-tools" </i>Tool
+</ul>
+
 Project Classification
-- <i class="fa fa-code" </i>Code
-- <i class="fa fa-book" </i>Documentation
-- <i class="fa fa-tools" </i>Tool
+- <i class="fas fa-code" </i>Code
+- <i class="fas fa-book" </i>Documentation
+- <i class="fas fa-tools" </i>Tool
 
 Project Level
-- <i class="fa fa-flag" </i>Flagship
-- <i class="fa fa-flask" </i>Lab
-- <i class="fa fa-lightbulb" </i>Incubator
+- <i class="fas fa-flag" </i>Flagship
+- <i class="fas fa-flask" </i>Lab
+- <i class="fas fa-lightbulb" </i>Incubator
 
 User Profile
-- <i class="fa fa-pray" </i>Builder
-- <i class="fa fa-toolbox" </i>Builder
-- <i class="fa fa-hammer" </i>Breaker
-- <i class="fa fa-shield-alt" </i>Defender
+- <i class="fas fa-pray" </i>Builder
+- <i class="fas fa-toolbox" </i>Builder
+- <i class="fas fa-hammer" </i>Breaker
+- <i class="fas fa-shield-alt" </i>Defender
 
 
    
