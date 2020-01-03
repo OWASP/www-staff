@@ -31,8 +31,7 @@ Use this section for important links for projects/events that visitors will need
 * [x] When milestones are completed, mark them with an "x"
 * [ ] A milestone isn't everyone’s to-do list, it is the high level tasks of the project
 * [ ] If you have more than 20 milestones, you’re being too granular
-* [ ] 2020-01-01, New Year's Eve Holiday, [All]
-* [ ] 2020-07-04, Independence Day (US) Holiday, [All]
+* [ ] 2020-03-31, BlackHat Asia, [All]
 
 ## Leadership
 
