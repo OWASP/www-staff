@@ -19,6 +19,7 @@ https://mailchimp.com/help/collect-consent-with-gdpr-forms/
 
 ## Goals
 
+1. Clean up before March 1, 2020
 1. Include top-level goals of the project in an ordered list
 2. Give thought to the ordering of goals. Revenue, attendance, launch date
 3. Make sure goals are measurable from undisputed source
