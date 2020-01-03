@@ -22,30 +22,9 @@
     },
     {
         "milestone_date": "2019-12-23",
-        "description": "Create SoW",
-        "owner": "Harold",
-        "project_name": "Consolidate Web Infrastructure",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2019-12-23",
         "description": "Notify Leaders that RegOnline is no longer available for donations please use new donate",
         "owner": "Mike",
         "project_name": "RegOnline Closure",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2019-12-26",
-        "description": "Contract resource to investigate providers",
-        "owner": "Harold",
-        "project_name": "Consolidate Web Infrastructure",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2019-12-30",
-        "description": "Migration of old services to new services",
-        "owner": "Harold",
-        "project_name": "Consolidate Web Infrastructure",
         "status": "overdue"
     },
     {
@@ -109,7 +88,7 @@
         "description": "Close Call for Program Team Members",
         "owner": "Emily",
         "project_name": "Global AppSec - San Francisco",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-01-03",
