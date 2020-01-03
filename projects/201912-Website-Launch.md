@@ -36,7 +36,7 @@ Upon the completion of this project, OWASP.org will be hosted in Github. The arc
 ## Milestones
 
 * [ ] 2020-01-07, Redirect inventory from SEO firm [Harold]
-* [ ] 2019-01-07, Policy pages migrated and ready for community review and Board Approval, [Mike]
+* [ ] 2020-01-07, Policy pages migrated and ready for community review and Board Approval, [Mike]
 * [ ] 2020-01-14, Validate in-bound search redirect working on events/policy pages, [Harold]
 * [ ] 2020-01-14, Validate Google Analytics instance running, [Harold]
 * [ ] 2020-01-14, Validate search redirect working site-wide, [Harold]
