@@ -146,11 +146,11 @@
                 "status": "on-time"
             },
             {
-                "milestone_date": "2019-01-07",
+                "milestone_date": "2020-01-07",
                 "description": "Policy pages migrated and ready for community review and Board Approval",
                 "owner": "Mike",
                 "project_name": "Website Re-launch",
-                "status": "overdue"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-01-14",
@@ -244,7 +244,7 @@
                 "description": "Test Event as SKU in Stripe for dev effort",
                 "owner": "Mike",
                 "project_name": "Events Form",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-01-10",
@@ -575,15 +575,8 @@
         "name": "BlackHat Asia",
         "milestones": [
             {
-                "milestone_date": "2020-01-01",
-                "description": "New Year's Eve Holiday",
-                "owner": "All",
-                "project_name": "BlackHat Asia",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-07-04",
-                "description": "Independence Day (US) Holiday",
+                "milestone_date": "2020-03-31",
+                "description": "BlackHat Asia",
                 "owner": "All",
                 "project_name": "BlackHat Asia",
                 "status": "future"
