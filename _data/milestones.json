@@ -1,12 +1,5 @@
 [
     {
-        "milestone_date": "2019-01-07",
-        "description": "Policy pages migrated and ready for community review and Board Approval",
-        "owner": "Mike",
-        "project_name": "Website Re-launch",
-        "status": "overdue"
-    },
-    {
         "milestone_date": "2019-12-21",
         "description": "30 Day out Check-in",
         "owner": "Emily",
@@ -77,13 +70,6 @@
         "status": "overdue"
     },
     {
-        "milestone_date": "2020-01-01",
-        "description": "New Year's Eve Holiday",
-        "owner": "All",
-        "project_name": "BlackHat Asia",
-        "status": "overdue"
-    },
-    {
         "milestone_date": "2020-01-02",
         "description": "Close Call for Program Team Members",
         "owner": "Emily",
@@ -95,7 +81,7 @@
         "description": "Test Event as SKU in Stripe for dev effort",
         "owner": "Mike",
         "project_name": "Events Form",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-01-05",
@@ -129,6 +115,13 @@
         "milestone_date": "2020-01-07",
         "description": "Redirect inventory from SEO firm",
         "owner": "Harold",
+        "project_name": "Website Re-launch",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2020-01-07",
+        "description": "Policy pages migrated and ready for community review and Board Approval",
+        "owner": "Mike",
         "project_name": "Website Re-launch",
         "status": "on-time"
     },
@@ -462,6 +455,13 @@
         "status": "future"
     },
     {
+        "milestone_date": "2020-03-31",
+        "description": "BlackHat Asia",
+        "owner": "All",
+        "project_name": "BlackHat Asia",
+        "status": "future"
+    },
+    {
         "milestone_date": "2020-04-01",
         "description": "AV Contract Signed",
         "owner": "Emily",
@@ -648,13 +648,6 @@
         "description": "Independence Day (Observed)",
         "owner": "No Owner",
         "project_name": "OWASP Staff Holidays",
-        "status": "future"
-    },
-    {
-        "milestone_date": "2020-07-04",
-        "description": "Independence Day (US) Holiday",
-        "owner": "All",
-        "project_name": "BlackHat Asia",
         "status": "future"
     },
     {
