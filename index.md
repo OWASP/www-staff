@@ -70,12 +70,12 @@ Staff Projects are work products primarily done by staff that require either 40+
 * Redesign financial model and membership benefits.
 
 ## Foundation Goals for 2020
-1. Launch updated version of OWASP Top 10 by June 2020.
+1. Promote updated version of OWASP Top 10 set to release in october 2020.
 1. Continue to optimize business operations to overachieve financial and membership targets.
 1. Manage two successful global conferences planning three in 2021.
 1. Launch Project Summits and AppSec Days to over 500 attendees
 1. Increase relevance and reputation of OWASP measured by 10% increase in web traffic.
-1. Improve satisfaction with OWASP by survey measured a 5% increase.
-1. Increase all classes of membership by 25%
+1. Improve satisfaction with OWASP by survey measured a 10% increase.
+1. Increase corporate and individual membership by 25%
 
 *Vision: Global and open resource for software security*
