@@ -478,7 +478,7 @@
                 "description": "Project Nomination Opens",
                 "owner": "Harold",
                 "project_name": "Projects Summit - Winter 2020",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-01-15",
@@ -606,7 +606,7 @@
                 "description": "Confirm attendance. If over 500 please notify Dawn to update Insurance Policy",
                 "owner": "Emily",
                 "project_name": "OWASP SnowFROC",
-                "status": "future"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-03-05",
