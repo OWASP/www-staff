@@ -44,64 +44,67 @@ For internal accounting practices, the revenue split for Corporate Sponsors who 
 
 ## Sponsorship Status
 
-Sponsorship Contract Status to Date (as of 08:00amET December 19, 2019). Amount contracted: $294,950/USD Amount Collected: $131,550/USD
+Sponsorship Contract Status to Date (as of 08:00amET December 19, 2019). Amount contracted: $295,750/USD Amount Collected: $131,550/USD
 
 #### Diamond (3) - SOLD OUT
-- Contrast Security
-- Shiftleft (CS)
-- Tala Security (CS)
+- Contrast Security - invoiced
+- Shiftleft (CS) - paid
+- Tala Security (CS) - invoiced
 
 #### Platinum (3) - 2 remaining
-- Zero North (CS)
+- Zero North (CS) - paid
 
 #### Gold 
-- Altitude Networks (CS)
-- Avatao (CS) 
-- Bugcrowd (CS)
-- Cequence Security (CS) 
-- Checkmarx (CS)
-- Code DX (CS)
-- Detectify (CS)
-- Extrahop
-- GitLab 
-- HackerOne
-- HCL
-- Intertrust (CS)
-- Lyft (CS)
-- MicroFocus
-- Netsparker
-- Qualys (CS)
-- RIPS (CS)
-- Secure Code Warrior (CS) 
-- Security Journey (CS) 
-- Snyk (CS)
-- Sonatype
-- Sqreen (CS)
-- Synopsys (CS)
-- Wallarm (CS)
-- Waratek (CS) 
+- Altitude Networks (CS) - paid in full 
+- Avatao (CS) - paid in full 
+- Bugcrowd (CS) - invoiced
+- Cequence Security (CS) - paid in full
+- Checkmarx (CS) - paid in full
+- Code DX (CS) - paid in full
+- Detectify (CS) - invoiced
+- Extrahop - contract sent
+- GitLab - contract sent
+- HackerOne - invoiced 
+- HCL - contract sent
+- Intertrust (CS) - invoiced
+- Lyft (CS) - request sent to send invoice OSD-3323
+- MicroFocus - paid
+- Netsparker - paid
+- Qualys (CS) - paid
+- RIPS (CS) - invoiced
+- Secure Code Warrior (CS) - invoiced
+- Security Journey (CS) - paid
+- Snyk (CS) - paid
+- Sonatype - invoiced
+- Sqreen (CS) - invoiced
+- Synopsys (CS) - paid
+- Wallarm (CS) - paid
+- Waratek (CS) - paid
 
 #### Conference Bag Sponsorship (2) - SOLD OUT
-- NCC Group
-- SecureWorks
+- NCC Group - invoiced
+- SecureWorks - invoiced
 
 #### Lanyard Sponsorship (1) - SOLD OUT
-- SecureWorks
+- SecureWorks - invoiced
 
 #### Capture the Flag (1) - SOLD OUT
-- Security Innovation 
+- Security Innovation - invoiced
 
 #### Diversity Sponsorship  
-- TEK Systems
+- TEK Systems - invoiced
 
-### Opening Reception Sponsorship
-- Rapid7
+#### Opening Reception Sponsorship
+- Rapid7 - invoiced
 
 #### Women in AppSec/Diversity Breakfast Sponsorship (3)
-- Detectify
+- Detectify - invoiced
+
+#### Scholarship Sponsorship
+- Contrast Security - request for invoice to be sent OSD-3327
 
 #### Career Fair 
-- Citrix
+- Citrix - paid 
 
 
 ## Insurance Requirements from Venue Contract
