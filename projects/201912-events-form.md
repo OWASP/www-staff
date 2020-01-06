@@ -14,7 +14,7 @@ As part of the OWASP website migration, we will creating a new Events form that 
 ## Goals
 
 1. Securely host a form on our public github instance and collect event registrations
-1. Designed and built for re-use on up to 15 events per calendar year (Product ID/SKU)
+1. Designed and built for re-use on up to 15 events per calendar year (Event ID/Product ID/SKU)
 1. Stripe is the single authoritive source of pricing, inventory, and discount code truth
 2. Put form into production as of January 24, 2020
 3. Move data from successful Sripe tranactions into Mailchimp
@@ -55,11 +55,11 @@ As part of the OWASP website migration, we will creating a new Events form that 
       1. If returning it woudl restate the cart in the previous state
    1. Collect money in foreign currencies
    1. Introductory copy about the Event
-   1. Listing of SKUs for the Product
-      1. If a SKU has an inventory, show SOLD OUT or quantity remaining
-      2. Use checkboxes to select SKUs ( v1.0 will not allow multiple units purchased)
+   1. Listing of Products for the Event
+      1. If a Produect has an inventory, show quantity remaining or SOLD OUT
+      2. Use checkboxes to select Products/SKUs ( v1.0 will not allow multiple units purchased)
    1. Text field for DISCOUNT CODE
-   1. Drop down or Security Industry Experience [Beginner/Intermediate/Advanced]
+   1. Drop down for Security Industry Experience [Beginner/Intermediate/Advanced]
    1. Drop down for Persona [Defender/Builder/Breaker]
    1. Check box for "Agree to Terms of Purchase"
       1. Registration fees are non-refundable and non-transferable. Additionally, lost or stolen badges will not be replaced.
@@ -81,6 +81,16 @@ As part of the OWASP website migration, we will creating a new Events form that 
    3. CSV export for badges
    4. [Nice to have] Live link with Boomset for badge
    
+## Product/SKUs
+- Products are tied to an event
+- Products have a name, price, inventory-quantity, and optionally a start/end date (to handle early bird promotions)
+- Outside of the Events Form products have other metadata like Speaker/Trainer name, etc.
+
+## Discount Codes for v1.0
+- Discount codes have a unique identifying string
+- Codes are for a set price discount 
+- Shopping cart minus discount code value is no less than $0.
+ 
 ## Slack Bot Requirements
 1. /event-lookup
    1. Responds with a list of events from now-30 days through "end of time" that include Name (as URL to online report from above), total-Number-of-registrats
