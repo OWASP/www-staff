@@ -22,9 +22,9 @@ Staff Projects are work products primarily done by staff that require either 40+
 
 *Concept >> Document >> Socialize >> Iterate >> [Approval if needed] >> Plan >> Implement >> Report >> Revisit*
 
-[2020 Operating Plan - DRAFT 3](/www-staff/operating-plan/2020)
-
-[2020 Budget](/www-starff/budget/2020)
+## 2020 Plans
+- [2020 Operating Plan - DRAFT 3](/www-staff/operating-plan/2020)
+- [2020 Budget](/www-staff/budget/2020)
 
 ## Active Projects
 {% assign pages = site.pages | sort: 'title' | limit: 1000 %}
