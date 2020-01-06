@@ -36,7 +36,6 @@ All events listed
 - [x] 2019-12-06, Scheudle meeting to discuss plan/owners, [Mike]
 - [x] 2019-12-13, Ensure all funds have been tranferred out of all FOUR RegOnline to OWASP Bank accounts, [Dawn]
 - [x] 2019-12-20, Download all historical data from RegOline, [Dawn]
-- [ ] 2019-12-23, Notify Leaders that RegOnline is no longer available for donations please use new donate, [Mike]
 
 ## Leadership
 
