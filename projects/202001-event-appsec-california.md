@@ -44,7 +44,7 @@ For internal accounting practices, the revenue split for Corporate Sponsors who 
 
 ## Sponsorship Status
 
-Sponsorship Contract Status to Date (as of 08:00amET December 19, 2019). Amount contracted: $$295,225/USD Amount Collected: $156,700/USD
+Sponsorship Contract Status to Date (as of 012:30pmET January 7, 2020). Amount contracted: $$295,225/USD Amount Collected: $165,050/USD
 
 #### Diamond (3) - SOLD OUT
 - Contrast Security - invoiced
@@ -71,7 +71,7 @@ Sponsorship Contract Status to Date (as of 08:00amET December 19, 2019). Amount 
 - MicroFocus - paid in full
 - Netsparker - paid in full
 - Qualys (CS) - paid in full
-- RIPS (CS) - invoiced
+- RIPS (CS) - paid in full
 - Secure Code Warrior (CS) - invoiced
 - Security Journey (CS) - paid in full
 - Snyk (CS) - paid in full 
