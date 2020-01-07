@@ -93,7 +93,7 @@ As part of the OWASP website migration, we will creating a new Events form that 
  
 ## Slack Bot Requirements
 1. /event-lookup
-   1. Responds with a list of events from now-30 days through "end of time" that include Name (as URL to online report from above), total-Number-of-registrats
+   1. Responds with a list of events from now-30 days through "end of time" that include Name (as URL to online report from above), total-number-of-registrants
 1. /event-history 
    1. Same as event-lookup but responds with ALL historical events
 2. /event-attendee {string}
