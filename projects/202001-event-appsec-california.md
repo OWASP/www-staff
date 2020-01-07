@@ -44,7 +44,7 @@ For internal accounting practices, the revenue split for Corporate Sponsors who 
 
 ## Sponsorship Status
 
-Sponsorship Contract Status to Date (as of 08:00amET December 19, 2019). Amount contracted: $296,950/USD Amount Collected: $156,700/USD
+Sponsorship Contract Status to Date (as of 08:00amET December 19, 2019). Amount contracted: $$295,225/USD Amount Collected: $156,700/USD
 
 #### Diamond (3) - SOLD OUT
 - Contrast Security - invoiced
