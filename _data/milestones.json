@@ -212,7 +212,7 @@
     {
         "milestone_date": "2020-01-23",
         "description": "2nd half of AV Payment Due. Contract is in ticket OSD-3192",
-        "owner": "Dawn",
+        "owner": "Emily",
         "project_name": "AppSec California 2020",
         "status": "on-time"
     },
@@ -422,7 +422,7 @@
     {
         "milestone_date": "2020-03-24",
         "description": "Close P&L",
-        "owner": "Dawn",
+        "owner": "Emily",
         "project_name": "AppSec California 2020",
         "status": "future"
     },
@@ -464,7 +464,7 @@
     {
         "milestone_date": "2020-04-22",
         "description": "Deadline for invoices and expense reimbursement requests",
-        "owner": "Dawn",
+        "owner": "Emily",
         "project_name": "Projects Summit - Winter 2020",
         "status": "future"
     },
@@ -485,7 +485,7 @@
     {
         "milestone_date": "2020-05-05",
         "description": "Close P&L",
-        "owner": "Dawn",
+        "owner": "Emily",
         "project_name": "OWASP SnowFROC",
         "status": "future"
     },
