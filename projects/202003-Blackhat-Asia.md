@@ -26,11 +26,11 @@ Use this section for important links for projects/events that visitors will need
 
 ## Milestones
 
-* [ ] In an unordered list (billeted) list major milestones in chronological order
-* [ ] Use the syntax of 2019-01-19, Milestone name, [Name of Owner]
-* [x] When milestones are completed, mark them with an "x"
-* [ ] A milestone isn't everyone’s to-do list, it is the high level tasks of the project
-* [ ] If you have more than 20 milestones, you’re being too granular
+* [ ] 2020-01-08 OSD-3340 submitted for Mike to sign
+* [ ] Wufoo form for volunteers to work the booth.
+* [ ] Order promotional merchandise
+* [ ] Register booth volunteers
+* [ ] Booth schedule and event information
 * [ ] 2020-03-31, BlackHat Asia, [All]
 
 ## Leadership
