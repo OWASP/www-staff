@@ -110,29 +110,39 @@ Staff Services         | &euro;100,000
 This event offers several parter sponsorships opportunities.  If you are interested in supporting the event please contact [kelly@owasp.com](mailto:kelly@owasp.com&subject:Eventname). Below is a list of existing and available sponsorships. All sponsor assets will go in a folder named sponsors in this repo.
 
 ## Sponsorship Status
-Sponsorship Contract Status to Date (as of 08:00amET December 17, 2019). Amount Contracted: $285,500/USD Amount Collected: $120,000/USD
+Sponsorship Contract Status to Date (as of 10:00amET January 8, 2020). Amount Contracted: $365,745/USD Amount Collected: $145,000/USD
 
-#### Sapphire
-- Acunetix
-- Micro Focus
-- Netsparker
-- Rapid7
-- Security Compass
+#### Sapphire Sponsors
+- Acunetix - paid in full 
+- Micro Focus - invoiced
+- Netsparker - paid in full
+- Rapid7 - invoiced
+- Salesforce - contract sent
+- Security Compass - invoiced
 
-#### Ruby
-- Altitude Networks (Silver Corporate Supporter)
-- Bugcrowd (Silver Corporate Supporter)
-- Intertrust (Silver Corporate Supporter)
-- Lyft (Silver Corporate Supporter)
-- NowSecure (Silver Corporate Supporter)
-- Qualys (Silver Corporate Supporter)
-- Salt Security
-- Secure Code Warrior (Gold Corporate Supporter)
-- Security Innovation
-- Security Journey (Silver Corporate Supporter)
-- Sqreen (Silver Corporate Supporter)
-- White Source Software (Silver Corporate Supporter)
-- Zero North (Silver Corporate Supporter)
+#### Ruby Sponsors
+- Salt Security - paid in full 
+- Security Innovation - invoiced 
+- Tala Security - invoiced  
+- Whitehat Security - contract sent
+
+#### Gold Corpoate Supporters
+- Secure Code Warrior (Gold Corporate Supporter) - invoiced
+
+#### Silver Corporate Supporters
+- Altitude Networks (Silver Corporate Supporter) - paid in full 
+- Bugcrowd (Silver Corporate Supporter) - invoiced
+- Detectify (Silver Corporate Supporter) - paid in full 
+- Intertrust (Silver Corporate Supporter) - invoiced
+- Lyft (Silver Corporate Supporter) - invoiced
+- NowSecure (Silver Corporate Supporter) - paid in full
+- Qualys (Silver Corporate Supporter) - paid in full 
+- RIPS (Silver Corporate Supporter) - paid in full 
+- Security Journey (Silver Corporate Supporter) - paid in full 
+- Sqreen (Silver Corporate Supporter) - invoiced
+- White Source Software (Silver Corporate Supporter) - paid in full 
+- Zero North (Silver Corporate Supporter) - paid in full
+
 
 ## Legal
 
