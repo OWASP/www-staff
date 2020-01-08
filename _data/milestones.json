@@ -688,7 +688,7 @@
     {
         "milestone_date": "2020-09-30",
         "description": "Deadline for invoices and expense reimbursement requests",
-        "owner": "Dawn",
+        "owner": "Emily",
         "project_name": "Projects Summit - Summer",
         "status": "future"
     },
@@ -744,7 +744,7 @@
     {
         "milestone_date": "2020-12-27",
         "description": "Close P&L",
-        "owner": "Dawn",
+        "owner": "Emily",
         "project_name": "LASCON 2020",
         "status": "future"
     },
