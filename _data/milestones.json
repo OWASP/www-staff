@@ -74,28 +74,28 @@
         "description": "Deploy to new website in production",
         "owner": "Harold",
         "project_name": "Donation Form",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-01-07",
         "description": "Deploy to new website in production",
         "owner": "Harold",
         "project_name": "Membership Form",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-01-07",
         "description": "Redirect inventory from SEO firm",
         "owner": "Harold",
         "project_name": "Website Re-launch",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-01-07",
         "description": "Policy pages migrated and ready for community review and Board Approval",
         "owner": "Mike",
         "project_name": "Website Re-launch",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-01-08",
@@ -284,14 +284,14 @@
         "description": "Release Candidate of Forms and Slack bot",
         "owner": "Simon",
         "project_name": "Events Form",
-        "status": "future"
+        "status": "on-time"
     },
     {
         "milestone_date": "2020-02-07",
         "description": "Project Complete",
         "owner": "Harold",
         "project_name": "Events Form",
-        "status": "future"
+        "status": "on-time"
     },
     {
         "milestone_date": "2020-02-10",
