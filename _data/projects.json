@@ -100,7 +100,7 @@
                 "description": "Load historical Membership transaction data into Stripe with email as key",
                 "owner": "Harold",
                 "project_name": "Membership Form",
-                "status": "on-time"
+                "status": "overdue"
             }
         ],
         "description": "As part of the OWASP website migration, we will creating a new membership form and process that will use Stripe as a back end. Following the successful test of the Donation Form, this project should be relatively easy with some small differences from that project. Once implemented, we will unwide our dependency on Fontiva and will migrate to using Mailchimp as a \"light\" member CRM with all history transaction data stored in Stripe.Current demo is at https://www2.owasp.org/membership",
@@ -526,6 +526,13 @@
     {
         "name": "BlackHat Asia",
         "milestones": [
+            {
+                "milestone_date": "2020-01-08",
+                "description": "SD-3340 submitted for Mike to sign",
+                "owner": "No Owner",
+                "project_name": "BlackHat Asia",
+                "status": "overdue"
+            },
             {
                 "milestone_date": "2020-03-31",
                 "description": "BlackHat Asia",
