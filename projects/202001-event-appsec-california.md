@@ -65,9 +65,9 @@ Sponsorship Contract Status to Date (as of 012:30pmET January 7, 2020). Amount c
 - Extrahop - contract sent
 - GitLab - contract sent
 - HackerOne - paid in full
-- HCL - contract sent
+- HCL - request sent to send invoice via Jira OSD-3349
 - Intertrust (CS) - invoiced
-- Lyft (CS) - request sent to send invoice via Jira OSD-3323
+- Lyft (CS) - invoiced
 - MicroFocus - paid in full
 - Netsparker - paid in full
 - Qualys (CS) - paid in full
@@ -102,7 +102,7 @@ Sponsorship Contract Status to Date (as of 012:30pmET January 7, 2020). Amount c
 - Sqreen - contract sent
 
 #### Scholarship Sponsorship
-- Contrast Security - request sent to send invoice Jira OSD-3327
+- Contrast Security - invoiced
 
 #### Career Fair 
 - Citrix - paid in full 
