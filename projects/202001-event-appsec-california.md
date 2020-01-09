@@ -65,7 +65,7 @@ Sponsorship Contract Status to Date (as of 012:30pmET January 9, 2020). Amount c
 - Extrahop - contract sent
 - GitLab - contract sent
 - HackerOne - paid in full
-- HCL - request sent to send invoice via Jira OSD-3349
+- HCL - invoiced
 - Intertrust (CS) - invoiced
 - Lyft (CS) - invoiced
 - MicroFocus - paid in full
