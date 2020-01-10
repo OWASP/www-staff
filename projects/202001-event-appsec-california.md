@@ -82,7 +82,7 @@ Sponsorship Contract Status to Date (as of 012:30pmET January 9, 2020). Amount c
 - Waratek (CS) - paid in full 
 
 #### Conference Bag Sponsorship (2) - SOLD OUT
-- NCC Group - invoice sent
+- NCC Group - invoiced
 - SecureWorks - invoiced
 
 #### Lanyard Sponsorship (1) - SOLD OUT
