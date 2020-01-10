@@ -7,9 +7,9 @@ layout: full-width
 
 ## Project Level
 
-<i class="fas fa-flag" style="font-size: 1.2em; color:#233e81;"></i> | <span style="font-size:1.2em">Flagship Project</span> 
-<i class="fas fa-flask" style="font-size: 1.2em; color:#233e81;"></i> | <span style="font-size:1.2em">Lab Project</span> 
-<i class="fas fa-lightbulb" style="font-size: 1.2em; color:#233e81;"></i> | <span style="font-size:1.2em">Incubator Project</span> 
+<i class="fas fa-flag" style="font-size: 1.2em; color:#2ADA08;"></i> | <span style="font-size:1.2em">Flagship Project</span> 
+<i class="fas fa-flask" style="font-size: 1.2em; color:#E8C306;"></i> | <span style="font-size:1.2em">Lab Project</span> 
+<i class="fas fa-lightbulb" style="font-size: 1.2em; color:#0796CF;"></i> | <span style="font-size:1.2em">Incubator Project</span> 
 
 ## Project Classification 
 
