@@ -108,7 +108,7 @@
         "milestone_date": "2020-01-08",
         "description": "SD-3340 submitted for Mike to sign",
         "owner": "No Owner",
-        "project_name": "BlackHat Asia",
+        "project_name": "BlackHat Asia 2020",
         "status": "overdue"
     },
     {
@@ -116,21 +116,21 @@
         "description": "Wireframe of Event Form",
         "owner": "Mike",
         "project_name": "Events Form",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-01-10",
         "description": "Open CFT/CFP",
         "owner": "Emily",
         "project_name": "Global AppSec - Dublin 2020",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-01-10",
         "description": "Website ready for traffic",
         "owner": "Emily",
         "project_name": "Global AppSec - San Francisco",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-01-14",
@@ -231,6 +231,13 @@
         "status": "on-time"
     },
     {
+        "milestone_date": "2020-01-24",
+        "description": "ufoo Volunteer form created and posted and emailed",
+        "owner": "No Owner",
+        "project_name": "BlackHat Asia 2020",
+        "status": "on-time"
+    },
+    {
         "milestone_date": "2020-01-26",
         "description": "Project Nomination Form Closes",
         "owner": "Harold",
@@ -305,7 +312,7 @@
         "description": "Flight bookings complete to qualify for reimbursement/travel assistance grants",
         "owner": "No Owner",
         "project_name": "Projects Summit - Winter 2020",
-        "status": "future"
+        "status": "on-time"
     },
     {
         "milestone_date": "2020-02-14",
@@ -333,6 +340,13 @@
         "description": "Presidents Day",
         "owner": "No Owner",
         "project_name": "OWASP Staff Holidays",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-02-17",
+        "description": "romotional merchandise and handouts decided",
+        "owner": "No Owner",
+        "project_name": "BlackHat Asia 2020",
         "status": "future"
     },
     {
@@ -372,6 +386,13 @@
     },
     {
         "milestone_date": "2020-03-01",
+        "description": "rder Merchandise and handouts",
+        "owner": "No Owner",
+        "project_name": "BlackHat Asia 2020",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-03-01",
         "description": "Close CFT/CFP",
         "owner": "Emily",
         "project_name": "Global AppSec - San Francisco",
@@ -407,6 +428,13 @@
     },
     {
         "milestone_date": "2020-03-15",
+        "description": "ll volunteers registered",
+        "owner": "No Owner",
+        "project_name": "BlackHat Asia 2020",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-03-15",
         "description": "Hotel Attrition Milestone, OSD-3266",
         "owner": "Emily",
         "project_name": "Global AppSec - Dublin 2020",
@@ -437,7 +465,7 @@
         "milestone_date": "2020-03-31",
         "description": "BlackHat Asia",
         "owner": "All",
-        "project_name": "BlackHat Asia",
+        "project_name": "BlackHat Asia 2020",
         "status": "future"
     },
     {
