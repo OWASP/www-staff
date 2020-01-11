@@ -6,6 +6,7 @@ layout: full-width
 ---
 
 ## Project Level
+
 |---|---|
 |![Flagship Project](/assets/images/common/owasp_level_flagship_2.svg){:width='45px'}|<span style="font-size:1.2em">Flagship Project</span>}|
 |<i class="fas fa-flag" style="font-size: 1.2em; color:#2ADA08;"></i> | <span style="font-size:1.2em">Flagship Project</span> |
