@@ -223,7 +223,7 @@
                 "description": "Wireframe of Event Form",
                 "owner": "Mike",
                 "project_name": "Events Form",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-01-22",
@@ -465,7 +465,7 @@
                 "description": "Flight bookings complete to qualify for reimbursement/travel assistance grants",
                 "owner": "No Owner",
                 "project_name": "Projects Summit - Winter 2020",
-                "status": "future"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-02-26",
@@ -524,24 +524,52 @@
         "url": "https://www2.owasp.org/www-staff/projects/202002-Projects-Summit-Q1"
     },
     {
-        "name": "BlackHat Asia",
+        "name": "BlackHat Asia 2020",
         "milestones": [
             {
                 "milestone_date": "2020-01-08",
                 "description": "SD-3340 submitted for Mike to sign",
                 "owner": "No Owner",
-                "project_name": "BlackHat Asia",
+                "project_name": "BlackHat Asia 2020",
                 "status": "overdue"
+            },
+            {
+                "milestone_date": "2020-01-24",
+                "description": "ufoo Volunteer form created and posted and emailed",
+                "owner": "No Owner",
+                "project_name": "BlackHat Asia 2020",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-02-17",
+                "description": "romotional merchandise and handouts decided",
+                "owner": "No Owner",
+                "project_name": "BlackHat Asia 2020",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-03-01",
+                "description": "rder Merchandise and handouts",
+                "owner": "No Owner",
+                "project_name": "BlackHat Asia 2020",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-03-15",
+                "description": "ll volunteers registered",
+                "owner": "No Owner",
+                "project_name": "BlackHat Asia 2020",
+                "status": "future"
             },
             {
                 "milestone_date": "2020-03-31",
                 "description": "BlackHat Asia",
                 "owner": "All",
-                "project_name": "BlackHat Asia",
+                "project_name": "BlackHat Asia 2020",
                 "status": "future"
             }
         ],
-        "description": "Each project will have a 2-3 paragraph overview narrative. Keep to the key top points about the project. Visitors should be able to read this short narrative and have a good understanding of the project without having to scroll the entire document.",
+        "description": "Black Hat returns to Marina Bay Sands in Singapore, March 31 - April 3, 2020. The information security community comes together for esteemed Trainings taught by industry experts, innovative research presentations at Briefings, the latest open-source tool demos in Arsenal, and the Business Hall featuring top-tier solutions and service providers.",
         "leaders": [
             {
                 "name": "Mike McCamon",
@@ -640,7 +668,7 @@
                 "description": "Open CFT/CFP",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin 2020",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-02-01",
@@ -929,7 +957,7 @@
                 "description": "Website ready for traffic",
                 "owner": "Emily",
                 "project_name": "Global AppSec - San Francisco",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-02-01",
