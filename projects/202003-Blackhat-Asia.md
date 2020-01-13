@@ -32,7 +32,7 @@ $200 Discount available OWASP Members on Briefings (training not included) - ema
 
 ## Milestones
 
-* [ ] 2020-01-08 OSD-3340 submitted for Mike to sign
+* [ ] 2020-01-08 [OSD-3340](https://owasporg.atlassian.net/browse/OSD-3340) submitted for Mike to sign
 * [ ] 2020-01-24 Wufoo Volunteer form created and posted and emailed
 * [ ] 2020-02-17 Promotional merchandise and handouts decided
 * [ ] 2020-03-01 Order Merchandise and handouts
