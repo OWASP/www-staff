@@ -44,7 +44,7 @@ For internal accounting practices, the revenue split for Corporate Sponsors who 
 
 ## Sponsorship Status
 
-Sponsorship Contract Status to Date (as of 09:00amET January 10, 2020). Amount contracted: $295,225/USD Amount Collected: $165,050/USD
+Sponsorship Contract Status to Date (as of 4:30pmET January 13, 2020). Amount contracted: $300,425/USD Amount Collected: $165,050/USD
 
 #### Diamond (3) - SOLD OUT
 - Contrast Security - invoiced
@@ -62,7 +62,7 @@ Sponsorship Contract Status to Date (as of 09:00amET January 10, 2020). Amount c
 - Checkmarx (CS) - paid in full 
 - Code DX (CS) - paid in full 
 - Detectify (CS) - paid in full 
-- Extrahop - contract sent
+- Extrahop (CS) - contract sent
 - GitLab - contract sent
 - HackerOne - paid in full
 - HCL - invoiced
@@ -72,6 +72,7 @@ Sponsorship Contract Status to Date (as of 09:00amET January 10, 2020). Amount c
 - Netsparker - paid in full
 - Qualys (CS) - paid in full
 - RIPS (CS) - paid in full
+- Salt Security (CS) - contract sent
 - Secure Code Warrior (CS) - invoiced
 - Security Journey (CS) - paid in full
 - Snyk (CS) - paid in full 
