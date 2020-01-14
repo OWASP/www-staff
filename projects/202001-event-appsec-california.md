@@ -100,7 +100,7 @@ Sponsorship Contract Status to Date (as of 4:30pmET January 13, 2020). Amount co
 
 #### Women in AppSec/Diversity Breakfast Sponsorship (3)
 - Detectify - paid in full 
-- Sqreen - contract sent
+- Sqreen - request sent to send invoice via Jira OSD-3361
 
 #### Scholarship Sponsorship
 - Contrast Security - invoiced
