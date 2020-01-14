@@ -107,6 +107,7 @@ Sponsorship Contract Status to Date (as of 4:30pmET January 13, 2020). Amount co
 
 #### Career Fair 
 - Citrix - paid in full 
+- Motion Recruitment - contract sent
 
 
 ## Insurance Requirements from Venue Contract
