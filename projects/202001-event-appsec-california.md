@@ -44,7 +44,7 @@ For internal accounting practices, the revenue split for Corporate Sponsors who 
 
 ## Sponsorship Status
 
-Sponsorship Contract Status to Date (as of 4:30pmET January 13, 2020). Amount contracted: $300,425/USD Amount Collected: $165,050/USD
+Sponsorship Contract Status to Date (as of 09:15amET January 14, 2020). Amount contracted: $300,425/USD Amount Collected: $184,900/USD
 
 #### Diamond (3) - SOLD OUT
 - Contrast Security - invoiced
@@ -66,7 +66,7 @@ Sponsorship Contract Status to Date (as of 4:30pmET January 13, 2020). Amount co
 - GitLab - contract sent
 - HackerOne - paid in full
 - HCL - invoiced
-- Intertrust (CS) - invoiced
+- Intertrust (CS) - paid in full 
 - Lyft (CS) - invoiced
 - MicroFocus - paid in full
 - Netsparker - paid in full
@@ -76,7 +76,7 @@ Sponsorship Contract Status to Date (as of 4:30pmET January 13, 2020). Amount co
 - Secure Code Warrior (CS) - invoiced
 - Security Journey (CS) - paid in full
 - Snyk (CS) - paid in full 
-- Sonatype - invoiced
+- Sonatype - paid in full
 - Sqreen (CS) - invoiced
 - Synopsys (CS) - paid in full
 - Wallarm (CS) - paid in full
