@@ -44,7 +44,7 @@ For internal accounting practices, the revenue split for Corporate Sponsors who 
 
 ## Sponsorship Status
 
-Sponsorship Contract Status to Date (as of 03:15pmET January 14, 2020). Amount contracted: $302,225/USD Amount Collected: $184,900/USD
+Sponsorship Contract Status to Date (as of 11:00amET January 15, 2020). Amount contracted: $302,225/USD Amount Collected: $184,900/USD
 
 #### Diamond (3) - SOLD OUT
 - Contrast Security - invoiced
@@ -103,7 +103,7 @@ Sponsorship Contract Status to Date (as of 03:15pmET January 14, 2020). Amount c
 - Sqreen - request sent to send invoice via Jira OSD-3361
 
 #### Lunch Sponsor (2 - 1 each day)
-- Segment - request sent to send invoice via Jira OSD-3367
+- Segment - invoiced
 
 #### Scholarship Sponsorship
 - Contrast Security - invoiced
