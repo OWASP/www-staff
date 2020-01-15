@@ -32,17 +32,17 @@ $200 Discount available OWASP Members on Briefings (training not included) - ema
 
 ## Milestones
 
-* [ ] 2020-01-08 [OSD-3340](https://owasporg.atlassian.net/browse/OSD-3340) submitted for Mike to sign
-* [ ] 2020-01-24 Wufoo Volunteer form created and posted and emailed
-* [ ] 2020-02-17 Promotional merchandise and handouts decided
-* [ ] 2020-03-01 Order Merchandise and handouts
-* [ ] 2020-03-15 All volunteers registered 
+* [x] 2020-01-08 Sign contract OSD-3340, [Mike]
+* [ ] 2020-01-24 Wufoo Volunteer form created and posted and emailed, [Lisa]
+* [ ] 2020-02-17 Promotional merchandise and handouts decided, [Lisa]
+* [ ] 2020-03-01 Order Merchandise and handouts, [Lisa]
+* [ ] 2020-03-15 All volunteers registered, [Lisa] 
 * [ ] 2020-03-31, BlackHat Asia, [All]
 
 ## Leadership
 
 * unordered list of each leader and a hyperlink to their email address.
-* [Mike McCamon](mailto:mike.mccamon@owasp.com?subject=An%20Interesting%20Email)
+* [Lisa Jones](mailto:lisa.jones@owasp.com?subject=Blackhat%20Asia)
 
 ## Budget
 
