@@ -27,9 +27,9 @@ Current demo is at https://www2.owasp.org/membership
 - [x] 2019-11-22, Form completed for demonstration, [Simone]
 - [x] 2019-12-17, Have Board vote to set 50% discount for residents of bottom 50% of Adjusted net national income per capita (current US$) [https://data.worldbank.org/indicator/NY.ADJ.NNTY.PC.CD](https://data.worldbank.org/indicator/NY.ADJ.NNTY.PC.CD), [Mike]
 - [x] 2019-12-20, Project Complete ready for deployment, [Simon]
-- [ ] 2019-12-31, Regression testing complete, [Mike]
-- [ ] 2020-01-07, Deploy to new website in production, [Harold]
-- [ ] 2020-01-08, Load historical Membership transaction data into Stripe with email as key, [Harold]
+- [x] 2019-01-13, Regression testing complete, [Mike]
+- [ ] 2020-01-15, Deploy to new website in production, [Harold]
+- [ ] 2020-01-16, Load historical Membership transaction data into Stripe with email as key, [Harold]
 
 ## Leadership
 
