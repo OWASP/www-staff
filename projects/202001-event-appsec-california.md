@@ -63,7 +63,7 @@ Sponsorship Contract Status to Date (as of 03:15pmET January 14, 2020). Amount c
 - Code DX (CS) - paid in full 
 - Detectify (CS) - paid in full 
 - Extrahop (CS) - contract sent
-- GitLab - request sent to send invoice via Jira OSD#3365
+- GitLab - invoided
 - HackerOne - paid in full
 - HCL - invoiced
 - Intertrust (CS) - paid in full 
