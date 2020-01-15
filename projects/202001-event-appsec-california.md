@@ -44,7 +44,7 @@ For internal accounting practices, the revenue split for Corporate Sponsors who 
 
 ## Sponsorship Status
 
-Sponsorship Contract Status to Date (as of 11:00amET January 15, 2020). Amount contracted: $302,225/USD Amount Collected: $184,900/USD
+Sponsorship Contract Status to Date (as of 11:00amET January 15, 2020). Amount contracted: $304,125/USD Amount Collected: $194,200/USD (includes Career Fair sponsorships)
 
 #### Diamond (3) - SOLD OUT
 - Contrast Security - invoiced
@@ -77,7 +77,7 @@ Sponsorship Contract Status to Date (as of 11:00amET January 15, 2020). Amount c
 - Security Journey (CS) - paid in full
 - Snyk (CS) - paid in full 
 - Sonatype - paid in full
-- Sqreen (CS) - invoiced
+- Sqreen (CS) - paid in full 
 - Synopsys (CS) - paid in full
 - Wallarm (CS) - paid in full
 - Waratek (CS) - paid in full 
