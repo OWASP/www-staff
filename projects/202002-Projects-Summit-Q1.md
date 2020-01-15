@@ -40,6 +40,7 @@ Leaders of projects selected are required to attend or that project will not be 
 - [ ] 2020-01-26, Project Nomination Form Closes, [Harold]
 - [ ] 2020-01-26, Form online to accept Attendee registrations (wuFoo), [Mike]
 - [ ] 2020-01-28, Projects Selected (5), [Harold]
+- [ ] 2020-02-01, Swag ordered (challenge coin), [Lisa]
 - [ ] 2020-02-10, Flight bookings complete to qualify for reimbursement/travel assistance grants
 - [ ] 2020-02-26, Arrival Day
 - [ ] 2020-02-27, Summitt Hours 10a-6p
