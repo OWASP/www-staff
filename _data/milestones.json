@@ -85,13 +85,6 @@
     },
     {
         "milestone_date": "2020-01-07",
-        "description": "Redirect inventory from SEO firm",
-        "owner": "Harold",
-        "project_name": "Website Re-launch",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-01-07",
         "description": "Policy pages migrated and ready for community review and Board Approval",
         "owner": "Mike",
         "project_name": "Website Re-launch",
@@ -137,40 +130,33 @@
         "description": "Retire SalesForce member notification system",
         "owner": "Harold",
         "project_name": "2019Q4 Marketing",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-01-14",
         "description": "Validate in-bound search redirect working on events/policy pages",
         "owner": "Harold",
         "project_name": "Website Re-launch",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-01-14",
         "description": "Validate search redirect working site-wide",
         "owner": "Harold",
         "project_name": "Website Re-launch",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-01-14",
         "description": "Redirect system in place and ready for launch",
         "owner": "No Owner",
         "project_name": "Website Re-launch",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-01-15",
         "description": "Website Launch",
         "owner": "Harold",
-        "project_name": "Website Re-launch",
-        "status": "on-time"
-    },
-    {
-        "milestone_date": "2020-01-15",
-        "description": "Events form (poc)",
-        "owner": "Simon",
         "project_name": "Website Re-launch",
         "status": "on-time"
     },
@@ -189,7 +175,7 @@
         "status": "on-time"
     },
     {
-        "milestone_date": "2020-01-17",
+        "milestone_date": "2020-01-20",
         "description": "Metadata template information from SEO firm",
         "owner": "Harold",
         "project_name": "Website Re-launch",
@@ -319,6 +305,13 @@
         "description": "CFT/CFP Review Complete",
         "owner": "Emily",
         "project_name": "Global AppSec - Dublin 2020",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2020-02-15",
+        "description": "Events form (poc)",
+        "owner": "Simon",
+        "project_name": "Website Re-launch",
         "status": "future"
     },
     {
