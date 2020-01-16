@@ -29,11 +29,11 @@
                 "status": "overdue"
             },
             {
-                "milestone_date": "2019-12-31",
-                "description": "Connect Susan with Project Leaders for copy",
+                "milestone_date": "2020-01-31",
+                "description": "Connect Virtual with Project Leaders for copy",
                 "owner": "Mike",
                 "project_name": "2019Q4 Marketing",
-                "status": "overdue"
+                "status": "on-time"
             }
         ],
         "description": "tle: 2019Q4 Marketinglayout: full-width---# 2019Q4 Marketing",
@@ -44,21 +44,7 @@
         "name": "Donation Form",
         "milestones": [
             {
-                "milestone_date": "2019-12-22",
-                "description": "Project Complete ready for deployment",
-                "owner": "Simon",
-                "project_name": "Donation Form",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2019-12-31",
-                "description": "Regression testing complete",
-                "owner": "Mike",
-                "project_name": "Donation Form",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-01-07",
+                "milestone_date": "2020-01-15",
                 "description": "Deploy to new website in production",
                 "owner": "Harold",
                 "project_name": "Donation Form",
@@ -82,25 +68,18 @@
         "name": "Membership Form",
         "milestones": [
             {
-                "milestone_date": "2019-12-31",
-                "description": "Regression testing complete",
-                "owner": "Mike",
-                "project_name": "Membership Form",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-01-07",
+                "milestone_date": "2020-01-15",
                 "description": "Deploy to new website in production",
                 "owner": "Harold",
                 "project_name": "Membership Form",
                 "status": "overdue"
             },
             {
-                "milestone_date": "2020-01-08",
+                "milestone_date": "2020-01-16",
                 "description": "Load historical Membership transaction data into Stripe with email as key",
                 "owner": "Harold",
                 "project_name": "Membership Form",
-                "status": "overdue"
+                "status": "on-time"
             }
         ],
         "description": "As part of the OWASP website migration, we will creating a new membership form and process that will use Stripe as a back end. Following the successful test of the Donation Form, this project should be relatively easy with some small differences from that project. Once implemented, we will unwide our dependency on Fontiva and will migrate to using Mailchimp as a \"light\" member CRM with all history transaction data stored in Stripe.Current demo is at https://www2.owasp.org/membership",
@@ -132,28 +111,14 @@
         "name": "Website Re-launch",
         "milestones": [
             {
-                "milestone_date": "2020-01-07",
-                "description": "Policy pages migrated and ready for community review and Board Approval",
-                "owner": "Mike",
-                "project_name": "Website Re-launch",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-01-14",
-                "description": "Validate in-bound search redirect working on events/policy pages",
-                "owner": "Harold",
-                "project_name": "Website Re-launch",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-01-14",
+                "milestone_date": "2020-01-16",
                 "description": "Validate search redirect working site-wide",
                 "owner": "Harold",
                 "project_name": "Website Re-launch",
-                "status": "overdue"
+                "status": "on-time"
             },
             {
-                "milestone_date": "2020-01-14",
+                "milestone_date": "2020-01-15",
                 "description": "Redirect system in place and ready for launch",
                 "owner": "No Owner",
                 "project_name": "Website Re-launch",
@@ -164,7 +129,7 @@
                 "description": "Website Launch",
                 "owner": "Harold",
                 "project_name": "Website Re-launch",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-01-20",
@@ -185,14 +150,14 @@
                 "description": "Events form (poc)",
                 "owner": "Simon",
                 "project_name": "Website Re-launch",
-                "status": "future"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-02-15",
                 "description": "Validate Meetup Connector",
                 "owner": "Harold",
                 "project_name": "Website Re-launch",
-                "status": "future"
+                "status": "on-time"
             }
         ],
         "description": "Before December 20, 2019, the Foundation will launch a new website designed to engage visitors and professionally convey the value of our collective work. Rather than just re-skinning our current wiki or placing a simplified landing page in front of our site, we plan to migrate to an entirely new platform. The project must better connect with our developer audience and be valuable when visited on a variety of devices. It must be possible for elements of our site to be managed by our communities or through automation and any platform change must retain these attributes as well as ensuring continuity of analytics, permissions design, and redirect of inbound links. A proof of concept will be complete by July 1. Once the new website is launched, the wiki will be archived through 2020 for historical purposes.Upon the completion of this project, OWASP.org will be hosted in Github. The architecture will place a repository for each logical entity of the foundation in one organizational account. For instance, there would be a repo for each chapter, project, event, and several other organizational entities. This design will increase source control and allow us to connect visitors with the content that is of interest to them.",
@@ -430,7 +395,7 @@
                 "description": "Venue 70% Remaining balance due of $32,457.60",
                 "owner": "Emily",
                 "project_name": "Projects Summit - Winter 2020",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-01-26",
@@ -450,6 +415,13 @@
                 "milestone_date": "2020-01-28",
                 "description": "Projects Selected (5)",
                 "owner": "Harold",
+                "project_name": "Projects Summit - Winter 2020",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-02-01",
+                "description": "Swag ordered (challenge coin)",
+                "owner": "Lisa",
                 "project_name": "Projects Summit - Winter 2020",
                 "status": "on-time"
             },
@@ -520,37 +492,30 @@
         "name": "BlackHat Asia 2020",
         "milestones": [
             {
-                "milestone_date": "2020-01-08",
-                "description": "OSD-3340](https://owasporg.atlassian.net/browse/OSD-3340) submitted for Mike to sign",
-                "owner": "No Owner",
-                "project_name": "BlackHat Asia 2020",
-                "status": "overdue"
-            },
-            {
                 "milestone_date": "2020-01-24",
                 "description": "ufoo Volunteer form created and posted and emailed",
-                "owner": "No Owner",
+                "owner": "Lisa",
                 "project_name": "BlackHat Asia 2020",
                 "status": "on-time"
             },
             {
                 "milestone_date": "2020-02-17",
                 "description": "romotional merchandise and handouts decided",
-                "owner": "No Owner",
+                "owner": "Lisa",
                 "project_name": "BlackHat Asia 2020",
                 "status": "future"
             },
             {
                 "milestone_date": "2020-03-01",
                 "description": "rder Merchandise and handouts",
-                "owner": "No Owner",
+                "owner": "Lisa",
                 "project_name": "BlackHat Asia 2020",
                 "status": "future"
             },
             {
                 "milestone_date": "2020-03-15",
                 "description": "ll volunteers registered",
-                "owner": "No Owner",
+                "owner": "Lisa",
                 "project_name": "BlackHat Asia 2020",
                 "status": "future"
             },
@@ -565,8 +530,8 @@
         "description": "Black Hat returns to Marina Bay Sands in Singapore, March 31 - April 3, 2020. The information security community comes together for esteemed Trainings taught by industry experts, innovative research presentations at Briefings, the latest open-source tool demos in Arsenal, and the Business Hall featuring top-tier solutions and service providers.",
         "leaders": [
             {
-                "name": "Mike McCamon",
-                "email": "mike.mccamon@owasp.com"
+                "name": "Lisa Jones",
+                "email": "lisa.jones@owasp.com"
             }
         ],
         "url": "https://www2.owasp.org/www-staff/projects/202003-Blackhat-Asia"
@@ -579,7 +544,7 @@
                 "description": "Ship Stickers to SnowFROC, 12/11/19 told Mike need cc to order.",
                 "owner": "Lisa",
                 "project_name": "OWASP SnowFROC",
-                "status": "future"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-02-05",
@@ -636,20 +601,6 @@
         "name": "Global AppSec - Dublin 2020",
         "milestones": [
             {
-                "milestone_date": "2019-12-31",
-                "description": "Close Call for Program Team Members",
-                "owner": "Emily",
-                "project_name": "Global AppSec - Dublin 2020",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-02-01",
-                "description": "General Service Contract Signed",
-                "owner": "Emily",
-                "project_name": "Global AppSec - Dublin 2020",
-                "status": "on-time"
-            },
-            {
                 "milestone_date": "2020-01-06",
                 "description": "Payment 45% of Rental Fee due",
                 "owner": "Emily",
@@ -662,6 +613,13 @@
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin 2020",
                 "status": "overdue"
+            },
+            {
+                "milestone_date": "2020-02-01",
+                "description": "General Service Contract Signed",
+                "owner": "Emily",
+                "project_name": "Global AppSec - Dublin 2020",
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-02-01",
@@ -936,7 +894,7 @@
                 "description": "General Service Contract Signed",
                 "owner": "Emily",
                 "project_name": "Global AppSec - San Francisco",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-01-02",
@@ -1047,15 +1005,8 @@
         "name": "LASCON 2020",
         "milestones": [
             {
-                "milestone_date": "2019-12-31",
-                "description": "Initial payment for venue $3,000 OSD-3301",
-                "owner": "Mike",
-                "project_name": "LASCON 2020",
-                "status": "overdue"
-            },
-            {
                 "milestone_date": "2020-03-10",
-                "description": "2nd Payment of $3,000 due to venu",
+                "description": "2nd Payment of $3,000 due to venue",
                 "owner": "Emily",
                 "project_name": "LASCON 2020",
                 "status": "future"
