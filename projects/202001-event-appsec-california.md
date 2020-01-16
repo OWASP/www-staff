@@ -53,7 +53,7 @@ Sponsorship Contract Status to Date (as of 11:00amET January 15, 2020). Amount c
 
 #### Platinum - SOLD OUT
 - Zero North (CS) - paid in full 
-- Signal Sciences - contract sent
+- Signal Sciences - request sent to send invoice Jira OSD-3377
 
 #### Gold - SOLD OUT
 - Altitude Networks (CS) - paid in full
@@ -66,7 +66,7 @@ Sponsorship Contract Status to Date (as of 11:00amET January 15, 2020). Amount c
 - Extrahop (CS) - contract sent
 - GitLab - invoided
 - HackerOne - paid in full
-- HCL - invoiced
+- HCL - paid in full 
 - Intertrust (CS) - paid in full 
 - Lyft (CS) - invoiced
 - MicroFocus - paid in full
@@ -84,7 +84,7 @@ Sponsorship Contract Status to Date (as of 11:00amET January 15, 2020). Amount c
 - Waratek (CS) - paid in full 
 
 #### Conference Bag Sponsorship (2) - SOLD OUT
-- NCC Group - invoiced
+- NCC Group - sent cc author to finance to process payment
 - SecureWorks - invoiced
 
 #### Lanyard Sponsorship (1) - SOLD OUT
@@ -103,7 +103,7 @@ Sponsorship Contract Status to Date (as of 11:00amET January 15, 2020). Amount c
 
 #### Women in AppSec/Diversity Breakfast Sponsorship (3)
 - Detectify - paid in full 
-- Sqreen - request sent to send invoice via Jira OSD-3361
+- Sqreen - paid in full 
 
 #### Lunch Sponsor (2 - 1 each day)
 - Segment - invoiced
@@ -114,6 +114,8 @@ Sponsorship Contract Status to Date (as of 11:00amET January 15, 2020). Amount c
 #### Career Fair 
 - Citrix - paid in full 
 - Motion Recruitment - contract sent
+- iHerb - invoiced
+- Bird Rides - contract sent
 
 
 ## Insurance Requirements from Venue Contract
