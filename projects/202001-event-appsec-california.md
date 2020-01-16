@@ -100,6 +100,7 @@ Sponsorship Contract Status to Date (as of 11:00amET January 15, 2020). Amount c
 - Rapid7 - invoice sent
 
 #### Conference Bag Supporter
+- Cyvatar - contract sent
 
 #### Women in AppSec/Diversity Breakfast Sponsorship (3)
 - Detectify - paid in full 
