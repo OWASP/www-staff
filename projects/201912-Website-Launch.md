@@ -39,10 +39,10 @@ Upon the completion of this project, OWASP.org will be hosted in Github. The arc
 * [x] 2020-01-07, Redirect inventory from SEO firm (received 13-Jan) [Harold]
 * [x] 2020-01-07, Policy pages migrated and ready for community review, [Mike]
 * [x] 2020-01-14, Validate Google Analytics instance running (Completed 6-Jan 1pm CT), [Harold]
-* [ ] 2020-01-16, Validate search redirect working site-wide, [Harold]
-* [ ] 2020-01-15, Redirect system in place and ready for launch
-* [ ] 2020-01-15, Website Launch [Harold]
-* [ ] 2020-01-16, Validate all Member curriculum is pointing to owasp.org domain (not www2), [Mike]
+* [x] 2020-01-16, Validate search redirect working site-wide, [Harold]
+* [x] 2020-01-15, Redirect system in place and ready for launch
+* [x] 2020-01-15, Website Launch [Harold]
+* [x] 2020-01-16, Validate all Member curriculum is pointing to owasp.org domain (not www2), [Mike]
 * [ ] 2020-01-20, Metadata template information from SEO firm, [Harold]
 * [ ] 2020-01-22, Integrate meta tag info into templates, [Harold]
 * [ ] 2020-02-15, Events form (poc) [Simon]
