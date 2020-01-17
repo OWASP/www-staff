@@ -79,6 +79,27 @@
                 "description": "Load historical Membership transaction data into Stripe with email as key",
                 "owner": "Harold",
                 "project_name": "Membership Form",
+                "status": "overdue"
+            },
+            {
+                "milestone_date": "2020-01-16",
+                "description": "Load current membership database into Mailchimp OWASP-Main list",
+                "owner": "Mike",
+                "project_name": "Membership Form",
+                "status": "overdue"
+            },
+            {
+                "milestone_date": "2020-01-16",
+                "description": "Send email to Recurring members on old system informing them of change and need to RENEW",
+                "owner": "Mike",
+                "project_name": "Membership Form",
+                "status": "overdue"
+            },
+            {
+                "milestone_date": "2020-02-16",
+                "description": "Develop Recurring member \"your membership is renewing\" curriculum for launch by 1-Sept",
+                "owner": "Mike",
+                "project_name": "Membership Form",
                 "status": "on-time"
             }
         ],
@@ -115,7 +136,7 @@
                 "description": "Validate search redirect working site-wide",
                 "owner": "Harold",
                 "project_name": "Website Re-launch",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-01-15",
@@ -128,6 +149,13 @@
                 "milestone_date": "2020-01-15",
                 "description": "Website Launch",
                 "owner": "Harold",
+                "project_name": "Website Re-launch",
+                "status": "overdue"
+            },
+            {
+                "milestone_date": "2020-01-16",
+                "description": "Validate all Member curriculum is pointing to owasp.org domain (not www2)",
+                "owner": "Mike",
                 "project_name": "Website Re-launch",
                 "status": "overdue"
             },
@@ -601,18 +629,11 @@
         "name": "Global AppSec - Dublin 2020",
         "milestones": [
             {
-                "milestone_date": "2020-01-06",
-                "description": "Payment 45% of Rental Fee due",
-                "owner": "Emily",
-                "project_name": "Global AppSec - Dublin 2020",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-01-10",
+                "milestone_date": "2020-01-27",
                 "description": "Open CFT/CFP",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin 2020",
-                "status": "overdue"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-02-01",
@@ -622,22 +643,15 @@
                 "status": "on-time"
             },
             {
-                "milestone_date": "2020-02-01",
+                "milestone_date": "2020-02-28",
+                "description": "Close CFT/CFP",
+                "owner": "Emily",
+                "project_name": "Global AppSec - Dublin 2020",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-03-01",
                 "description": "Keynotes Announces",
-                "owner": "Emily",
-                "project_name": "Global AppSec - Dublin 2020",
-                "status": "on-time"
-            },
-            {
-                "milestone_date": "2020-02-14",
-                "description": "CFT/CFP Review Complete",
-                "owner": "Emily",
-                "project_name": "Global AppSec - Dublin 2020",
-                "status": "on-time"
-            },
-            {
-                "milestone_date": "2020-03-09",
-                "description": "Prgram Announced",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin 2020",
                 "status": "future"
@@ -664,8 +678,22 @@
                 "status": "future"
             },
             {
+                "milestone_date": "2020-03-27",
+                "description": "CFT/CFP Review Complete",
+                "owner": "Emily",
+                "project_name": "Global AppSec - Dublin 2020",
+                "status": "future"
+            },
+            {
                 "milestone_date": "2020-04-01",
                 "description": "AV Contract Signed",
+                "owner": "Emily",
+                "project_name": "Global AppSec - Dublin 2020",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-04-10",
+                "description": "Program Announced",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin 2020",
                 "status": "future"
