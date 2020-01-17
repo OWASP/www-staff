@@ -21,24 +21,10 @@
         "status": "overdue"
     },
     {
-        "milestone_date": "2020-01-06",
-        "description": "Payment 45% of Rental Fee due",
-        "owner": "Emily",
-        "project_name": "Global AppSec - Dublin 2020",
-        "status": "overdue"
-    },
-    {
         "milestone_date": "2020-01-10",
         "description": "Wireframe of Event Form",
         "owner": "Mike",
         "project_name": "Events Form",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-01-10",
-        "description": "Open CFT/CFP",
-        "owner": "Emily",
-        "project_name": "Global AppSec - Dublin 2020",
         "status": "overdue"
     },
     {
@@ -102,14 +88,35 @@
         "description": "Load historical Membership transaction data into Stripe with email as key",
         "owner": "Harold",
         "project_name": "Membership Form",
-        "status": "on-time"
+        "status": "overdue"
+    },
+    {
+        "milestone_date": "2020-01-16",
+        "description": "Load current membership database into Mailchimp OWASP-Main list",
+        "owner": "Mike",
+        "project_name": "Membership Form",
+        "status": "overdue"
+    },
+    {
+        "milestone_date": "2020-01-16",
+        "description": "Send email to Recurring members on old system informing them of change and need to RENEW",
+        "owner": "Mike",
+        "project_name": "Membership Form",
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-01-16",
         "description": "Validate search redirect working site-wide",
         "owner": "Harold",
         "project_name": "Website Re-launch",
-        "status": "on-time"
+        "status": "overdue"
+    },
+    {
+        "milestone_date": "2020-01-16",
+        "description": "Validate all Member curriculum is pointing to owasp.org domain (not www2)",
+        "owner": "Mike",
+        "project_name": "Website Re-launch",
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-01-20",
@@ -175,6 +182,13 @@
         "status": "on-time"
     },
     {
+        "milestone_date": "2020-01-27",
+        "description": "Open CFT/CFP",
+        "owner": "Emily",
+        "project_name": "Global AppSec - Dublin 2020",
+        "status": "on-time"
+    },
+    {
         "milestone_date": "2020-01-28",
         "description": "Projects Selected (5)",
         "owner": "Harold",
@@ -198,13 +212,6 @@
     {
         "milestone_date": "2020-02-01",
         "description": "General Service Contract Signed",
-        "owner": "Emily",
-        "project_name": "Global AppSec - Dublin 2020",
-        "status": "on-time"
-    },
-    {
-        "milestone_date": "2020-02-01",
-        "description": "Keynotes Announces",
         "owner": "Emily",
         "project_name": "Global AppSec - Dublin 2020",
         "status": "on-time"
@@ -252,13 +259,6 @@
         "status": "on-time"
     },
     {
-        "milestone_date": "2020-02-14",
-        "description": "CFT/CFP Review Complete",
-        "owner": "Emily",
-        "project_name": "Global AppSec - Dublin 2020",
-        "status": "on-time"
-    },
-    {
         "milestone_date": "2020-02-15",
         "description": "Events form (poc)",
         "owner": "Simon",
@@ -277,6 +277,13 @@
         "description": "Ship Stickers to SnowFROC, 12/11/19 told Mike need cc to order.",
         "owner": "Lisa",
         "project_name": "OWASP SnowFROC",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2020-02-16",
+        "description": "Develop Recurring member \"your membership is renewing\" curriculum for launch by 1-Sept",
+        "owner": "Mike",
+        "project_name": "Membership Form",
         "status": "on-time"
     },
     {
@@ -315,6 +322,13 @@
         "status": "future"
     },
     {
+        "milestone_date": "2020-02-28",
+        "description": "Close CFT/CFP",
+        "owner": "Emily",
+        "project_name": "Global AppSec - Dublin 2020",
+        "status": "future"
+    },
+    {
         "milestone_date": "2020-02-29",
         "description": "Summitt Hours 9a-5p",
         "owner": "No Owner",
@@ -337,6 +351,13 @@
     },
     {
         "milestone_date": "2020-03-01",
+        "description": "Keynotes Announces",
+        "owner": "Emily",
+        "project_name": "Global AppSec - Dublin 2020",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-03-01",
         "description": "Close CFT/CFP",
         "owner": "Emily",
         "project_name": "Global AppSec - San Francisco",
@@ -347,13 +368,6 @@
         "description": "SnowFROC, Denver",
         "owner": "No Owner",
         "project_name": "OWASP SnowFROC",
-        "status": "future"
-    },
-    {
-        "milestone_date": "2020-03-09",
-        "description": "Prgram Announced",
-        "owner": "Emily",
-        "project_name": "Global AppSec - Dublin 2020",
         "status": "future"
     },
     {
@@ -406,6 +420,13 @@
         "status": "future"
     },
     {
+        "milestone_date": "2020-03-27",
+        "description": "CFT/CFP Review Complete",
+        "owner": "Emily",
+        "project_name": "Global AppSec - Dublin 2020",
+        "status": "future"
+    },
+    {
         "milestone_date": "2020-03-31",
         "description": "BlackHat Asia",
         "owner": "All",
@@ -431,6 +452,13 @@
         "description": "Registration Opens",
         "owner": "Emily",
         "project_name": "Global AppSec - San Francisco",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-04-10",
+        "description": "Program Announced",
+        "owner": "Emily",
+        "project_name": "Global AppSec - Dublin 2020",
         "status": "future"
     },
     {
