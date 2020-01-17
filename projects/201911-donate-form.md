@@ -29,7 +29,8 @@ Current working demo at [https://www2.owasp.org/donate](https://www2.owasp.org/d
 - [x] 2019-11-22, Form completed for demonstration, [Simon]
 - [x] 2019-12-22, Project Complete ready for deployment, [Simon]
 - [x] 2020-01-13, Regression testing complete, [Mike]
-- [ ] 2020-01-15, Deploy to new website in production, [Harold]
+- [x] 2020-01-15, Deploy to new website in production, [Harold]
+- [ ] 2020-01-21, Deploy Bots into production, [Harold]
 
 ## Leadership
 
