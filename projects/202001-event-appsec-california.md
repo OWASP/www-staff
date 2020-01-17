@@ -44,7 +44,7 @@ For internal accounting practices, the revenue split for Corporate Sponsors who 
 
 ## Sponsorship Status
 
-Sponsorship Contract Status to Date (as of 11:00amET January 15, 2020). Amount contracted: $315,400/USD Amount Collected: $194,200/USD (includes Career Fair sponsorships)
+Sponsorship Contract Status to Date (as of 08:00amET January 17, 2020). Amount contracted: $320,150/USD Amount Collected: $206,900/USD (amounts include Career Fair sponsorships)
 
 #### Diamond (3) - SOLD OUT
 - Contrast Security - invoiced
@@ -100,7 +100,7 @@ Sponsorship Contract Status to Date (as of 11:00amET January 15, 2020). Amount c
 - Rapid7 - invoice sent
 
 #### Conference Bag Supporter
-- Cyvatar - contract sent
+- Cyvatar - request sent to send invoice via Jira OSD-3382
 
 #### Women in AppSec/Diversity Breakfast Sponsorship (3)
 - Detectify - paid in full 
@@ -116,7 +116,7 @@ Sponsorship Contract Status to Date (as of 11:00amET January 15, 2020). Amount c
 - Citrix - paid in full 
 - Motion Recruitment - contract sent
 - iHerb - invoiced
-- Bird Rides - contract sent
+- Bird Rides - request sent to send invoice via Jira OSD-3381
 
 
 ## Insurance Requirements from Venue Contract
