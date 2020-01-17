@@ -44,7 +44,7 @@ For internal accounting practices, the revenue split for Corporate Sponsors who 
 
 ## Sponsorship Status
 
-Sponsorship Contract Status to Date (as of 08:00amET January 17, 2020). Amount contracted: $320,150/USD Amount Collected: $206,900/USD (amounts include Career Fair sponsorships)
+Sponsorship Contract Status to Date (as of 08:00amET January 17, 2020). Amount contracted: $320,150/USD Amount Collected: $208,450/USD (amounts include Career Fair sponsorships)
 
 #### Diamond (3) - SOLD OUT
 - Contrast Security - invoiced
@@ -84,7 +84,7 @@ Sponsorship Contract Status to Date (as of 08:00amET January 17, 2020). Amount c
 - Waratek (CS) - paid in full 
 
 #### Conference Bag Sponsorship (2) - SOLD OUT
-- NCC Group - sent cc author to finance to process payment
+- NCC Group - paid in full
 - SecureWorks - invoiced
 
 #### Lanyard Sponsorship (1) - SOLD OUT
