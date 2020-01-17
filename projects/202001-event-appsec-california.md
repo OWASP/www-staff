@@ -53,7 +53,7 @@ Sponsorship Contract Status to Date (as of 08:00amET January 17, 2020). Amount c
 
 #### Platinum - SOLD OUT
 - Zero North (CS) - paid in full 
-- Signal Sciences - request sent to send invoice Jira OSD-3377
+- Signal Sciences - invoiced 
 
 #### Gold - SOLD OUT
 - Altitude Networks (CS) - paid in full
