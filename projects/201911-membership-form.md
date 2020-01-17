@@ -11,7 +11,7 @@ layout: full-width
 
 As part of the OWASP website migration, we will creating a new membership form and process that will use Stripe as a back end. Following the successful test of the Donation Form, this project should be relatively easy with some small differences from that project. Once implemented, we will unwide our dependency on Fontiva and will migrate to using Mailchimp as a "light" member CRM with all history transaction data stored in Stripe.
 
-Current demo is at https://www2.owasp.org/membership
+Production is at https://owasp.org/membership
 
 ## Goals
 1. Securely host a form oun our public github instance and collect donations
@@ -28,11 +28,12 @@ Current demo is at https://www2.owasp.org/membership
 - [x] 2019-12-17, Have Board vote to set 50% discount for residents of bottom 50% of Adjusted net national income per capita (current US$) [https://data.worldbank.org/indicator/NY.ADJ.NNTY.PC.CD](https://data.worldbank.org/indicator/NY.ADJ.NNTY.PC.CD), [Mike]
 - [x] 2019-12-20, Project Complete ready for deployment, [Simon]
 - [x] 2019-01-13, Regression testing complete, [Mike]
-- [ ] 2020-01-15, Deploy to new website in production, [Harold]
+- [x] 2020-01-15, Deploy to new website in production, [Harold]
 - [ ] 2020-01-16, Load historical Membership transaction data into Stripe with email as key, [Harold]
-- [ ] 2020-01-16, Load current membership database into Mailchimp OWASP-Main list, [Mike]
+- [x] 2020-01-16, Load current membership database into Mailchimp OWASP-Main list, [Mike]
 - [ ] 2020-01-16, Send email to Recurring members on old system informing them of change and need to RENEW, [Mike]
-- [ ] 2020-02-16, Develop Recurring member "your membership is renewing" curriculum for launch by 1-Sept, [Mike]
+- [ ] 2020-01-21, Launch Bots into production, [Harold]
+- [ ] 2020-02-16, Develop Recurring member "your membership is renewing" curriculum for launch by 1-Sept, [Mike] 
 
 ## Leadership
 
