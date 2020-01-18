@@ -4,7 +4,7 @@
         "milestones": [],
         "description": "Today our institutional name and the events we host are not protected by copyright. The Foundation will endeavor to register the following marks in the United States, European Union, and the United Kingdom: OWASP, Open Web Application Security Project, Global AppSec, and AppSec Days. Additionally the Foundation will register our figure mark (logo) in these same three domiciles. Once completed, the Foundation will develop and share a Trademark Guidelines document for events, chapters, and projects along with implementing these changes on our websites and event names. At this time, the Foundation does not expect to fund any enforcement activities.",
         "leaders": [],
-        "url": "https://www2.owasp.org/www-staff/projects/201902-Trademarks"
+        "url": "https://owasp.org/www-staff/projects/201902-Trademarks"
     },
     {
         "name": "Email Clean-Up",
@@ -16,7 +16,7 @@
                 "email": "mike.mccamon@owasp.com"
             }
         ],
-        "url": "https://www2.owasp.org/www-staff/projects/201910-Email-Cleanup"
+        "url": "https://owasp.org/www-staff/projects/201910-Email-Cleanup"
     },
     {
         "name": "2019Q4 Marketing",
@@ -38,17 +38,17 @@
         ],
         "description": "tle: 2019Q4 Marketinglayout: full-width---# 2019Q4 Marketing",
         "leaders": [],
-        "url": "https://www2.owasp.org/www-staff/projects/201910-marketing"
+        "url": "https://owasp.org/www-staff/projects/201910-marketing"
     },
     {
         "name": "Donation Form",
         "milestones": [
             {
-                "milestone_date": "2020-01-15",
-                "description": "Deploy to new website in production",
+                "milestone_date": "2020-01-21",
+                "description": "Deploy Bots into production",
                 "owner": "Harold",
                 "project_name": "Donation Form",
-                "status": "overdue"
+                "status": "on-time"
             }
         ],
         "description": "As part of the OWASP website migration, we will creating a new Donation form that will use Stripe as a back end. This should be a simple form that is hosted on the website and will serve as a proof of concept for (1) hosting secure forms on github, (2) test the viability of Stripe for payment processing, and (3) integrating Stripe form activities with light integrations with other key data in the OWASP ecosystem.Current working demo at [https://www2.owasp.org/donate](https://www2.owasp.org/donate) Form will handle &title and &currency parameters",
@@ -62,29 +62,15 @@
                 "email": "mike.mccamon@owasp.com"
             }
         ],
-        "url": "https://www2.owasp.org/www-staff/projects/201911-donate-form"
+        "url": "https://owasp.org/www-staff/projects/201911-donate-form"
     },
     {
         "name": "Membership Form",
         "milestones": [
             {
-                "milestone_date": "2020-01-15",
-                "description": "Deploy to new website in production",
-                "owner": "Harold",
-                "project_name": "Membership Form",
-                "status": "overdue"
-            },
-            {
                 "milestone_date": "2020-01-16",
                 "description": "Load historical Membership transaction data into Stripe with email as key",
                 "owner": "Harold",
-                "project_name": "Membership Form",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-01-16",
-                "description": "Load current membership database into Mailchimp OWASP-Main list",
-                "owner": "Mike",
                 "project_name": "Membership Form",
                 "status": "overdue"
             },
@@ -96,6 +82,13 @@
                 "status": "overdue"
             },
             {
+                "milestone_date": "2020-01-21",
+                "description": "Launch Bots into production",
+                "owner": "Harold",
+                "project_name": "Membership Form",
+                "status": "on-time"
+            },
+            {
                 "milestone_date": "2020-02-16",
                 "description": "Develop Recurring member \"your membership is renewing\" curriculum for launch by 1-Sept",
                 "owner": "Mike",
@@ -103,7 +96,7 @@
                 "status": "on-time"
             }
         ],
-        "description": "As part of the OWASP website migration, we will creating a new membership form and process that will use Stripe as a back end. Following the successful test of the Donation Form, this project should be relatively easy with some small differences from that project. Once implemented, we will unwide our dependency on Fontiva and will migrate to using Mailchimp as a \"light\" member CRM with all history transaction data stored in Stripe.Current demo is at https://www2.owasp.org/membership",
+        "description": "As part of the OWASP website migration, we will creating a new membership form and process that will use Stripe as a back end. Following the successful test of the Donation Form, this project should be relatively easy with some small differences from that project. Once implemented, we will unwide our dependency on Fontiva and will migrate to using Mailchimp as a \"light\" member CRM with all history transaction data stored in Stripe.Production is at https://owasp.org/membership",
         "leaders": [
             {
                 "name": "Harold Blankenship ",
@@ -114,7 +107,7 @@
                 "email": "mike.mccamon@owasp.com"
             }
         ],
-        "url": "https://www2.owasp.org/www-staff/projects/201911-membership-form"
+        "url": "https://owasp.org/www-staff/projects/201911-membership-form"
     },
     {
         "name": "Consolidate Web Infrastructure",
@@ -126,39 +119,11 @@
                 "email": "harold.blankenship@owasp.com"
             }
         ],
-        "url": "https://www2.owasp.org/www-staff/projects/201912-Consolidate-Web-Infrastructure"
+        "url": "https://owasp.org/www-staff/projects/201912-Consolidate-Web-Infrastructure"
     },
     {
         "name": "Website Re-launch",
         "milestones": [
-            {
-                "milestone_date": "2020-01-16",
-                "description": "Validate search redirect working site-wide",
-                "owner": "Harold",
-                "project_name": "Website Re-launch",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-01-15",
-                "description": "Redirect system in place and ready for launch",
-                "owner": "No Owner",
-                "project_name": "Website Re-launch",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-01-15",
-                "description": "Website Launch",
-                "owner": "Harold",
-                "project_name": "Website Re-launch",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-01-16",
-                "description": "Validate all Member curriculum is pointing to owasp.org domain (not www2)",
-                "owner": "Mike",
-                "project_name": "Website Re-launch",
-                "status": "overdue"
-            },
             {
                 "milestone_date": "2020-01-20",
                 "description": "Metadata template information from SEO firm",
@@ -199,7 +164,7 @@
                 "email": "mike.mccamon@owasp.com"
             }
         ],
-        "url": "https://www2.owasp.org/www-staff/projects/201912-Website-Launch"
+        "url": "https://owasp.org/www-staff/projects/201912-Website-Launch"
     },
     {
         "name": "Events Form",
@@ -262,7 +227,7 @@
                 "email": "mike.mccamon@owasp.com"
             }
         ],
-        "url": "https://www2.owasp.org/www-staff/projects/201912-events-form"
+        "url": "https://owasp.org/www-staff/projects/201912-events-form"
     },
     {
         "name": "Mailchimp as CRM",
@@ -278,7 +243,7 @@
                 "email": "harold.blankenship@owasp.com"
             }
         ],
-        "url": "https://www2.owasp.org/www-staff/projects/201912-mailchimp"
+        "url": "https://owasp.org/www-staff/projects/201912-mailchimp"
     },
     {
         "name": "OWASP Staff Holidays",
@@ -295,7 +260,7 @@
                 "description": "Presidents Day",
                 "owner": "No Owner",
                 "project_name": "OWASP Staff Holidays",
-                "status": "future"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-05-25",
@@ -368,7 +333,7 @@
                 "email": ""
             }
         ],
-        "url": "https://www2.owasp.org/www-staff/projects/2020-staff-holidays"
+        "url": "https://owasp.org/www-staff/projects/2020-staff-holidays"
     },
     {
         "name": "AppSec California 2020",
@@ -413,7 +378,7 @@
                 "email": "Elizabeth.Dugan@smgov.net"
             }
         ],
-        "url": "https://www2.owasp.org/www-staff/projects/202001-event-appsec-california"
+        "url": "https://owasp.org/www-staff/projects/202001-event-appsec-california"
     },
     {
         "name": "Projects Summit - Winter 2020",
@@ -514,35 +479,42 @@
                 "email": "emily.berman@owasp.com"
             }
         ],
-        "url": "https://www2.owasp.org/www-staff/projects/202002-Projects-Summit-Q1"
+        "url": "https://owasp.org/www-staff/projects/202002-Projects-Summit-Q1"
     },
     {
         "name": "BlackHat Asia 2020",
         "milestones": [
             {
                 "milestone_date": "2020-01-24",
-                "description": "ufoo Volunteer form created and posted and emailed",
+                "description": "Wufoo Volunteer form created and posted and emailed",
+                "owner": "Lisa",
+                "project_name": "BlackHat Asia 2020",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-01-31",
+                "description": "Set budget and put into Project Plan",
                 "owner": "Lisa",
                 "project_name": "BlackHat Asia 2020",
                 "status": "on-time"
             },
             {
                 "milestone_date": "2020-02-17",
-                "description": "romotional merchandise and handouts decided",
+                "description": "Promotional merchandise and handouts decided",
                 "owner": "Lisa",
                 "project_name": "BlackHat Asia 2020",
-                "status": "future"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-03-01",
-                "description": "rder Merchandise and handouts",
+                "description": "Order Merchandise and handouts",
                 "owner": "Lisa",
                 "project_name": "BlackHat Asia 2020",
                 "status": "future"
             },
             {
                 "milestone_date": "2020-03-15",
-                "description": "ll volunteers registered",
+                "description": "All volunteers registered",
                 "owner": "Lisa",
                 "project_name": "BlackHat Asia 2020",
                 "status": "future"
@@ -562,7 +534,7 @@
                 "email": "lisa.jones@owasp.com"
             }
         ],
-        "url": "https://www2.owasp.org/www-staff/projects/202003-Blackhat-Asia"
+        "url": "https://owasp.org/www-staff/projects/202003-Blackhat-Asia"
     },
     {
         "name": "OWASP SnowFROC",
@@ -623,7 +595,7 @@
                 "email": "emily.berman@owasp.com"
             }
         ],
-        "url": "https://www2.owasp.org/www-staff/projects/202003-snowfroc"
+        "url": "https://owasp.org/www-staff/projects/202003-snowfroc"
     },
     {
         "name": "Global AppSec - Dublin 2020",
@@ -752,7 +724,7 @@
                 "email": "emily.berman@owasp.com"
             }
         ],
-        "url": "https://www2.owasp.org/www-staff/projects/202006-GlobalAppSec-Dublin"
+        "url": "https://owasp.org/www-staff/projects/202006-GlobalAppSec-Dublin"
     },
     {
         "name": "Projects Summit - Summer",
@@ -888,7 +860,7 @@
                 "email": "emily.berman@owasp.com"
             }
         ],
-        "url": "https://www2.owasp.org/www-staff/projects/202007-Projects-Summit-Q3"
+        "url": "https://owasp.org/www-staff/projects/202007-Projects-Summit-Q3"
     },
     {
         "name": "BlackHat Las Vegas",
@@ -900,7 +872,7 @@
                 "email": "mike.mccamon@owasp.com"
             }
         ],
-        "url": "https://www2.owasp.org/www-staff/projects/202008-Blackhat-Las-Vegas"
+        "url": "https://owasp.org/www-staff/projects/202008-Blackhat-Las-Vegas"
     },
     {
         "name": "DEFCON 28",
@@ -912,7 +884,7 @@
                 "email": "lisa.jones@owasp.com"
             }
         ],
-        "url": "https://www2.owasp.org/www-staff/projects/202008-Defcon-28"
+        "url": "https://owasp.org/www-staff/projects/202008-Defcon-28"
     },
     {
         "name": "Global AppSec - San Francisco",
@@ -1027,7 +999,7 @@
                 "email": "mike.mccamon@owasp.com"
             }
         ],
-        "url": "https://www2.owasp.org/www-staff/projects/202010-Global-AppSec-SF"
+        "url": "https://owasp.org/www-staff/projects/202010-Global-AppSec-SF"
     },
     {
         "name": "LASCON 2020",
@@ -1072,6 +1044,6 @@
                 "email": "kyle.smith@owasp.org"
             }
         ],
-        "url": "https://www2.owasp.org/www-staff/projects/202010-event-lascon"
+        "url": "https://owasp.org/www-staff/projects/202010-event-lascon"
     }
 ]
