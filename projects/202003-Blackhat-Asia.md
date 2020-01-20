@@ -14,10 +14,10 @@ Black Hat returns to Marina Bay Sands in Singapore, March 31 - April 3, 2020. Th
 
 ## Conference at a Glance with Links
 
-- (Training Tuesday, March 31 - Friday, April 3 | https://www.blackhat.com/asia-20/training/schedule/index.html)
-- (Briefings Thursday, April 2 - Friday, April 3 | https://www.blackhat.com/asia-20/briefings/schedule/index.html)
-- (Business Hall Thursday, April 2 - Friday, April 3 | https://www.blackhat.com/asia-20/sponsors.html)
-- (REGISTRATION | https://blackhat.informatech.com/asia/2020/?)
+- [Training Tuesday, March 31 - Friday, April 3 | https://www.blackhat.com/asia-20/training/schedule/index.html]
+- [Briefings Thursday, April 2 - Friday, April 3 | https://www.blackhat.com/asia-20/briefings/schedule/index.html]
+- [Business Hall Thursday, April 2 - Friday, April 3 | https://www.blackhat.com/asia-20/sponsors.html]
+- [REGISTRATION | https://blackhat.informatech.com/asia/2020/?]
 
 ## Provided to OWASP per Agreement
 
@@ -34,7 +34,14 @@ $200 Discount available OWASP Members on Briefings (training not included) - ema
 ## Milestones
 
 * [x] 2020-01-08, Sign contract OSD-3340, [Mike]
-* [Xuf
-Item 1                 | $ 10
-Item 2                 | $ 10 
-***Total Expenses**    | **$ 100**
+* [X] 2020-01-24 Wufoo Volunteer form created and posted and emailed [https://owasp.wufoo.com/forms/q1m4my2a1br8l7g/] [Lisa]
+* [ ] 2020-02-17 Promotional merchandise and handouts decided
+* [ ] 2020-03-01 Order Merchandise and handouts
+* [ ] 2020-03-15 All volunteers registered 
+* [ ] 2020-03-31, BlackHat Asia, [All]
+
+
+
+## Budget
+
+
