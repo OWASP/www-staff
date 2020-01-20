@@ -14,7 +14,7 @@ Black Hat returns to Marina Bay Sands in Singapore, March 31 - April 3, 2020. Th
 
 ## Conference at a Glance with Links
 
-- [Training Tuesday, March 31 - Friday, April 3 | https://www.blackhat.com/asia-20/training/schedule/index.html]
+- [Training Tuesday, March 31 - Friday, April 3]  [https://www.blackhat.com/asia-20/training/schedule/index.html]
 - [Briefings Thursday, April 2 - Friday, April 3 | https://www.blackhat.com/asia-20/briefings/schedule/index.html]
 - [Business Hall Thursday, April 2 - Friday, April 3 | https://www.blackhat.com/asia-20/sponsors.html]
 - [REGISTRATION | https://blackhat.informatech.com/asia/2020/?]
