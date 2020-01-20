@@ -34,23 +34,7 @@ $200 Discount available OWASP Members on Briefings (training not included) - ema
 ## Milestones
 
 * [x] 2020-01-08, Sign contract OSD-3340, [Mike]
-* [ ] 2020-01-24, Wufoo Volunteer form created and posted and emailed, [Lisa]
-* [ ] 2020-01-31, Set budget and put into Project Plan, [Lisa]
-* [ ] 2020-02-17, Promotional merchandise and handouts decided, [Lisa]
-* [ ] 2020-03-01, Order Merchandise and handouts, [Lisa]
-* [ ] 2020-03-15, All volunteers registered, [Lisa] 
-* [ ] 2020-03-31, BlackHat Asia, [All]
-
-## Leadership
-
-* unordered list of each leader and a hyperlink to their email address.
-* [Lisa Jones](mailto:lisa.jones@owasp.com?subject=Blackhat%20Asia)
-
-## Budget
-
-Description            | Amount
---------------         | ----:
-**Expenses**           | 
+* [Xuf
 Item 1                 | $ 10
 Item 2                 | $ 10 
 ***Total Expenses**    | **$ 100**
