@@ -44,16 +44,16 @@ For internal accounting practices, the revenue split for Corporate Sponsors who 
 
 ## Sponsorship Status
 
-Sponsorship Contract Status to Date (as of 08:00amET January 17, 2020). Amount contracted: $320,150/USD Amount Collected: $208,450/USD (amounts include Career Fair sponsorships)
+Sponsorship Contract Status to Date (as of 3:45amET January 21, 2020). Amount contracted: $320,150/USD Amount Collected: $257,350/USD (amounts include Career Fair sponsorships)
 
 #### Diamond (3) - SOLD OUT
-- Contrast Security - invoiced
+- Contrast Security - paid in full 
 - Shiftleft (CS) - paid in full
-- Tala Security (CS) - invoiced
+- Tala Security (CS) - paid in full
 
 #### Platinum - SOLD OUT
 - Zero North (CS) - paid in full 
-- Signal Sciences - invoiced 
+- Signal Sciences - invoiced  waiting for them to send over completed cc author form 
 
 #### Gold - SOLD OUT
 - Altitude Networks (CS) - paid in full
@@ -64,7 +64,7 @@ Sponsorship Contract Status to Date (as of 08:00amET January 17, 2020). Amount c
 - Code DX (CS) - paid in full 
 - Detectify (CS) - paid in full 
 - Extrahop (CS) - contract sent
-- GitLab - invoided
+- GitLab - invoided waiting for them to send over completed cc author form 
 - HackerOne - paid in full
 - HCL - paid in full 
 - Intertrust (CS) - paid in full 
@@ -73,8 +73,8 @@ Sponsorship Contract Status to Date (as of 08:00amET January 17, 2020). Amount c
 - Netsparker - paid in full
 - Qualys (CS) - paid in full
 - RIPS (CS) - paid in full
-- Salt Security (CS) - invoiced
-- Secure Code Warrior (CS) - invoiced
+- Salt Security (CS) - paid in full 
+- Secure Code Warrior (CS) - paid in full 
 - Security Journey (CS) - paid in full
 - Snyk (CS) - paid in full 
 - Sonatype - paid in full
