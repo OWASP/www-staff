@@ -70,13 +70,6 @@
         "status": "overdue"
     },
     {
-        "milestone_date": "2020-01-20",
-        "description": "Metadata template information from SEO firm",
-        "owner": "Harold",
-        "project_name": "Website Re-launch",
-        "status": "on-time"
-    },
-    {
         "milestone_date": "2020-01-21",
         "description": "Deploy Bots into production",
         "owner": "Harold",
@@ -99,13 +92,6 @@
     },
     {
         "milestone_date": "2020-01-22",
-        "description": "Integrate meta tag info into templates",
-        "owner": "Harold",
-        "project_name": "Website Re-launch",
-        "status": "on-time"
-    },
-    {
-        "milestone_date": "2020-01-22",
         "description": "Beta version of Event Form Ready for testing",
         "owner": "Simon",
         "project_name": "Events Form",
@@ -123,13 +109,6 @@
         "description": "Release Candiate of Form ready for regression testing",
         "owner": "Simon",
         "project_name": "Events Form",
-        "status": "on-time"
-    },
-    {
-        "milestone_date": "2020-01-24",
-        "description": "Wufoo Volunteer form created and posted and emailed",
-        "owner": "Lisa",
-        "project_name": "BlackHat Asia 2020",
         "status": "on-time"
     },
     {
@@ -165,13 +144,6 @@
         "description": "Connect Virtual with Project Leaders for copy",
         "owner": "Mike",
         "project_name": "2019Q4 Marketing",
-        "status": "on-time"
-    },
-    {
-        "milestone_date": "2020-01-31",
-        "description": "Set budget and put into Project Plan",
-        "owner": "Lisa",
-        "project_name": "BlackHat Asia 2020",
         "status": "on-time"
     },
     {
@@ -267,8 +239,8 @@
     },
     {
         "milestone_date": "2020-02-17",
-        "description": "Promotional merchandise and handouts decided",
-        "owner": "Lisa",
+        "description": "romotional merchandise and handouts decided",
+        "owner": "No Owner",
         "project_name": "BlackHat Asia 2020",
         "status": "on-time"
     },
@@ -316,8 +288,8 @@
     },
     {
         "milestone_date": "2020-03-01",
-        "description": "Order Merchandise and handouts",
-        "owner": "Lisa",
+        "description": "rder Merchandise and handouts",
+        "owner": "No Owner",
         "project_name": "BlackHat Asia 2020",
         "status": "future"
     },
@@ -358,8 +330,8 @@
     },
     {
         "milestone_date": "2020-03-15",
-        "description": "All volunteers registered",
-        "owner": "Lisa",
+        "description": "ll volunteers registered",
+        "owner": "No Owner",
         "project_name": "BlackHat Asia 2020",
         "status": "future"
     },
