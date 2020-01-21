@@ -116,8 +116,7 @@ Sponsorship Contract Status to Date (as of 08:00amET January 17, 2020). Amount c
 - Citrix - paid in full 
 - Motion Recruitment - contract sent
 - iHerb - invoiced
-- Bird Rides - request sent to send invoice via Jira OSD-3381
-
+- Bird Rides - invoiced
 
 ## Insurance Requirements from Venue Contract
 Prior to Permit being granted, Permittee shall procure/maintain a Commercial General Liability insurance
