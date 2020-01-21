@@ -125,20 +125,6 @@
         "name": "Website Re-launch",
         "milestones": [
             {
-                "milestone_date": "2020-01-20",
-                "description": "Metadata template information from SEO firm",
-                "owner": "Harold",
-                "project_name": "Website Re-launch",
-                "status": "on-time"
-            },
-            {
-                "milestone_date": "2020-01-22",
-                "description": "Integrate meta tag info into templates",
-                "owner": "Harold",
-                "project_name": "Website Re-launch",
-                "status": "on-time"
-            },
-            {
                 "milestone_date": "2020-02-15",
                 "description": "Events form (poc)",
                 "owner": "Simon",
@@ -485,37 +471,23 @@
         "name": "BlackHat Asia 2020",
         "milestones": [
             {
-                "milestone_date": "2020-01-24",
-                "description": "Wufoo Volunteer form created and posted and emailed",
-                "owner": "Lisa",
-                "project_name": "BlackHat Asia 2020",
-                "status": "on-time"
-            },
-            {
-                "milestone_date": "2020-01-31",
-                "description": "Set budget and put into Project Plan",
-                "owner": "Lisa",
-                "project_name": "BlackHat Asia 2020",
-                "status": "on-time"
-            },
-            {
                 "milestone_date": "2020-02-17",
-                "description": "Promotional merchandise and handouts decided",
-                "owner": "Lisa",
+                "description": "romotional merchandise and handouts decided",
+                "owner": "No Owner",
                 "project_name": "BlackHat Asia 2020",
                 "status": "on-time"
             },
             {
                 "milestone_date": "2020-03-01",
-                "description": "Order Merchandise and handouts",
-                "owner": "Lisa",
+                "description": "rder Merchandise and handouts",
+                "owner": "No Owner",
                 "project_name": "BlackHat Asia 2020",
                 "status": "future"
             },
             {
                 "milestone_date": "2020-03-15",
-                "description": "All volunteers registered",
-                "owner": "Lisa",
+                "description": "ll volunteers registered",
+                "owner": "No Owner",
                 "project_name": "BlackHat Asia 2020",
                 "status": "future"
             },
@@ -528,12 +500,7 @@
             }
         ],
         "description": "Black Hat returns to Marina Bay Sands in Singapore, March 31 - April 3, 2020. The information security community comes together for esteemed Trainings taught by industry experts, innovative research presentations at Briefings, the latest open-source tool demos in Arsenal, and the Business Hall featuring top-tier solutions and service providers.",
-        "leaders": [
-            {
-                "name": "Lisa Jones",
-                "email": "lisa.jones@owasp.com"
-            }
-        ],
+        "leaders": [],
         "url": "https://owasp.org/www-staff/projects/202003-Blackhat-Asia"
     },
     {
