@@ -97,7 +97,7 @@ Sponsorship Contract Status to Date (as of 3:45amET January 21, 2020). Amount co
 - TEK Systems - paid in full 
 
 #### Opening Reception Sponsorship
-- Rapid7 - invoice sent
+- Rapid7 - invoiced
 
 #### Conference Bag Supporter
 - Cyvatar - invoiced and have cc info for finance to process
