@@ -58,7 +58,7 @@ Sponsorship Contract Status to Date (as of 08:00amET January 17, 2020). Amount c
 #### Gold - SOLD OUT
 - Altitude Networks (CS) - paid in full
 - Avatao (CS) - paid in full
-- Bugcrowd (CS) - invoiced
+- Bugcrowd (CS) - invoiced and have cc details for finance to process 
 - Cequence Security (CS) - paid in full
 - Checkmarx (CS) - paid in full 
 - Code DX (CS) - paid in full 
@@ -68,7 +68,7 @@ Sponsorship Contract Status to Date (as of 08:00amET January 17, 2020). Amount c
 - HackerOne - paid in full
 - HCL - paid in full 
 - Intertrust (CS) - paid in full 
-- Lyft (CS) - invoiced
+- Lyft (CS) - invoiced and have screenshot of payment from customer. Waiting for finance to confirm we have received. 
 - MicroFocus - paid in full
 - Netsparker - paid in full
 - Qualys (CS) - paid in full
@@ -100,7 +100,7 @@ Sponsorship Contract Status to Date (as of 08:00amET January 17, 2020). Amount c
 - Rapid7 - invoice sent
 
 #### Conference Bag Supporter
-- Cyvatar - request sent to send invoice via Jira OSD-3382
+- Cyvatar - invoiced and have cc info for finance to process
 
 #### Women in AppSec/Diversity Breakfast Sponsorship (3)
 - Detectify - paid in full 
@@ -115,7 +115,7 @@ Sponsorship Contract Status to Date (as of 08:00amET January 17, 2020). Amount c
 #### Career Fair 
 - Citrix - paid in full 
 - Motion Recruitment - contract sent
-- iHerb - invoiced
+- iHerb - invoiced and customer faxed completed cc author form to finance to process
 - Bird Rides - invoiced
 
 ## Insurance Requirements from Venue Contract
