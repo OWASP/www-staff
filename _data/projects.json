@@ -48,7 +48,7 @@
                 "description": "Deploy Bots into production",
                 "owner": "Harold",
                 "project_name": "Donation Form",
-                "status": "on-time"
+                "status": "overdue"
             }
         ],
         "description": "As part of the OWASP website migration, we will creating a new Donation form that will use Stripe as a back end. This should be a simple form that is hosted on the website and will serve as a proof of concept for (1) hosting secure forms on github, (2) test the viability of Stripe for payment processing, and (3) integrating Stripe form activities with light integrations with other key data in the OWASP ecosystem.Current working demo at [https://www2.owasp.org/donate](https://www2.owasp.org/donate) Form will handle &title and &currency parameters",
@@ -86,7 +86,7 @@
                 "description": "Launch Bots into production",
                 "owner": "Harold",
                 "project_name": "Membership Form",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-02-16",
@@ -336,7 +336,7 @@
                 "description": "AppSec California",
                 "owner": "No Owner",
                 "project_name": "AppSec California 2020",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-01-23",
