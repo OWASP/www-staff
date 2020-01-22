@@ -44,7 +44,7 @@ For internal accounting practices, the revenue split for Corporate Sponsors who 
 
 ## Sponsorship Status
 
-Sponsorship Contract Status to Date (as of 3:45amET January 21, 2020). Amount contracted: $320,150/USD Amount Collected: $257,350/USD (amounts include Career Fair sponsorships)
+Sponsorship Contract Status to Date (as of 11:00amET January 22, 2020). Amount contracted: $320,150/USD Amount Collected: $268,300/USD (amounts include Career Fair sponsorships)
 
 #### Diamond (3) - SOLD OUT
 - Contrast Security - paid in full 
@@ -58,7 +58,7 @@ Sponsorship Contract Status to Date (as of 3:45amET January 21, 2020). Amount co
 #### Gold - SOLD OUT
 - Altitude Networks (CS) - paid in full
 - Avatao (CS) - paid in full
-- Bugcrowd (CS) - invoiced and have cc details for finance to process 
+- Bugcrowd (CS) - paid 
 - Cequence Security (CS) - paid in full
 - Checkmarx (CS) - paid in full 
 - Code DX (CS) - paid in full 
@@ -100,7 +100,7 @@ Sponsorship Contract Status to Date (as of 3:45amET January 21, 2020). Amount co
 - Rapid7 - invoiced
 
 #### Conference Bag Supporter
-- Cyvatar - invoiced and have cc info for finance to process
+- Cyvatar - paid in full 
 
 #### Women in AppSec/Diversity Breakfast Sponsorship (3)
 - Detectify - paid in full 
