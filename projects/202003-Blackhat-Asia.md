@@ -27,7 +27,7 @@ Exhibit stand in Business Hall: 3M x 3M
 4 Booth Staff Passes
 $200 Discount available OWASP Members on Briefings (training not included) - email(marketing@owasp.org)
 (1) Lead Scanner
-```
+Booth E13
 
 ## Milestones
 
