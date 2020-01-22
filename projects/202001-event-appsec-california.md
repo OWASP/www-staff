@@ -53,7 +53,7 @@ Sponsorship Contract Status to Date (as of 11:00amET January 22, 2020). Amount c
 
 #### Platinum - SOLD OUT
 - Zero North (CS) - paid in full 
-- Signal Sciences - invoiced  waiting for them to send over completed cc author form 
+- Signal Sciences - invoiced  
 
 #### Gold - SOLD OUT
 - Altitude Networks (CS) - paid in full
