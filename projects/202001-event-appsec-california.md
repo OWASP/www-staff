@@ -44,7 +44,7 @@ For internal accounting practices, the revenue split for Corporate Sponsors who 
 
 ## Sponsorship Status
 
-Sponsorship Contract Status to Date (as of 11:00amET January 23, 2020). Amount contracted: $320,150/USD Amount Collected: $291,275/USD (amounts include Career Fair sponsorships)
+Sponsorship Contract Status to Date (as of 3:00pmET January 23, 2020). Amount contracted: $320,150/USD Amount Collected: $292,225/USD (amounts include Career Fair sponsorships)
 
 #### Diamond (3) - SOLD OUT
 - Contrast Security - paid in full 
@@ -116,7 +116,7 @@ Sponsorship Contract Status to Date (as of 11:00amET January 23, 2020). Amount c
 - Citrix - paid in full 
 - Motion Recruitment - contract sent
 - iHerb - paid in full
-- Bird Rides - invoiced waiting for them to call me with credit card info
+- Bird Rides - paid in full
 
 ## Insurance Requirements from Venue Contract
 Prior to Permit being granted, Permittee shall procure/maintain a Commercial General Liability insurance
