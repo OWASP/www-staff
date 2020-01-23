@@ -95,7 +95,7 @@
         "description": "Beta version of Event Form Ready for testing",
         "owner": "Simon",
         "project_name": "Events Form",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-01-23",
@@ -144,13 +144,6 @@
         "description": "Connect Virtual with Project Leaders for copy",
         "owner": "Mike",
         "project_name": "2019Q4 Marketing",
-        "status": "on-time"
-    },
-    {
-        "milestone_date": "2020-02-01",
-        "description": "Swag ordered (challenge coin)",
-        "owner": "Lisa",
-        "project_name": "Projects Summit - Winter 2020",
         "status": "on-time"
     },
     {
