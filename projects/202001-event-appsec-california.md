@@ -44,7 +44,7 @@ For internal accounting practices, the revenue split for Corporate Sponsors who 
 
 ## Sponsorship Status
 
-Sponsorship Contract Status to Date (as of 9:00amET January 23, 2020). Amount contracted: $320,150/USD Amount Collected: $278,075/USD (amounts include Career Fair sponsorships)
+Sponsorship Contract Status to Date (as of 11:00amET January 23, 2020). Amount contracted: $320,150/USD Amount Collected: $278,075/USD (amounts include Career Fair sponsorships)
 
 #### Diamond (3) - SOLD OUT
 - Contrast Security - paid in full 
@@ -53,7 +53,7 @@ Sponsorship Contract Status to Date (as of 9:00amET January 23, 2020). Amount co
 
 #### Platinum - SOLD OUT
 - Zero North (CS) - paid in full 
-- Signal Sciences - invoiced  
+- Signal Sciences - invoiced have cc form need CVV number to process
 
 #### Gold - SOLD OUT
 - Altitude Networks (CS) - paid in full
@@ -63,12 +63,12 @@ Sponsorship Contract Status to Date (as of 9:00amET January 23, 2020). Amount co
 - Checkmarx (CS) - paid in full 
 - Code DX (CS) - paid in full 
 - Detectify (CS) - paid in full 
-- Extrahop (CS) - invoiced
+- Extrahop (CS) - invoiced actively working with them on payment
 - GitLab - paid in full 
 - HackerOne - paid in full
 - HCL - paid in full 
 - Intertrust (CS) - paid in full 
-- Lyft (CS) - invoiced and have screenshot of payment from customer. Waiting for finance to confirm we have received. 
+- Lyft (CS) - paid in full  
 - MicroFocus - paid in full
 - Netsparker - paid in full
 - Qualys (CS) - paid in full
@@ -97,7 +97,7 @@ Sponsorship Contract Status to Date (as of 9:00amET January 23, 2020). Amount co
 - TEK Systems - paid in full 
 
 #### Opening Reception Sponsorship
-- Rapid7 - invoiced
+- Rapid7 - invoiced actively working with them on payment
 
 #### Conference Bag Supporter
 - Cyvatar - paid in full 
@@ -115,8 +115,8 @@ Sponsorship Contract Status to Date (as of 9:00amET January 23, 2020). Amount co
 #### Career Fair 
 - Citrix - paid in full 
 - Motion Recruitment - contract sent
-- iHerb - invoiced and customer faxed completed cc author form to finance to process
-- Bird Rides - invoiced
+- iHerb - paid in full
+- Bird Rides - invoiced waiting for them to call me with credit card info
 
 ## Insurance Requirements from Venue Contract
 Prior to Permit being granted, Permittee shall procure/maintain a Commercial General Liability insurance
