@@ -44,7 +44,7 @@ For internal accounting practices, the revenue split for Corporate Sponsors who 
 
 ## Sponsorship Status
 
-Sponsorship Contract Status to Date (as of 11:00amET January 23, 2020). Amount contracted: $320,150/USD Amount Collected: $278,075/USD (amounts include Career Fair sponsorships)
+Sponsorship Contract Status to Date (as of 11:00amET January 23, 2020). Amount contracted: $320,150/USD Amount Collected: $291,275/USD (amounts include Career Fair sponsorships)
 
 #### Diamond (3) - SOLD OUT
 - Contrast Security - paid in full 
@@ -97,7 +97,7 @@ Sponsorship Contract Status to Date (as of 11:00amET January 23, 2020). Amount c
 - TEK Systems - paid in full 
 
 #### Opening Reception Sponsorship
-- Rapid7 - invoiced actively working with them on payment
+- Rapid7 - paid in full 
 
 #### Conference Bag Supporter
 - Cyvatar - paid in full 
