@@ -63,7 +63,7 @@ Sponsorship Contract Status to Date (as of 9:00amET January 23, 2020). Amount co
 - Checkmarx (CS) - paid in full 
 - Code DX (CS) - paid in full 
 - Detectify (CS) - paid in full 
-- Extrahop (CS) - contract signed, waiting for invoice to be sent Jira OSD-3400
+- Extrahop (CS) - invoiced
 - GitLab - paid in full 
 - HackerOne - paid in full
 - HCL - paid in full 
