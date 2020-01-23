@@ -44,7 +44,7 @@ For internal accounting practices, the revenue split for Corporate Sponsors who 
 
 ## Sponsorship Status
 
-Sponsorship Contract Status to Date (as of 11:00amET January 22, 2020). Amount contracted: $320,150/USD Amount Collected: $268,300/USD (amounts include Career Fair sponsorships)
+Sponsorship Contract Status to Date (as of 9:00amET January 23, 2020). Amount contracted: $320,150/USD Amount Collected: $278,075/USD (amounts include Career Fair sponsorships)
 
 #### Diamond (3) - SOLD OUT
 - Contrast Security - paid in full 
@@ -64,7 +64,7 @@ Sponsorship Contract Status to Date (as of 11:00amET January 22, 2020). Amount c
 - Code DX (CS) - paid in full 
 - Detectify (CS) - paid in full 
 - Extrahop (CS) - contract signed, waiting for invoice to be sent Jira OSD-3400
-- GitLab - invoided sent over completed cc author form to finance to process
+- GitLab - paid in full 
 - HackerOne - paid in full
 - HCL - paid in full 
 - Intertrust (CS) - paid in full 
