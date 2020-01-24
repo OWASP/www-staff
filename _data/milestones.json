@@ -102,7 +102,7 @@
         "description": "2nd half of AV Payment Due. Contract is in ticket OSD-3192",
         "owner": "Dawn",
         "project_name": "AppSec California 2020",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-01-24",
