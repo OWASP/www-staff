@@ -176,6 +176,13 @@
     },
     {
         "milestone_date": "2020-02-07",
+        "description": "Insurance - email sent to Organizers to provide data to submit for quote",
+        "owner": "Dawn",
+        "project_name": "OWASP Seasides 2020",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2020-02-07",
         "description": "Release Candidate of Forms and Slack bot",
         "owner": "Simon",
         "project_name": "Events Form",
