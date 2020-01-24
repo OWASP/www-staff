@@ -197,6 +197,13 @@
     },
     {
         "milestone_date": "2020-02-15",
+        "description": "Insurance Certificate - information sent for quote",
+        "owner": "Dawn",
+        "project_name": "SnowFroc 2020",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2020-02-15",
         "description": "Events form (poc)",
         "owner": "Simon",
         "project_name": "Website Re-launch",
