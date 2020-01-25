@@ -21,7 +21,7 @@ Leaders of projects selected are required to attend or that project will not be 
 
 ## Goals
 
-1. Provide a venue and opporunity for measurable progress on key OWASP Projects
+1. Provide a venue and opportunity for measurable progress on key OWASP Projects
 2. Facetime for projet teams and leadership
 3. Test concept, and if successful, repeat in summer 2020
 
