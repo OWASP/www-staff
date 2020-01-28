@@ -112,32 +112,11 @@
         "status": "overdue"
     },
     {
-        "milestone_date": "2020-01-26",
-        "description": "Project Nomination Form Closes",
-        "owner": "Harold",
-        "project_name": "Projects Summit - Winter 2020",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-01-26",
-        "description": "Form online to accept Attendee registrations (wuFoo)",
-        "owner": "Mike",
-        "project_name": "Projects Summit - Winter 2020",
-        "status": "overdue"
-    },
-    {
         "milestone_date": "2020-01-27",
         "description": "Open CFT/CFP",
         "owner": "Emily",
         "project_name": "Global AppSec - Dublin 2020",
-        "status": "on-time"
-    },
-    {
-        "milestone_date": "2020-01-28",
-        "description": "Projects Selected (5)",
-        "owner": "Harold",
-        "project_name": "Projects Summit - Winter 2020",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-01-31",
@@ -249,7 +228,7 @@
         "description": "Summitt Hours 10a-6p",
         "owner": "No Owner",
         "project_name": "Projects Summit - Winter 2020",
-        "status": "future"
+        "status": "on-time"
     },
     {
         "milestone_date": "2020-02-28",
