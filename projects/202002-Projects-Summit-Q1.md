@@ -16,7 +16,15 @@ The event program will solely include heads-down work time for OWASP projects. A
 
 Leaders of projects selected are required to attend or that project will not be selected. If a project fails to secure five attendees, their project's invitation will be rescinded.
 
+## Selected Projects
+- ASVS Standard
+- Juice Shop
+- OWASP DefectDojo
+- OWASP Cheatsheets Series
+- OWASP Application Security Open Curriculum Project
+
 ## Links
+- [Registration & Travel Assistance Application](https://owasp.wufoo.com/forms/projects-summit-registration-and-travel-assistance/)
 - [Project Nomination Form](https://owasp.wufoo.com/forms/projects-summit-application/)
 
 ## Goals
@@ -37,9 +45,9 @@ Leaders of projects selected are required to attend or that project will not be 
 - [ ] 2020-01-15, Venue 70% Remaining balance due of $32,457.60, [Emily]
 - [x] 2020-01-20, Reminder #4, [Harold]
 - [x] 2020-01-22, Reminder #5, [Harold]
-- [ ] 2020-01-26, Project Nomination Form Closes, [Harold]
-- [ ] 2020-01-26, Form online to accept Attendee registrations (wuFoo), [Mike]
-- [ ] 2020-01-28, Projects Selected (5), [Harold]
+- [x] 2020-01-26, Project Nomination Form Closes, [Harold]
+- [X] 2020-01-26, Form online to accept Attendee registrations (wuFoo), [Mike]
+- [X] 2020-01-28, Projects Selected (5), [Harold]
 - [X] 2020-01-22, Swag ordered (challenge coin), [Lisa]
 - [ ] 2020-02-10, Flight bookings complete to qualify for reimbursement/travel assistance grants
 - [ ] 2020-02-26, Arrival Day
@@ -65,7 +73,6 @@ Address: Blvd. Kukulcan Km 7.5, Punta Cancun, Zona Hotelera, 77500 Cancún, Q.R.
 Phone: +52 998 848 8700
 https://www.ihg.com/intercontinental/hotels/us/en/cancun/cunhc/hoteldetail
 ```
-
 
 ### Registration 
 
