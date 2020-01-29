@@ -402,7 +402,7 @@
                 "description": "Summitt Hours 9a-5p",
                 "owner": "No Owner",
                 "project_name": "Projects Summit - Winter 2020",
-                "status": "future"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-02-29",
@@ -558,7 +558,7 @@
                 "description": "Close CFT/CFP",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin 2020",
-                "status": "future"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-03-01",
