@@ -14,7 +14,7 @@ The OWASP Foundation will host a three-day working session for FIVE selected pro
 
 The event program will solely include heads-down work time for OWASP projects. Any "group" gatherings will be during meal times. Spectators are not welcomed and attendance is limited to OWASP Members. Limited travel assistance will be provided for up to five key project leaders/contributors per project selected.
 
-Leaders of projects selected are required to attend or that project will not be selected. If a project fails to secure five attendees, their project's invitation will be rescinded.
+Leaders of projects selected are required to attend or that project will not be selected. If a project fails to secure five attendees, their project's invitation may be rescinded.
 
 ## Selected Projects
 - ASVS Standard
