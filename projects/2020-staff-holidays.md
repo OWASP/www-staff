@@ -7,7 +7,7 @@ layout: full-width
 
 # OWASP Staff U.S. Holidays
 
-- [ ] 2020-01-01, New Year’s Day
+- [x] 2020-01-01, New Year’s Day
 - [ ] 2020-02-17, Presidents Day
 - [ ] 2020-05-25, Memorial Day
 - [ ] 2020-07-03, Independence Day (Observed)
