@@ -31,8 +31,8 @@ Each project will have a 2-3 paragraph overview narrative. Keep to the key top p
 * [x] 2019-11-09, Initial payment for venue $20,750 OSD-3067, [Mike]
 * [X] 2019-11-15, Secure insurance for event per terms of contract (See below), [Dawn]
 * [x] 2019-12-20, Final payment of $22,750 is due. Ticket # OSD-3068, [Dawn]
-* [ ] 2019-12-21, 30 Day out Check-in, [Emily]
-* [ ] 2020-01-21, AppSec California
+* [x] 2019-12-21, 30 Day out Check-in, [Emily]
+* [x] 2020-01-21, AppSec California
 * [ ] 2020-01-23, 2nd half of AV Payment Due. Contract is in ticket OSD-3192, [Emily]
 * [ ] 2020-03-24, Close P&L, [Emily]
 
