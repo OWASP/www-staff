@@ -33,10 +33,10 @@ Booth E13
 
 * [x] 2020-01-08, Sign contract OSD-3340, [Mike]
 * [X] 2020-01-24 Wufoo Volunteer [form](https://owasp.wufoo.com/forms/q1m4my2a1br8l7g/) created and posted and emailed [Lisa]
-* [ ] 2020-02-17 Promotional merchandise and handouts decided
-* [ ] 2020-03-01 Order Merchandise and handouts
-* [ ] 2020-03-15 All volunteers registered 
-* [ ] 2020-03-31, BlackHat Asia, [All]
+* [ ] 2020-02-17, Promotional merchandise and handouts decided, [Lisa]
+* [ ] 2020-03-01, Order Merchandise and handouts, [Lisa]
+* [ ] 2020-03-15, All volunteers registered, [Lisa]
+* [ ] 2020-03-31, BlackHat Asia
 
 
 
