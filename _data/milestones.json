@@ -1,19 +1,5 @@
 [
     {
-        "milestone_date": "2019-12-21",
-        "description": "30 Day out Check-in",
-        "owner": "Emily",
-        "project_name": "AppSec California 2020",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-01-01",
-        "description": "New Year\u2019s Day",
-        "owner": "No Owner",
-        "project_name": "OWASP Staff Holidays",
-        "status": "overdue"
-    },
-    {
         "milestone_date": "2020-01-02",
         "description": "Close Call for Program Team Members",
         "owner": "Emily",
@@ -28,38 +14,10 @@
         "status": "overdue"
     },
     {
-        "milestone_date": "2020-01-10",
-        "description": "Website ready for traffic",
-        "owner": "Emily",
-        "project_name": "Global AppSec - San Francisco",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-01-14",
-        "description": "Retire SalesForce member notification system",
-        "owner": "Harold",
-        "project_name": "2019Q4 Marketing",
-        "status": "overdue"
-    },
-    {
         "milestone_date": "2020-01-15",
         "description": "Venue 70% Remaining balance due of $32,457.60",
         "owner": "Emily",
         "project_name": "Projects Summit - Winter 2020",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-01-15",
-        "description": "General Service Contract Signed",
-        "owner": "Emily",
-        "project_name": "Global AppSec - San Francisco",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-01-16",
-        "description": "Load historical Membership transaction data into Stripe with email as key",
-        "owner": "Harold",
-        "project_name": "Membership Form",
         "status": "overdue"
     },
     {
@@ -71,23 +29,9 @@
     },
     {
         "milestone_date": "2020-01-21",
-        "description": "Deploy Bots into production",
-        "owner": "Harold",
-        "project_name": "Donation Form",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-01-21",
         "description": "Launch Bots into production",
         "owner": "Harold",
         "project_name": "Membership Form",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-01-21",
-        "description": "AppSec California",
-        "owner": "No Owner",
-        "project_name": "AppSec California 2020",
         "status": "overdue"
     },
     {
@@ -112,13 +56,6 @@
         "status": "overdue"
     },
     {
-        "milestone_date": "2020-01-27",
-        "description": "Open CFT/CFP",
-        "owner": "Emily",
-        "project_name": "Global AppSec - Dublin 2020",
-        "status": "overdue"
-    },
-    {
         "milestone_date": "2020-01-31",
         "description": "Connect Virtual with Project Leaders for copy",
         "owner": "Mike",
@@ -130,13 +67,6 @@
         "description": "General Service Contract Signed",
         "owner": "Emily",
         "project_name": "Global AppSec - Dublin 2020",
-        "status": "on-time"
-    },
-    {
-        "milestone_date": "2020-02-01",
-        "description": "Open CFT/CFP",
-        "owner": "Emily",
-        "project_name": "Global AppSec - San Francisco",
         "status": "on-time"
     },
     {
@@ -211,8 +141,8 @@
     },
     {
         "milestone_date": "2020-02-17",
-        "description": "romotional merchandise and handouts decided",
-        "owner": "No Owner",
+        "description": "Promotional merchandise and handouts decided",
+        "owner": "Lisa",
         "project_name": "BlackHat Asia 2020",
         "status": "on-time"
     },
@@ -238,13 +168,6 @@
         "status": "on-time"
     },
     {
-        "milestone_date": "2020-02-28",
-        "description": "Close CFT/CFP",
-        "owner": "Emily",
-        "project_name": "Global AppSec - Dublin 2020",
-        "status": "on-time"
-    },
-    {
         "milestone_date": "2020-02-29",
         "description": "Summitt Hours 9a-5p",
         "owner": "No Owner",
@@ -252,29 +175,36 @@
         "status": "on-time"
     },
     {
+        "milestone_date": "2020-02-29",
+        "description": "Close CFT/CFP",
+        "owner": "Emily",
+        "project_name": "Global AppSec - Dublin 2020",
+        "status": "on-time"
+    },
+    {
         "milestone_date": "2020-03-01",
         "description": "Departure Day",
         "owner": "No Owner",
         "project_name": "Projects Summit - Winter 2020",
-        "status": "future"
+        "status": "on-time"
     },
     {
         "milestone_date": "2020-03-01",
-        "description": "rder Merchandise and handouts",
-        "owner": "No Owner",
+        "description": "Order Merchandise and handouts",
+        "owner": "Lisa",
         "project_name": "BlackHat Asia 2020",
-        "status": "future"
+        "status": "on-time"
     },
     {
         "milestone_date": "2020-03-01",
         "description": "Keynotes Announces",
         "owner": "Emily",
         "project_name": "Global AppSec - Dublin 2020",
-        "status": "future"
+        "status": "on-time"
     },
     {
-        "milestone_date": "2020-03-01",
-        "description": "Close CFT/CFP",
+        "milestone_date": "2020-03-02",
+        "description": "Open CFT/CFP",
         "owner": "Emily",
         "project_name": "Global AppSec - San Francisco",
         "status": "future"
@@ -302,8 +232,8 @@
     },
     {
         "milestone_date": "2020-03-15",
-        "description": "ll volunteers registered",
-        "owner": "No Owner",
+        "description": "All volunteers registered",
+        "owner": "Lisa",
         "project_name": "BlackHat Asia 2020",
         "status": "future"
     },
@@ -345,7 +275,7 @@
     {
         "milestone_date": "2020-03-31",
         "description": "BlackHat Asia",
-        "owner": "All",
+        "owner": "No Owner",
         "project_name": "BlackHat Asia 2020",
         "status": "future"
     },
@@ -375,6 +305,13 @@
         "description": "Program Announced",
         "owner": "Emily",
         "project_name": "Global AppSec - Dublin 2020",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-04-10",
+        "description": "Close CFT/CFP",
+        "owner": "Emily",
+        "project_name": "Global AppSec - San Francisco",
         "status": "future"
     },
     {
