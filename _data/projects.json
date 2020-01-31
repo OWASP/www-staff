@@ -22,13 +22,6 @@
         "name": "2019Q4 Marketing",
         "milestones": [
             {
-                "milestone_date": "2020-01-14",
-                "description": "Retire SalesForce member notification system",
-                "owner": "Harold",
-                "project_name": "2019Q4 Marketing",
-                "status": "overdue"
-            },
-            {
                 "milestone_date": "2020-01-31",
                 "description": "Connect Virtual with Project Leaders for copy",
                 "owner": "Mike",
@@ -41,39 +34,8 @@
         "url": "https://owasp.org/www-staff/projects/201910-marketing"
     },
     {
-        "name": "Donation Form",
-        "milestones": [
-            {
-                "milestone_date": "2020-01-21",
-                "description": "Deploy Bots into production",
-                "owner": "Harold",
-                "project_name": "Donation Form",
-                "status": "overdue"
-            }
-        ],
-        "description": "As part of the OWASP website migration, we will creating a new Donation form that will use Stripe as a back end. This should be a simple form that is hosted on the website and will serve as a proof of concept for (1) hosting secure forms on github, (2) test the viability of Stripe for payment processing, and (3) integrating Stripe form activities with light integrations with other key data in the OWASP ecosystem.Current working demo at [https://www2.owasp.org/donate](https://www2.owasp.org/donate) Form will handle &title and &currency parameters",
-        "leaders": [
-            {
-                "name": "Harold Blankenship ",
-                "email": "Harold.blankenship@owasp.com"
-            },
-            {
-                "name": "Mike McCamon",
-                "email": "mike.mccamon@owasp.com"
-            }
-        ],
-        "url": "https://owasp.org/www-staff/projects/201911-donate-form"
-    },
-    {
         "name": "Membership Form",
         "milestones": [
-            {
-                "milestone_date": "2020-01-16",
-                "description": "Load historical Membership transaction data into Stripe with email as key",
-                "owner": "Harold",
-                "project_name": "Membership Form",
-                "status": "overdue"
-            },
             {
                 "milestone_date": "2020-01-16",
                 "description": "Send email to Recurring members on old system informing them of change and need to RENEW",
@@ -235,13 +197,6 @@
         "name": "OWASP Staff Holidays",
         "milestones": [
             {
-                "milestone_date": "2020-01-01",
-                "description": "New Year\u2019s Day",
-                "owner": "No Owner",
-                "project_name": "OWASP Staff Holidays",
-                "status": "overdue"
-            },
-            {
                 "milestone_date": "2020-02-17",
                 "description": "Presidents Day",
                 "owner": "No Owner",
@@ -312,10 +267,10 @@
                 "status": "future"
             }
         ],
-        "description": "tle: OWASP Staff Holidayslayout: full-width---# OWASP Staff U.S. Holidays- [ ] 2020-01-01, New Year\u2019s Day- [ ] 2020-02-17, Presidents Day- [ ] 2020-05-25, Memorial Day- [ ] 2020-07-03, Independence Day (Observed)- [ ] 2020-09-07, Labor Day- [ ] 2020-11-03, Federal Election Day- [ ] 2020-11-26, Thanksgiving Day- [ ] 2020-11-27, Day after Thanksgiving- [ ] 2020-12-24, Christmas Eve- [ ] 2020-12-25, Christmas Day- [ ] 2020-12-31, New Year\u2019s Eve",
+        "description": "tle: OWASP Staff Holidayslayout: full-width---# OWASP Staff U.S. Holidays- [x] 2020-01-01, New Year\u2019s Day- [ ] 2020-02-17, Presidents Day- [ ] 2020-05-25, Memorial Day- [ ] 2020-07-03, Independence Day (Observed)- [ ] 2020-09-07, Labor Day- [ ] 2020-11-03, Federal Election Day- [ ] 2020-11-26, Thanksgiving Day- [ ] 2020-11-27, Day after Thanksgiving- [ ] 2020-12-24, Christmas Eve- [ ] 2020-12-25, Christmas Day- [ ] 2020-12-31, New Year\u2019s Eve",
         "leaders": [
             {
-                "name": " ",
+                "name": "x",
                 "email": ""
             }
         ],
@@ -324,20 +279,6 @@
     {
         "name": "AppSec California 2020",
         "milestones": [
-            {
-                "milestone_date": "2019-12-21",
-                "description": "30 Day out Check-in",
-                "owner": "Emily",
-                "project_name": "AppSec California 2020",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-01-21",
-                "description": "AppSec California",
-                "owner": "No Owner",
-                "project_name": "AppSec California 2020",
-                "status": "overdue"
-            },
             {
                 "milestone_date": "2020-01-23",
                 "description": "2nd half of AV Payment Due. Contract is in ticket OSD-3192",
@@ -416,7 +357,7 @@
                 "description": "Departure Day",
                 "owner": "No Owner",
                 "project_name": "Projects Summit - Winter 2020",
-                "status": "future"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-04-22",
@@ -444,29 +385,29 @@
         "milestones": [
             {
                 "milestone_date": "2020-02-17",
-                "description": "romotional merchandise and handouts decided",
-                "owner": "No Owner",
+                "description": "Promotional merchandise and handouts decided",
+                "owner": "Lisa",
                 "project_name": "BlackHat Asia 2020",
                 "status": "on-time"
             },
             {
                 "milestone_date": "2020-03-01",
-                "description": "rder Merchandise and handouts",
-                "owner": "No Owner",
+                "description": "Order Merchandise and handouts",
+                "owner": "Lisa",
                 "project_name": "BlackHat Asia 2020",
-                "status": "future"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-03-15",
-                "description": "ll volunteers registered",
-                "owner": "No Owner",
+                "description": "All volunteers registered",
+                "owner": "Lisa",
                 "project_name": "BlackHat Asia 2020",
                 "status": "future"
             },
             {
                 "milestone_date": "2020-03-31",
                 "description": "BlackHat Asia",
-                "owner": "All",
+                "owner": "No Owner",
                 "project_name": "BlackHat Asia 2020",
                 "status": "future"
             }
@@ -540,13 +481,6 @@
         "name": "Global AppSec - Dublin 2020",
         "milestones": [
             {
-                "milestone_date": "2020-01-27",
-                "description": "Open CFT/CFP",
-                "owner": "Emily",
-                "project_name": "Global AppSec - Dublin 2020",
-                "status": "overdue"
-            },
-            {
                 "milestone_date": "2020-02-01",
                 "description": "General Service Contract Signed",
                 "owner": "Emily",
@@ -554,7 +488,7 @@
                 "status": "on-time"
             },
             {
-                "milestone_date": "2020-02-28",
+                "milestone_date": "2020-02-29",
                 "description": "Close CFT/CFP",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin 2020",
@@ -565,7 +499,7 @@
                 "description": "Keynotes Announces",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin 2020",
-                "status": "future"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-03-09",
@@ -829,13 +763,6 @@
         "name": "Global AppSec - San Francisco",
         "milestones": [
             {
-                "milestone_date": "2020-01-15",
-                "description": "General Service Contract Signed",
-                "owner": "Emily",
-                "project_name": "Global AppSec - San Francisco",
-                "status": "overdue"
-            },
-            {
                 "milestone_date": "2020-01-02",
                 "description": "Close Call for Program Team Members",
                 "owner": "Emily",
@@ -843,22 +770,8 @@
                 "status": "overdue"
             },
             {
-                "milestone_date": "2020-01-10",
-                "description": "Website ready for traffic",
-                "owner": "Emily",
-                "project_name": "Global AppSec - San Francisco",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-02-01",
+                "milestone_date": "2020-03-02",
                 "description": "Open CFT/CFP",
-                "owner": "Emily",
-                "project_name": "Global AppSec - San Francisco",
-                "status": "on-time"
-            },
-            {
-                "milestone_date": "2020-03-01",
-                "description": "Close CFT/CFP",
                 "owner": "Emily",
                 "project_name": "Global AppSec - San Francisco",
                 "status": "future"
@@ -880,6 +793,13 @@
             {
                 "milestone_date": "2020-04-01",
                 "description": "Registration Opens",
+                "owner": "Emily",
+                "project_name": "Global AppSec - San Francisco",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-04-10",
+                "description": "Close CFT/CFP",
                 "owner": "Emily",
                 "project_name": "Global AppSec - San Francisco",
                 "status": "future"
