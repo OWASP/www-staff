@@ -60,7 +60,7 @@
         "description": "Connect Virtual with Project Leaders for copy",
         "owner": "Mike",
         "project_name": "2019Q4 Marketing",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-02-01",
@@ -125,13 +125,6 @@
         "project_name": "OWASP SnowFROC",
         "status": "on-time"
     },
-    {
-        "milestone_date": "2020-02-15",
-        "description": "OWASP Seasides 2020 - Insurance - submitted data for quote",
-        "owner": "Dawn",
-        "project_name": "OWASP Seasides 2020",
-        "status": "on-time"
-    }, 
     {
         "milestone_date": "2020-02-16",
         "description": "Develop Recurring member \"your membership is renewing\" curriculum for launch by 1-Sept",
@@ -214,7 +207,7 @@
         "description": "Open CFT/CFP",
         "owner": "Emily",
         "project_name": "Global AppSec - San Francisco",
-        "status": "future"
+        "status": "on-time"
     },
     {
         "milestone_date": "2020-03-05",
@@ -331,7 +324,7 @@
     {
         "milestone_date": "2020-04-22",
         "description": "Deadline for invoices and expense reimbursement requests",
-        "owner": "Emily",
+        "owner": "Dawn",
         "project_name": "Projects Summit - Winter 2020",
         "status": "future"
     },
@@ -555,7 +548,7 @@
     {
         "milestone_date": "2020-09-30",
         "description": "Deadline for invoices and expense reimbursement requests",
-        "owner": "Emily",
+        "owner": "Dawn",
         "project_name": "Projects Summit - Summer",
         "status": "future"
     },
