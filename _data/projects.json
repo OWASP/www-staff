@@ -26,7 +26,7 @@
                 "description": "Connect Virtual with Project Leaders for copy",
                 "owner": "Mike",
                 "project_name": "2019Q4 Marketing",
-                "status": "on-time"
+                "status": "overdue"
             }
         ],
         "description": "tle: 2019Q4 Marketinglayout: full-width---# 2019Q4 Marketing",
@@ -774,7 +774,7 @@
                 "description": "Open CFT/CFP",
                 "owner": "Emily",
                 "project_name": "Global AppSec - San Francisco",
-                "status": "future"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-03-15",
