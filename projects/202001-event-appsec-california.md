@@ -44,7 +44,7 @@ For internal accounting practices, the revenue split for Corporate Sponsors who 
 
 ## Sponsorship Status
 
-Sponsorship Contract Status to Date (as of 3:00pmET January 23, 2020). Amount contracted: $320,150/USD Amount Collected: $292,225/USD (amounts include Career Fair sponsorships)
+Sponsorship Contract Status to Date (as of 3:00pmET January 23, 2020). Amount contracted: $320,150/USD Amount Collected: $293,175/USD (amounts include Career Fair sponsorships)
 
 #### Diamond (3) - SOLD OUT
 - Contrast Security - paid in full 
@@ -107,10 +107,10 @@ Sponsorship Contract Status to Date (as of 3:00pmET January 23, 2020). Amount co
 - Sqreen - paid in full 
 
 #### Lunch Sponsor (2 - 1 each day)
-- Segment - invoiced
+- Segment - paid in full 
 
 #### Scholarship Sponsorship
-- Contrast Security - invoiced
+- Contrast Security - paid in full 
 
 #### Career Fair 
 - Citrix - paid in full 
