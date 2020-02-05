@@ -44,7 +44,7 @@ For internal accounting practices, the revenue split for Corporate Sponsors who 
 
 ## Sponsorship Status
 
-Sponsorship Contract Status to Date (as of 3:00pmET January 23, 2020). Amount contracted: $320,150/USD Amount Collected: $293,175/USD (amounts include Career Fair sponsorships)
+Sponsorship Contract Status to Date (as of 11:00amET February 5, 2020). Amount contracted: $319,200/USD Amount Collected: $310,850/USD (amounts include Career Fair sponsorships)
 
 #### Diamond (3) - SOLD OUT
 - Contrast Security - paid in full 
@@ -53,7 +53,7 @@ Sponsorship Contract Status to Date (as of 3:00pmET January 23, 2020). Amount co
 
 #### Platinum - SOLD OUT
 - Zero North (CS) - paid in full 
-- Signal Sciences - invoiced have cc form need CVV number to process
+- Signal Sciences - paid in full 
 
 #### Gold - SOLD OUT
 - Altitude Networks (CS) - paid in full
@@ -85,10 +85,10 @@ Sponsorship Contract Status to Date (as of 3:00pmET January 23, 2020). Amount co
 
 #### Conference Bag Sponsorship (2) - SOLD OUT
 - NCC Group - paid in full
-- SecureWorks - invoiced
+- SecureWorks - paid in full 
 
 #### Lanyard Sponsorship (1) - SOLD OUT
-- SecureWorks - invoiced
+- SecureWorks - paid in full 
 
 #### Capture the Flag (1) - SOLD OUT
 - Security Innovation - paid in full 
@@ -114,7 +114,6 @@ Sponsorship Contract Status to Date (as of 3:00pmET January 23, 2020). Amount co
 
 #### Career Fair 
 - Citrix - paid in full 
-- Motion Recruitment - contract sent
 - iHerb - paid in full
 - Bird Rides - paid in full
 
