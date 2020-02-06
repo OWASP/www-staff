@@ -81,7 +81,7 @@
         "description": "Confirm attendance. If over 500 please notify Dawn to update Insurance Policy",
         "owner": "Emily",
         "project_name": "OWASP SnowFROC",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-02-07",
