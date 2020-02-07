@@ -318,6 +318,13 @@
                 "status": "overdue"
             },
             {
+                "milestone_date": "2020-02-07",
+                "description": "Notify Partipants of Travel",
+                "owner": "Harold",
+                "project_name": "Projects Summit - Winter 2020",
+                "status": "on-time"
+            },
+            {
                 "milestone_date": "2020-02-10",
                 "description": "Flight bookings complete to qualify for reimbursement/travel assistance grants",
                 "owner": "No Owner",
