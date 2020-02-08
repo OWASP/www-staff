@@ -88,21 +88,21 @@
         "description": "Release Candidate of Forms and Slack bot",
         "owner": "Simon",
         "project_name": "Events Form",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-02-07",
         "description": "Project Complete",
         "owner": "Harold",
         "project_name": "Events Form",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-02-07",
         "description": "Notify Partipants of Travel",
         "owner": "Harold",
         "project_name": "Projects Summit - Winter 2020",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-02-10",
@@ -228,7 +228,7 @@
         "description": "Registration Opens",
         "owner": "Emily",
         "project_name": "Global AppSec - Dublin 2020",
-        "status": "future"
+        "status": "on-time"
     },
     {
         "milestone_date": "2020-03-10",
