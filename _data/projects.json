@@ -150,14 +150,14 @@
                 "description": "Release Candidate of Forms and Slack bot",
                 "owner": "Simon",
                 "project_name": "Events Form",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-02-07",
                 "description": "Project Complete",
                 "owner": "Harold",
                 "project_name": "Events Form",
-                "status": "on-time"
+                "status": "overdue"
             }
         ],
         "description": "As part of the OWASP website migration, we will creating a new Events form that will use Stripe as a back end. This should be a simple form that is hosted on the website and will EVENUTALLY serve as the prmiary e-commerce path for all OWASP Global and Regional events replacing Eventbrite for (1) hosting secure forms on github, (2) presenting and then selecting multiple SKUs from a single Product ID as in Training Class A for Event X and Early Bird ticket for Event X, (3) 2-3 aggregate online reports, (4) validate Stripe can manage inventory of SKUs, and (5) integrating Stripe form activities with light integrations with other key data in the OWASP ecosystem.",
@@ -322,7 +322,7 @@
                 "description": "Notify Partipants of Travel",
                 "owner": "Harold",
                 "project_name": "Projects Summit - Winter 2020",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-02-10",
@@ -513,7 +513,7 @@
                 "description": "Registration Opens",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin 2020",
-                "status": "future"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-03-15",
