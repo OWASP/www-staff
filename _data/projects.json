@@ -875,7 +875,7 @@
                 "description": "2nd Payment of $3,000 due to venue",
                 "owner": "Emily",
                 "project_name": "LASCON 2020",
-                "status": "future"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-07-01",
