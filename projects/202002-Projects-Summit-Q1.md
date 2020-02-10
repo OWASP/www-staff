@@ -17,7 +17,7 @@ The event program will solely include heads-down work time for OWASP projects. A
 Leaders of projects selected are required to attend or that project will not be selected. If a project fails to secure five attendees, their project's invitation may be rescinded.
 
 ## Selected Projects
-- ASVS Standard
+- ASVS Standard (no longer can make it)
 - Juice Shop
 - OWASP DefectDojo
 - OWASP Cheatsheets Series (no longer can make it)
