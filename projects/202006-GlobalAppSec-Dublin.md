@@ -141,11 +141,15 @@ Staff Services         | € 100,000
 This event offers several parter sponsorship opportunities.  If you are interested in supporting the event please contact [kelly@owasp.com](mailto:kelly@owasp.com&subject:Dublin%20Sponsorship). Below is a list of existing and available sponsorships. All sponsor assets will go in a folder named sponsors in this repo.
 
 Sponsorship Status
-Sponsorship Contract Status to Date (as of 08:00amET December 17, 2019) Amount Contracted: $35,500.00 and €18,000.00. Amount Collected: 0
+Sponsorship Contract Status to Date (as of 12:00pmET February 11, 2020) Amount Contracted: $43,350.00 and €36,000.00. Amount Collected: $39,431.43. 
+
+### Sapphire 
+- Synopsys
 
 ### Ruby 
-- Cobalt Labs
+- Contrast Security
 - Detectify
+- Kryptowire
 - RIPS
 - Secure Code Warrior (Gold Corporate Supporter)
 - Security Journey
@@ -153,6 +157,9 @@ Sponsorship Contract Status to Date (as of 08:00amET December 17, 2019) Amount C
 
 ### Lanyards (1) SOLD OUT
 - BCC Risk
+
+### Capture The Flag SOLD OUT
+- Security Innovation 
 
 ## Legal
 
