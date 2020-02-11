@@ -110,7 +110,7 @@ Staff Services         | &euro;100,000
 This event offers several parter sponsorships opportunities.  If you are interested in supporting the event please contact [kelly@owasp.com](mailto:kelly@owasp.com&subject:Eventname). Below is a list of existing and available sponsorships. All sponsor assets will go in a folder named sponsors in this repo.
 
 ## Sponsorship Status
-Sponsorship Contract Status to Date (as of 10:00amET January 8, 2020). Amount Contracted: $365,745/USD Amount Collected: $145,000/USD
+Sponsorship Contract Status to Date (as of 12:00pmET February 11, 2020). Amount Contracted: $370,245/USD Amount Collected: $200,000/USD
 
 #### Sapphire Sponsors
 - Acunetix - paid in full 
@@ -121,9 +121,7 @@ Sponsorship Contract Status to Date (as of 10:00amET January 8, 2020). Amount Co
 - Security Compass - invoiced
 
 #### Ruby Sponsors
-- Salt Security - paid in full 
 - Security Innovation - invoiced 
-- Tala Security - invoiced  
 - Whitehat Security - contract sent
 
 #### Gold Corpoate Supporters
@@ -133,16 +131,21 @@ Sponsorship Contract Status to Date (as of 10:00amET January 8, 2020). Amount Co
 - Altitude Networks (Silver Corporate Supporter) - paid in full 
 - Bugcrowd (Silver Corporate Supporter) - invoiced
 - Detectify (Silver Corporate Supporter) - paid in full 
-- Intertrust (Silver Corporate Supporter) - invoiced
+- ExtraHop (Silcer Corporate Supporter) - paid in full 
+- Intertrust (Silver Corporate Supporter) - paid in full 
 - Lyft (Silver Corporate Supporter) - invoiced
 - NowSecure (Silver Corporate Supporter) - paid in full
 - Qualys (Silver Corporate Supporter) - paid in full 
 - RIPS (Silver Corporate Supporter) - paid in full 
+- Salt Security - paid in full 
 - Security Journey (Silver Corporate Supporter) - paid in full 
 - Sqreen (Silver Corporate Supporter) - invoiced
+- Tala Security - invoiced  
 - White Source Software (Silver Corporate Supporter) - paid in full 
 - Zero North (Silver Corporate Supporter) - paid in full
 
+#### Capture the Flag - SOLD OUT
+- Security Innovation 
 
 ## Legal
 
