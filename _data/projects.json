@@ -329,7 +329,7 @@
                 "description": "Flight bookings complete to qualify for reimbursement/travel assistance grants",
                 "owner": "No Owner",
                 "project_name": "Projects Summit - Winter 2020",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-02-26",
