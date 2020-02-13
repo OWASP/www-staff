@@ -24,12 +24,11 @@ As part of the OWASP website migration, we will creating a new Events form that 
 ## Milestones
 - [x] 2019-11-01, Identify resource to develop this form/project, [Mike]
 - [x] 2019-11-28, Spec out workflow for visitors, [Mike]
-- [ ] 2020-01-10, Wireframe of Event Form, [Mike]
-- [ ] 2020-01-22, Beta version of Event Form Ready for testing, [Simon]
-- [ ] 2020-01-24, Release Candiate of Form ready for regression testing, [Simon]
-- [ ] 2020-02-04, Launch form with Global AppSec - Dublin as first product, [Harold]
-- [ ] 2020-02-07, Release Candidate of Forms and Slack bot, [Simon]
-- [ ] 2020-02-07, Project Complete, [Harold]
+- x ] 2020-01-10, Wireframe of Event Form, [Mike]
+- [ ] 2020-02-14, Beta version of Event Form Ready for testing, [Simon]
+- [ ] 2020-02-21, Release Candiate of Form ready for regression testing, [Simon]
+- [ ] 2020-03-01, Launch form with Global AppSec - Dublin as first product, [Harold]
+- [ ] 2020-03-07, Project Complete, [Harold]
 
 ## Leadership
 
