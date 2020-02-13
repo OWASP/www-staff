@@ -34,44 +34,6 @@
         "url": "https://owasp.org/www-staff/projects/201910-marketing"
     },
     {
-        "name": "Membership Form",
-        "milestones": [
-            {
-                "milestone_date": "2020-01-16",
-                "description": "Send email to Recurring members on old system informing them of change and need to RENEW",
-                "owner": "Mike",
-                "project_name": "Membership Form",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-01-21",
-                "description": "Launch Bots into production",
-                "owner": "Harold",
-                "project_name": "Membership Form",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-02-16",
-                "description": "Develop Recurring member \"your membership is renewing\" curriculum for launch by 1-Sept",
-                "owner": "Mike",
-                "project_name": "Membership Form",
-                "status": "on-time"
-            }
-        ],
-        "description": "As part of the OWASP website migration, we will creating a new membership form and process that will use Stripe as a back end. Following the successful test of the Donation Form, this project should be relatively easy with some small differences from that project. Once implemented, we will unwide our dependency on Fontiva and will migrate to using Mailchimp as a \"light\" member CRM with all history transaction data stored in Stripe.Production is at https://owasp.org/membership",
-        "leaders": [
-            {
-                "name": "Harold Blankenship ",
-                "email": "Harold.blankenship@owasp.com"
-            },
-            {
-                "name": "Mike McCamon",
-                "email": "mike.mccamon@owasp.com"
-            }
-        ],
-        "url": "https://owasp.org/www-staff/projects/201911-membership-form"
-    },
-    {
         "name": "Consolidate Web Infrastructure",
         "milestones": [],
         "description": "Consolidate all extant servers to a single provider and move all DNS to a single provider.",
@@ -94,11 +56,11 @@
                 "status": "on-time"
             },
             {
-                "milestone_date": "2020-02-15",
+                "milestone_date": "2020-05-15",
                 "description": "Validate Meetup Connector",
                 "owner": "Harold",
                 "project_name": "Website Re-launch",
-                "status": "on-time"
+                "status": "future"
             }
         ],
         "description": "Before December 20, 2019, the Foundation will launch a new website designed to engage visitors and professionally convey the value of our collective work. Rather than just re-skinning our current wiki or placing a simplified landing page in front of our site, we plan to migrate to an entirely new platform. The project must better connect with our developer audience and be valuable when visited on a variety of devices. It must be possible for elements of our site to be managed by our communities or through automation and any platform change must retain these attributes as well as ensuring continuity of analytics, permissions design, and redirect of inbound links. A proof of concept will be complete by July 1. Once the new website is launched, the wiki will be archived through 2020 for historical purposes.Upon the completion of this project, OWASP.org will be hosted in Github. The architecture will place a repository for each logical entity of the foundation in one organizational account. For instance, there would be a repo for each chapter, project, event, and several other organizational entities. This design will increase source control and allow us to connect visitors with the content that is of interest to them.",
@@ -118,46 +80,32 @@
         "name": "Events Form",
         "milestones": [
             {
-                "milestone_date": "2020-01-10",
-                "description": "Wireframe of Event Form",
-                "owner": "Mike",
-                "project_name": "Events Form",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-01-22",
+                "milestone_date": "2020-02-14",
                 "description": "Beta version of Event Form Ready for testing",
                 "owner": "Simon",
                 "project_name": "Events Form",
-                "status": "overdue"
+                "status": "on-time"
             },
             {
-                "milestone_date": "2020-01-24",
+                "milestone_date": "2020-02-21",
                 "description": "Release Candiate of Form ready for regression testing",
                 "owner": "Simon",
                 "project_name": "Events Form",
-                "status": "overdue"
+                "status": "on-time"
             },
             {
-                "milestone_date": "2020-02-04",
+                "milestone_date": "2020-03-01",
                 "description": "Launch form with Global AppSec - Dublin as first product",
                 "owner": "Harold",
                 "project_name": "Events Form",
-                "status": "overdue"
+                "status": "on-time"
             },
             {
-                "milestone_date": "2020-02-07",
-                "description": "Release Candidate of Forms and Slack bot",
-                "owner": "Simon",
-                "project_name": "Events Form",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-02-07",
+                "milestone_date": "2020-03-07",
                 "description": "Project Complete",
                 "owner": "Harold",
                 "project_name": "Events Form",
-                "status": "overdue"
+                "status": "on-time"
             }
         ],
         "description": "As part of the OWASP website migration, we will creating a new Events form that will use Stripe as a back end. This should be a simple form that is hosted on the website and will EVENUTALLY serve as the prmiary e-commerce path for all OWASP Global and Regional events replacing Eventbrite for (1) hosting secure forms on github, (2) presenting and then selecting multiple SKUs from a single Product ID as in Training Class A for Event X and Early Bird ticket for Event X, (3) 2-3 aggregate online reports, (4) validate Stripe can manage inventory of SKUs, and (5) integrating Stripe form activities with light integrations with other key data in the OWASP ecosystem.",
@@ -314,20 +262,6 @@
                 "milestone_date": "2020-01-15",
                 "description": "Venue 70% Remaining balance due of $32,457.60",
                 "owner": "Emily",
-                "project_name": "Projects Summit - Winter 2020",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-02-07",
-                "description": "Notify Partipants of Travel",
-                "owner": "Harold",
-                "project_name": "Projects Summit - Winter 2020",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-02-10",
-                "description": "Flight bookings complete to qualify for reimbursement/travel assistance grants",
-                "owner": "No Owner",
                 "project_name": "Projects Summit - Winter 2020",
                 "status": "overdue"
             },
