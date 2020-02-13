@@ -30,9 +30,7 @@ Production is at https://owasp.org/membership
 - [x] 2019-01-13, Regression testing complete, [Mike]
 - [x] 2020-01-15, Deploy to new website in production, [Harold]
 - [x] 2020-01-16, Load current membership database into Mailchimp OWASP-Main list, [Mike]
-- [ ] 2020-01-16, Send email to Recurring members on old system informing them of change and need to RENEW, [Mike]
-- [ ] 2020-01-21, Launch Bots into production, [Harold]
-- [ ] 2020-02-16, Develop Recurring member "your membership is renewing" curriculum for launch by 1-Sept, [Mike] 
+- [x] 2020-01-21, Launch Bots into production, [Harold]
 
 ## Leadership
 
