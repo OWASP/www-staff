@@ -81,29 +81,33 @@ Full Conference Passes for OWASP Members starts at $895 and training classes sta
 
 ## Budget 
 
-The high level budget should be listed below as a table. The full budget should be linked here and in a Google Sheet in the OWASP instance set to public (read only).
-
-Description            | Amount
---------------         | ------------:
-**Income**             | 
-Registration           | $ 10 
-Training               | $ 10 
-Sponsorships           | $ 10 
-**Total Income**       | **$ 30**
-**Expenses**           | 
-Accomodations          | &euro;17,615 
-Travel                 | &euro;22,400 
-Internet               | &euro;27,500 
-Marketing/Swag         | &euro;13,200
-AV                     | &euro;16,500 
-Printing & Branding    | &euro;16,868 
-Expo                   | &euro;20,020
-Meeting Room Rental    | &euro;148,500
-Catering               | &euro;218,504
-Staff Services         | &euro;100,000 
-***Total Expenses**    | **&euro;601,107**
-**Net Profit**         | **&euro;348,943**
-
+```
+Income                                            
+     Registrations                        $602,000
+     Training                             $382,500
+     Sponsorships                         $725,000
+     Total Income                       $1,709,500
+                                                  
+Expenses                                          
+     Catering                                     
+          Conference                      $205,228
+          Training                         $64,896
+          Social Events                   $171,143
+     Expo                                  $20,730
+     Meeting Room Rental                          
+     Trainer Fees                         $153,000
+     A/V                                   $86,600
+     Printing & Branding                   $16,600
+     Accommodation                         $22,966
+     Travel                                $19,400
+     Internet                              $32,475
+     Hard Goods                             $6,901
+     Marketing                             $25,000
+     Staff Services                       $100,000
+     Total Expenses                       $924,939
+                                                  
+     P/L                                  $784,561
+```
 
 ## Sponsorships
 
