@@ -126,22 +126,6 @@
         "url": "https://owasp.org/www-staff/projects/201912-events-form"
     },
     {
-        "name": "Mailchimp as CRM",
-        "milestones": [],
-        "description": "As part of the website migration, the OWASP Foundation is also be migrating our membership database to MailChimp. There are a variety of reason for this change (1) ongoing data syncrhonization issues, (2) problematic SalesForce implmentation needs complete retool for continued use, (3) cost of third party softare to manage members in SalesForce is ~$10,000 per year, and (4) nearly all email to members is sent through Mailchimp. The audience on Mailchimp will be **OWASP-main** and members can be identified by the membership-end-date being after today's date.This project will consolidate the OWASP Foundation membership infomation into MailChimp. Historical member payments will be maintained as a log in Stripe and work item before eo2019 will be to import historical membership transaction data into Stripe.  The unique identifier for members will their personal email address.",
-        "leaders": [
-            {
-                "name": "Mike McCamon",
-                "email": "mike.mccamon@owasp.com"
-            },
-            {
-                "name": "Harold Blankenship",
-                "email": "harold.blankenship@owasp.com"
-            }
-        ],
-        "url": "https://owasp.org/www-staff/projects/201912-mailchimp"
-    },
-    {
         "name": "OWASP Staff Holidays",
         "milestones": [
             {
@@ -343,7 +327,7 @@
                 "description": "All volunteers registered",
                 "owner": "Lisa",
                 "project_name": "BlackHat Asia 2020",
-                "status": "future"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-03-31",
@@ -454,7 +438,7 @@
                 "description": "Hotel Attrition Milestone, OSD-3266",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin 2020",
-                "status": "future"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-03-16",
@@ -722,7 +706,7 @@
                 "description": "CFT/CFP Review Complete",
                 "owner": "Emily",
                 "project_name": "Global AppSec - San Francisco",
-                "status": "future"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-04-01",
