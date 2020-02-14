@@ -115,26 +115,33 @@ Registration Opens in early 2020
 
 ## Budget 
 
-Description            | Amount
---------------         | ------------:
-**Income**             | 
-Registration           | € 308,800
-Training               | € 191,250
-Sponsorships           | € 450,000
-**Total Income**       | **€ 950,050**
-**Expenses**           | 
-Accomodations          | € 17,615
-Travel                 | € 20,200 
-Internet               | € 27,500
-Marketing/Swag         | € 19,662
-AV                     | € 16,500 
-Printing & Branding    | € 16,868
-Expo                   | € 20,020
-Meeting Room Rental    | € 449,295
-Catering               | included above
-Staff Services         | € 100,000
-***Total Expenses**    | **€ 707,661**
-**Net Profit**         | **€ 242,388**
+```
+Income                                            
+     Registrations                        €292,075
+     Training                             €170,000
+     Sponsorships                         €450,000
+     Total Income                         €912,075
+                                                  
+Expenses                                          
+     Catering                                     
+          Conference                      €138,373
+          Training                         €11,061
+          Social Events                   €141,072
+     Expo                                  €20,020
+     Meeting Room Rental                  €165,000
+     Trainer Fees                          €68,000
+     A/V                                   €16,500
+     Printing & Branding                   €16,869
+     Accommodation                         €17,615
+     Travel                                €20,200
+     Internet                              €27,500
+     Hard Goods                             €6,463
+     Marketing                             €20,000
+     Staff Services                       €100,000
+     Total Expenses                       €768,672
+                                                  
+     P/L                                  €143,403
+```
 
 ## Sponsorships
 
