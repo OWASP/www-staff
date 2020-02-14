@@ -186,21 +186,21 @@
         "description": "All volunteers registered",
         "owner": "Lisa",
         "project_name": "BlackHat Asia 2020",
-        "status": "future"
+        "status": "on-time"
     },
     {
         "milestone_date": "2020-03-15",
         "description": "Hotel Attrition Milestone, OSD-3266",
         "owner": "Emily",
         "project_name": "Global AppSec - Dublin 2020",
-        "status": "future"
+        "status": "on-time"
     },
     {
         "milestone_date": "2020-03-15",
         "description": "CFT/CFP Review Complete",
         "owner": "Emily",
         "project_name": "Global AppSec - San Francisco",
-        "status": "future"
+        "status": "on-time"
     },
     {
         "milestone_date": "2020-03-16",
