@@ -13,22 +13,11 @@ As part of the website migration, the OWASP Foundation is also be migrating our 
 
 This project will consolidate the OWASP Foundation membership infomation into MailChimp. Historical member payments will be maintained as a log in Stripe and work item before eo2019 will be to import historical membership transaction data into Stripe.  The unique identifier for members will their personal email address.
 
-
 ## Goals
 
 1. Include top-level goals of the project in an ordered list
 2. Give thought to the ordering of goals. Revenue, attendance, launch date
 3. Make sure goals are measurable from undisputed source
-
-## Milestones
-
-* [ ] In an unordered list (billeted) list major milestones in chronological order
-* [ ] Use the syntax of 2019-01-19, Milestone name, [Name of Owner]
-* [x] When milestones are completed, mark them with an "x"
-* [ ] A milestone isn't everyone’s to-do list, it is the high level tasks of the project
-- [ ] If you have more than 30 milestones, you’re being too granular
-- [x] 2019-09-22, Action item completed, [All]
-- [x] 2019-09-30, You can leave the box UNCHECKED if not completed but you must edit page to change state, [All]
 
 ## Leadership
 
