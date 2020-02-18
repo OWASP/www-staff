@@ -148,16 +148,18 @@ Expenses
 This event offers several parter sponsorship opportunities.  If you are interested in supporting the event please contact [kelly@owasp.com](mailto:kelly@owasp.com&subject:Dublin%20Sponsorship). Below is a list of existing and available sponsorships. All sponsor assets will go in a folder named sponsors in this repo.
 
 Sponsorship Status
-Sponsorship Contract Status to Date (as of 12:00pmET February 11, 2020) Amount Contracted: $43,350.00 and €43,500.00. Amount Collected: $39,431.43. 
+Sponsorship Contract Status to Date (as of 5:00pmET February 18, 2020) Amount Contracted: $43,350.00 and €61,500.00. Amount Collected: $39,431.43. 
 
 #### Gold Corporate Sponsor
 - Secure Code Warrior (Gold Corporate Supporter) - paid in full 
 
 ### Sapphire Sponsor
+- Snyk - contract sent
 - Synopsys - invoice sent
 
 ### Ruby Sponsor
 - BSI Group - contract sent
+- Checkmarx - contract sent
 - Contrast Security - contract sent
 - Detectify - paid in full 
 - Kryptowire - paid in full 
