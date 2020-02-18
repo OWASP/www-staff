@@ -53,7 +53,7 @@
                 "description": "Events form (poc)",
                 "owner": "Simon",
                 "project_name": "Website Re-launch",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-05-15",
@@ -84,7 +84,7 @@
                 "description": "Beta version of Event Form Ready for testing",
                 "owner": "Simon",
                 "project_name": "Events Form",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-02-21",
@@ -133,7 +133,7 @@
                 "description": "Presidents Day",
                 "owner": "No Owner",
                 "project_name": "OWASP Staff Holidays",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-05-25",
@@ -313,7 +313,7 @@
                 "description": "Promotional merchandise and handouts decided",
                 "owner": "Lisa",
                 "project_name": "BlackHat Asia 2020",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-03-01",
@@ -349,7 +349,7 @@
                 "description": "Ship Stickers to SnowFROC, 12/11/19 told Mike need cc to order.",
                 "owner": "Lisa",
                 "project_name": "OWASP SnowFROC",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-02-05",
@@ -445,7 +445,7 @@
                 "description": "Payment 45% of Catering fee due",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin 2020",
-                "status": "future"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-03-27",
@@ -687,13 +687,6 @@
     {
         "name": "Global AppSec - San Francisco",
         "milestones": [
-            {
-                "milestone_date": "2020-01-02",
-                "description": "Close Call for Program Team Members",
-                "owner": "Emily",
-                "project_name": "Global AppSec - San Francisco",
-                "status": "overdue"
-            },
             {
                 "milestone_date": "2020-03-02",
                 "description": "Open CFT/CFP",
