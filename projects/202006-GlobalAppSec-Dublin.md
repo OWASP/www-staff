@@ -109,7 +109,7 @@ TBD
 
 ### Registration 
 
-Full Conference Passes for OWASP Members starts at €475 and training classes start at €850 per day.
+Full Conference Passes for OWASP Members starts at €400 and training classes start at €850 per day.
 
 Registration Opens in early 2020
 
