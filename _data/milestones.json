@@ -77,6 +77,13 @@
         "status": "on-time"
     },
     {
+        "milestone_date": "2020-02-24",
+        "description": "Insurance Certificate - payment sent awaiting certificate",
+        "owner": "Dawn",
+        "project_name": "OWASP Seasides 2020 - Insurance",
+        "status": "on-time"
+    },
+    {
         "milestone_date": "2020-02-26",
         "description": "Arrival Day",
         "owner": "No Owner",
