@@ -42,6 +42,7 @@ Join us for a celebration of leading application security technologies, speakers
 - [X] 2020-01-27, Open CFT/CFP, [Emily]
 - [ ] 2020-02-01, General Service Contract Signed, [Emily]
 - [ ] 2020-02-29, Close CFT/CFP, [Emily]
+- [ ] 2020-03-01, Update Speaker Agreement, [Mike]
 - [ ] 2020-03-01, Keynotes Announces, [Emily]
 - [ ] 2020-03-09, Registration Opens, [Emily]
 - [ ] 2020-03-15, Hotel Attrition Milestone, OSD-3266, [Emily]
