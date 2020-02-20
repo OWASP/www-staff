@@ -9,7 +9,8 @@ date: March 31 - April 3, 2020
 # BlackHat Asia 2020
 
 ## Overview
-
+ EVENT WAS POSTPONED
+ 
 Black Hat returns to Marina Bay Sands in Singapore, March 31 - April 3, 2020. The information security community comes together for esteemed Trainings taught by industry experts, innovative research presentations at Briefings, the latest open-source tool demos in Arsenal, and the Business Hall featuring top-tier solutions and service providers.
 
 ## Conference at a Glance with Links
