@@ -2,21 +2,21 @@
 
 title: BlackHat Asia 2020
 layout: full-width
-date: March 31 - April 3, 2020
+date: September 29 - October 2, 2020
 
 ---
 
 # BlackHat Asia 2020
 
 ## Overview
- EVENT WAS POSTPONED
  
-Black Hat returns to Marina Bay Sands in Singapore, March 31 - April 3, 2020. The information security community comes together for esteemed Trainings taught by industry experts, innovative research presentations at Briefings, the latest open-source tool demos in Arsenal, and the Business Hall featuring top-tier solutions and service providers.
+ 
+Black Hat returns to Marina Bay Sands in Singapore, September 29 - October 2, 2020. The information security community comes together for esteemed Trainings taught by industry experts, innovative research presentations at Briefings, the latest open-source tool demos in Arsenal, and the Business Hall featuring top-tier solutions and service providers.
 
 ## Conference at a Glance with Links
 
-- [Briefings Thursday, April 2 - Friday, April 3](https://www.blackhat.com/asia-20/briefings/schedule/index.html)
-- [Business Hall Thursday, April 2 - Friday, April 3](https://www.blackhat.com/asia-20/sponsors.html)
+- [Briefings Thursday, Oct. 1 - Friday, Oct. 2](https://www.blackhat.com/asia-20/briefings/schedule/index.html)
+- [Business Hall Thursday, Oct. 1 - Friday, Oct. 2](https://www.blackhat.com/asia-20/sponsors.html)
 - [REGISTRATION](https://blackhat.informatech.com/asia/2020/?)
 
 ## Provided to OWASP per Agreement
@@ -34,10 +34,10 @@ Booth E13
 
 * [x] 2020-01-08, Sign contract OSD-3340, [Mike]
 * [X] 2020-01-24 Wufoo Volunteer [form](https://owasp.wufoo.com/forms/q1m4my2a1br8l7g/) created and posted and emailed [Lisa]
-* [ ] 2020-02-17, Promotional merchandise and handouts decided, [Lisa]
-* [ ] 2020-03-01, Order Merchandise and handouts, [Lisa]
-* [ ] 2020-03-15, All volunteers registered, [Lisa]
-* [ ] 2020-03-31, BlackHat Asia
+* [ ] 2020-0, Promotional merchandise and handouts decided, [Lisa]
+* [ ] 2020-, Order Merchandise and handouts, [Lisa]
+* [ ] 2020-, All volunteers registered, [Lisa]
+* [ ] 2020-, BlackHat Asia
 
 
 
