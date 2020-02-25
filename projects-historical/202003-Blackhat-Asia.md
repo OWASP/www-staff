@@ -15,8 +15,8 @@ Black Hat returns to Marina Bay Sands in Singapore, September 29 - October 2, 20
 
 ## Conference at a Glance with Links
 
-- [Briefings Thursday, Oct. 1 - Friday, Oct. 2](https://www.blackhat.com/asia-20/briefings/schedule/index.html)
-- [Business Hall Thursday, Oct. 1 - Friday, Oct. 2](https://www.blackhat.com/asia-20/sponsors.html)
+- [Briefings Thursday, Oct 1 - Friday, Oct 2](https://www.blackhat.com/asia-20/briefings/schedule/index.html)
+- [Business Hall Thursday, Oct 1 - Friday, Oct 2](https://www.blackhat.com/asia-20/sponsors.html)
 - [REGISTRATION](https://blackhat.informatech.com/asia/2020/?)
 
 ## Provided to OWASP per Agreement
@@ -32,12 +32,12 @@ Booth E13
 
 ## Milestones
 
-* [x] 2020-01-08, Sign contract OSD-3340, [Mike]
+* [x] 2020-01-08 Sign contract OSD-3340, [Mike]
 * [X] 2020-01-24 Wufoo Volunteer [form](https://owasp.wufoo.com/forms/q1m4my2a1br8l7g/) created and posted and emailed [Lisa]
-* [ ] 2020-0, Promotional merchandise and handouts decided, [Lisa]
-* [ ] 2020-, Order Merchandise and handouts, [Lisa]
-* [ ] 2020-, All volunteers registered, [Lisa]
-* [ ] 2020-, BlackHat Asia
+* [ ] 2020 Promotional merchandise and handouts decided, [Lisa]
+* [ ] 2020 Order Merchandise and handouts, [Lisa]
+* [ ] 2020 All volunteers registered, [Lisa]
+* [ ] 2020 BlackHat Asia
 
 
 
