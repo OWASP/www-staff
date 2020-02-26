@@ -91,7 +91,7 @@
                 "description": "Release Candiate of Form ready for regression testing",
                 "owner": "Simon",
                 "project_name": "Events Form",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-03-01",
@@ -128,13 +128,6 @@
     {
         "name": "OWASP Staff Holidays",
         "milestones": [
-            {
-                "milestone_date": "2020-02-17",
-                "description": "Presidents Day",
-                "owner": "No Owner",
-                "project_name": "OWASP Staff Holidays",
-                "status": "overdue"
-            },
             {
                 "milestone_date": "2020-05-25",
                 "description": "Memorial Day",
@@ -199,7 +192,7 @@
                 "status": "future"
             }
         ],
-        "description": "tle: OWASP Staff Holidayslayout: full-width---# OWASP Staff U.S. Holidays- [x] 2020-01-01, New Year\u2019s Day- [ ] 2020-02-17, Presidents Day- [ ] 2020-05-25, Memorial Day- [ ] 2020-07-03, Independence Day (Observed)- [ ] 2020-09-07, Labor Day- [ ] 2020-11-03, Federal Election Day- [ ] 2020-11-26, Thanksgiving Day- [ ] 2020-11-27, Day after Thanksgiving- [ ] 2020-12-24, Christmas Eve- [ ] 2020-12-25, Christmas Day- [ ] 2020-12-31, New Year\u2019s Eve",
+        "description": "tle: OWASP Staff Holidayslayout: full-width---# OWASP Staff U.S. Holidays- [x] 2020-01-01, New Year\u2019s Day- [x] 2020-02-17, Presidents Day- [ ] 2020-05-25, Memorial Day- [ ] 2020-07-03, Independence Day (Observed)- [ ] 2020-09-07, Labor Day- [ ] 2020-11-03, Federal Election Day- [ ] 2020-11-26, Thanksgiving Day- [ ] 2020-11-27, Day after Thanksgiving- [ ] 2020-12-24, Christmas Eve- [ ] 2020-12-25, Christmas Day- [ ] 2020-12-31, New Year\u2019s Eve",
         "leaders": [
             {
                 "name": "x",
@@ -223,7 +216,7 @@
                 "description": "Close P&L",
                 "owner": "Emily",
                 "project_name": "AppSec California 2020",
-                "status": "future"
+                "status": "on-time"
             }
         ],
         "description": "Each project will have a 2-3 paragraph overview narrative. Keep to the key top points about the project. Visitors should be able to read this short narrative and have a good understanding of the project without having to scroll the entire document.",
@@ -306,40 +299,20 @@
         "url": "https://owasp.org/www-staff/projects/202002-Projects-Summit-Q1"
     },
     {
-        "name": "BlackHat Asia 2020",
-        "milestones": [
+        "name": "Staff Summit - Winter 2020",
+        "milestones": [],
+        "description": "The OWASP Foundation will host a two-day staff summit in conjunction with the Projects Summit in Cancun, Mexico, February 27-29, 2020. Arrival day will be Wednesday the 26th and departures will be Saturday the 29th.",
+        "leaders": [
             {
-                "milestone_date": "2020-02-17",
-                "description": "Promotional merchandise and handouts decided",
-                "owner": "Lisa",
-                "project_name": "BlackHat Asia 2020",
-                "status": "overdue"
+                "name": "Project - Harold Blankenship",
+                "email": "harold.blankenship@owasp.com"
             },
             {
-                "milestone_date": "2020-03-01",
-                "description": "Order Merchandise and handouts",
-                "owner": "Lisa",
-                "project_name": "BlackHat Asia 2020",
-                "status": "on-time"
-            },
-            {
-                "milestone_date": "2020-03-15",
-                "description": "All volunteers registered",
-                "owner": "Lisa",
-                "project_name": "BlackHat Asia 2020",
-                "status": "on-time"
-            },
-            {
-                "milestone_date": "2020-03-31",
-                "description": "BlackHat Asia",
-                "owner": "No Owner",
-                "project_name": "BlackHat Asia 2020",
-                "status": "future"
+                "name": "Venue - Emily Berman",
+                "email": "emily.berman@owasp.com"
             }
         ],
-        "description": "Black Hat returns to Marina Bay Sands in Singapore, March 31 - April 3, 2020. The information security community comes together for esteemed Trainings taught by industry experts, innovative research presentations at Briefings, the latest open-source tool demos in Arsenal, and the Business Hall featuring top-tier solutions and service providers.",
-        "leaders": [],
-        "url": "https://owasp.org/www-staff/projects/202003-Blackhat-Asia"
+        "url": "https://owasp.org/www-staff/projects/202002-staff-summit"
     },
     {
         "name": "OWASP SnowFROC",
@@ -348,13 +321,6 @@
                 "milestone_date": "2020-02-15",
                 "description": "Ship Stickers to SnowFROC, 12/11/19 told Mike need cc to order.",
                 "owner": "Lisa",
-                "project_name": "OWASP SnowFROC",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-02-05",
-                "description": "Confirm attendance. If over 500 please notify Dawn to update Insurance Policy",
-                "owner": "Emily",
                 "project_name": "OWASP SnowFROC",
                 "status": "overdue"
             },
@@ -421,6 +387,13 @@
             },
             {
                 "milestone_date": "2020-03-01",
+                "description": "Update Speaker Agreement",
+                "owner": "Mike",
+                "project_name": "Global AppSec - Dublin 2020",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-03-01",
                 "description": "Keynotes Announces",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin 2020",
@@ -452,7 +425,7 @@
                 "description": "CFT/CFP Review Complete",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin 2020",
-                "status": "future"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-04-01",
@@ -674,7 +647,15 @@
     },
     {
         "name": "DEFCON 28",
-        "milestones": [],
+        "milestones": [
+            {
+                "milestone_date": "2020-03-01",
+                "description": "Call for Vendors application will be accepted",
+                "owner": "No Owner",
+                "project_name": "DEFCON 28",
+                "status": "on-time"
+            }
+        ],
         "description": "Each project will have a 2-3 paragraph overview narrative. Keep to the key top points about the project. Visitors should be able to read this short narrative and have a good understanding of the project without having to scroll the entire document.",
         "leaders": [
             {
