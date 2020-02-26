@@ -28,13 +28,6 @@
         "status": "overdue"
     },
     {
-        "milestone_date": "2020-02-05",
-        "description": "Confirm attendance. If over 500 please notify Dawn to update Insurance Policy",
-        "owner": "Emily",
-        "project_name": "OWASP SnowFROC",
-        "status": "overdue"
-    },
-    {
         "milestone_date": "2020-02-14",
         "description": "Beta version of Event Form Ready for testing",
         "owner": "Simon",
@@ -56,32 +49,11 @@
         "status": "overdue"
     },
     {
-        "milestone_date": "2020-02-17",
-        "description": "Presidents Day",
-        "owner": "No Owner",
-        "project_name": "OWASP Staff Holidays",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-02-17",
-        "description": "Promotional merchandise and handouts decided",
-        "owner": "Lisa",
-        "project_name": "BlackHat Asia 2020",
-        "status": "overdue"
-    },
-    {
         "milestone_date": "2020-02-21",
         "description": "Release Candiate of Form ready for regression testing",
         "owner": "Simon",
         "project_name": "Events Form",
-        "status": "on-time"
-    },
-    {
-        "milestone_date": "2020-02-24",
-        "description": "Insurance Certificate - payment sent awaiting certificate",
-        "owner": "Dawn",
-        "project_name": "OWASP Seasides 2020 - Insurance",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-02-26",
@@ -134,9 +106,9 @@
     },
     {
         "milestone_date": "2020-03-01",
-        "description": "Order Merchandise and handouts",
-        "owner": "Lisa",
-        "project_name": "BlackHat Asia 2020",
+        "description": "Update Speaker Agreement",
+        "owner": "Mike",
+        "project_name": "Global AppSec - Dublin 2020",
         "status": "on-time"
     },
     {
@@ -144,6 +116,13 @@
         "description": "Keynotes Announces",
         "owner": "Emily",
         "project_name": "Global AppSec - Dublin 2020",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2020-03-01",
+        "description": "Call for Vendors application will be accepted",
+        "owner": "No Owner",
+        "project_name": "DEFCON 28",
         "status": "on-time"
     },
     {
@@ -183,13 +162,6 @@
     },
     {
         "milestone_date": "2020-03-15",
-        "description": "All volunteers registered",
-        "owner": "Lisa",
-        "project_name": "BlackHat Asia 2020",
-        "status": "on-time"
-    },
-    {
-        "milestone_date": "2020-03-15",
         "description": "Hotel Attrition Milestone, OSD-3266",
         "owner": "Emily",
         "project_name": "Global AppSec - Dublin 2020",
@@ -214,21 +186,14 @@
         "description": "Close P&L",
         "owner": "Emily",
         "project_name": "AppSec California 2020",
-        "status": "future"
+        "status": "on-time"
     },
     {
         "milestone_date": "2020-03-27",
         "description": "CFT/CFP Review Complete",
         "owner": "Emily",
         "project_name": "Global AppSec - Dublin 2020",
-        "status": "future"
-    },
-    {
-        "milestone_date": "2020-03-31",
-        "description": "BlackHat Asia",
-        "owner": "No Owner",
-        "project_name": "BlackHat Asia 2020",
-        "status": "future"
+        "status": "on-time"
     },
     {
         "milestone_date": "2020-04-01",
@@ -275,7 +240,7 @@
     {
         "milestone_date": "2020-04-22",
         "description": "Deadline for invoices and expense reimbursement requests",
-        "owner": "Emily",
+        "owner": "Dawn",
         "project_name": "Projects Summit - Winter 2020",
         "status": "future"
     },
@@ -506,7 +471,7 @@
     {
         "milestone_date": "2020-09-30",
         "description": "Deadline for invoices and expense reimbursement requests",
-        "owner": "Emily",
+        "owner": "Dawn",
         "project_name": "Projects Summit - Summer",
         "status": "future"
     },
