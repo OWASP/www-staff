@@ -17,13 +17,14 @@ The OWASP Foundation will host a two-day staff summit in conjunction with the Pr
 
 ## Goals
 
-1. Provide a venue and opportunity for measurable progress on key OWASP Projects
-2. Facetime for project teams and leadership
+1. Build consensus and progress on key staff initiatives
+2. Provide a venue and opportunity for measurable progress on key OWASP Projects
+3. Facetime for staff and project leadership
 
 ## Leadership
 
-* [Project - Harold Blankenship](mailto:harold.blankenship@owasp.com?subject=Project%20Summit)
-* [Venue - Emily Berman](mailto:emily.berman@owasp.com?subject=Project%20Summit)
+* [Project - Mike McCamon](mailto:mike.mccamon@owasp.com?subject=Staff%20Summit)
+* [Venue - Emily Berman](mailto:emily.berman@owasp.com?subject=Staff%20Summit)
 
 
 ## Logistics
@@ -38,19 +39,22 @@ THUR Agenda
 - 12:30 - 02:00 - LUNCH BREAK
 - 02:00 - 03:30 - Homework/Policies Reviews
 - 03:30 - 03:45 - Break
-- 03:45 - 04:30 - Operating Plan Walkthrough / Assignments
-- 04:30 - 05:30 - Website training / Side group Chart of Accounts - JIRA coding
 
 FRI Agenda
-- 09:00 - 09:30 - Engaging Membership / Sherif Community Review Concept
-- 09:30 - 10:00 - Chapter Levels and Balances
-- 10:00 - 10:30 - Project Donations & Sponsorships
+- 09:00 - 10:00 - Homework/Policies
+- 10:00 - 10:30 - Engaging Membership Brainstorming
 - 10:30 - 10:45 - Break
-- 10:45 - 12:00 - SalesForce User Stories / CRM
+- 10:45 - 12:00 - SalesForce User Stories / CRM Requirments
 - 12:00 - 01:00 - LUNCH BREAK
-- 01:00 - 01:30 - LATAM Tour
-- 01:30 - 02:30 - Invoicing & Accounting
-
+- 01:00 - 03:00 - 30min Fast Topics
+  - Invoicing / Accounting / Chart of Accounts
+  - Chapter Levels and Balances
+  - Sherif Community Review Concept
+  - LATAM Tour
+- 03:00 - 03:15 - Break
+- 03:15 - 04:00 - Operating Plan Walkthrough / Assignments
+- 04:00 - 05:00 - Parking lot
+- 05:00 - 06:00 - Optional 1:1s
 
 ### Venue & Lodging
 
@@ -72,8 +76,8 @@ Registration           | $0
 Travel                 | $6,000 
 Hotel Accomodations    | Project Summit Overage
 Internet               | included
-AV                     | $1,000 
+AV                     | includec in Summit 
 Catering               | included
-***Total Expenses**    | **$7,000**
+***Total Expenses**    | **$6,000**
 
 
