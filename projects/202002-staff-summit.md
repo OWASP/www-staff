@@ -74,10 +74,10 @@ Registration           | $0
 **Total Income**       | **$0**
 **Expenses**           | 
 Travel                 | $6,000 
-Hotel Accomodations    | Project Summit Overage
-Internet               | included
-AV                     | includec in Summit 
-Catering               | included
+Hotel Accomodations    | N/C Project Summit Overage
+Internet               | N/C
+AV                     | included with Summit 
+Catering               | N/C
 ***Total Expenses**    | **$6,000**
 
 
