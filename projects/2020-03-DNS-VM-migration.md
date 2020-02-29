@@ -29,4 +29,4 @@ The DNS, name provider, and virtual machine infrastructure currently resides on 
 
 ## Leadership
 
-* [Harold Blankenship](mailto:harold.blankenship@owasp.com?subject={% page.title %})
+* [Harold Blankenship](mailto:harold.blankenship@owasp.com?subject=DNS%20and%20VM%20Migration)
