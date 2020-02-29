@@ -105,7 +105,7 @@ As part of the OWASP website migration, we will creating a new Events form that 
 4. /event-refund {StripeTranactionID} {amount as number}
    1. Refund a transaction or a portion based on the amount. Amount is required and is a number, not a current-dependent number
    2. Make sure that reporting is net refunds
-5. /event-comp-attendee {Event Identifier} {First name} {Last Name} {Company} {email} [NICE TO HAVE MAYBE NOT]
+5. /event-comp-attendee [ will be handled with a discount code]
 6. /event-create-discount {Event Identifer} {number of uses} {Code Name}
    1. Creates a discount code with name of Code Name with a set number of uses. It will be important to log the slack username in Stripe for this bot command.
    2. Bot returns, "Discount Code: Code with x uses created for EventName
