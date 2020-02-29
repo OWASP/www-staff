@@ -5,7 +5,7 @@ layout: full-width
 
 ---
 
-# {% page.title %}
+# DNS and VM Migration
 
 ## Overview
 
