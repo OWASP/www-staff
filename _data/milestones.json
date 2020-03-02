@@ -60,70 +60,63 @@
         "description": "Arrival Day",
         "owner": "No Owner",
         "project_name": "Projects Summit - Winter 2020",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-02-27",
         "description": "Summitt Hours 10a-6p",
         "owner": "No Owner",
         "project_name": "Projects Summit - Winter 2020",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-02-28",
         "description": "Summitt Hours 9a-5p",
         "owner": "No Owner",
         "project_name": "Projects Summit - Winter 2020",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-02-29",
         "description": "Summitt Hours 9a-5p",
         "owner": "No Owner",
         "project_name": "Projects Summit - Winter 2020",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-02-29",
         "description": "Close CFT/CFP",
         "owner": "Emily",
         "project_name": "Global AppSec - Dublin 2020",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-03-01",
         "description": "Launch form with Global AppSec - Dublin as first product",
         "owner": "Harold",
         "project_name": "Events Form",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-03-01",
         "description": "Departure Day",
         "owner": "No Owner",
         "project_name": "Projects Summit - Winter 2020",
-        "status": "on-time"
-    },
-    {
-        "milestone_date": "2020-03-01",
-        "description": "Update Speaker Agreement",
-        "owner": "Mike",
-        "project_name": "Global AppSec - Dublin 2020",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-03-01",
         "description": "Keynotes Announces",
         "owner": "Emily",
         "project_name": "Global AppSec - Dublin 2020",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-03-01",
         "description": "Call for Vendors application will be accepted",
         "owner": "No Owner",
         "project_name": "DEFCON 28",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-03-02",
@@ -176,9 +169,30 @@
     },
     {
         "milestone_date": "2020-03-16",
+        "description": "map all DNS and VM data",
+        "owner": "Matt Tesauro",
+        "project_name": "DNS and VM Migration",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2020-03-16",
         "description": "Payment 45% of Catering fee due",
         "owner": "Emily",
         "project_name": "Global AppSec - Dublin 2020",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2020-03-18",
+        "description": "initial single, low-importance domain moved to Cloudflare and tested",
+        "owner": "Matt Tesauro",
+        "project_name": "DNS and VM Migration",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2020-03-20",
+        "description": "use Cloudflare as DNS provider for all domains (transfer from Rackspace and Combell)",
+        "owner": "Matt Tesauro",
+        "project_name": "DNS and VM Migration",
         "status": "on-time"
     },
     {
@@ -186,6 +200,13 @@
         "description": "Close P&L",
         "owner": "Emily",
         "project_name": "AppSec California 2020",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2020-03-27",
+        "description": "use Cloudflare as CDN for owasp.org and implement redirects",
+        "owner": "Matt Tesauro, John Morabito",
+        "project_name": "DNS and VM Migration",
         "status": "on-time"
     },
     {
@@ -200,20 +221,27 @@
         "description": "AV Contract Signed",
         "owner": "Emily",
         "project_name": "Global AppSec - Dublin 2020",
-        "status": "future"
+        "status": "on-time"
     },
     {
         "milestone_date": "2020-04-01",
         "description": "Prgram Announced",
         "owner": "Emily",
         "project_name": "Global AppSec - San Francisco",
-        "status": "future"
+        "status": "on-time"
     },
     {
         "milestone_date": "2020-04-01",
         "description": "Registration Opens",
         "owner": "Emily",
         "project_name": "Global AppSec - San Francisco",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2020-04-03",
+        "description": "move VMs not in DigitalOcean to DigitalOcean",
+        "owner": "No Owner",
+        "project_name": "DNS and VM Migration",
         "status": "future"
     },
     {
