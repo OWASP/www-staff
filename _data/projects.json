@@ -34,18 +34,6 @@
         "url": "https://owasp.org/www-staff/projects/201910-marketing"
     },
     {
-        "name": "Consolidate Web Infrastructure",
-        "milestones": [],
-        "description": "Consolidate all extant servers to a single provider and move all DNS to a single provider.",
-        "leaders": [
-            {
-                "name": "Harold Blankenship",
-                "email": "harold.blankenship@owasp.com"
-            }
-        ],
-        "url": "https://owasp.org/www-staff/projects/201912-Consolidate-Web-Infrastructure"
-    },
-    {
         "name": "Website Re-launch",
         "milestones": [
             {
@@ -98,7 +86,7 @@
                 "description": "Launch form with Global AppSec - Dublin as first product",
                 "owner": "Harold",
                 "project_name": "Events Form",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-03-07",
@@ -124,6 +112,54 @@
             }
         ],
         "url": "https://owasp.org/www-staff/projects/201912-events-form"
+    },
+    {
+        "name": "DNS and VM Migration",
+        "milestones": [
+            {
+                "milestone_date": "2020-03-16",
+                "description": "map all DNS and VM data",
+                "owner": "Matt Tesauro",
+                "project_name": "DNS and VM Migration",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-03-18",
+                "description": "initial single, low-importance domain moved to Cloudflare and tested",
+                "owner": "Matt Tesauro",
+                "project_name": "DNS and VM Migration",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-03-20",
+                "description": "use Cloudflare as DNS provider for all domains (transfer from Rackspace and Combell)",
+                "owner": "Matt Tesauro",
+                "project_name": "DNS and VM Migration",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-03-27",
+                "description": "use Cloudflare as CDN for owasp.org and implement redirects",
+                "owner": "Matt Tesauro, John Morabito",
+                "project_name": "DNS and VM Migration",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-04-03",
+                "description": "move VMs not in DigitalOcean to DigitalOcean",
+                "owner": "No Owner",
+                "project_name": "DNS and VM Migration",
+                "status": "future"
+            }
+        ],
+        "description": "The DNS, name provider, and virtual machine infrastructure currently resides on several different platforms.  In addition, the website redirection currently is at an elevated risk due to a single point of failure.  In order to consolidate our platforms and mitigate the risk, the VM infrastructure will be moved to DigitalOcean, the name provider will shift to Namecheap, and the DNS and redirect infrastructure will be moved to Cloudflare.",
+        "leaders": [
+            {
+                "name": "Harold Blankenship",
+                "email": "harold.blankenship@owasp.com"
+            }
+        ],
+        "url": "https://owasp.org/www-staff/projects/2020-03-DNS-VM-migration"
     },
     {
         "name": "OWASP Staff Holidays",
@@ -247,35 +283,35 @@
                 "description": "Arrival Day",
                 "owner": "No Owner",
                 "project_name": "Projects Summit - Winter 2020",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-02-27",
                 "description": "Summitt Hours 10a-6p",
                 "owner": "No Owner",
                 "project_name": "Projects Summit - Winter 2020",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-02-28",
                 "description": "Summitt Hours 9a-5p",
                 "owner": "No Owner",
                 "project_name": "Projects Summit - Winter 2020",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-02-29",
                 "description": "Summitt Hours 9a-5p",
                 "owner": "No Owner",
                 "project_name": "Projects Summit - Winter 2020",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-03-01",
                 "description": "Departure Day",
                 "owner": "No Owner",
                 "project_name": "Projects Summit - Winter 2020",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-04-22",
@@ -304,8 +340,8 @@
         "description": "The OWASP Foundation will host a two-day staff summit in conjunction with the Projects Summit in Cancun, Mexico, February 27-29, 2020. Arrival day will be Wednesday the 26th and departures will be Saturday the 29th.",
         "leaders": [
             {
-                "name": "Project - Harold Blankenship",
-                "email": "harold.blankenship@owasp.com"
+                "name": "Project - Mike McCamon",
+                "email": "mike.mccamon@owasp.com"
             },
             {
                 "name": "Venue - Emily Berman",
@@ -383,21 +419,14 @@
                 "description": "Close CFT/CFP",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin 2020",
-                "status": "on-time"
-            },
-            {
-                "milestone_date": "2020-03-01",
-                "description": "Update Speaker Agreement",
-                "owner": "Mike",
-                "project_name": "Global AppSec - Dublin 2020",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-03-01",
                 "description": "Keynotes Announces",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin 2020",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-03-09",
@@ -432,7 +461,7 @@
                 "description": "AV Contract Signed",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin 2020",
-                "status": "future"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-04-10",
@@ -653,7 +682,7 @@
                 "description": "Call for Vendors application will be accepted",
                 "owner": "No Owner",
                 "project_name": "DEFCON 28",
-                "status": "on-time"
+                "status": "overdue"
             }
         ],
         "description": "Each project will have a 2-3 paragraph overview narrative. Keep to the key top points about the project. Visitors should be able to read this short narrative and have a good understanding of the project without having to scroll the entire document.",
@@ -687,14 +716,14 @@
                 "description": "Prgram Announced",
                 "owner": "Emily",
                 "project_name": "Global AppSec - San Francisco",
-                "status": "future"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-04-01",
                 "description": "Registration Opens",
                 "owner": "Emily",
                 "project_name": "Global AppSec - San Francisco",
-                "status": "future"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-04-10",
