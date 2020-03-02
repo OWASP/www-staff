@@ -5,6 +5,8 @@ layout: full-width
 
 ---
 
+<!-- rebuild 1 -->
+
 # Staff Projects
 
 [Milestone View](/www-staff/milestones)
