@@ -24,11 +24,14 @@ As part of the OWASP website migration, we will creating a new Events form that 
 ## Milestones
 - [x] 2019-11-01, Identify resource to develop this form/project, [Mike]
 - [x] 2019-11-28, Spec out workflow for visitors, [Mike]
-- x ] 2020-01-10, Wireframe of Event Form, [Mike]
-- [ ] 2020-02-14, Beta version of Event Form Ready for testing, [Simon]
-- [ ] 2020-02-21, Release Candiate of Form ready for regression testing, [Simon]
-- [ ] 2020-03-01, Launch form with Global AppSec - Dublin as first product, [Harold]
-- [ ] 2020-03-07, Project Complete, [Harold]
+- [x] 2020-01-10, Wireframe of Event Form, [Mike]
+- [x] 2020-02-14, Beta version of Event Form Ready for testing, [Simon]
+- [x] 2020-02-21, Release Candiate of Form ready for regression testing, [Simon]
+- [x] 2020-03-01, Launch form with Global AppSec - Dublin as MVP, [Harold]
+- [ ] 2020-03-06, Post-launch fixes complete, [Simon]
+- [ ] 2020-03-06, Google Sheet Template, [Mike]
+- [ ] 2020-03-13, Google Sheet push implemented, tested, and in production, [Simon]
+- [ ] 2020-03-18, Project Complete, [Harold]
 
 ## Leadership
 
@@ -75,9 +78,7 @@ As part of the OWASP website migration, we will creating a new Events form that 
       1. Stripe will handle sending a receipt
       2. Mailchimp will handle sending Registrant Curriculum
 7. Online Reports
-   1. Public list of Product SKUs with number sold and revenue. Nice to have include Inventory Remaining
-   2. Dietary Report
-   3. CSV export for badges
+   1. Google Sheet updated from Stripe in real-time
    4. [Nice to have] Live link with Boomset for badge
    
 ## Product/SKUs
@@ -115,7 +116,6 @@ As part of the OWASP website migration, we will creating a new Events form that 
    
 
 ## Questions
-1. Collect email popup we can do ambandoned shopping cart and "return to complete form"
 2. Group discounts will be handled with an invoice - not online
 3. Need an easy to quickly add lots of Complimentary Registrations (like for Sponors, Booth, staff, etc)
 
