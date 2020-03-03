@@ -28,7 +28,6 @@ The OWASP Foundation will host a two-day staff summit in conjunction with the Pr
 
 
 ## Logistics
-###
 
 THUR Agenda
 - 09:00 - 09:15 - Join Kickoff with Projects Summitt - Event Logistics
