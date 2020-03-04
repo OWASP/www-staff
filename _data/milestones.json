@@ -28,13 +28,6 @@
         "status": "overdue"
     },
     {
-        "milestone_date": "2020-02-14",
-        "description": "Beta version of Event Form Ready for testing",
-        "owner": "Simon",
-        "project_name": "Events Form",
-        "status": "overdue"
-    },
-    {
         "milestone_date": "2020-02-15",
         "description": "Events form (poc)",
         "owner": "Simon",
@@ -46,13 +39,6 @@
         "description": "Ship Stickers to SnowFROC, 12/11/19 told Mike need cc to order.",
         "owner": "Lisa",
         "project_name": "OWASP SnowFROC",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-02-21",
-        "description": "Release Candiate of Form ready for regression testing",
-        "owner": "Simon",
-        "project_name": "Events Form",
         "status": "overdue"
     },
     {
@@ -84,20 +70,6 @@
         "status": "overdue"
     },
     {
-        "milestone_date": "2020-02-29",
-        "description": "Close CFT/CFP",
-        "owner": "Emily",
-        "project_name": "Global AppSec - Dublin 2020",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-03-01",
-        "description": "Launch form with Global AppSec - Dublin as first product",
-        "owner": "Harold",
-        "project_name": "Events Form",
-        "status": "overdue"
-    },
-    {
         "milestone_date": "2020-03-01",
         "description": "Departure Day",
         "owner": "No Owner",
@@ -106,16 +78,9 @@
     },
     {
         "milestone_date": "2020-03-01",
-        "description": "Keynotes Announces",
+        "description": "Keynotes Announced",
         "owner": "Emily",
         "project_name": "Global AppSec - Dublin 2020",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-03-01",
-        "description": "Call for Vendors application will be accepted",
-        "owner": "No Owner",
-        "project_name": "DEFCON 28",
         "status": "overdue"
     },
     {
@@ -133,17 +98,31 @@
         "status": "on-time"
     },
     {
-        "milestone_date": "2020-03-07",
-        "description": "Project Complete",
-        "owner": "Harold",
+        "milestone_date": "2020-03-05",
+        "description": "Submission of Vendor Application",
+        "owner": "Lisa",
+        "project_name": "DEFCON 28",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2020-03-06",
+        "description": "Post-launch fixes complete",
+        "owner": "Simon",
         "project_name": "Events Form",
         "status": "on-time"
     },
     {
-        "milestone_date": "2020-03-09",
-        "description": "Registration Opens",
-        "owner": "Emily",
-        "project_name": "Global AppSec - Dublin 2020",
+        "milestone_date": "2020-03-06",
+        "description": "Google Sheet Template",
+        "owner": "Mike",
+        "project_name": "Events Form",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2020-03-06",
+        "description": "arrah's Las Vegas reservations https://book.passkey.com/go/SHDEF0",
+        "owner": "Mike",
+        "project_name": "DEFCON 28",
         "status": "on-time"
     },
     {
@@ -151,6 +130,13 @@
         "description": "2nd Payment of $3,000 due to venue",
         "owner": "Emily",
         "project_name": "LASCON 2020",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2020-03-13",
+        "description": "Google Sheet push implemented, tested, and in production",
+        "owner": "Simon",
+        "project_name": "Events Form",
         "status": "on-time"
     },
     {
@@ -179,6 +165,13 @@
         "description": "Payment 45% of Catering fee due",
         "owner": "Emily",
         "project_name": "Global AppSec - Dublin 2020",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2020-03-18",
+        "description": "Project Complete",
+        "owner": "Harold",
+        "project_name": "Events Form",
         "status": "on-time"
     },
     {
@@ -242,7 +235,7 @@
         "description": "move VMs not in DigitalOcean to DigitalOcean",
         "owner": "No Owner",
         "project_name": "DNS and VM Migration",
-        "status": "future"
+        "status": "on-time"
     },
     {
         "milestone_date": "2020-04-10",
