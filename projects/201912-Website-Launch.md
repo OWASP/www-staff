@@ -45,7 +45,7 @@ Upon the completion of this project, OWASP.org will be hosted in Github. The arc
 * [x] 2020-01-16, Validate all Member curriculum is pointing to owasp.org domain (not www2), [Mike]
 * [x] 2020-01-20, Metadata template information from SEO firm, [Harold]
 * [x] 2020-01-22, Integrate meta tag info into templates, [Harold]
-* [ ] 2020-02-15, Events form (poc) [Simon]
+* [x] 2020-02-15, Events form (poc) [Simon]
 * [ ] 2020-05-15, Validate Meetup Connector, [Harold]
 
 ## Historical Milestones (Completed)
