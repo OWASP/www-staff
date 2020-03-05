@@ -52,11 +52,11 @@ Leaders of projects selected are required to attend or that project will not be 
 - [X] 2020-01-22, Swag ordered (challenge coin), [Lisa]
 - [x] 2020-02-07, Notify Partipants of Travel, [Harold]
 - [x] 2020-02-10, Flight bookings complete to qualify for reimbursement/travel assistance grants
-- [ ] 2020-02-26, Arrival Day
-- [ ] 2020-02-27, Summitt Hours 10a-6p
-- [ ] 2020-02-28, Summitt Hours 9a-5p
-- [ ] 2020-02-29, Summitt Hours 9a-5p
-- [ ] 2020-03-01, Departure Day
+- [x] 2020-02-26, Arrival Day
+- [x] 2020-02-27, Summitt Hours 10a-6p
+- [x] 2020-02-28, Summitt Hours 9a-5p
+- [x] 2020-02-29, Summitt Hours 9a-5p
+- [x] 2020-03-01, Departure Day
 - [ ] 2020-04-22, Deadline for invoices and expense reimbursement requests, [Dawn]
 
 ## Leadership
