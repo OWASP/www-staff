@@ -4,7 +4,7 @@
         "milestones": [],
         "description": "Today our institutional name and the events we host are not protected by copyright. The Foundation will endeavor to register the following marks in the United States, European Union, and the United Kingdom: OWASP, Open Web Application Security Project, Global AppSec, and AppSec Days. Additionally the Foundation will register our figure mark (logo) in these same three domiciles. Once completed, the Foundation will develop and share a Trademark Guidelines document for events, chapters, and projects along with implementing these changes on our websites and event names. At this time, the Foundation does not expect to fund any enforcement activities.",
         "leaders": [],
-        "url": "https://www2.owasp.org/www-staff/projects/201902-Trademarks"
+        "url": "https://owasp.org/www-staff/projects/201902-Trademarks"
     },
     {
         "name": "Email Clean-Up",
@@ -16,7 +16,7 @@
                 "email": "mike.mccamon@owasp.com"
             }
         ],
-        "url": "https://www2.owasp.org/www-staff/projects/201910-Email-Cleanup"
+        "url": "https://owasp.org/www-staff/projects/201910-Email-Cleanup"
     },
     {
         "name": "2019Q4 Marketing",
@@ -31,21 +31,14 @@
         ],
         "description": "tle: 2019Q4 Marketinglayout: full-width---# 2019Q4 Marketing",
         "leaders": [],
-        "url": "https://www2.owasp.org/www-staff/projects/201910-marketing"
+        "url": "https://owasp.org/www-staff/projects/201910-marketing"
     },
     {
         "name": "Website Re-launch",
         "milestones": [
             {
-                "milestone_date": "2020-02-15",
-                "description": "Events form (poc)",
-                "owner": "Simon",
-                "project_name": "Website Re-launch",
-                "status": "overdue"
-            },
-            {
                 "milestone_date": "2020-05-15",
-                "description": "Validate Meetup Connector,",
+                "description": "Validate Meetup Connector",
                 "owner": "Harold",
                 "project_name": "Website Re-launch",
                 "status": "future"
@@ -62,35 +55,35 @@
                 "email": "mike.mccamon@owasp.com"
             }
         ],
-        "url": "https://www2.owasp.org/www-staff/projects/201912-Website-Launch"
+        "url": "https://owasp.org/www-staff/projects/201912-Website-Launch"
     },
     {
         "name": "Events Form",
         "milestones": [
             {
                 "milestone_date": "2020-03-06",
-                "description": "Post-launch fixes complete,",
+                "description": "Post-launch fixes complete",
                 "owner": "Simon",
                 "project_name": "Events Form",
                 "status": "on-time"
             },
             {
                 "milestone_date": "2020-03-06",
-                "description": "Google Sheet Template,",
+                "description": "Google Sheet Template",
                 "owner": "Mike",
                 "project_name": "Events Form",
                 "status": "on-time"
             },
             {
                 "milestone_date": "2020-03-13",
-                "description": "Google Sheet push implemented, tested, and in production,",
+                "description": "Google Sheet push implemented, tested, and in production",
                 "owner": "Simon",
                 "project_name": "Events Form",
                 "status": "on-time"
             },
             {
                 "milestone_date": "2020-03-18",
-                "description": "Project Complete,",
+                "description": "Project Complete",
                 "owner": "Harold",
                 "project_name": "Events Form",
                 "status": "on-time"
@@ -111,35 +104,35 @@
                 "email": "mike.mccamon@owasp.com"
             }
         ],
-        "url": "https://www2.owasp.org/www-staff/projects/201912-events-form"
+        "url": "https://owasp.org/www-staff/projects/201912-events-form"
     },
     {
         "name": "DNS and VM Migration",
         "milestones": [
             {
                 "milestone_date": "2020-03-16",
-                "description": "map all DNS and VM data,",
+                "description": "map all DNS and VM data",
                 "owner": "Matt Tesauro",
                 "project_name": "DNS and VM Migration",
                 "status": "on-time"
             },
             {
                 "milestone_date": "2020-03-18",
-                "description": "initial single, low-importance domain moved to Cloudflare and tested,",
+                "description": "initial single, low-importance domain moved to Cloudflare and tested",
                 "owner": "Matt Tesauro",
                 "project_name": "DNS and VM Migration",
                 "status": "on-time"
             },
             {
                 "milestone_date": "2020-03-20",
-                "description": "use Cloudflare as DNS provider for all domains (transfer from Rackspace and Combell),",
+                "description": "use Cloudflare as DNS provider for all domains (transfer from Rackspace and Combell)",
                 "owner": "Matt Tesauro",
                 "project_name": "DNS and VM Migration",
                 "status": "on-time"
             },
             {
                 "milestone_date": "2020-03-27",
-                "description": "use Cloudflare as CDN for owasp.org and implement redirects,",
+                "description": "use Cloudflare as CDN for owasp.org and implement redirects",
                 "owner": "Matt Tesauro, John Morabito",
                 "project_name": "DNS and VM Migration",
                 "status": "on-time"
@@ -159,7 +152,7 @@
                 "email": "harold.blankenship@owasp.com"
             }
         ],
-        "url": "https://www2.owasp.org/www-staff/projects/2020-03-DNS-VM-migration"
+        "url": "https://owasp.org/www-staff/projects/2020-03-DNS-VM-migration"
     },
     {
         "name": "OWASP Staff Holidays",
@@ -235,21 +228,21 @@
                 "email": ""
             }
         ],
-        "url": "https://www2.owasp.org/www-staff/projects/2020-staff-holidays"
+        "url": "https://owasp.org/www-staff/projects/2020-staff-holidays"
     },
     {
         "name": "AppSec California 2020",
         "milestones": [
             {
                 "milestone_date": "2020-01-23",
-                "description": "2nd half of AV Payment Due. Contract is in ticket OSD-3192,",
+                "description": "2nd half of AV Payment Due. Contract is in ticket OSD-3192",
                 "owner": "Emily",
                 "project_name": "AppSec California 2020",
                 "status": "overdue"
             },
             {
                 "milestone_date": "2020-03-24",
-                "description": "Close P&L,",
+                "description": "Close P&L",
                 "owner": "Emily",
                 "project_name": "AppSec California 2020",
                 "status": "on-time"
@@ -266,21 +259,21 @@
                 "email": "Elizabeth.Dugan@smgov.net"
             }
         ],
-        "url": "https://www2.owasp.org/www-staff/projects/202001-event-appsec-california"
+        "url": "https://owasp.org/www-staff/projects/202001-event-appsec-california"
     },
     {
         "name": "Projects Summit - Winter 2020",
         "milestones": [
             {
                 "milestone_date": "2020-01-15",
-                "description": "Venue 70% Remaining balance due of $32,457.60,",
+                "description": "Venue 70% Remaining balance due of $32,457.60",
                 "owner": "Emily",
                 "project_name": "Projects Summit - Winter 2020",
                 "status": "overdue"
             },
             {
                 "milestone_date": "2020-04-22",
-                "description": "Deadline for invoices and expense reimbursement requests,",
+                "description": "Deadline for invoices and expense reimbursement requests",
                 "owner": "Dawn",
                 "project_name": "Projects Summit - Winter 2020",
                 "status": "future"
@@ -297,28 +290,14 @@
                 "email": "emily.berman@owasp.com"
             }
         ],
-        "url": "https://www2.owasp.org/www-staff/projects/202002-Projects-Summit-Q1"
+        "url": "https://owasp.org/www-staff/projects/202002-Projects-Summit-Q1"
     },
     {
         "name": "OWASP SnowFROC",
         "milestones": [
             {
-                "milestone_date": "2020-02-15",
-                "description": "Ship Stickers to SnowFROC, 12/11/19 told Mike need cc to order.",
-                "owner": "Lisa",
-                "project_name": "OWASP SnowFROC",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-03-05",
-                "description": "SnowFROC, Denver",
-                "owner": "No Owner",
-                "project_name": "OWASP SnowFROC",
-                "status": "on-time"
-            },
-            {
                 "milestone_date": "2020-05-05",
-                "description": "Close P&L,",
+                "description": "Close P&L",
                 "owner": "Emily",
                 "project_name": "OWASP SnowFROC",
                 "status": "future"
@@ -351,98 +330,98 @@
                 "email": "emily.berman@owasp.com"
             }
         ],
-        "url": "https://www2.owasp.org/www-staff/projects/202003-snowfroc"
+        "url": "https://owasp.org/www-staff/projects/202003-snowfroc"
     },
     {
         "name": "Global AppSec - Dublin 2020",
         "milestones": [
             {
                 "milestone_date": "2020-02-01",
-                "description": "General Service Contract Signed,",
+                "description": "General Service Contract Signed",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin 2020",
                 "status": "overdue"
             },
             {
                 "milestone_date": "2020-03-01",
-                "description": "Keynotes Announced,",
+                "description": "Keynotes Announced",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin 2020",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-03-15",
-                "description": "Hotel Attrition Milestone, OSD-3266,",
+                "description": "Hotel Attrition Milestone, OSD-3266",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin 2020",
                 "status": "on-time"
             },
             {
                 "milestone_date": "2020-03-16",
-                "description": "Payment 45% of Catering fee due,",
+                "description": "Payment 45% of Catering fee due",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin 2020",
                 "status": "on-time"
             },
             {
                 "milestone_date": "2020-03-27",
-                "description": "CFT/CFP Review Complete,",
+                "description": "CFT/CFP Review Complete",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin 2020",
                 "status": "on-time"
             },
             {
                 "milestone_date": "2020-04-01",
-                "description": "AV Contract Signed,",
+                "description": "AV Contract Signed",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin 2020",
                 "status": "on-time"
             },
             {
                 "milestone_date": "2020-04-10",
-                "description": "Program Announced,",
+                "description": "Program Announced",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin 2020",
                 "status": "future"
             },
             {
                 "milestone_date": "2020-04-14",
-                "description": "Hotel Attrition Milestone, OSD-3266,",
+                "description": "Hotel Attrition Milestone, OSD-3266",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin 2020",
                 "status": "future"
             },
             {
                 "milestone_date": "2020-05-14",
-                "description": "Hotel Attrition Milestone, OSD-3266,",
+                "description": "Hotel Attrition Milestone, OSD-3266",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin 2020",
                 "status": "future"
             },
             {
                 "milestone_date": "2020-05-15",
-                "description": "SWAG Ordered,",
+                "description": "SWAG Ordered",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin 2020",
                 "status": "future"
             },
             {
                 "milestone_date": "2020-05-15",
-                "description": "Signage Ordered,",
+                "description": "Signage Ordered",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin 2020",
                 "status": "future"
             },
             {
                 "milestone_date": "2020-05-15",
-                "description": "Volunteers finalized and communication initiated,",
+                "description": "Volunteers finalized and communication initiated",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin 2020",
                 "status": "future"
             },
             {
                 "milestone_date": "2020-06-01",
-                "description": "F&B Order Complete,",
+                "description": "F&B Order Complete",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin 2020",
                 "status": "future"
@@ -459,91 +438,91 @@
                 "email": "emily.berman@owasp.com"
             }
         ],
-        "url": "https://www2.owasp.org/www-staff/projects/202006-GlobalAppSec-Dublin"
+        "url": "https://owasp.org/www-staff/projects/202006-GlobalAppSec-Dublin"
     },
     {
         "name": "Projects Summit - Summer",
         "milestones": [
             {
                 "milestone_date": "2020-05-02",
-                "description": "Venue contract signed,",
+                "description": "Venue contract signed",
                 "owner": "Emily",
                 "project_name": "Projects Summit - Summer",
                 "status": "future"
             },
             {
                 "milestone_date": "2020-06-05",
-                "description": "Project Nomination Form online,",
+                "description": "Project Nomination Form online",
                 "owner": "Mike",
                 "project_name": "Projects Summit - Summer",
                 "status": "future"
             },
             {
                 "milestone_date": "2020-06-08",
-                "description": "Project Nomination Opens,",
+                "description": "Project Nomination Opens",
                 "owner": "Harold",
                 "project_name": "Projects Summit - Summer",
                 "status": "future"
             },
             {
                 "milestone_date": "2020-06-09",
-                "description": "Email solicitation sent to Leaders list,",
+                "description": "Email solicitation sent to Leaders list",
                 "owner": "Harold",
                 "project_name": "Projects Summit - Summer",
                 "status": "future"
             },
             {
                 "milestone_date": "2020-06-11",
-                "description": "Reminder #2,",
+                "description": "Reminder #2",
                 "owner": "Harold",
                 "project_name": "Projects Summit - Summer",
                 "status": "future"
             },
             {
                 "milestone_date": "2020-06-17",
-                "description": "Reminder #3,",
+                "description": "Reminder #3",
                 "owner": "Harold",
                 "project_name": "Projects Summit - Summer",
                 "status": "future"
             },
             {
                 "milestone_date": "2020-06-23",
-                "description": "Reminder #4,",
+                "description": "Reminder #4",
                 "owner": "Harold",
                 "project_name": "Projects Summit - Summer",
                 "status": "future"
             },
             {
                 "milestone_date": "2020-06-25",
-                "description": "Reminder #5,",
+                "description": "Reminder #5",
                 "owner": "Harold",
                 "project_name": "Projects Summit - Summer",
                 "status": "future"
             },
             {
                 "milestone_date": "2020-06-25",
-                "description": "Form online to accept Attendee registrations (wuFoo),",
+                "description": "Form online to accept Attendee registrations (wuFoo)",
                 "owner": "Mike",
                 "project_name": "Projects Summit - Summer",
                 "status": "future"
             },
             {
                 "milestone_date": "2020-06-29",
-                "description": "Project Nomination Form Closes,",
+                "description": "Project Nomination Form Closes",
                 "owner": "Harold",
                 "project_name": "Projects Summit - Summer",
                 "status": "future"
             },
             {
                 "milestone_date": "2020-07-01",
-                "description": "Projects Selected (5),",
+                "description": "Projects Selected (5)",
                 "owner": "Harold",
                 "project_name": "Projects Summit - Summer",
                 "status": "future"
             },
             {
                 "milestone_date": "2020-07-01",
-                "description": "Registration Form Online,",
+                "description": "Registration Form Online",
                 "owner": "Harold",
                 "project_name": "Projects Summit - Summer",
                 "status": "future"
@@ -578,7 +557,7 @@
             },
             {
                 "milestone_date": "2020-09-30",
-                "description": "Deadline for invoices and expense reimbursement requests,",
+                "description": "Deadline for invoices and expense reimbursement requests",
                 "owner": "Dawn",
                 "project_name": "Projects Summit - Summer",
                 "status": "future"
@@ -595,7 +574,7 @@
                 "email": "emily.berman@owasp.com"
             }
         ],
-        "url": "https://www2.owasp.org/www-staff/projects/202007-Projects-Summit-Q3"
+        "url": "https://owasp.org/www-staff/projects/202007-Projects-Summit-Q3"
     },
     {
         "name": "BlackHat Las Vegas",
@@ -607,14 +586,14 @@
                 "email": "mike.mccamon@owasp.com"
             }
         ],
-        "url": "https://www2.owasp.org/www-staff/projects/202008-Blackhat-Las-Vegas"
+        "url": "https://owasp.org/www-staff/projects/202008-Blackhat-Las-Vegas"
     },
     {
         "name": "DEFCON 28",
         "milestones": [
             {
                 "milestone_date": "2020-03-06",
-                "description": "Harrah's Las Vegas reservations https://book.passkey.com/go/SHDEF0,",
+                "description": "arrah's Las Vegas reservations https://book.passkey.com/go/SHDEF0",
                 "owner": "Mike",
                 "project_name": "DEFCON 28",
                 "status": "on-time"
@@ -627,84 +606,84 @@
                 "email": "lisa.jones@owasp.com"
             }
         ],
-        "url": "https://www2.owasp.org/www-staff/projects/202008-Defcon-28"
+        "url": "https://owasp.org/www-staff/projects/202008-Defcon-28"
     },
     {
         "name": "Global AppSec - San Francisco",
         "milestones": [
             {
                 "milestone_date": "2020-03-02",
-                "description": "Open CFT/CFP,",
+                "description": "Open CFT/CFP",
                 "owner": "Emily",
                 "project_name": "Global AppSec - San Francisco",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-03-15",
-                "description": "CFT/CFP Review Complete,",
+                "description": "CFT/CFP Review Complete",
                 "owner": "Emily",
                 "project_name": "Global AppSec - San Francisco",
                 "status": "on-time"
             },
             {
                 "milestone_date": "2020-04-01",
-                "description": "Prgram Announced,",
+                "description": "Prgram Announced",
                 "owner": "Emily",
                 "project_name": "Global AppSec - San Francisco",
                 "status": "on-time"
             },
             {
                 "milestone_date": "2020-04-01",
-                "description": "Registration Opens,",
+                "description": "Registration Opens",
                 "owner": "Emily",
                 "project_name": "Global AppSec - San Francisco",
                 "status": "on-time"
             },
             {
                 "milestone_date": "2020-04-10",
-                "description": "Close CFT/CFP,",
+                "description": "Close CFT/CFP",
                 "owner": "Emily",
                 "project_name": "Global AppSec - San Francisco",
                 "status": "future"
             },
             {
                 "milestone_date": "2020-05-01",
-                "description": "Keynotes Announces,",
+                "description": "Keynotes Announces",
                 "owner": "Emily",
                 "project_name": "Global AppSec - San Francisco",
                 "status": "future"
             },
             {
                 "milestone_date": "2020-08-01",
-                "description": "AV Contract Signed,",
+                "description": "AV Contract Signed",
                 "owner": "Emily",
                 "project_name": "Global AppSec - San Francisco",
                 "status": "future"
             },
             {
                 "milestone_date": "2020-08-15",
-                "description": "SWAG Ordered,",
+                "description": "SWAG Ordered",
                 "owner": "Emily",
                 "project_name": "Global AppSec - San Francisco",
                 "status": "future"
             },
             {
                 "milestone_date": "2020-09-15",
-                "description": "Signage Ordered,",
+                "description": "Signage Ordered",
                 "owner": "Emily",
                 "project_name": "Global AppSec - San Francisco",
                 "status": "future"
             },
             {
                 "milestone_date": "2020-09-15",
-                "description": "Volunteers finalized and communication initiated,",
+                "description": "Volunteers finalized and communication initiated",
                 "owner": "Emily",
                 "project_name": "Global AppSec - San Francisco",
                 "status": "future"
             },
             {
                 "milestone_date": "2020-10-01",
-                "description": "F&B Order Complete,",
+                "description": "F&B Order Complete",
                 "owner": "Emily",
                 "project_name": "Global AppSec - San Francisco",
                 "status": "future"
@@ -721,21 +700,21 @@
                 "email": "mike.mccamon@owasp.com"
             }
         ],
-        "url": "https://www2.owasp.org/www-staff/projects/202010-Global-AppSec-SF"
+        "url": "https://owasp.org/www-staff/projects/202010-Global-AppSec-SF"
     },
     {
         "name": "LASCON 2020",
         "milestones": [
             {
                 "milestone_date": "2020-03-10",
-                "description": "2nd Payment of $3,000 due to venue,",
+                "description": "2nd Payment of $3,000 due to venue",
                 "owner": "Emily",
                 "project_name": "LASCON 2020",
                 "status": "on-time"
             },
             {
                 "milestone_date": "2020-07-01",
-                "description": "3rd Payment of $3,000 due to venue,",
+                "description": "3rd Payment of $3,000 due to venue",
                 "owner": "Emily",
                 "project_name": "LASCON 2020",
                 "status": "future"
@@ -749,7 +728,7 @@
             },
             {
                 "milestone_date": "2020-12-27",
-                "description": "Close P&L,",
+                "description": "Close P&L",
                 "owner": "Emily",
                 "project_name": "LASCON 2020",
                 "status": "future"
@@ -766,6 +745,6 @@
                 "email": "kyle.smith@owasp.org"
             }
         ],
-        "url": "https://www2.owasp.org/www-staff/projects/202010-event-lascon"
+        "url": "https://owasp.org/www-staff/projects/202010-event-lascon"
     }
 ]
