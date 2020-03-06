@@ -152,7 +152,7 @@ Sponsorship Status
 Sponsorship Contract Status to Date (as of 9:00amET March 6, 2020) Amount Contracted: $51,710.00 and €72,000.00. Amount Collected: $59,313,93. 
 
 ### Gold Corporate Sponsor
-- Secure Code Warrior (Gold Corporate Supporter) - paid
+- Secure Code Warrior (Gold Corporate Sponsor) - paid
 
 ### Sapphire Sponsor
 - Snyk - invoiced
@@ -171,8 +171,8 @@ Sponsorship Contract Status to Date (as of 9:00amET March 6, 2020) Amount Contra
 - Tala Security - paid
 - Veracode - contract sent
 
-### Lanyard Sponsor (1) SOLD OUT
-- BCC Risk - paid in full 
+### Lanyard Sponsor SOLD OUT
+- BCC Risk - paid
 
 ### Capture The Flag Sponsor SOLD OUT
 - Security Innovation - invoiced
