@@ -114,42 +114,48 @@ Expenses
 This event offers several parter sponsorships opportunities.  If you are interested in supporting the event please contact [kelly@owasp.com](mailto:kelly@owasp.com&subject:Eventname). Below is a list of existing and available sponsorships. All sponsor assets will go in a folder named sponsors in this repo.
 
 ## Sponsorship Status
-Sponsorship Contract Status to Date (as of 12:00pmET February 11, 2020). Amount Contracted: $370,245/USD Amount Collected: $200,000/USD
+Sponsorship Contract Status to Date (as of 9:00amET March 6, 2020). Amount Contracted: $398,245/USD Amount Collected: $200,000/USD
 
 #### Sapphire Sponsors
-- Acunetix - paid in full 
+- Acunetix - paid
 - Micro Focus - invoiced
-- Netsparker - paid in full
+- Netsparker - paid 
 - Rapid7 - invoiced
-- Salesforce - contract sent
+- Salesforce - invoiced
 - Security Compass - invoiced
 
 #### Ruby Sponsors
 - Security Innovation - invoiced 
-- Whitehat Security - contract sent
+- Virtru - invoiced
+- Whitehat Security - invoiced
 
 #### Gold Corpoate Supporters
-- Secure Code Warrior (Gold Corporate Supporter) - invoiced
+- Secure Code Warrior (Gold Corporate Supporter) - paid
 
 #### Silver Corporate Supporters
-- Altitude Networks (Silver Corporate Supporter) - paid in full 
+- Altitude Networks (Silver Corporate Supporter) - paid
 - Bugcrowd (Silver Corporate Supporter) - invoiced
-- Detectify (Silver Corporate Supporter) - paid in full 
-- ExtraHop (Silcer Corporate Supporter) - paid in full 
-- Intertrust (Silver Corporate Supporter) - paid in full 
-- Lyft (Silver Corporate Supporter) - invoiced
-- NowSecure (Silver Corporate Supporter) - paid in full
-- Qualys (Silver Corporate Supporter) - paid in full 
-- RIPS (Silver Corporate Supporter) - paid in full 
-- Salt Security - paid in full 
-- Security Journey (Silver Corporate Supporter) - paid in full 
-- Sqreen (Silver Corporate Supporter) - invoiced
-- Tala Security - invoiced  
-- White Source Software (Silver Corporate Supporter) - paid in full 
-- Zero North (Silver Corporate Supporter) - paid in full
+- Detectify (Silver Corporate Supporter) - paid 
+- ExtraHop (Silcer Corporate Supporter) - paid 
+- Intertrust (Silver Corporate Supporter) - paid 
+- Lyft (Silver Corporate Supporter) - paid
+- NowSecure (Silver Corporate Supporter) - paid 
+- Qualys (Silver Corporate Supporter) - paid 
+- RIPS (Silver Corporate Supporter) - paid
+- Salt Security (Silver Corporate Supporter) - paid 
+- Security Journey (Silver Corporate Supporter) - paid 
+- Sqreen (Silver Corporate Supporter) - paid
+- Tala Security (Silver Corporate Supporter) - paid 
+- Veracode (Silver Corporate Supporter) - invoiced 
+- White Source Software (Silver Corporate Supporter) - paid 
+- Zero North (Silver Corporate Supporter) - paid 
 
 #### Capture the Flag - SOLD OUT
-- Security Innovation 
+- Security Innovation - 
+
+#### Lunch Sponsor
+- Segment - contract sent
+
 
 ## Legal
 
