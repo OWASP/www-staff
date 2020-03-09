@@ -34,10 +34,11 @@ Booth E13
 
 * [x] 2020-01-08 Sign contract OSD-3340, [Mike]
 * [X] 2020-01-24 Wufoo Volunteer [form](https://owasp.wufoo.com/forms/q1m4my2a1br8l7g/) created and posted and emailed [Lisa]
-* [ ] 2020 Promotional merchandise and handouts decided, [Lisa]
-* [ ] 2020 Order Merchandise and handouts, [Lisa]
-* [ ] 2020 All volunteers registered, [Lisa]
-* [ ] 2020 BlackHat Asia
+* [X] 2020-02-20 New Date received and Event site updated [Lisa]
+* [ ] 2020-07-27 Send out Wufoo Volunteer form through Meetup again for new date/[Lisa]
+* [ ] 2020-08-21 Decision made on SWAG and handouts; orders placed.[Mike & Lisa]
+* [ ] 2020-09-18 Volunteers confirmed with schedule, registered and notification. [Lisa]
+* [ ] 2020-09-25 Summary email sent to team with schedule, contact person, lead scanner info, booth merchandise info, lead volunteer/contact person info sent to the team.
 
 
 
