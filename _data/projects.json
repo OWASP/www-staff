@@ -65,14 +65,14 @@
                 "description": "Post-launch fixes complete",
                 "owner": "Simon",
                 "project_name": "Events Form",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-03-06",
                 "description": "Google Sheet Template",
                 "owner": "Mike",
                 "project_name": "Events Form",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-03-13",
@@ -382,7 +382,7 @@
                 "description": "Program Announced",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin 2020",
-                "status": "future"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-04-14",
@@ -596,7 +596,14 @@
                 "description": "arrah's Las Vegas reservations https://book.passkey.com/go/SHDEF0",
                 "owner": "Mike",
                 "project_name": "DEFCON 28",
-                "status": "on-time"
+                "status": "overdue"
+            },
+            {
+                "milestone_date": "2020-06-01",
+                "description": "Application accepted Go or NO Go",
+                "owner": "No Owner",
+                "project_name": "DEFCON 28",
+                "status": "future"
             }
         ],
         "description": "- 25K to 28K Attendees previous year- CASH ONLY- NO pre-registration- $320 per Badge - ONLY ONE BADGE AVAILABLE for Event- NO DISCOUNTS",
@@ -612,22 +619,8 @@
         "name": "Global AppSec - San Francisco",
         "milestones": [
             {
-                "milestone_date": "2020-03-02",
+                "milestone_date": "2020-03-23",
                 "description": "Open CFT/CFP",
-                "owner": "Emily",
-                "project_name": "Global AppSec - San Francisco",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-03-15",
-                "description": "CFT/CFP Review Complete",
-                "owner": "Emily",
-                "project_name": "Global AppSec - San Francisco",
-                "status": "on-time"
-            },
-            {
-                "milestone_date": "2020-04-01",
-                "description": "Prgram Announced",
                 "owner": "Emily",
                 "project_name": "Global AppSec - San Francisco",
                 "status": "on-time"
@@ -640,8 +633,15 @@
                 "status": "on-time"
             },
             {
-                "milestone_date": "2020-04-10",
+                "milestone_date": "2020-04-20",
                 "description": "Close CFT/CFP",
+                "owner": "Emily",
+                "project_name": "Global AppSec - San Francisco",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-06-01",
+                "description": "Prgram Announced",
                 "owner": "Emily",
                 "project_name": "Global AppSec - San Francisco",
                 "status": "future"
@@ -710,7 +710,7 @@
                 "description": "2nd Payment of $3,000 due to venue",
                 "owner": "Emily",
                 "project_name": "LASCON 2020",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-07-01",
