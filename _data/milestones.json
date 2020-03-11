@@ -35,39 +35,32 @@
         "status": "overdue"
     },
     {
-        "milestone_date": "2020-03-02",
-        "description": "Open CFT/CFP",
-        "owner": "Emily",
-        "project_name": "Global AppSec - San Francisco",
-        "status": "overdue"
-    },
-    {
         "milestone_date": "2020-03-06",
         "description": "Post-launch fixes complete",
         "owner": "Simon",
         "project_name": "Events Form",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-03-06",
         "description": "Google Sheet Template",
         "owner": "Mike",
         "project_name": "Events Form",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-03-06",
         "description": "arrah's Las Vegas reservations https://book.passkey.com/go/SHDEF0",
         "owner": "Mike",
         "project_name": "DEFCON 28",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-03-10",
         "description": "2nd Payment of $3,000 due to venue",
         "owner": "Emily",
         "project_name": "LASCON 2020",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-03-13",
@@ -81,13 +74,6 @@
         "description": "Hotel Attrition Milestone, OSD-3266",
         "owner": "Emily",
         "project_name": "Global AppSec - Dublin 2020",
-        "status": "on-time"
-    },
-    {
-        "milestone_date": "2020-03-15",
-        "description": "CFT/CFP Review Complete",
-        "owner": "Emily",
-        "project_name": "Global AppSec - San Francisco",
         "status": "on-time"
     },
     {
@@ -126,6 +112,13 @@
         "status": "on-time"
     },
     {
+        "milestone_date": "2020-03-23",
+        "description": "Open CFT/CFP",
+        "owner": "Emily",
+        "project_name": "Global AppSec - San Francisco",
+        "status": "on-time"
+    },
+    {
         "milestone_date": "2020-03-24",
         "description": "Close P&L",
         "owner": "Emily",
@@ -155,13 +148,6 @@
     },
     {
         "milestone_date": "2020-04-01",
-        "description": "Prgram Announced",
-        "owner": "Emily",
-        "project_name": "Global AppSec - San Francisco",
-        "status": "on-time"
-    },
-    {
-        "milestone_date": "2020-04-01",
         "description": "Registration Opens",
         "owner": "Emily",
         "project_name": "Global AppSec - San Francisco",
@@ -179,20 +165,20 @@
         "description": "Program Announced",
         "owner": "Emily",
         "project_name": "Global AppSec - Dublin 2020",
-        "status": "future"
-    },
-    {
-        "milestone_date": "2020-04-10",
-        "description": "Close CFT/CFP",
-        "owner": "Emily",
-        "project_name": "Global AppSec - San Francisco",
-        "status": "future"
+        "status": "on-time"
     },
     {
         "milestone_date": "2020-04-14",
         "description": "Hotel Attrition Milestone, OSD-3266",
         "owner": "Emily",
         "project_name": "Global AppSec - Dublin 2020",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-04-20",
+        "description": "Close CFT/CFP",
+        "owner": "Emily",
+        "project_name": "Global AppSec - San Francisco",
         "status": "future"
     },
     {
@@ -270,6 +256,20 @@
         "description": "F&B Order Complete",
         "owner": "Emily",
         "project_name": "Global AppSec - Dublin 2020",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-06-01",
+        "description": "Application accepted Go or NO Go",
+        "owner": "No Owner",
+        "project_name": "DEFCON 28",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-06-01",
+        "description": "Prgram Announced",
+        "owner": "Emily",
+        "project_name": "Global AppSec - San Francisco",
         "status": "future"
     },
     {
