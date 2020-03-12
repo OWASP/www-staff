@@ -8,6 +8,34 @@ date: June 15-19, 2020
 
 # Global AppSec - Dublin 2020
 
+## Postponment Announcment Checklist
+- [ ] Notify Program team, [Emily]
+- [x] Change banner on OWASP.org to point to SF Cft/Cfp, [Mike]
+- [x] Remove ticket options to effectively shut down registration, [Mike]
+- [ ] Post "A" as blog on homepage, [Mike]
+- [ ] Post "A" on dublin.globalappsec.org homepage, [Harold]
+- [ ] Post "B" registration page on dublin.globalappsec.org, [Harold]
+- [ ] Post "B" on social media on FRIDAY, [Lisa]
+- [ ] Pull list of attendee email addresses for Events Team to email, [Dawn]
+- [ ] Send email to attendees encouraging them to hold onto their tickets, [Emily]
+- [ ] Send "A" to leaders list
+- [ ] Provide Kelly announcement for Sponsors, [Emilly]
+- [ ] Notify sponsors with modified announcement, [Kelly]
+
+
+### Long Message ("A")
+Following recent developments within Ireland, throughout Europe, and worldwide relating to COVID-19, the OWASP Foundation has made the difficult, but considered decision, to postpone the Global AppSec Dublin set to take place June 15-19. 
+
+We take pride in offering a premier experience for our attendees and sponsors and we can no longer guarantee that event quality. Nor can we ethically put our community’s health and safety at risk. Therefore we have secured dates at the Convention Center Dublin to hold the Global AppSec Dublin on February 15-19, 2021.
+
+We are working on ways to still deliver value to the OWASP community in 2020. While we continue to monitor the situation, we are confident that the Global AppSec San Francisco will still take place October 19-23, 2020. Call for papers will be open March 23. 
+
+Our thoughts are with those affected around the world, we hope this situation improves soon and we thank you for your support. 
+
+### Short Message ("B")
+
+Following recent developments relating to COVID-19, the OWASP Foundation has made the difficult decision to postpone the Global AppSec Dublin Conference to February 15-19, 2021. <link to blog post>
+
 ## Overview
   
 ```
