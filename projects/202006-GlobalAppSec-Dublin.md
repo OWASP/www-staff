@@ -15,7 +15,7 @@ date: June 15-19, 2020
 - [x] Post "A" as blog on homepage, [Mike]
 - [ ] Post "A" on dublin.globalappsec.org homepage, [Harold]
 - [ ] Post "B" registration page on dublin.globalappsec.org, [Harold]
-- [ ] Post "B" on social media, [Mike]
+- [x] Post "B" on social media, [Mike]
 - [ ] Pull list of attendee email addresses for Events Team to email, [Dawn]
 - [ ] Send email to attendees encouraging them to hold onto their tickets, [Emily]
 - [ ] Send "A" to leaders list
