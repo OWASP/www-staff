@@ -12,10 +12,10 @@ date: June 15-19, 2020
 - [ ] Notify Program team, [Emily]
 - [x] Change banner on OWASP.org to point to SF Cft/Cfp, [Mike]
 - [x] Remove ticket options to effectively shut down registration, [Mike]
-- [ ] Post "A" as blog on homepage, [Mike]
+- [x] Post "A" as blog on homepage, [Mike]
 - [ ] Post "A" on dublin.globalappsec.org homepage, [Harold]
 - [ ] Post "B" registration page on dublin.globalappsec.org, [Harold]
-- [ ] Post "B" on social media on FRIDAY, [Lisa]
+- [ ] Post "B" on social media, [Mike]
 - [ ] Pull list of attendee email addresses for Events Team to email, [Dawn]
 - [ ] Send email to attendees encouraging them to hold onto their tickets, [Emily]
 - [ ] Send "A" to leaders list
@@ -34,7 +34,7 @@ Our thoughts are with those affected around the world, we hope this situation im
 
 ### Short Message ("B")
 
-Following recent developments relating to COVID-19, the OWASP Foundation has made the difficult decision to postpone the Global AppSec Dublin Conference to February 15-19, 2021. <link to blog post>
+Following recent developments relating to COVID-19, the OWASP Foundation has made the difficult decision to postpone the Global AppSec Dublin Conference to February 15-19, 2021. https://owasp.org/events/2020/03/12/dublin-announcement
 
 ## Overview
   
