@@ -8,7 +8,7 @@ date: June 15-19, 2020
 
 # Global AppSec - Dublin 2020
 
-## Postponment Announcment Checklist
+## Postponement Announcement Checklist
 - [ ] Notify Program team, [Emily]
 - [x] Change banner on OWASP.org to point to SF Cft/Cfp, [Mike]
 - [x] Remove ticket options to effectively shut down registration, [Mike]
@@ -54,7 +54,7 @@ Join us for a celebration of leading application security technologies, speakers
 ## Goals
 
 1. Bring Industry-leading AppSec and InfoSec content to the global security community
-2. Grow the OWASP community with an increase in first-time attendees and onsite memberhsip conversions
+2. Grow the OWASP community with an increase in first-time attendees and onsite membership conversions
 3. Act as revenue source for the Foundation 
 
 ## Milestones
@@ -72,7 +72,7 @@ Join us for a celebration of leading application security technologies, speakers
 - [x] 2020-02-29, Close CFT/CFP, [Emily]
 - [x] 2020-03-01, Update Speaker Agreement, [Mike]
 - [ ] 2020-03-01, Keynotes Announced, [Emily]
-- [x] 2020-03-09, Registration Opens, [Mike] Compeleted on 2-March
+- [x] 2020-03-09, Registration Opens, [Mike] Completed on 2-March
 - [ ] 2020-03-15, Hotel Attrition Milestone, OSD-3266, [Emily]
 - [ ] 2020-03-16, Payment 45% of Catering fee due, [Emily]
 - [ ] 2020-03-27, CFT/CFP Review Complete, [Emily]
