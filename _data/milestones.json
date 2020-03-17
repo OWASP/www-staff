@@ -81,14 +81,14 @@
         "description": "map all DNS and VM data",
         "owner": "Matt Tesauro",
         "project_name": "DNS and VM Migration",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-03-16",
         "description": "Payment 45% of Catering fee due",
         "owner": "Emily",
         "project_name": "Global AppSec - Dublin 2020",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-03-18",
