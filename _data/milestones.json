@@ -42,20 +42,6 @@
         "status": "overdue"
     },
     {
-        "milestone_date": "2020-03-06",
-        "description": "Google Sheet Template",
-        "owner": "Mike",
-        "project_name": "Events Form",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-03-06",
-        "description": "arrah's Las Vegas reservations https://book.passkey.com/go/SHDEF0",
-        "owner": "Mike",
-        "project_name": "DEFCON 28",
-        "status": "overdue"
-    },
-    {
         "milestone_date": "2020-03-10",
         "description": "2nd Payment of $3,000 due to venue",
         "owner": "Emily",
@@ -158,6 +144,13 @@
         "description": "move VMs not in DigitalOcean to DigitalOcean",
         "owner": "No Owner",
         "project_name": "DNS and VM Migration",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2020-04-06",
+        "description": "Harrah's Las Vegas reservations https://book.passkey.com/go/SHDEF0",
+        "owner": "Mike",
+        "project_name": "DEFCON 28",
         "status": "on-time"
     },
     {
