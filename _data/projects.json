@@ -68,13 +68,6 @@
                 "status": "overdue"
             },
             {
-                "milestone_date": "2020-03-06",
-                "description": "Google Sheet Template",
-                "owner": "Mike",
-                "project_name": "Events Form",
-                "status": "overdue"
-            },
-            {
                 "milestone_date": "2020-03-13",
                 "description": "Google Sheet push implemented, tested, and in production",
                 "owner": "Simon",
@@ -592,11 +585,11 @@
         "name": "DEFCON 28",
         "milestones": [
             {
-                "milestone_date": "2020-03-06",
-                "description": "arrah's Las Vegas reservations https://book.passkey.com/go/SHDEF0",
+                "milestone_date": "2020-04-06",
+                "description": "Harrah's Las Vegas reservations https://book.passkey.com/go/SHDEF0",
                 "owner": "Mike",
                 "project_name": "DEFCON 28",
-                "status": "overdue"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-06-01",
