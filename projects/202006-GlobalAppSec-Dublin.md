@@ -9,18 +9,18 @@ date: June 15-19, 2020
 # Global AppSec - Dublin 2020
 
 ## Postponement Announcement Checklist
-- [ ] Notify Program team, [Emily]
+- [x] Notify Program team, [Emily]
 - [x] Change banner on OWASP.org to point to SF Cft/Cfp, [Mike]
 - [x] Remove ticket options to effectively shut down registration, [Mike]
 - [x] Post "A" as blog on homepage, [Mike]
 - [x] Post "A" on dublin.globalappsec.org homepage, [Harold]
 - [x] Post "B" registration page on dublin.globalappsec.org, [Harold]
 - [x] Post "B" on social media, [Mike]
-- [ ] Pull list of attendee email addresses for Events Team to email, [Dawn]
+- [ ] Pull list of attendee email addresses for Events Team to email, [Mike]
 - [ ] Send email to attendees encouraging them to hold onto their tickets, [Emily]
 - [ ] Send "A" to leaders list
-- [ ] Provide Kelly announcement for Sponsors, [Emilly]
-- [ ] Notify sponsors with modified announcement, [Kelly]
+- [x] Provide Kelly announcement for Sponsors, [Emilly]
+- [x] Notify sponsors with modified announcement, [Kelly]
 
 
 ### Long Message ("A")
