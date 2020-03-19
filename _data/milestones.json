@@ -64,13 +64,6 @@
     },
     {
         "milestone_date": "2020-03-16",
-        "description": "map all DNS and VM data",
-        "owner": "Matt Tesauro",
-        "project_name": "DNS and VM Migration",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-03-16",
         "description": "Payment 45% of Catering fee due",
         "owner": "Emily",
         "project_name": "Global AppSec - Dublin 2020",
@@ -84,11 +77,11 @@
         "status": "overdue"
     },
     {
-        "milestone_date": "2020-03-18",
+        "milestone_date": "2020-03-20",
         "description": "initial single, low-importance domain moved to Cloudflare and tested",
         "owner": "Matt Tesauro",
         "project_name": "DNS and VM Migration",
-        "status": "overdue"
+        "status": "on-time"
     },
     {
         "milestone_date": "2020-03-20",
