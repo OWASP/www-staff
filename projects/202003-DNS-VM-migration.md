@@ -20,8 +20,8 @@ The DNS, name provider, and virtual machine infrastructure currently resides on 
 
 ## Milestones
 
-* [ ] 2020-03-16, map all DNS and VM data, [Matt Tesauro]
-* [ ] 2020-03-18, initial single, low-importance domain moved to Cloudflare and tested, [Matt Tesauro] 
+* [x] 2020-03-16, map all DNS and VM data, [Matt Tesauro]
+* [ ] 2020-03-20, initial single, low-importance domain moved to Cloudflare and tested, [Matt Tesauro] 
 * [ ] 2020-03-20, use Cloudflare as DNS provider for all domains (transfer from Rackspace and Combell), [Matt Tesauro]
 * [ ] 2020-03-27, use Cloudflare as CDN for owasp.org and implement redirects, [Matt Tesauro, John Morabito]
 * [ ] 2020-04-03, move VMs not in DigitalOcean to DigitalOcean
