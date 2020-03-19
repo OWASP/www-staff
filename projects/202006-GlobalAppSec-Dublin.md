@@ -68,22 +68,10 @@ Join us for a celebration of leading application security technologies, speakers
 - [X] 2019-12-31, Hotel Room Block COntract Signed, OSD-3266 [Emily]
 - [X] 2020-01-06, Payment 45% of Rental Fee due, [Emily]
 - [X] 2020-01-27, Open CFT/CFP, [Emily]
-- [ ] 2020-02-01, General Service Contract Signed, [Emily]
 - [x] 2020-02-29, Close CFT/CFP, [Emily]
 - [x] 2020-03-01, Update Speaker Agreement, [Mike]
-- [ ] 2020-03-01, Keynotes Announced, [Emily]
 - [x] 2020-03-09, Registration Opens, [Mike] Completed on 2-March
-- [ ] 2020-03-15, Hotel Attrition Milestone, OSD-3266, [Emily]
-- [ ] 2020-03-16, Payment 45% of Catering fee due, [Emily]
-- [ ] 2020-03-27, CFT/CFP Review Complete, [Emily]
-- [ ] 2020-04-01, AV Contract Signed, [Emily]
-- [ ] 2020-04-10, Program Announced, [Emily]
-- [ ] 2020-04-14, Hotel Attrition Milestone, OSD-3266, [Emily]
-- [ ] 2020-05-14, Hotel Attrition Milestone, OSD-3266, [Emily]
-- [ ] 2020-05-15, SWAG Ordered, [Emily]
-- [ ] 2020-05-15, Signage Ordered, [Emily]
-- [ ] 2020-05-15, Volunteers finalized and communication initiated, [Emily]
-- [ ] 2020-06-01, F&B Order Complete, [Emily]
+- [x] 2020-03-16, Payment 45% of Catering fee due, [Emily]
 
 ## Leadership
 
