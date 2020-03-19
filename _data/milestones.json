@@ -81,14 +81,14 @@
         "description": "Project Complete",
         "owner": "Harold",
         "project_name": "Events Form",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-03-18",
         "description": "initial single, low-importance domain moved to Cloudflare and tested",
         "owner": "Matt Tesauro",
         "project_name": "DNS and VM Migration",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-03-20",
