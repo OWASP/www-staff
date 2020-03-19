@@ -79,7 +79,7 @@
                 "description": "Project Complete",
                 "owner": "Harold",
                 "project_name": "Events Form",
-                "status": "on-time"
+                "status": "overdue"
             }
         ],
         "description": "As part of the OWASP website migration, we will creating a new Events form that will use Stripe as a back end. This should be a simple form that is hosted on the website and will EVENUTALLY serve as the prmiary e-commerce path for all OWASP Global and Regional events replacing Eventbrite for (1) hosting secure forms on github, (2) presenting and then selecting multiple SKUs from a single Product ID as in Training Class A for Event X and Early Bird ticket for Event X, (3) 2-3 aggregate online reports, (4) validate Stripe can manage inventory of SKUs, and (5) integrating Stripe form activities with light integrations with other key data in the OWASP ecosystem.",
@@ -114,7 +114,7 @@
                 "description": "initial single, low-importance domain moved to Cloudflare and tested",
                 "owner": "Matt Tesauro",
                 "project_name": "DNS and VM Migration",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-03-20",
@@ -572,7 +572,7 @@
     {
         "name": "BlackHat Las Vegas",
         "milestones": [],
-        "description": "Each project will have a 2-3 paragraph overview narrative. Keep to the key top points about the project. Visitors should be able to read this short narrative and have a good understanding of the project without having to scroll the entire document.",
+        "description": "Agreement not received to date.  Page will be updated once agreement signed.",
         "leaders": [
             {
                 "name": "Mike McCamon",
