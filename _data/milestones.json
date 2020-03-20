@@ -21,20 +21,6 @@
         "status": "overdue"
     },
     {
-        "milestone_date": "2020-02-01",
-        "description": "General Service Contract Signed",
-        "owner": "Emily",
-        "project_name": "Global AppSec - Dublin 2020",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-03-01",
-        "description": "Keynotes Announced",
-        "owner": "Emily",
-        "project_name": "Global AppSec - Dublin 2020",
-        "status": "overdue"
-    },
-    {
         "milestone_date": "2020-03-06",
         "description": "Post-launch fixes complete",
         "owner": "Simon",
@@ -57,16 +43,16 @@
     },
     {
         "milestone_date": "2020-03-15",
-        "description": "Hotel Attrition Milestone, OSD-3266",
+        "description": "CFT Review Complete",
         "owner": "Emily",
-        "project_name": "Global AppSec - Dublin 2020",
+        "project_name": "Global AppSec - Dublin 2021",
         "status": "overdue"
     },
     {
         "milestone_date": "2020-03-16",
         "description": "Payment 45% of Catering fee due",
         "owner": "Emily",
-        "project_name": "Global AppSec - Dublin 2020",
+        "project_name": "Global AppSec - Dublin 2021",
         "status": "overdue"
     },
     {
@@ -77,6 +63,13 @@
         "status": "overdue"
     },
     {
+        "milestone_date": "2020-03-19",
+        "description": "Contact current online trainers to establish trainer critera",
+        "owner": "Emily",
+        "project_name": "OWASP Virtual Training Day",
+        "status": "overdue"
+    },
+    {
         "milestone_date": "2020-03-20",
         "description": "initial single, low-importance domain moved to Cloudflare and tested",
         "owner": "Matt Tesauro",
@@ -84,10 +77,17 @@
         "status": "on-time"
     },
     {
-        "milestone_date": "2020-03-20",
-        "description": "use Cloudflare as DNS provider for all domains (transfer from Rackspace and Combell)",
-        "owner": "Matt Tesauro",
-        "project_name": "DNS and VM Migration",
+        "milestone_date": "2020-03-22",
+        "description": "Create Wufoo form to send to previous trainers",
+        "owner": "Emily",
+        "project_name": "OWASP Virtual Training Day",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2020-03-23",
+        "description": "Contact past trainers gauge interest in participating",
+        "owner": "Emily",
+        "project_name": "OWASP Virtual Training Day",
         "status": "on-time"
     },
     {
@@ -105,6 +105,34 @@
         "status": "on-time"
     },
     {
+        "milestone_date": "2020-03-24",
+        "description": "use Cloudflare as DNS provider for all domains (transfer from Rackspace and Combell)",
+        "owner": "Matt Tesauro",
+        "project_name": "DNS and VM Migration",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2020-03-25",
+        "description": "Create agenda",
+        "owner": "Harold",
+        "project_name": "OWASP Virtual Training Day",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2020-03-25",
+        "description": "Stand up event page",
+        "owner": "Harold",
+        "project_name": "OWASP Virtual Training Day",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2020-03-25",
+        "description": "CTF Milestones",
+        "owner": "Kelly",
+        "project_name": "OWASP Virtual Training Day",
+        "status": "on-time"
+    },
+    {
         "milestone_date": "2020-03-27",
         "description": "use Cloudflare as CDN for owasp.org and implement redirects",
         "owner": "Matt Tesauro, John Morabito",
@@ -113,16 +141,16 @@
     },
     {
         "milestone_date": "2020-03-27",
-        "description": "CFT/CFP Review Complete",
+        "description": "Notify Trainers",
         "owner": "Emily",
-        "project_name": "Global AppSec - Dublin 2020",
+        "project_name": "Global AppSec - Dublin 2021",
         "status": "on-time"
     },
     {
-        "milestone_date": "2020-04-01",
-        "description": "AV Contract Signed",
+        "milestone_date": "2020-03-30",
+        "description": "Launch registration",
         "owner": "Emily",
-        "project_name": "Global AppSec - Dublin 2020",
+        "project_name": "OWASP Virtual Training Day",
         "status": "on-time"
     },
     {
@@ -148,16 +176,23 @@
     },
     {
         "milestone_date": "2020-04-10",
-        "description": "Program Announced",
-        "owner": "Emily",
-        "project_name": "Global AppSec - Dublin 2020",
+        "description": "Run test trainings",
+        "owner": "Harold",
+        "project_name": "OWASP Virtual Training Day",
         "status": "on-time"
     },
     {
-        "milestone_date": "2020-04-14",
-        "description": "Hotel Attrition Milestone, OSD-3266",
+        "milestone_date": "2020-04-15",
+        "description": "NEW Hotel Room Block COntract Signed, OSD-3266",
         "owner": "Emily",
-        "project_name": "Global AppSec - Dublin 2020",
+        "project_name": "Global AppSec - Dublin 2021",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2020-04-15",
+        "description": "General Service Contract Signed",
+        "owner": "Emily",
+        "project_name": "Global AppSec - Dublin 2021",
         "status": "on-time"
     },
     {
@@ -182,6 +217,27 @@
         "status": "future"
     },
     {
+        "milestone_date": "2020-05-01",
+        "description": "NEW Sign CCD contract",
+        "owner": "Mike",
+        "project_name": "Global AppSec - Dublin 2021",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-05-01",
+        "description": "Training Schedule Announced",
+        "owner": "Emily",
+        "project_name": "Global AppSec - Dublin 2021",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-05-01",
+        "description": "Keynotes Announced",
+        "owner": "Emily",
+        "project_name": "Global AppSec - Dublin 2021",
+        "status": "future"
+    },
+    {
         "milestone_date": "2020-05-02",
         "description": "Venue contract signed",
         "owner": "Emily",
@@ -196,13 +252,6 @@
         "status": "future"
     },
     {
-        "milestone_date": "2020-05-14",
-        "description": "Hotel Attrition Milestone, OSD-3266",
-        "owner": "Emily",
-        "project_name": "Global AppSec - Dublin 2020",
-        "status": "future"
-    },
-    {
         "milestone_date": "2020-05-15",
         "description": "Validate Meetup Connector",
         "owner": "Harold",
@@ -210,38 +259,10 @@
         "status": "future"
     },
     {
-        "milestone_date": "2020-05-15",
-        "description": "SWAG Ordered",
-        "owner": "Emily",
-        "project_name": "Global AppSec - Dublin 2020",
-        "status": "future"
-    },
-    {
-        "milestone_date": "2020-05-15",
-        "description": "Signage Ordered",
-        "owner": "Emily",
-        "project_name": "Global AppSec - Dublin 2020",
-        "status": "future"
-    },
-    {
-        "milestone_date": "2020-05-15",
-        "description": "Volunteers finalized and communication initiated",
-        "owner": "Emily",
-        "project_name": "Global AppSec - Dublin 2020",
-        "status": "future"
-    },
-    {
         "milestone_date": "2020-05-25",
         "description": "Memorial Day",
         "owner": "No Owner",
         "project_name": "OWASP Staff Holidays",
-        "status": "future"
-    },
-    {
-        "milestone_date": "2020-06-01",
-        "description": "F&B Order Complete",
-        "owner": "Emily",
-        "project_name": "Global AppSec - Dublin 2020",
         "status": "future"
     },
     {
@@ -256,6 +277,13 @@
         "description": "Prgram Announced",
         "owner": "Emily",
         "project_name": "Global AppSec - San Francisco",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-06-01",
+        "description": "Registration Opens, [Mike] Completed on 2-March",
+        "owner": "No Owner",
+        "project_name": "Global AppSec - Dublin 2021",
         "status": "future"
     },
     {
@@ -385,6 +413,13 @@
         "status": "future"
     },
     {
+        "milestone_date": "2020-08-01",
+        "description": "Open CFP",
+        "owner": "Emily",
+        "project_name": "Global AppSec - Dublin 2021",
+        "status": "future"
+    },
+    {
         "milestone_date": "2020-08-15",
         "description": "SWAG Ordered",
         "owner": "Emily",
@@ -413,6 +448,13 @@
         "status": "future"
     },
     {
+        "milestone_date": "2020-09-20",
+        "description": "Close CFP",
+        "owner": "Emily",
+        "project_name": "Global AppSec - Dublin 2021",
+        "status": "future"
+    },
+    {
         "milestone_date": "2020-09-30",
         "description": "Deadline for invoices and expense reimbursement requests",
         "owner": "Dawn",
@@ -424,6 +466,27 @@
         "description": "F&B Order Complete",
         "owner": "Emily",
         "project_name": "Global AppSec - San Francisco",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-10-05",
+        "description": "CFP Review Complete",
+        "owner": "Emily",
+        "project_name": "Global AppSec - Dublin 2021",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-10-15",
+        "description": "NEW Hotel Attrition Milestone, OSD-3266",
+        "owner": "Emily",
+        "project_name": "Global AppSec - Dublin 2021",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-10-19",
+        "description": "Program Announced",
+        "owner": "Emily",
+        "project_name": "Global AppSec - Dublin 2021",
         "status": "future"
     },
     {
@@ -455,6 +518,13 @@
         "status": "future"
     },
     {
+        "milestone_date": "2020-12-10",
+        "description": "NEW Hotel Attrition Milestone, OSD-3266",
+        "owner": "Emily",
+        "project_name": "Global AppSec - Dublin 2021",
+        "status": "future"
+    },
+    {
         "milestone_date": "2020-12-24",
         "description": "Christmas Eve",
         "owner": "No Owner",
@@ -480,6 +550,41 @@
         "description": "New Year\u2019s Eve",
         "owner": "No Owner",
         "project_name": "OWASP Staff Holidays",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2021-01-01",
+        "description": "NEW Hotel Attrition Milestone, OSD-3266",
+        "owner": "Emily",
+        "project_name": "Global AppSec - Dublin 2021",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2021-01-15",
+        "description": "SWAG Ordered",
+        "owner": "Emily",
+        "project_name": "Global AppSec - Dublin 2021",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2021-01-15",
+        "description": "Signage Ordered",
+        "owner": "Emily",
+        "project_name": "Global AppSec - Dublin 2021",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2021-01-15",
+        "description": "Volunteers finalized and communication initiated",
+        "owner": "Emily",
+        "project_name": "Global AppSec - Dublin 2021",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2021-02-01",
+        "description": "F&B Order Complete",
+        "owner": "Emily",
+        "project_name": "Global AppSec - Dublin 2021",
         "status": "future"
     }
 ]
