@@ -248,7 +248,7 @@
                 "status": "on-time"
             },
             {
-                "milestone_date": "2020-03-20",
+                "milestone_date": "2020-03-24",
                 "description": "use Cloudflare as DNS provider for all domains (transfer from Rackspace and Combell)",
                 "owner": "Matt Tesauro",
                 "project_name": "DNS and VM Migration",
@@ -319,100 +319,81 @@
         "url": "https://owasp.org/www-staff/projects/202003-snowfroc"
     },
     {
-        "name": "Global AppSec - Dublin 2020",
+        "name": "OWASP Virtual Training Day",
         "milestones": [
             {
-                "milestone_date": "2020-02-01",
-                "description": "General Service Contract Signed",
+                "milestone_date": "2020-03-19",
+                "description": "Contact current online trainers to establish trainer critera",
                 "owner": "Emily",
-                "project_name": "Global AppSec - Dublin 2020",
+                "project_name": "OWASP Virtual Training Day",
                 "status": "overdue"
             },
             {
-                "milestone_date": "2020-03-01",
-                "description": "Keynotes Announced",
+                "milestone_date": "2020-03-22",
+                "description": "Create Wufoo form to send to previous trainers",
                 "owner": "Emily",
-                "project_name": "Global AppSec - Dublin 2020",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-03-15",
-                "description": "Hotel Attrition Milestone, OSD-3266",
-                "owner": "Emily",
-                "project_name": "Global AppSec - Dublin 2020",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-03-16",
-                "description": "Payment 45% of Catering fee due",
-                "owner": "Emily",
-                "project_name": "Global AppSec - Dublin 2020",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-03-27",
-                "description": "CFT/CFP Review Complete",
-                "owner": "Emily",
-                "project_name": "Global AppSec - Dublin 2020",
+                "project_name": "OWASP Virtual Training Day",
                 "status": "on-time"
             },
             {
-                "milestone_date": "2020-04-01",
-                "description": "AV Contract Signed",
+                "milestone_date": "2020-03-23",
+                "description": "Contact past trainers gauge interest in participating",
                 "owner": "Emily",
-                "project_name": "Global AppSec - Dublin 2020",
+                "project_name": "OWASP Virtual Training Day",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-03-25",
+                "description": "Create agenda",
+                "owner": "Harold",
+                "project_name": "OWASP Virtual Training Day",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-03-25",
+                "description": "Stand up event page",
+                "owner": "Harold",
+                "project_name": "OWASP Virtual Training Day",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-03-25",
+                "description": "CTF Milestones",
+                "owner": "Kelly",
+                "project_name": "OWASP Virtual Training Day",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-03-30",
+                "description": "Launch registration",
+                "owner": "Emily",
+                "project_name": "OWASP Virtual Training Day",
                 "status": "on-time"
             },
             {
                 "milestone_date": "2020-04-10",
-                "description": "Program Announced",
-                "owner": "Emily",
-                "project_name": "Global AppSec - Dublin 2020",
+                "description": "Run test trainings",
+                "owner": "Harold",
+                "project_name": "OWASP Virtual Training Day",
                 "status": "on-time"
-            },
-            {
-                "milestone_date": "2020-04-14",
-                "description": "Hotel Attrition Milestone, OSD-3266",
-                "owner": "Emily",
-                "project_name": "Global AppSec - Dublin 2020",
-                "status": "on-time"
-            },
-            {
-                "milestone_date": "2020-05-14",
-                "description": "Hotel Attrition Milestone, OSD-3266",
-                "owner": "Emily",
-                "project_name": "Global AppSec - Dublin 2020",
-                "status": "future"
-            },
-            {
-                "milestone_date": "2020-05-15",
-                "description": "SWAG Ordered",
-                "owner": "Emily",
-                "project_name": "Global AppSec - Dublin 2020",
-                "status": "future"
-            },
-            {
-                "milestone_date": "2020-05-15",
-                "description": "Signage Ordered",
-                "owner": "Emily",
-                "project_name": "Global AppSec - Dublin 2020",
-                "status": "future"
-            },
-            {
-                "milestone_date": "2020-05-15",
-                "description": "Volunteers finalized and communication initiated",
-                "owner": "Emily",
-                "project_name": "Global AppSec - Dublin 2020",
-                "status": "future"
-            },
-            {
-                "milestone_date": "2020-06-01",
-                "description": "F&B Order Complete",
-                "owner": "Emily",
-                "project_name": "Global AppSec - Dublin 2020",
-                "status": "future"
             }
         ],
+        "description": "tle: OWASP Virtual Training Daylayout: full-widthdate: April 28-29, 2020---# OWASP Virtual Training Day  ```April 28-29, 2020```OWASP Virtual Training Day will take place for 4 hours on both April 28th and 29th. Up to 10 separate trainings will be offered across both Europe and North America. Sponsorships will also be offered as well as an ancillary CTF event.",
+        "leaders": [
+            {
+                "name": "Harold Blankenship",
+                "email": "harold.blankenship@owasp.com"
+            },
+            {
+                "name": "Emily Berman",
+                "email": "emily.berman@owasp.com"
+            }
+        ],
+        "url": "https://owasp.org/www-staff/projects/202004-OWASP-Virtual-Training-Day"
+    },
+    {
+        "name": "Global AppSec - Dublin 2020",
+        "milestones": [],
         "description": "```Training Days: June 15-17, 2020Conference Days: June 18-19, 2020```Welcome to Global AppSec Dublin 2020 presented by the OWASP Foundation. The Global AppSec Conference is the premier application security conference for developers and security experts. Designed for private and public sector infosec professionals, the OWASP three day training and two day conference equips developers, defenders, and advocates to build a more secure web.Join us for a celebration of leading application security technologies, speakers, prospects, and community, in a unique event that will build on everything you already know to expect from an OWASP Global Conference.",
         "leaders": [
             {
@@ -732,5 +713,162 @@
             }
         ],
         "url": "https://owasp.org/www-staff/projects/202010-event-lascon"
+    },
+    {
+        "name": "Global AppSec - Dublin 2021",
+        "milestones": [
+            {
+                "milestone_date": "2020-05-01",
+                "description": "NEW Sign CCD contract",
+                "owner": "Mike",
+                "project_name": "Global AppSec - Dublin 2021",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-03-15",
+                "description": "CFT Review Complete",
+                "owner": "Emily",
+                "project_name": "Global AppSec - Dublin 2021",
+                "status": "overdue"
+            },
+            {
+                "milestone_date": "2020-03-27",
+                "description": "Notify Trainers",
+                "owner": "Emily",
+                "project_name": "Global AppSec - Dublin 2021",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-05-01",
+                "description": "Training Schedule Announced",
+                "owner": "Emily",
+                "project_name": "Global AppSec - Dublin 2021",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-04-15",
+                "description": "NEW Hotel Room Block COntract Signed, OSD-3266",
+                "owner": "Emily",
+                "project_name": "Global AppSec - Dublin 2021",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-08-01",
+                "description": "Open CFP",
+                "owner": "Emily",
+                "project_name": "Global AppSec - Dublin 2021",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-04-15",
+                "description": "General Service Contract Signed",
+                "owner": "Emily",
+                "project_name": "Global AppSec - Dublin 2021",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-09-20",
+                "description": "Close CFP",
+                "owner": "Emily",
+                "project_name": "Global AppSec - Dublin 2021",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-05-01",
+                "description": "Keynotes Announced",
+                "owner": "Emily",
+                "project_name": "Global AppSec - Dublin 2021",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-06-01",
+                "description": "Registration Opens, [Mike] Completed on 2-March",
+                "owner": "No Owner",
+                "project_name": "Global AppSec - Dublin 2021",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-10-15",
+                "description": "NEW Hotel Attrition Milestone, OSD-3266",
+                "owner": "Emily",
+                "project_name": "Global AppSec - Dublin 2021",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-03-16",
+                "description": "Payment 45% of Catering fee due",
+                "owner": "Emily",
+                "project_name": "Global AppSec - Dublin 2021",
+                "status": "overdue"
+            },
+            {
+                "milestone_date": "2020-10-05",
+                "description": "CFP Review Complete",
+                "owner": "Emily",
+                "project_name": "Global AppSec - Dublin 2021",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-10-19",
+                "description": "Program Announced",
+                "owner": "Emily",
+                "project_name": "Global AppSec - Dublin 2021",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-12-10",
+                "description": "NEW Hotel Attrition Milestone, OSD-3266",
+                "owner": "Emily",
+                "project_name": "Global AppSec - Dublin 2021",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2021-01-01",
+                "description": "NEW Hotel Attrition Milestone, OSD-3266",
+                "owner": "Emily",
+                "project_name": "Global AppSec - Dublin 2021",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2021-01-15",
+                "description": "SWAG Ordered",
+                "owner": "Emily",
+                "project_name": "Global AppSec - Dublin 2021",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2021-01-15",
+                "description": "Signage Ordered",
+                "owner": "Emily",
+                "project_name": "Global AppSec - Dublin 2021",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2021-01-15",
+                "description": "Volunteers finalized and communication initiated",
+                "owner": "Emily",
+                "project_name": "Global AppSec - Dublin 2021",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2021-02-01",
+                "description": "F&B Order Complete",
+                "owner": "Emily",
+                "project_name": "Global AppSec - Dublin 2021",
+                "status": "future"
+            }
+        ],
+        "description": "tle: Global AppSec - Dublin 2021layout: full-widthdate: February 15-19, 2021---# Global AppSec - Dublin 2021  ```Training Days: February 15-17, 2021Conference Days: February 18-19, 2021```Welcome to Global AppSec Dublin 2020 presented by the OWASP Foundation. The Global AppSec Conference is the premier application security conference for developers and security experts. Designed for private and public sector infosec professionals, the OWASP three day training and two day conference equips developers, defenders, and advocates to build a more secure web.Join us for a celebration of leading application security technologies, speakers, prospects, and community, in a unique event that will build on everything you already know to expect from an OWASP Global Conference.",
+        "leaders": [
+            {
+                "name": "Mike McCamon",
+                "email": "mike.mccamon@owasp.com"
+            },
+            {
+                "name": "Emily Berman",
+                "email": "emily.berman@owasp.com"
+            }
+        ],
+        "url": "https://owasp.org/www-staff/projects/202102-GlobalAppSec-Dublin"
     }
 ]
