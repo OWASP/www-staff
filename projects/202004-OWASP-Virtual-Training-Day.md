@@ -17,9 +17,10 @@ OWASP Virtual Training Day will take place for 4 hours on both April 28th and 29
 
 ## Goals
 
-1. Bring alternative training to the community
+1. Bring alternative training to no less than 145 ppl in our community
 2. Interact with the community in a different way since face-to-face is not an option 
 3. Generate revenue that was lost due to the postponement of the Global AppSec Dublin
+
 
 ## Milestones
 
@@ -57,15 +58,15 @@ One 8-hour training: $495 or €450
 ```
 Income                                            
      Registrations                        $70,000
-     Sponsorships                         $5,000
+     Sponsorships                          $5,000
      Total Income                         $75,000
                                                   
-Expenses                                          
-                                       
-          Zoom Licenses                   $400
-          
+Expenses                                                                           
+     Zoom Licenses                           $400
+     Trainer Fees                         $30,000
+     Staff Services                       $10,000
                                                   
-     P/L                                  $74,000
+     P/L                                  $34,600
 ```
 
 ## Sponsorships
