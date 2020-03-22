@@ -74,7 +74,7 @@
         "description": "initial single, low-importance domain moved to Cloudflare and tested",
         "owner": "Matt Tesauro",
         "project_name": "DNS and VM Migration",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-03-22",
@@ -148,6 +148,13 @@
     },
     {
         "milestone_date": "2020-03-30",
+        "description": "Announce Program",
+        "owner": "Emily",
+        "project_name": "OWASP Virtual Training Day",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2020-03-30",
         "description": "Launch registration",
         "owner": "Emily",
         "project_name": "OWASP Virtual Training Day",
@@ -200,7 +207,7 @@
         "description": "Close CFT/CFP",
         "owner": "Emily",
         "project_name": "Global AppSec - San Francisco",
-        "status": "future"
+        "status": "on-time"
     },
     {
         "milestone_date": "2020-04-22",
