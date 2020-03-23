@@ -31,7 +31,8 @@ $200 Discount available OWASP Members on Briefings (training not included) - ema
 (1) Lead Scanner
 Booth E13
 
-## Milestones All dates are subject to change based on CORVID-19
+## Milestones 
+*All dates are subject to change based on CORVID-19
 
 * [x] 2020-01-08 Sign contract OSD-3340, [Mike]
 * [X] 2020-02-20 New Date received and Event site updated [Lisa]
