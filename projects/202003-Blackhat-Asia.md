@@ -31,7 +31,7 @@ $200 Discount available OWASP Members on Briefings (training not included) - ema
 (1) Lead Scanner
 Booth E13
 
-## Milestones
+## Milestones All dates are subject to change based on CORVID-19
 
 * [x] 2020-01-08 Sign contract OSD-3340, [Mike]
 * [X] 2020-02-20 New Date received and Event site updated [Lisa]
@@ -39,7 +39,6 @@ Booth E13
 * [ ] 2020-08-21 Decision made on SWAG and handouts; orders placed.[Mike & Lisa]
 * [ ] 2020-09-18 Volunteers confirmed with schedule, registered and notification. [Lisa]
 * [ ] 2020-09-25 Summary email sent to team with schedule, contact person, lead scanner info, booth merchandise info, lead volunteer/contact person info sent to the team.
-
 
 
 ## Budget
