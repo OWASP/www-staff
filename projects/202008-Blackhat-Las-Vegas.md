@@ -9,28 +9,33 @@ date: August 1-6, 2020
 # BlackHat Las Vegas
 
 ## Overview
+ 
+Now in its 23rd year, Black Hat USA is the world's leading information security event, providing attendees with the very latest in research, development and trends. Black Hat USA 2020 opens with four days of technical Trainings (August 1-4) followed by the two-day main conference (August 5-6) featuring Briefings, Arsenal, Business Hall, and more. Mandalay Bay Las Vegas, NV
 
-Agreement not received to date.  Page will be updated once agreement signed. 
+## Conference at a Glance with Links
 
-## Event site Link
+- [Trainings Sat. Aug 1 - Tues. Aug. 4](https://www.blackhat.com/us-20/training/schedule/index.html)
+- [Briefings Wed. Aug. 4 - Thur. Aug. 5](https://www.blackhat.com/us-20/briefings.html)
+- [Business Hall Thur. Aug. 5 - Fri. Aug. 6 ](https://www.blackhat.com/us-20/business-hall.html)
+- [Registration Now Open](https://blackhat.informatech.com/usa/2020/?)
 
-https://www.blackhat.com/usa/
+## Provided to OWASP per Agreement
+Awaiting barter agreement and booth assignement from Claudia (Claudia.Tabora@informa.com) 3/23/2020 emailed followup email. 
 
-## Goals
+## Milestones  All dates are subject to change based on CORVID-19
 
-1. Include top-level goals of the project in an ordered list
-2. Give thought to the ordering of goals. Revenue, attendance, launch date
-3. Make sure goals are measurable from undisputed source
+* [x] 2020-01-08 Sign contract OSD-3340, [Mike]
+* [X] 2020-02-20 New Date received and Event site updated [Lisa]
+* [ ] 2020-07-27 Send out Wufoo Volunteer form through Meetup again for new date/[Lisa]
+* [ ] 2020-05-18 Decision made on SWAG and handouts; orders placed.[Mike & Lisa]
+* [ ] 2020-06-30 Volunteers confirmed with schedule, registered and notification. [Lisa]
+* [ ] 2020-07-27 Summary email sent to team with schedule, contact person, lead scanner info, booth merchandise info, lead volunteer/contact person info sent to the team.
 
-## Milestones
+## Budget
 
-- [ ] In an unordered list (billeted) list major milestones in chronological order
-- [ ] Use the syntax of 2019-01-19, Milestone name, [Name of Owner]
-- [x] When milestones are completed, mark them with an "x"
-- [ ] A milestone isn't everyone’s to-do list, it is the high level tasks of the project
-- [ ] If you have more than 30 milestones, you’re being too granular
-- [x] 2019-09-22, Action item completed, [All]
-- [x] 2019-09-30, You can leave the box UNCHECKED if not completed but you must edit page to change state, [All]
+- Stickers
+- Handouts
+- SWAG for booth
 
 ## Leadership
 
