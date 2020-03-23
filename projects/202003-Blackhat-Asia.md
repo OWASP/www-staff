@@ -15,9 +15,10 @@ Black Hat returns to Marina Bay Sands in Singapore, September 29 - October 2, 20
 
 ## Conference at a Glance with Links
 
+- [Trainings Tues. Sept 29 - Fri. Oct. 2](https://www.blackhat.com/asia-20/training/schedule/index.html)
 - [Briefings Thursday, Oct 1 - Friday, Oct 2](https://www.blackhat.com/asia-20/briefings/schedule/index.html)
 - [Business Hall Thursday, Oct 1 - Friday, Oct 2](https://www.blackhat.com/asia-20/sponsors.html)
-- [REGISTRATION](https://blackhat.informatech.com/asia/2020/?)
+- [Registration Now Open](https://blackhat.informatech.com/asia/2020/?)
 
 ## Provided to OWASP per Agreement
 
@@ -43,4 +44,7 @@ Booth E13
 
 ## Budget
 
+- Stickers
+- Handouts
+- SWAG for booth
 
