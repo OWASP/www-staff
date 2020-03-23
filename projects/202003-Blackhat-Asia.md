@@ -33,7 +33,6 @@ Booth E13
 ## Milestones
 
 * [x] 2020-01-08 Sign contract OSD-3340, [Mike]
-* [X] 2020-01-24 Wufoo Volunteer [form](https://owasp.wufoo.com/forms/q1m4my2a1br8l7g/) created and posted and emailed [Lisa]
 * [X] 2020-02-20 New Date received and Event site updated [Lisa]
 * [ ] 2020-07-27 Send out Wufoo Volunteer form through Meetup again for new date/[Lisa]
 * [ ] 2020-08-21 Decision made on SWAG and handouts; orders placed.[Mike & Lisa]
