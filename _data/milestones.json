@@ -88,14 +88,14 @@
         "description": "Contact past trainers gauge interest in participating",
         "owner": "Emily",
         "project_name": "OWASP Virtual Training Day",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-03-23",
         "description": "Open CFT/CFP",
         "owner": "Emily",
         "project_name": "Global AppSec - San Francisco",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-03-24",
@@ -266,6 +266,27 @@
         "status": "future"
     },
     {
+        "milestone_date": "2020-05-15",
+        "description": "Artwork - (stickers, t-shirts?, postcard)",
+        "owner": "No Owner",
+        "project_name": "DEFCON 28",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-05-18",
+        "description": "ecision made on SWAG and handouts; orders placed.",
+        "owner": "Mike & Lisa",
+        "project_name": "BlackHat Las Vegas",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-05-18",
+        "description": "Confirm and approve all artwork",
+        "owner": "Mike",
+        "project_name": "DEFCON 28",
+        "status": "future"
+    },
+    {
         "milestone_date": "2020-05-25",
         "description": "Memorial Day",
         "owner": "No Owner",
@@ -275,6 +296,13 @@
     {
         "milestone_date": "2020-06-01",
         "description": "Application accepted Go or NO Go",
+        "owner": "No Owner",
+        "project_name": "DEFCON 28",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-06-01",
+        "description": "ll material ordered by the Foundation for delivery to Harrah's 3475 Las Vegas Boulevard South Las Vegas",
         "owner": "No Owner",
         "project_name": "DEFCON 28",
         "status": "future"
@@ -357,6 +385,13 @@
         "status": "future"
     },
     {
+        "milestone_date": "2020-06-30",
+        "description": "olunteers confirmed with schedule, registered and notification.",
+        "owner": "Lisa",
+        "project_name": "BlackHat Las Vegas",
+        "status": "future"
+    },
+    {
         "milestone_date": "2020-07-01",
         "description": "Projects Selected (5)",
         "owner": "Harold",
@@ -378,6 +413,13 @@
         "status": "future"
     },
     {
+        "milestone_date": "2020-07-02",
+        "description": "olunteers (must be OWASP members) identified (wufoo)",
+        "owner": "Lisa",
+        "project_name": "DEFCON 28",
+        "status": "future"
+    },
+    {
         "milestone_date": "2020-07-03",
         "description": "Independence Day (Observed)",
         "owner": "No Owner",
@@ -389,6 +431,27 @@
         "description": "Flight bookings complete to qualify for reimbursement/travel assistance grants",
         "owner": "No Owner",
         "project_name": "Projects Summit - Summer",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-07-27",
+        "description": "end out Wufoo Volunteer form through Meetup again for new date/",
+        "owner": "Lisa",
+        "project_name": "BlackHat Asia 2020",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-07-27",
+        "description": "end out Wufoo Volunteer form through Meetup again for new date/",
+        "owner": "Lisa",
+        "project_name": "BlackHat Las Vegas",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-07-27",
+        "description": "ummary email sent to team with schedule, contact person, lead scanner info, booth merchandise info, lead volunteer/contact person info sent to the team.",
+        "owner": "No Owner",
+        "project_name": "BlackHat Las Vegas",
         "status": "future"
     },
     {
@@ -434,6 +497,13 @@
         "status": "future"
     },
     {
+        "milestone_date": "2020-08-21",
+        "description": "ecision made on SWAG and handouts; orders placed.",
+        "owner": "Mike & Lisa",
+        "project_name": "BlackHat Asia 2020",
+        "status": "future"
+    },
+    {
         "milestone_date": "2020-09-07",
         "description": "Labor Day",
         "owner": "No Owner",
@@ -455,10 +525,24 @@
         "status": "future"
     },
     {
+        "milestone_date": "2020-09-18",
+        "description": "olunteers confirmed with schedule, registered and notification.",
+        "owner": "Lisa",
+        "project_name": "BlackHat Asia 2020",
+        "status": "future"
+    },
+    {
         "milestone_date": "2020-09-20",
         "description": "Close CFP",
         "owner": "Emily",
         "project_name": "Global AppSec - Dublin 2021",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-09-25",
+        "description": "ummary email sent to team with schedule, contact person, lead scanner info, booth merchandise info, lead volunteer/contact person info sent to the team.",
+        "owner": "No Owner",
+        "project_name": "BlackHat Asia 2020",
         "status": "future"
     },
     {
