@@ -238,6 +238,42 @@
         "url": "https://owasp.org/www-staff/projects/202002-Projects-Summit-Q1"
     },
     {
+        "name": "BlackHat Asia 2020",
+        "milestones": [
+            {
+                "milestone_date": "2020-07-27",
+                "description": "end out Wufoo Volunteer form through Meetup again for new date/",
+                "owner": "Lisa",
+                "project_name": "BlackHat Asia 2020",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-08-21",
+                "description": "ecision made on SWAG and handouts; orders placed.",
+                "owner": "Mike & Lisa",
+                "project_name": "BlackHat Asia 2020",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-09-18",
+                "description": "olunteers confirmed with schedule, registered and notification.",
+                "owner": "Lisa",
+                "project_name": "BlackHat Asia 2020",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-09-25",
+                "description": "ummary email sent to team with schedule, contact person, lead scanner info, booth merchandise info, lead volunteer/contact person info sent to the team.",
+                "owner": "No Owner",
+                "project_name": "BlackHat Asia 2020",
+                "status": "future"
+            }
+        ],
+        "description": "Black Hat returns to Marina Bay Sands in Singapore, September 29 - October 2, 2020. The information security community comes together for esteemed Trainings taught by industry experts, innovative research presentations at Briefings, the latest open-source tool demos in Arsenal, and the Business Hall featuring top-tier solutions and service providers.",
+        "leaders": [],
+        "url": "https://owasp.org/www-staff/projects/202003-Blackhat-Asia"
+    },
+    {
         "name": "DNS and VM Migration",
         "milestones": [
             {
@@ -340,7 +376,7 @@
                 "description": "Contact past trainers gauge interest in participating",
                 "owner": "Emily",
                 "project_name": "OWASP Virtual Training Day",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-03-25",
@@ -552,8 +588,37 @@
     },
     {
         "name": "BlackHat Las Vegas",
-        "milestones": [],
-        "description": "Agreement not received to date.  Page will be updated once agreement signed.",
+        "milestones": [
+            {
+                "milestone_date": "2020-07-27",
+                "description": "end out Wufoo Volunteer form through Meetup again for new date/",
+                "owner": "Lisa",
+                "project_name": "BlackHat Las Vegas",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-05-18",
+                "description": "ecision made on SWAG and handouts; orders placed.",
+                "owner": "Mike & Lisa",
+                "project_name": "BlackHat Las Vegas",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-06-30",
+                "description": "olunteers confirmed with schedule, registered and notification.",
+                "owner": "Lisa",
+                "project_name": "BlackHat Las Vegas",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-07-27",
+                "description": "ummary email sent to team with schedule, contact person, lead scanner info, booth merchandise info, lead volunteer/contact person info sent to the team.",
+                "owner": "No Owner",
+                "project_name": "BlackHat Las Vegas",
+                "status": "future"
+            }
+        ],
+        "description": "Now in its 23rd year, Black Hat USA is the world's leading information security event, providing attendees with the very latest in research, development and trends. Black Hat USA 2020 opens with four days of technical Trainings (August 1-4) followed by the two-day main conference (August 5-6) featuring Briefings, Arsenal, Business Hall, and more. Mandalay Bay Las Vegas, NV",
         "leaders": [
             {
                 "name": "Mike McCamon",
@@ -578,13 +643,41 @@
                 "owner": "No Owner",
                 "project_name": "DEFCON 28",
                 "status": "future"
+            },
+            {
+                "milestone_date": "2020-05-15",
+                "description": "Artwork - (stickers, t-shirts?, postcard)",
+                "owner": "No Owner",
+                "project_name": "DEFCON 28",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-05-18",
+                "description": "Confirm and approve all artwork",
+                "owner": "Mike",
+                "project_name": "DEFCON 28",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-06-01",
+                "description": "ll material ordered by the Foundation for delivery to Harrah's 3475 Las Vegas Boulevard South Las Vegas",
+                "owner": "No Owner",
+                "project_name": "DEFCON 28",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-07-02",
+                "description": "olunteers (must be OWASP members) identified (wufoo)",
+                "owner": "Lisa",
+                "project_name": "DEFCON 28",
+                "status": "future"
             }
         ],
         "description": "- 25K to 28K Attendees previous year- CASH ONLY- NO pre-registration- $320 per Badge - ONLY ONE BADGE AVAILABLE for Event- NO DISCOUNTS",
         "leaders": [
             {
                 "name": "Lisa Jones",
-                "email": "lisa.jones@owasp.com"
+                "email": "lisa.jones@owasp.co"
             }
         ],
         "url": "https://owasp.org/www-staff/projects/202008-Defcon-28"
@@ -597,7 +690,7 @@
                 "description": "Open CFT/CFP",
                 "owner": "Emily",
                 "project_name": "Global AppSec - San Francisco",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-04-01",
