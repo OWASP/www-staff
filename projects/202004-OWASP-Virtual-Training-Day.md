@@ -58,16 +58,16 @@ One 8-hour training: $495 or €450
 
 ```
 Income                                            
-     Registrations                        $70,000
+     Registrations                       $125,000
      Sponsorships                          $5,000
-     Total Income                         $75,000
+     Total Income                        $130,000
                                                   
 Expenses                                                                           
      Zoom Licenses                           $400
      Trainer Fees                         $30,000
      Staff Services                       $10,000
                                                   
-     P/L                                  $34,600
+     P/L                                  $89.600
 ```
 
 ## Sponsorships
