@@ -190,7 +190,7 @@
                 "description": "Close P&L",
                 "owner": "Emily",
                 "project_name": "AppSec California 2020",
-                "status": "on-time"
+                "status": "overdue"
             }
         ],
         "description": "Each project will have a 2-3 paragraph overview narrative. Keep to the key top points about the project. Visitors should be able to read this short narrative and have a good understanding of the project without having to scroll the entire document.",
@@ -288,7 +288,7 @@
                 "description": "use Cloudflare as DNS provider for all domains (transfer from Rackspace and Combell)",
                 "owner": "Matt Tesauro",
                 "project_name": "DNS and VM Migration",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-03-27",
