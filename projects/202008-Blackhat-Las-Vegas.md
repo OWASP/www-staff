@@ -26,7 +26,7 @@ Now in its 23rd year, Black Hat USA is the world's leading information security 
 
 * [x] 2020-01-08 Sign contract OSD-3340, [Mike]
 * [X] 2020-02-20 New Date received and Event site updated [Lisa]
-* [ ] 2020-03-30 [OSD-3654](https://owasporg.atlassian.net/browse/OSD-3654) Contract for ED signature[Mike]
+* [X] 2020-03-30 [OSD-3654](https://owasporg.atlassian.net/browse/OSD-3654) Contract for ED signature[Mike]
 * [ ] 2020-07-27 Send out Wufoo Volunteer form through Meetup again for new date/[Lisa]
 * [ ] 2020-05-18 Decision made on SWAG and handouts; orders placed.[Mike & Lisa]
 * [ ] 2020-06-30 Volunteers confirmed with schedule, registered and notification. [Lisa]
