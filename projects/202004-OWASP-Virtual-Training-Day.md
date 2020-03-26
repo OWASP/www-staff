@@ -64,10 +64,10 @@ Income
                                                   
 Expenses                                                                           
      Zoom Licenses                           $400
-     Trainer Fees                         $30,000
+     Trainer Fees                         $35,000
      Staff Services                       $10,000
                                                   
-     P/L                                  $89.600
+     P/L                                  $84.600
 ```
 
 ## Sponsorships
