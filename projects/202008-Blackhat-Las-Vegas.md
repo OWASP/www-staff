@@ -21,6 +21,18 @@ Now in its 23rd year, Black Hat USA is the world's leading information security 
 
 ## Provided to OWASP per Agreement
 
+* One Tabletop Display in Black Hat Blvd. Hallway
+* One (1) 6’ draped table with ID sign
+* Two (2) chairs
+* Power drop at table (up to 5 amps)
+* Two (2) Lead Scanner units for use on-site
+* Five (5) full Briefings passes for the Black Hat Briefings
+* Eight (8) Booth Staff passes
+* OWASP Logo on Black Hat website and in conference program listed as an Association Partner.
+* A discount of $200 for new registrants to Black Hat Briefings for all OWASP members via special registration code. Does not
+   include discounts to Trainings.
+* [2020 Discount Code for members](members@owasp.com)
+
 
 ## Milestones  All dates are subject to change based on CORVID-19
 
