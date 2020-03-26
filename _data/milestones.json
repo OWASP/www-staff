@@ -116,21 +116,21 @@
         "description": "Create agenda",
         "owner": "Harold",
         "project_name": "OWASP Virtual Training Day",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-03-25",
         "description": "Stand up event page",
         "owner": "Harold",
         "project_name": "OWASP Virtual Training Day",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-03-25",
         "description": "CTF Milestones",
         "owner": "Kelly",
         "project_name": "OWASP Virtual Training Day",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-03-27",
@@ -158,6 +158,13 @@
         "description": "Launch registration",
         "owner": "Emily",
         "project_name": "OWASP Virtual Training Day",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2020-03-30",
+        "description": "OSD-3654](https://owasporg.atlassian.net/browse/OSD-3654) Contract for ED signature",
+        "owner": "Mike",
+        "project_name": "BlackHat Las Vegas",
         "status": "on-time"
     },
     {
