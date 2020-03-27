@@ -161,13 +161,6 @@
         "status": "on-time"
     },
     {
-        "milestone_date": "2020-03-30",
-        "description": "OSD-3654](https://owasporg.atlassian.net/browse/OSD-3654) Contract for ED signature",
-        "owner": "Mike",
-        "project_name": "BlackHat Las Vegas",
-        "status": "on-time"
-    },
-    {
         "milestone_date": "2020-04-01",
         "description": "Registration Opens",
         "owner": "Emily",
