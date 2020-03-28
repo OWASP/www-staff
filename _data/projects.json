@@ -295,7 +295,7 @@
                 "description": "use Cloudflare as CDN for owasp.org and implement redirects",
                 "owner": "Matt Tesauro, John Morabito",
                 "project_name": "DNS and VM Migration",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-04-03",
@@ -836,7 +836,7 @@
                 "description": "Notify Trainers",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin 2021",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-05-01",
