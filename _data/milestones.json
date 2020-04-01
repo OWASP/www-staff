@@ -221,28 +221,28 @@
         "description": "Keynotes Announces",
         "owner": "Emily",
         "project_name": "Global AppSec - San Francisco",
-        "status": "future"
+        "status": "on-time"
     },
     {
         "milestone_date": "2020-05-01",
         "description": "NEW Sign CCD contract",
         "owner": "Mike",
         "project_name": "Global AppSec - Dublin 2021",
-        "status": "future"
+        "status": "on-time"
     },
     {
         "milestone_date": "2020-05-01",
         "description": "Training Schedule Announced",
         "owner": "Emily",
         "project_name": "Global AppSec - Dublin 2021",
-        "status": "future"
+        "status": "on-time"
     },
     {
         "milestone_date": "2020-05-01",
         "description": "Keynotes Announced",
         "owner": "Emily",
         "project_name": "Global AppSec - Dublin 2021",
-        "status": "future"
+        "status": "on-time"
     },
     {
         "milestone_date": "2020-05-02",
