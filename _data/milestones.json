@@ -212,7 +212,7 @@
     {
         "milestone_date": "2020-04-22",
         "description": "Deadline for invoices and expense reimbursement requests",
-        "owner": "Dawn",
+        "owner": "Emily",
         "project_name": "Projects Summit - Winter 2020",
         "status": "on-time"
     },
@@ -548,7 +548,7 @@
     {
         "milestone_date": "2020-09-30",
         "description": "Deadline for invoices and expense reimbursement requests",
-        "owner": "Dawn",
+        "owner": "Emily",
         "project_name": "Projects Summit - Summer",
         "status": "future"
     },
