@@ -165,7 +165,7 @@
         "description": "Registration Opens",
         "owner": "Emily",
         "project_name": "Global AppSec - San Francisco",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-04-03",
@@ -249,7 +249,7 @@
         "description": "Venue contract signed",
         "owner": "Emily",
         "project_name": "Projects Summit - Summer",
-        "status": "future"
+        "status": "on-time"
     },
     {
         "milestone_date": "2020-05-05",
