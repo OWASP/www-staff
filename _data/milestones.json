@@ -63,31 +63,10 @@
         "status": "overdue"
     },
     {
-        "milestone_date": "2020-03-19",
-        "description": "Contact current online trainers to establish trainer critera",
-        "owner": "Emily",
-        "project_name": "OWASP Virtual Training Day",
-        "status": "overdue"
-    },
-    {
         "milestone_date": "2020-03-20",
         "description": "initial single, low-importance domain moved to Cloudflare and tested",
         "owner": "Matt Tesauro",
         "project_name": "DNS and VM Migration",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-03-22",
-        "description": "Create Wufoo form to send to previous trainers",
-        "owner": "Emily",
-        "project_name": "OWASP Virtual Training Day",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-03-23",
-        "description": "Contact past trainers gauge interest in participating",
-        "owner": "Emily",
-        "project_name": "OWASP Virtual Training Day",
         "status": "overdue"
     },
     {
@@ -113,20 +92,6 @@
     },
     {
         "milestone_date": "2020-03-25",
-        "description": "Create agenda",
-        "owner": "Harold",
-        "project_name": "OWASP Virtual Training Day",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-03-25",
-        "description": "Stand up event page",
-        "owner": "Harold",
-        "project_name": "OWASP Virtual Training Day",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-03-25",
         "description": "CTF Milestones",
         "owner": "Kelly",
         "project_name": "OWASP Virtual Training Day",
@@ -147,20 +112,6 @@
         "status": "overdue"
     },
     {
-        "milestone_date": "2020-03-30",
-        "description": "Announce Program",
-        "owner": "Emily",
-        "project_name": "OWASP Virtual Training Day",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-03-30",
-        "description": "Launch registration",
-        "owner": "Emily",
-        "project_name": "OWASP Virtual Training Day",
-        "status": "overdue"
-    },
-    {
         "milestone_date": "2020-04-01",
         "description": "Registration Opens",
         "owner": "Emily",
@@ -176,6 +127,20 @@
     },
     {
         "milestone_date": "2020-04-06",
+        "description": "Announce Program",
+        "owner": "Emily",
+        "project_name": "OWASP Virtual Training Day",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2020-04-06",
+        "description": "Launch registration",
+        "owner": "Emily",
+        "project_name": "OWASP Virtual Training Day",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2020-04-06",
         "description": "Harrah's Las Vegas reservations https://book.passkey.com/go/SHDEF0",
         "owner": "Mike",
         "project_name": "DEFCON 28",
@@ -183,7 +148,7 @@
     },
     {
         "milestone_date": "2020-04-10",
-        "description": "Run test trainings",
+        "description": "Run Internal test trainings",
         "owner": "Harold",
         "project_name": "OWASP Virtual Training Day",
         "status": "on-time"
@@ -212,8 +177,15 @@
     {
         "milestone_date": "2020-04-22",
         "description": "Deadline for invoices and expense reimbursement requests",
-        "owner": "Emily",
+        "owner": "Dawn",
         "project_name": "Projects Summit - Winter 2020",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2020-04-23",
+        "description": "Dress Rehearsal NOON ET",
+        "owner": "Emily",
+        "project_name": "OWASP Virtual Training Day",
         "status": "on-time"
     },
     {
@@ -548,7 +520,7 @@
     {
         "milestone_date": "2020-09-30",
         "description": "Deadline for invoices and expense reimbursement requests",
-        "owner": "Emily",
+        "owner": "Dawn",
         "project_name": "Projects Summit - Summer",
         "status": "future"
     },
