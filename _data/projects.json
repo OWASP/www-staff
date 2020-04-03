@@ -358,41 +358,6 @@
         "name": "OWASP Virtual Training Day",
         "milestones": [
             {
-                "milestone_date": "2020-03-19",
-                "description": "Contact current online trainers to establish trainer critera",
-                "owner": "Emily",
-                "project_name": "OWASP Virtual Training Day",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-03-22",
-                "description": "Create Wufoo form to send to previous trainers",
-                "owner": "Emily",
-                "project_name": "OWASP Virtual Training Day",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-03-23",
-                "description": "Contact past trainers gauge interest in participating",
-                "owner": "Emily",
-                "project_name": "OWASP Virtual Training Day",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-03-25",
-                "description": "Create agenda",
-                "owner": "Harold",
-                "project_name": "OWASP Virtual Training Day",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-03-25",
-                "description": "Stand up event page",
-                "owner": "Harold",
-                "project_name": "OWASP Virtual Training Day",
-                "status": "overdue"
-            },
-            {
                 "milestone_date": "2020-03-25",
                 "description": "CTF Milestones",
                 "owner": "Kelly",
@@ -400,23 +365,30 @@
                 "status": "overdue"
             },
             {
-                "milestone_date": "2020-03-30",
+                "milestone_date": "2020-04-06",
                 "description": "Announce Program",
                 "owner": "Emily",
                 "project_name": "OWASP Virtual Training Day",
-                "status": "overdue"
+                "status": "on-time"
             },
             {
-                "milestone_date": "2020-03-30",
+                "milestone_date": "2020-04-06",
                 "description": "Launch registration",
                 "owner": "Emily",
                 "project_name": "OWASP Virtual Training Day",
-                "status": "overdue"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-04-10",
-                "description": "Run test trainings",
+                "description": "Run Internal test trainings",
                 "owner": "Harold",
+                "project_name": "OWASP Virtual Training Day",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-04-23",
+                "description": "Dress Rehearsal NOON ET",
+                "owner": "Emily",
                 "project_name": "OWASP Virtual Training Day",
                 "status": "on-time"
             }
