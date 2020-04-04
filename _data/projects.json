@@ -302,7 +302,7 @@
                 "description": "move VMs not in DigitalOcean to DigitalOcean",
                 "owner": "No Owner",
                 "project_name": "DNS and VM Migration",
-                "status": "on-time"
+                "status": "overdue"
             }
         ],
         "description": "The DNS, name provider, and virtual machine infrastructure currently resides on several different platforms.  In addition, the website redirection currently is at an elevated risk due to a single point of failure.  In order to consolidate our platforms and mitigate the risk, the VM infrastructure will be moved to DigitalOcean, the name provider will shift to Namecheap, and the DNS and redirect infrastructure will be moved to Cloudflare.",
