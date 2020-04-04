@@ -123,7 +123,7 @@
         "description": "move VMs not in DigitalOcean to DigitalOcean",
         "owner": "No Owner",
         "project_name": "DNS and VM Migration",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-04-06",
