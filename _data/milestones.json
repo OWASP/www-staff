@@ -175,13 +175,6 @@
         "status": "on-time"
     },
     {
-        "milestone_date": "2020-04-22",
-        "description": "Deadline for invoices and expense reimbursement requests",
-        "owner": "Dawn",
-        "project_name": "Projects Summit - Winter 2020",
-        "status": "on-time"
-    },
-    {
         "milestone_date": "2020-04-23",
         "description": "Dress Rehearsal NOON ET",
         "owner": "Emily",
