@@ -511,13 +511,6 @@
         "status": "future"
     },
     {
-        "milestone_date": "2020-09-30",
-        "description": "Deadline for invoices and expense reimbursement requests",
-        "owner": "Dawn",
-        "project_name": "Projects Summit - Summer",
-        "status": "future"
-    },
-    {
         "milestone_date": "2020-10-01",
         "description": "F&B Order Complete",
         "owner": "Emily",
