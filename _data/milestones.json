@@ -130,21 +130,21 @@
         "description": "Announce Program",
         "owner": "Emily",
         "project_name": "OWASP Virtual Training Day",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-04-06",
         "description": "Launch registration",
         "owner": "Emily",
         "project_name": "OWASP Virtual Training Day",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-04-06",
         "description": "Harrah's Las Vegas reservations https://book.passkey.com/go/SHDEF0",
         "owner": "Mike",
         "project_name": "DEFCON 28",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-04-10",
