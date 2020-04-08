@@ -43,7 +43,7 @@ Leaders of projects selected are required to attend or that project will not be 
 - [x] 2020-01-06, Email solicitation sent to Leaders list, [Harold]
 - [x] 2020-01-08, Reminder #2, [Harold]
 - [x] 2020-01-14, Reminder #3, [Harold]
-- [ ] 2020-01-15, Venue 70% Remaining balance due of $32,457.60, [Emily]
+- [x] 2020-01-15, Venue 70% Remaining balance due of $32,457.60, [Emily]
 - [x] 2020-01-20, Reminder #4, [Harold]
 - [x] 2020-01-22, Reminder #5, [Harold]
 - [x] 2020-01-26, Project Nomination Form Closes, [Harold]
