@@ -164,13 +164,6 @@
         "name": "AppSec California 2020",
         "milestones": [
             {
-                "milestone_date": "2020-01-23",
-                "description": "2nd half of AV Payment Due. Contract is in ticket OSD-3192",
-                "owner": "Emily",
-                "project_name": "AppSec California 2020",
-                "status": "overdue"
-            },
-            {
                 "milestone_date": "2020-03-24",
                 "description": "Close P&L",
                 "owner": "Emily",
@@ -604,48 +597,6 @@
         "name": "Global AppSec - Dublin 2021",
         "milestones": [
             {
-                "milestone_date": "2020-05-01",
-                "description": "NEW Sign CCD contract",
-                "owner": "Mike",
-                "project_name": "Global AppSec - Dublin 2021",
-                "status": "on-time"
-            },
-            {
-                "milestone_date": "2020-03-15",
-                "description": "CFT Review Complete",
-                "owner": "Emily",
-                "project_name": "Global AppSec - Dublin 2021",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-03-27",
-                "description": "Notify Trainers",
-                "owner": "Emily",
-                "project_name": "Global AppSec - Dublin 2021",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-05-01",
-                "description": "Training Schedule Announced",
-                "owner": "Emily",
-                "project_name": "Global AppSec - Dublin 2021",
-                "status": "on-time"
-            },
-            {
-                "milestone_date": "2020-04-15",
-                "description": "NEW Hotel Room Block COntract Signed, OSD-3266",
-                "owner": "Emily",
-                "project_name": "Global AppSec - Dublin 2021",
-                "status": "on-time"
-            },
-            {
-                "milestone_date": "2020-08-01",
-                "description": "Open CFP",
-                "owner": "Emily",
-                "project_name": "Global AppSec - Dublin 2021",
-                "status": "future"
-            },
-            {
                 "milestone_date": "2020-04-15",
                 "description": "General Service Contract Signed",
                 "owner": "Emily",
@@ -653,11 +604,11 @@
                 "status": "on-time"
             },
             {
-                "milestone_date": "2020-09-20",
-                "description": "Close CFP",
+                "milestone_date": "2020-04-15",
+                "description": "NEW Hotel Room Block Contract Signed, OSD-3266",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin 2021",
-                "status": "future"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-05-01",
@@ -667,29 +618,43 @@
                 "status": "on-time"
             },
             {
+                "milestone_date": "2020-05-01",
+                "description": "Training Schedule Announced",
+                "owner": "Emily",
+                "project_name": "Global AppSec - Dublin 2021",
+                "status": "on-time"
+            },
+            {
                 "milestone_date": "2020-06-01",
-                "description": "Registration Opens, [Mike] Completed on 2-March",
-                "owner": "No Owner",
+                "description": "Registration Re-Opens",
+                "owner": "Harold",
+                "project_name": "Global AppSec - Dublin 2021",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-08-01",
+                "description": "Open CFP",
+                "owner": "Emily",
+                "project_name": "Global AppSec - Dublin 2021",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-09-20",
+                "description": "Close CFP",
+                "owner": "Emily",
+                "project_name": "Global AppSec - Dublin 2021",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-10-05",
+                "description": "CFP Review Complete",
+                "owner": "Emily",
                 "project_name": "Global AppSec - Dublin 2021",
                 "status": "future"
             },
             {
                 "milestone_date": "2020-10-15",
                 "description": "NEW Hotel Attrition Milestone, OSD-3266",
-                "owner": "Emily",
-                "project_name": "Global AppSec - Dublin 2021",
-                "status": "future"
-            },
-            {
-                "milestone_date": "2020-03-16",
-                "description": "Payment 45% of Catering fee due",
-                "owner": "Emily",
-                "project_name": "Global AppSec - Dublin 2021",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-10-05",
-                "description": "CFP Review Complete",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin 2021",
                 "status": "future"
@@ -717,14 +682,14 @@
             },
             {
                 "milestone_date": "2021-01-15",
-                "description": "SWAG Ordered",
+                "description": "Signage Ordered",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin 2021",
                 "status": "future"
             },
             {
                 "milestone_date": "2021-01-15",
-                "description": "Signage Ordered",
+                "description": "SWAG Ordered",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin 2021",
                 "status": "future"
