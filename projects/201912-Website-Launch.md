@@ -36,16 +36,6 @@ Upon the completion of this project, OWASP.org will be hosted in Github. The arc
 
 ## Milestones
 
-* [x] 2020-01-07, Redirect inventory from SEO firm (received 13-Jan) [Harold]
-* [x] 2020-01-07, Policy pages migrated and ready for community review, [Mike]
-* [x] 2020-01-14, Validate Google Analytics instance running (Completed 6-Jan 1pm CT), [Harold]
-* [x] 2020-01-16, Validate search redirect working site-wide, [Harold]
-* [x] 2020-01-15, Redirect system in place and ready for launch
-* [x] 2020-01-15, Website Launch [Harold]
-* [x] 2020-01-16, Validate all Member curriculum is pointing to owasp.org domain (not www2), [Mike]
-* [x] 2020-01-20, Metadata template information from SEO firm, [Harold]
-* [x] 2020-01-22, Integrate meta tag info into templates, [Harold]
-* [x] 2020-02-15, Events form (poc) [Simon]
 * [ ] 2020-05-15, Validate Meetup Connector, [Harold]
 
 ## Historical Milestones (Completed)
@@ -73,6 +63,16 @@ Upon the completion of this project, OWASP.org will be hosted in Github. The arc
 * [x] 2019-12-16, Remaining chapter pages auto-migrated, [Harold]
 * [x] 2019-12-16, Remaining project pages auto-migrated, [Harold]
 * [x] 2019-12-16, Events pages migrated, [Harold]
+* [x] 2020-01-07, Redirect inventory from SEO firm (received 13-Jan) [Harold]
+* [x] 2020-01-07, Policy pages migrated and ready for community review, [Mike]
+* [x] 2020-01-14, Validate Google Analytics instance running (Completed 6-Jan 1pm CT), [Harold]
+* [x] 2020-01-16, Validate search redirect working site-wide, [Harold]
+* [x] 2020-01-15, Redirect system in place and ready for launch
+* [x] 2020-01-15, Website Launch [Harold]
+* [x] 2020-01-16, Validate all Member curriculum is pointing to owasp.org domain (not www2), [Mike]
+* [x] 2020-01-20, Metadata template information from SEO firm, [Harold]
+* [x] 2020-01-22, Integrate meta tag info into templates, [Harold]
+* [x] 2020-02-15, Events form (poc) [Simon]
 
 ## Leadership
 
