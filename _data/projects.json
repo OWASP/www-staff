@@ -19,21 +19,6 @@
         "url": "https://owasp.org/www-staff/projects/201910-Email-Cleanup"
     },
     {
-        "name": "2019Q4 Marketing",
-        "milestones": [
-            {
-                "milestone_date": "2020-01-31",
-                "description": "Connect Virtual with Project Leaders for copy",
-                "owner": "Mike",
-                "project_name": "2019Q4 Marketing",
-                "status": "overdue"
-            }
-        ],
-        "description": "tle: 2019Q4 Marketinglayout: full-width---# 2019Q4 Marketing",
-        "leaders": [],
-        "url": "https://owasp.org/www-staff/projects/201910-marketing"
-    },
-    {
         "name": "Website Re-launch",
         "milestones": [
             {
@@ -61,25 +46,25 @@
         "name": "Events Form",
         "milestones": [
             {
-                "milestone_date": "2020-03-06",
+                "milestone_date": "2020-04-10",
                 "description": "Post-launch fixes complete",
                 "owner": "Simon",
                 "project_name": "Events Form",
-                "status": "overdue"
+                "status": "on-time"
             },
             {
-                "milestone_date": "2020-03-13",
+                "milestone_date": "2020-04-10",
                 "description": "Google Sheet push implemented, tested, and in production",
                 "owner": "Simon",
                 "project_name": "Events Form",
-                "status": "overdue"
+                "status": "on-time"
             },
             {
-                "milestone_date": "2020-03-18",
+                "milestone_date": "2020-04-17",
                 "description": "Project Complete",
                 "owner": "Harold",
                 "project_name": "Events Form",
-                "status": "overdue"
+                "status": "on-time"
             }
         ],
         "description": "As part of the OWASP website migration, we will creating a new Events form that will use Stripe as a back end. This should be a simple form that is hosted on the website and will EVENUTALLY serve as the prmiary e-commerce path for all OWASP Global and Regional events replacing Eventbrite for (1) hosting secure forms on github, (2) presenting and then selecting multiple SKUs from a single Product ID as in Training Class A for Event X and Early Bird ticket for Event X, (3) 2-3 aggregate online reports, (4) validate Stripe can manage inventory of SKUs, and (5) integrating Stripe form activities with light integrations with other key data in the OWASP ecosystem.",
@@ -209,13 +194,6 @@
     {
         "name": "Projects Summit - Winter 2020",
         "milestones": [
-            {
-                "milestone_date": "2020-01-15",
-                "description": "Venue 70% Remaining balance due of $32,457.60",
-                "owner": "Emily",
-                "project_name": "Projects Summit - Winter 2020",
-                "status": "overdue"
-            },
             {
                 "milestone_date": "2020-04-22",
                 "description": "Deadline for invoices and expense reimbursement requests",
@@ -358,27 +336,6 @@
         "name": "OWASP Virtual Training Day",
         "milestones": [
             {
-                "milestone_date": "2020-03-25",
-                "description": "CTF Milestones",
-                "owner": "Kelly",
-                "project_name": "OWASP Virtual Training Day",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-04-06",
-                "description": "Announce Program",
-                "owner": "Emily",
-                "project_name": "OWASP Virtual Training Day",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-04-06",
-                "description": "Launch registration",
-                "owner": "Emily",
-                "project_name": "OWASP Virtual Training Day",
-                "status": "overdue"
-            },
-            {
                 "milestone_date": "2020-04-10",
                 "description": "Run Internal test trainings",
                 "owner": "Harold",
@@ -421,142 +378,6 @@
             }
         ],
         "url": "https://owasp.org/www-staff/projects/202006-GlobalAppSec-Dublin"
-    },
-    {
-        "name": "Projects Summit - Summer",
-        "milestones": [
-            {
-                "milestone_date": "2020-05-02",
-                "description": "Venue contract signed",
-                "owner": "Emily",
-                "project_name": "Projects Summit - Summer",
-                "status": "on-time"
-            },
-            {
-                "milestone_date": "2020-06-05",
-                "description": "Project Nomination Form online",
-                "owner": "Mike",
-                "project_name": "Projects Summit - Summer",
-                "status": "future"
-            },
-            {
-                "milestone_date": "2020-06-08",
-                "description": "Project Nomination Opens",
-                "owner": "Harold",
-                "project_name": "Projects Summit - Summer",
-                "status": "future"
-            },
-            {
-                "milestone_date": "2020-06-09",
-                "description": "Email solicitation sent to Leaders list",
-                "owner": "Harold",
-                "project_name": "Projects Summit - Summer",
-                "status": "future"
-            },
-            {
-                "milestone_date": "2020-06-11",
-                "description": "Reminder #2",
-                "owner": "Harold",
-                "project_name": "Projects Summit - Summer",
-                "status": "future"
-            },
-            {
-                "milestone_date": "2020-06-17",
-                "description": "Reminder #3",
-                "owner": "Harold",
-                "project_name": "Projects Summit - Summer",
-                "status": "future"
-            },
-            {
-                "milestone_date": "2020-06-23",
-                "description": "Reminder #4",
-                "owner": "Harold",
-                "project_name": "Projects Summit - Summer",
-                "status": "future"
-            },
-            {
-                "milestone_date": "2020-06-25",
-                "description": "Reminder #5",
-                "owner": "Harold",
-                "project_name": "Projects Summit - Summer",
-                "status": "future"
-            },
-            {
-                "milestone_date": "2020-06-25",
-                "description": "Form online to accept Attendee registrations (wuFoo)",
-                "owner": "Mike",
-                "project_name": "Projects Summit - Summer",
-                "status": "future"
-            },
-            {
-                "milestone_date": "2020-06-29",
-                "description": "Project Nomination Form Closes",
-                "owner": "Harold",
-                "project_name": "Projects Summit - Summer",
-                "status": "future"
-            },
-            {
-                "milestone_date": "2020-07-01",
-                "description": "Projects Selected (5)",
-                "owner": "Harold",
-                "project_name": "Projects Summit - Summer",
-                "status": "future"
-            },
-            {
-                "milestone_date": "2020-07-01",
-                "description": "Registration Form Online",
-                "owner": "Harold",
-                "project_name": "Projects Summit - Summer",
-                "status": "future"
-            },
-            {
-                "milestone_date": "2020-07-14",
-                "description": "Flight bookings complete to qualify for reimbursement/travel assistance grants",
-                "owner": "No Owner",
-                "project_name": "Projects Summit - Summer",
-                "status": "future"
-            },
-            {
-                "milestone_date": "2020-07-30",
-                "description": "Summitt Hours 10a-6p",
-                "owner": "No Owner",
-                "project_name": "Projects Summit - Summer",
-                "status": "future"
-            },
-            {
-                "milestone_date": "2020-07-31",
-                "description": "Summitt Hours 9a-5p",
-                "owner": "No Owner",
-                "project_name": "Projects Summit - Summer",
-                "status": "future"
-            },
-            {
-                "milestone_date": "2020-08-01",
-                "description": "Summitt Hours 9a-5p",
-                "owner": "No Owner",
-                "project_name": "Projects Summit - Summer",
-                "status": "future"
-            },
-            {
-                "milestone_date": "2020-09-30",
-                "description": "Deadline for invoices and expense reimbursement requests",
-                "owner": "Dawn",
-                "project_name": "Projects Summit - Summer",
-                "status": "future"
-            }
-        ],
-        "description": "The OWASP Foundation will host a three-day working session for FIVE selected projects in Europe, July 30 - August 1, 2020. Arrival day will be Wednesday the 29th and departures will be August 2nd. Projects must apply and then get selected to participate. The application process will require project meeting goals, workplan, key contributors, and expected attendance. The OWASP Foundation Officers Group will make the final selection.The event program will solely include heads-down work time for OWASP projects. Any \"group\" gatherings will be during meal times. Spectators are not welcomed and attendance is limited to OWASP Members. Limited travel assistance will be provided for up to five key project leaders/contributors per project selected.Leaders of projects selected are required to attend or that project will not be selected. If a project fails to secure five attendees, their project's invitation will be rescinded.",
-        "leaders": [
-            {
-                "name": "Harold Blankenship",
-                "email": "harold.blankenship@owasp.com"
-            },
-            {
-                "name": "Emily Berman",
-                "email": "emily.berman@owasp.com"
-            }
-        ],
-        "url": "https://owasp.org/www-staff/projects/202007-Projects-Summit-Q3"
     },
     {
         "name": "BlackHat Las Vegas",
@@ -658,20 +479,6 @@
         "name": "Global AppSec - San Francisco",
         "milestones": [
             {
-                "milestone_date": "2020-03-23",
-                "description": "Open CFT/CFP",
-                "owner": "Emily",
-                "project_name": "Global AppSec - San Francisco",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-04-01",
-                "description": "Registration Opens",
-                "owner": "Emily",
-                "project_name": "Global AppSec - San Francisco",
-                "status": "overdue"
-            },
-            {
                 "milestone_date": "2020-04-20",
                 "description": "Close CFT/CFP",
                 "owner": "Emily",
@@ -679,15 +486,22 @@
                 "status": "on-time"
             },
             {
+                "milestone_date": "2020-05-01",
+                "description": "Registration Opens",
+                "owner": "Emily",
+                "project_name": "Global AppSec - San Francisco",
+                "status": "on-time"
+            },
+            {
                 "milestone_date": "2020-06-01",
-                "description": "Prgram Announced",
+                "description": "Program Announced",
                 "owner": "Emily",
                 "project_name": "Global AppSec - San Francisco",
                 "status": "future"
             },
             {
                 "milestone_date": "2020-05-01",
-                "description": "Keynotes Announces",
+                "description": "Keynotes Announced",
                 "owner": "Emily",
                 "project_name": "Global AppSec - San Francisco",
                 "status": "on-time"
