@@ -8,6 +8,8 @@ date: July 30- August 2, 2020
 
 # Projects Summit - Summer
 
+**This event has been postponed**
+
 ## Overview
 
 The OWASP Foundation will host a three-day working session for FIVE selected projects in Europe, July 30 - August 1, 2020. Arrival day will be Wednesday the 29th and departures will be August 2nd. Projects must apply and then get selected to participate. The application process will require project meeting goals, workplan, key contributors, and expected attendance. The OWASP Foundation Officers Group will make the final selection.
