@@ -29,9 +29,9 @@ OWASP Virtual Training Day will take place for 4 hours on both April 28th and 29
 - [x] 2020-03-23, Contact past trainers gauge interest in participating, [Emily]
 - [x] 2020-03-25, Create agenda, [Harold]
 - [x] 2020-03-25, Stand up event page, [Harold]
-- [ ] 2020-03-25, CTF Milestones, [Kelly]
-- [ ] 2020-04-06, Announce Program, [Emily]
-- [ ] 2020-04-06, Launch registration, [Emily]
+- [x] 2020-03-25, CTF Milestones, [Kelly]
+- [x] 2020-04-06, Announce Program, [Emily]
+- [x] 2020-04-06, Launch registration, [Emily]
 - [ ] 2020-04-10, Run Internal test trainings, [Harold]
 - [ ] 2020-04-23, Dress Rehearsal NOON ET, [Emily]
 
