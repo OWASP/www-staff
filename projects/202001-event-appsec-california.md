@@ -33,7 +33,7 @@ Each project will have a 2-3 paragraph overview narrative. Keep to the key top p
 * [x] 2019-12-20, Final payment of $22,750 is due. Ticket # OSD-3068, [Dawn]
 * [x] 2019-12-21, 30 Day out Check-in, [Emily]
 * [x] 2020-01-21, AppSec California
-* [ ] 2020-01-23, 2nd half of AV Payment Due. Contract is in ticket OSD-3192, [Emily]
+* [x] 2020-01-23, 2nd half of AV Payment Due. Contract is in ticket OSD-3192, [Emily]
 * [ ] 2020-03-24, Close P&L, [Emily]
 
 ## Sponsorships
