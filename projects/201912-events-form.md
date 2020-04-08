@@ -96,16 +96,6 @@ As part of the OWASP website migration, we will creating a new Events form that 
    1. Responds with a list of events from now-30 days through "end of time" that include Name (as URL to online report from above), total-number-of-registrants
 1. /event-history 
    1. Same as event-lookup but responds with ALL historical events
-2. /event-attendee {string}
-   1. responds with any event registrations where first-name, last-name, company, or email-address CONTAINS {string} sorted in last-name/first-name ascending order. First line of response includes email as mailto URL
-      1. List should include Event Name, Product Purchased, Amount Paid, Discount code used and StripeTransactionID
-   2. responds with "None Found" if no records found in Stripe
-   3. If result set is > 100 records add "More..." link as button to retrieve more records
-3. /event-attendee-details {email address}
-   1. Responds with all data from that Stripe Transction and first line of response includes email as mailto URL
-4. /event-refund {StripeTranactionID} {amount as number}
-   1. Refund a transaction or a portion based on the amount. Amount is required and is a number, not a current-dependent number
-   2. Make sure that reporting is net refunds
 5. /event-comp-attendee [ will be handled with a discount code]
 6. /event-create-discount {Event Identifer} {number of uses} {Code Name}
    1. Creates a discount code with name of Code Name with a set number of uses. It will be important to log the slack username in Stripe for this bot command.
