@@ -50,14 +50,14 @@
                 "description": "Post-launch fixes complete",
                 "owner": "Simon",
                 "project_name": "Events Form",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-04-10",
                 "description": "Google Sheet push implemented, tested, and in production",
                 "owner": "Simon",
                 "project_name": "Events Form",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-04-17",
@@ -333,7 +333,7 @@
                 "description": "Run Internal test trainings",
                 "owner": "Harold",
                 "project_name": "OWASP Virtual Training Day",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-04-23",
