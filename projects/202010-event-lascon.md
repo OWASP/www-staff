@@ -31,7 +31,7 @@ Each project will have a 2-3 paragraph overview narrative. Keep to the key top p
 ## Milestones
 
 * [x] 2019-12-31, Initial payment for venue $3,000 OSD-3301, [Mike]
-* [ ] 2020-03-10, 2nd Payment of $3,000 due to venue, [Emily]
+* [X] 2020-03-10, 2nd Payment of $3,000 due to venue, [Emily]
 * [ ] 2020-07-01, 3rd Payment of $3,000 due to venue, [Emily]
 * [ ] 2020-10-27, LASCON 2020
 * [ ] 2020-12-27, Close P&L, [Emily]
