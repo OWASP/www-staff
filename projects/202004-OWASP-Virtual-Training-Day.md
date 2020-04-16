@@ -45,7 +45,11 @@ OWASP Virtual Training Day will take place for 4 hours on both April 28th and 29
 ### Name & URLs
 
 * Name: OWASP Virtual Training Day
-* URL: []()
+* URL: [appsecdays.org](https://appsecdays.org)
+
+### Marketing Plan
+
+* [Social/Email Media Calendar](https://docs.google.com/spreadsheets/d/1_3es_9PE_6MxSAVERRieDC80zjqqRbFrTaGfEbxIzQE/edit?ts=5e9759d0#gid=0)
 
 ### Venue
 
