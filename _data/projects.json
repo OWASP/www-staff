@@ -417,18 +417,11 @@
         "name": "DEFCON 28",
         "milestones": [
             {
-                "milestone_date": "2020-04-06",
+                "milestone_date": "2020-05-06",
                 "description": "Harrah's Las Vegas reservations https://book.passkey.com/go/SHDEF0",
                 "owner": "Mike",
                 "project_name": "DEFCON 28",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-06-01",
-                "description": "Application accepted Go or NO Go",
-                "owner": "No Owner",
-                "project_name": "DEFCON 28",
-                "status": "future"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-05-15",
@@ -446,7 +439,7 @@
             },
             {
                 "milestone_date": "2020-06-01",
-                "description": "ll material ordered by the Foundation for delivery to Harrah's 3475 Las Vegas Boulevard South Las Vegas",
+                "description": "Application accepted Go or NO Go",
                 "owner": "No Owner",
                 "project_name": "DEFCON 28",
                 "status": "future"
@@ -601,14 +594,14 @@
                 "description": "General Service Contract Signed",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin 2021",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-04-15",
                 "description": "NEW Hotel Room Block Contract Signed, OSD-3266",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin 2021",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-05-01",
