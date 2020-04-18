@@ -64,7 +64,7 @@
                 "description": "Project Complete",
                 "owner": "Harold",
                 "project_name": "Events Form",
-                "status": "on-time"
+                "status": "overdue"
             }
         ],
         "description": "As part of the OWASP website migration, we will creating a new Events form that will use Stripe as a back end. This should be a simple form that is hosted on the website and will EVENUTALLY serve as the prmiary e-commerce path for all OWASP Global and Regional events replacing Eventbrite for (1) hosting secure forms on github, (2) presenting and then selecting multiple SKUs from a single Product ID as in Training Class A for Event X and Early Bird ticket for Event X, (3) 2-3 aggregate online reports, (4) validate Stripe can manage inventory of SKUs, and (5) integrating Stripe form activities with light integrations with other key data in the OWASP ecosystem.",
@@ -387,7 +387,7 @@
                 "description": "ecision made on SWAG and handouts; orders placed.",
                 "owner": "Mike & Lisa",
                 "project_name": "BlackHat Las Vegas",
-                "status": "future"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-06-30",
@@ -435,7 +435,7 @@
                 "description": "Confirm and approve all artwork",
                 "owner": "Mike",
                 "project_name": "DEFCON 28",
-                "status": "future"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-06-01",
@@ -545,13 +545,6 @@
         "name": "LASCON 2020",
         "milestones": [
             {
-                "milestone_date": "2020-03-10",
-                "description": "2nd Payment of $3,000 due to venue",
-                "owner": "Emily",
-                "project_name": "LASCON 2020",
-                "status": "overdue"
-            },
-            {
                 "milestone_date": "2020-07-01",
                 "description": "3rd Payment of $3,000 due to venue",
                 "owner": "Emily",
@@ -590,18 +583,18 @@
         "name": "Global AppSec - Dublin 2021",
         "milestones": [
             {
-                "milestone_date": "2020-04-15",
+                "milestone_date": "2020-06-15",
                 "description": "General Service Contract Signed",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin 2021",
-                "status": "overdue"
+                "status": "future"
             },
             {
-                "milestone_date": "2020-04-15",
+                "milestone_date": "2020-05-01",
                 "description": "NEW Hotel Room Block Contract Signed, OSD-3266",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin 2021",
-                "status": "overdue"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-05-01",
@@ -611,14 +604,14 @@
                 "status": "on-time"
             },
             {
-                "milestone_date": "2020-05-01",
+                "milestone_date": "2020-06-01",
                 "description": "Training Schedule Announced",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin 2021",
-                "status": "on-time"
+                "status": "future"
             },
             {
-                "milestone_date": "2020-06-01",
+                "milestone_date": "2020-07-01",
                 "description": "Registration Re-Opens",
                 "owner": "Harold",
                 "project_name": "Global AppSec - Dublin 2021",
