@@ -1,12 +1,5 @@
 [
     {
-        "milestone_date": "2020-03-10",
-        "description": "2nd Payment of $3,000 due to venue",
-        "owner": "Emily",
-        "project_name": "LASCON 2020",
-        "status": "overdue"
-    },
-    {
         "milestone_date": "2020-03-20",
         "description": "initial single, low-importance domain moved to Cloudflare and tested",
         "owner": "Matt Tesauro",
@@ -63,25 +56,11 @@
         "status": "overdue"
     },
     {
-        "milestone_date": "2020-04-15",
-        "description": "General Service Contract Signed",
-        "owner": "Emily",
-        "project_name": "Global AppSec - Dublin 2021",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-04-15",
-        "description": "NEW Hotel Room Block Contract Signed, OSD-3266",
-        "owner": "Emily",
-        "project_name": "Global AppSec - Dublin 2021",
-        "status": "overdue"
-    },
-    {
         "milestone_date": "2020-04-17",
         "description": "Project Complete",
         "owner": "Harold",
         "project_name": "Events Form",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-04-20",
@@ -120,14 +99,14 @@
     },
     {
         "milestone_date": "2020-05-01",
-        "description": "Keynotes Announced",
+        "description": "NEW Hotel Room Block Contract Signed, OSD-3266",
         "owner": "Emily",
         "project_name": "Global AppSec - Dublin 2021",
         "status": "on-time"
     },
     {
         "milestone_date": "2020-05-01",
-        "description": "Training Schedule Announced",
+        "description": "Keynotes Announced",
         "owner": "Emily",
         "project_name": "Global AppSec - Dublin 2021",
         "status": "on-time"
@@ -165,14 +144,14 @@
         "description": "ecision made on SWAG and handouts; orders placed.",
         "owner": "Mike & Lisa",
         "project_name": "BlackHat Las Vegas",
-        "status": "future"
+        "status": "on-time"
     },
     {
         "milestone_date": "2020-05-18",
         "description": "Confirm and approve all artwork",
         "owner": "Mike",
         "project_name": "DEFCON 28",
-        "status": "future"
+        "status": "on-time"
     },
     {
         "milestone_date": "2020-05-25",
@@ -197,8 +176,15 @@
     },
     {
         "milestone_date": "2020-06-01",
-        "description": "Registration Re-Opens",
-        "owner": "Harold",
+        "description": "Training Schedule Announced",
+        "owner": "Emily",
+        "project_name": "Global AppSec - Dublin 2021",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-06-15",
+        "description": "General Service Contract Signed",
+        "owner": "Emily",
         "project_name": "Global AppSec - Dublin 2021",
         "status": "future"
     },
@@ -214,6 +200,13 @@
         "description": "3rd Payment of $3,000 due to venue",
         "owner": "Emily",
         "project_name": "LASCON 2020",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-07-01",
+        "description": "Registration Re-Opens",
+        "owner": "Harold",
+        "project_name": "Global AppSec - Dublin 2021",
         "status": "future"
     },
     {
