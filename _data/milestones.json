@@ -74,7 +74,7 @@
         "description": "Deadline for invoices and expense reimbursement requests",
         "owner": "Dawn",
         "project_name": "Projects Summit - Winter 2020",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-04-23",
