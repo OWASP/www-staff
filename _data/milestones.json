@@ -81,7 +81,7 @@
         "description": "Dress Rehearsal NOON ET",
         "owner": "Emily",
         "project_name": "OWASP Virtual Training Day",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-05-01",
