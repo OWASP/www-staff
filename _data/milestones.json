@@ -126,6 +126,13 @@
         "status": "on-time"
     },
     {
+        "milestone_date": "2020-05-08",
+        "description": "Budget complete",
+        "owner": "No Owner",
+        "project_name": "DEFCON 28",
+        "status": "on-time"
+    },
+    {
         "milestone_date": "2020-05-15",
         "description": "Validate Meetup Connector",
         "owner": "Harold",
@@ -134,8 +141,8 @@
     },
     {
         "milestone_date": "2020-05-15",
-        "description": "Artwork - (stickers, t-shirts?, postcard)",
-        "owner": "No Owner",
+        "description": "Booth layout complete with signage config",
+        "owner": "Mike",
         "project_name": "DEFCON 28",
         "status": "on-time"
     },
@@ -148,8 +155,8 @@
     },
     {
         "milestone_date": "2020-05-18",
-        "description": "Confirm and approve all artwork",
-        "owner": "Mike",
+        "description": "Artwork Start",
+        "owner": "No Owner",
         "project_name": "DEFCON 28",
         "status": "on-time"
     },
@@ -162,7 +169,7 @@
     },
     {
         "milestone_date": "2020-06-01",
-        "description": "Application accepted Go or NO Go",
+        "description": "Notice provided by DEFCON to Vendors",
         "owner": "No Owner",
         "project_name": "DEFCON 28",
         "status": "future"
@@ -182,6 +189,20 @@
         "status": "future"
     },
     {
+        "milestone_date": "2020-06-08",
+        "description": "Confirm and approve all artwork",
+        "owner": "Mike",
+        "project_name": "DEFCON 28",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-06-08",
+        "description": "Order Diversity in AppSec coins",
+        "owner": "Lisa",
+        "project_name": "DEFCON 28",
+        "status": "future"
+    },
+    {
         "milestone_date": "2020-06-15",
         "description": "General Service Contract Signed",
         "owner": "Emily",
@@ -193,6 +214,13 @@
         "description": "olunteers confirmed with schedule, registered and notification.",
         "owner": "Lisa",
         "project_name": "BlackHat Las Vegas",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-07-01",
+        "description": "Order Shirts/Stickers to be shipped to LV (location?)",
+        "owner": "Lisa",
+        "project_name": "DEFCON 28",
         "status": "future"
     },
     {
@@ -211,7 +239,7 @@
     },
     {
         "milestone_date": "2020-07-02",
-        "description": "olunteers (must be OWASP members) identified (wufoo)",
+        "description": "Volunteer Signup Form online (preference given to members)",
         "owner": "Lisa",
         "project_name": "DEFCON 28",
         "status": "future"
@@ -221,6 +249,13 @@
         "description": "Independence Day (Observed)",
         "owner": "No Owner",
         "project_name": "OWASP Staff Holidays",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-07-24",
+        "description": "Close volunteer signup form",
+        "owner": "Mike",
+        "project_name": "DEFCON 28",
         "status": "future"
     },
     {
@@ -245,6 +280,13 @@
         "status": "future"
     },
     {
+        "milestone_date": "2020-07-27",
+        "description": "Notify selected volunteers",
+        "owner": "Lisa",
+        "project_name": "DEFCON 28",
+        "status": "future"
+    },
+    {
         "milestone_date": "2020-08-01",
         "description": "AV Contract Signed",
         "owner": "Emily",
@@ -256,6 +298,34 @@
         "description": "Open CFP",
         "owner": "Emily",
         "project_name": "Global AppSec - Dublin 2021",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-08-06",
+        "description": "DEFCON Booth Setup",
+        "owner": "No Owner",
+        "project_name": "DEFCON 28",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-08-07",
+        "description": "DEFCON Day 1",
+        "owner": "No Owner",
+        "project_name": "DEFCON 28",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-08-08",
+        "description": "DEFCON Day 2",
+        "owner": "No Owner",
+        "project_name": "DEFCON 28",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-08-09",
+        "description": "DEFCON Day 3",
+        "owner": "No Owner",
+        "project_name": "DEFCON 28",
         "status": "future"
     },
     {
