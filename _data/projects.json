@@ -438,6 +438,13 @@
                 "status": "on-time"
             },
             {
+                "milestone_date": "2020-05-15",
+                "description": "Initial designs prepared for review",
+                "owner": "Melissa",
+                "project_name": "DEFCON 28",
+                "status": "on-time"
+            },
+            {
                 "milestone_date": "2020-05-18",
                 "description": "Artwork Start",
                 "owner": "No Owner",
