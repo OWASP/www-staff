@@ -456,7 +456,7 @@
                 "description": "Notice provided by DEFCON to Vendors",
                 "owner": "No Owner",
                 "project_name": "DEFCON 28",
-                "status": "future"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-06-08",
@@ -553,21 +553,21 @@
                 "description": "Registration Opens",
                 "owner": "Emily",
                 "project_name": "Global AppSec - San Francisco",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-06-01",
                 "description": "Program Announced",
                 "owner": "Emily",
                 "project_name": "Global AppSec - San Francisco",
-                "status": "future"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-05-01",
                 "description": "Keynotes Announced",
                 "owner": "Emily",
                 "project_name": "Global AppSec - San Francisco",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-08-01",
@@ -671,21 +671,21 @@
                 "description": "NEW Hotel Room Block Contract Signed, OSD-3266",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin 2021",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-05-01",
                 "description": "Keynotes Announced",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin 2021",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-06-01",
                 "description": "Training Schedule Announced",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin 2021",
-                "status": "future"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-07-01",
