@@ -1,37 +1,9 @@
 [
     {
-        "milestone_date": "2020-03-20",
-        "description": "initial single, low-importance domain moved to Cloudflare and tested",
-        "owner": "Matt Tesauro",
-        "project_name": "DNS and VM Migration",
-        "status": "overdue"
-    },
-    {
         "milestone_date": "2020-03-24",
         "description": "Close P&L",
         "owner": "Emily",
         "project_name": "AppSec California 2020",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-03-24",
-        "description": "use Cloudflare as DNS provider for all domains (transfer from Rackspace and Combell)",
-        "owner": "Matt Tesauro",
-        "project_name": "DNS and VM Migration",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-03-27",
-        "description": "use Cloudflare as CDN for owasp.org and implement redirects",
-        "owner": "Matt Tesauro, John Morabito",
-        "project_name": "DNS and VM Migration",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-04-03",
-        "description": "move VMs not in DigitalOcean to DigitalOcean",
-        "owner": "No Owner",
-        "project_name": "DNS and VM Migration",
         "status": "overdue"
     },
     {
