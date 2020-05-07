@@ -246,36 +246,7 @@
     },
     {
         "name": "DNS and VM Migration",
-        "milestones": [
-            {
-                "milestone_date": "2020-03-20",
-                "description": "initial single, low-importance domain moved to Cloudflare and tested",
-                "owner": "Matt Tesauro",
-                "project_name": "DNS and VM Migration",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-03-24",
-                "description": "use Cloudflare as DNS provider for all domains (transfer from Rackspace and Combell)",
-                "owner": "Matt Tesauro",
-                "project_name": "DNS and VM Migration",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-03-27",
-                "description": "use Cloudflare as CDN for owasp.org and implement redirects",
-                "owner": "Matt Tesauro, John Morabito",
-                "project_name": "DNS and VM Migration",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-04-03",
-                "description": "move VMs not in DigitalOcean to DigitalOcean",
-                "owner": "No Owner",
-                "project_name": "DNS and VM Migration",
-                "status": "overdue"
-            }
-        ],
+        "milestones": [],
         "description": "The DNS, name provider, and virtual machine infrastructure currently resides on several different platforms.  In addition, the website redirection currently is at an elevated risk due to a single point of failure.  In order to consolidate our platforms and mitigate the risk, the VM infrastructure will be moved to DigitalOcean, the name provider will shift to Namecheap, and the DNS and redirect infrastructure will be moved to Cloudflare.",
         "leaders": [
             {
