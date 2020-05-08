@@ -21,13 +21,6 @@
         "status": "overdue"
     },
     {
-        "milestone_date": "2020-04-10",
-        "description": "Run Internal test trainings",
-        "owner": "Harold",
-        "project_name": "OWASP Virtual Training Day",
-        "status": "overdue"
-    },
-    {
         "milestone_date": "2020-04-17",
         "description": "Project Complete",
         "owner": "Harold",
@@ -46,13 +39,6 @@
         "description": "Deadline for invoices and expense reimbursement requests",
         "owner": "Dawn",
         "project_name": "Projects Summit - Winter 2020",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-04-23",
-        "description": "Dress Rehearsal NOON ET",
-        "owner": "Emily",
-        "project_name": "OWASP Virtual Training Day",
         "status": "overdue"
     },
     {
