@@ -298,22 +298,7 @@
     },
     {
         "name": "OWASP Virtual Training Day",
-        "milestones": [
-            {
-                "milestone_date": "2020-04-10",
-                "description": "Run Internal test trainings",
-                "owner": "Harold",
-                "project_name": "OWASP Virtual Training Day",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-04-23",
-                "description": "Dress Rehearsal NOON ET",
-                "owner": "Emily",
-                "project_name": "OWASP Virtual Training Day",
-                "status": "overdue"
-            }
-        ],
+        "milestones": [],
         "description": "tle: OWASP Virtual Training Daylayout: full-widthdate: April 28-29, 2020---# OWASP Virtual Training Day  ```April 28-29, 2020```OWASP Virtual Training Day will take place for 4 hours on both April 28th and 29th. Up to 10 separate trainings will be offered across both Europe and North America. Sponsorships will also be offered as well as an ancillary CTF event.",
         "leaders": [
             {
