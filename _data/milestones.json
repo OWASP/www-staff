@@ -88,7 +88,7 @@
         "description": "Budget complete",
         "owner": "No Owner",
         "project_name": "DEFCON 28",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-05-15",
@@ -158,14 +158,14 @@
         "description": "Confirm and approve all artwork",
         "owner": "Mike",
         "project_name": "DEFCON 28",
-        "status": "future"
+        "status": "on-time"
     },
     {
         "milestone_date": "2020-06-08",
         "description": "Order Diversity in AppSec coins",
         "owner": "Lisa",
         "project_name": "DEFCON 28",
-        "status": "future"
+        "status": "on-time"
     },
     {
         "milestone_date": "2020-06-15",
