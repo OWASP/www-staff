@@ -329,6 +329,303 @@
         "url": "https://owasp.org/www-staff/projects/202006-GlobalAppSec-Dublin"
     },
     {
+        "name": "Virtual AppSec Days Summer of Security",
+        "milestones": [
+            {
+                "milestone_date": "2020-05-15",
+                "description": "Open CFT",
+                "owner": "Emily",
+                "project_name": "Virtual AppSec Days Summer of Security",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-05-22",
+                "description": "Close CFT",
+                "owner": "Emily",
+                "project_name": "Virtual AppSec Days Summer of Security",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-05-25",
+                "description": "Review Submissions",
+                "owner": "Emily",
+                "project_name": "Virtual AppSec Days Summer of Security",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-05-29",
+                "description": "Notify submitters",
+                "owner": "Emily",
+                "project_name": "Virtual AppSec Days Summer of Security",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-06-01",
+                "description": "Launch Website",
+                "owner": "Harold",
+                "project_name": "Virtual AppSec Days Summer of Security",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-06-03",
+                "description": "Announce program",
+                "owner": "Emily",
+                "project_name": "Virtual AppSec Days Summer of Security",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-06-03",
+                "description": "Open Registration",
+                "owner": "Emily",
+                "project_name": "Virtual AppSec Days Summer of Security",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-06-05",
+                "description": "Announce Sponsors",
+                "owner": "Kelly",
+                "project_name": "Virtual AppSec Days Summer of Security",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-06-08",
+                "description": "Send Trainers Link to Registration Report",
+                "owner": "Emily",
+                "project_name": "Virtual AppSec Days Summer of Security",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-06-12",
+                "description": "Secure Platform",
+                "owner": "Emily",
+                "project_name": "Virtual AppSec Days Summer of Security",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-06-08",
+                "description": "Open Scholarship Form",
+                "owner": "Mike",
+                "project_name": "Virtual AppSec Days Summer of Security",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-06-15",
+                "description": "Close Scholarship Form",
+                "owner": "Mike",
+                "project_name": "Virtual AppSec Days Summer of Security",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-06-15",
+                "description": "Send Scholarship codes",
+                "owner": "Emily",
+                "project_name": "Virtual AppSec Days Summer of Security",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-06-18",
+                "description": "Dress Rehearsal NOON ET",
+                "owner": "Harold",
+                "project_name": "Virtual AppSec Days Summer of Security",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-06-18",
+                "description": "Send Trainers course Rosters",
+                "owner": "Emily",
+                "project_name": "Virtual AppSec Days Summer of Security",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-06-19",
+                "description": "Send KBYG Email",
+                "owner": "Emily",
+                "project_name": "Virtual AppSec Days Summer of Security",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-06-23",
+                "description": "Event Day 1",
+                "owner": "Emily",
+                "project_name": "Virtual AppSec Days Summer of Security",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-06-24",
+                "description": "Event Day 2",
+                "owner": "Emily",
+                "project_name": "Virtual AppSec Days Summer of Security",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-06-24",
+                "description": "Send Post Event Survey",
+                "owner": "Mike",
+                "project_name": "Virtual AppSec Days Summer of Security",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-06-24",
+                "description": "Send Thank you email",
+                "owner": "Emily",
+                "project_name": "Virtual AppSec Days Summer of Security",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-07-13",
+                "description": "Open Scholarship Form",
+                "owner": "Mike",
+                "project_name": "Virtual AppSec Days Summer of Security",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-07-20",
+                "description": "Close Scholarship Form",
+                "owner": "Mike",
+                "project_name": "Virtual AppSec Days Summer of Security",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-07-20",
+                "description": "Send Scholarship codes",
+                "owner": "Emily",
+                "project_name": "Virtual AppSec Days Summer of Security",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-07-23",
+                "description": "Dress Rehearsal NOON ET",
+                "owner": "Harold",
+                "project_name": "Virtual AppSec Days Summer of Security",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-07-23",
+                "description": "Send Trainers course Rosters",
+                "owner": "Emily",
+                "project_name": "Virtual AppSec Days Summer of Security",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-07-24",
+                "description": "Send KBYG Email",
+                "owner": "Emily",
+                "project_name": "Virtual AppSec Days Summer of Security",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-07-23",
+                "description": "Event Day 1",
+                "owner": "Emily",
+                "project_name": "Virtual AppSec Days Summer of Security",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-07-28",
+                "description": "Event Day 2",
+                "owner": "Emily",
+                "project_name": "Virtual AppSec Days Summer of Security",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-07-29",
+                "description": "Send Post Event Survey",
+                "owner": "Mike",
+                "project_name": "Virtual AppSec Days Summer of Security",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-07-29",
+                "description": "Send Thank you email",
+                "owner": "Emily",
+                "project_name": "Virtual AppSec Days Summer of Security",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-08-10",
+                "description": "Open Scholarship Form",
+                "owner": "Mike",
+                "project_name": "Virtual AppSec Days Summer of Security",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-08-17",
+                "description": "Close Scholarship Form",
+                "owner": "Mike",
+                "project_name": "Virtual AppSec Days Summer of Security",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-08-17",
+                "description": "Send Scholarship codes",
+                "owner": "Emily",
+                "project_name": "Virtual AppSec Days Summer of Security",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-08-20",
+                "description": "Dress Rehearsal NOON ET",
+                "owner": "Harold",
+                "project_name": "Virtual AppSec Days Summer of Security",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-08-20",
+                "description": "Send Trainers course Rosters",
+                "owner": "Emily",
+                "project_name": "Virtual AppSec Days Summer of Security",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-08-21",
+                "description": "Send KBYG Email",
+                "owner": "Emily",
+                "project_name": "Virtual AppSec Days Summer of Security",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-08-25",
+                "description": "Event Day 1",
+                "owner": "Emily",
+                "project_name": "Virtual AppSec Days Summer of Security",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-08-26",
+                "description": "Event Day 2",
+                "owner": "Emily",
+                "project_name": "Virtual AppSec Days Summer of Security",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-08-26",
+                "description": "Send Post Event Survey",
+                "owner": "Mike",
+                "project_name": "Virtual AppSec Days Summer of Security",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-08-26",
+                "description": "Send Thank you email",
+                "owner": "Emily",
+                "project_name": "Virtual AppSec Days Summer of Security",
+                "status": "future"
+            }
+        ],
+        "description": "tle: Virtual AppSec Days Summer of Securitylayout: full-widthdate: June-August 2020---# Virtual AppSec Days Summer of Security  ```June 23 - 24, 2020July 28 - 29, 2020August 25 - 26, 2020```The OWASP Foundation is hosting Virtual Trainings during our Virtual AppSec Days Summer of Security events taking place June - August 2020.  The courses will be 8-hour virtual training courses. The courses will be offered in 4-hour blocks over 2 days. The trainings will begin at 12:00pm Eastern Time (USA)/6:00pm Central European Time.",
+        "leaders": [
+            {
+                "name": "Harold Blankenship",
+                "email": "harold.blankenship@owasp.com"
+            },
+            {
+                "name": "Emily Berman",
+                "email": "emily.berman@owasp.com"
+            }
+        ],
+        "url": "https://owasp.org/www-staff/projects/202006-Virtual-AppSec-Days-Summer-of-Security-2020"
+    },
+    {
         "name": "BlackHat Las Vegas",
         "milestones": [
             {
@@ -370,121 +667,8 @@
         "url": "https://owasp.org/www-staff/projects/202008-Blackhat-Las-Vegas"
     },
     {
-        "name": "DEFCON 28",
-        "milestones": [
-            {
-                "milestone_date": "2020-05-06",
-                "description": "Harrah's Las Vegas reservations https://book.passkey.com/go/SHDEF0",
-                "owner": "Mike",
-                "project_name": "DEFCON 28",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-05-08",
-                "description": "Budget complete",
-                "owner": "No Owner",
-                "project_name": "DEFCON 28",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-05-15",
-                "description": "Booth layout complete with signage config",
-                "owner": "Mike",
-                "project_name": "DEFCON 28",
-                "status": "on-time"
-            },
-            {
-                "milestone_date": "2020-05-15",
-                "description": "Initial designs prepared for review",
-                "owner": "Melissa",
-                "project_name": "DEFCON 28",
-                "status": "on-time"
-            },
-            {
-                "milestone_date": "2020-05-18",
-                "description": "Artwork Start",
-                "owner": "No Owner",
-                "project_name": "DEFCON 28",
-                "status": "on-time"
-            },
-            {
-                "milestone_date": "2020-06-01",
-                "description": "Notice provided by DEFCON to Vendors",
-                "owner": "No Owner",
-                "project_name": "DEFCON 28",
-                "status": "on-time"
-            },
-            {
-                "milestone_date": "2020-06-08",
-                "description": "Confirm and approve all artwork",
-                "owner": "Mike",
-                "project_name": "DEFCON 28",
-                "status": "on-time"
-            },
-            {
-                "milestone_date": "2020-06-08",
-                "description": "Order Diversity in AppSec coins",
-                "owner": "Lisa",
-                "project_name": "DEFCON 28",
-                "status": "on-time"
-            },
-            {
-                "milestone_date": "2020-07-01",
-                "description": "Order Shirts/Stickers to be shipped to LV (location?)",
-                "owner": "Lisa",
-                "project_name": "DEFCON 28",
-                "status": "future"
-            },
-            {
-                "milestone_date": "2020-07-02",
-                "description": "Volunteer Signup Form online (preference given to members)",
-                "owner": "Lisa",
-                "project_name": "DEFCON 28",
-                "status": "future"
-            },
-            {
-                "milestone_date": "2020-07-24",
-                "description": "Close volunteer signup form",
-                "owner": "Mike",
-                "project_name": "DEFCON 28",
-                "status": "future"
-            },
-            {
-                "milestone_date": "2020-07-27",
-                "description": "Notify selected volunteers",
-                "owner": "Lisa",
-                "project_name": "DEFCON 28",
-                "status": "future"
-            },
-            {
-                "milestone_date": "2020-08-06",
-                "description": "DEFCON Booth Setup",
-                "owner": "No Owner",
-                "project_name": "DEFCON 28",
-                "status": "future"
-            },
-            {
-                "milestone_date": "2020-08-07",
-                "description": "DEFCON Day 1",
-                "owner": "No Owner",
-                "project_name": "DEFCON 28",
-                "status": "future"
-            },
-            {
-                "milestone_date": "2020-08-08",
-                "description": "DEFCON Day 2",
-                "owner": "No Owner",
-                "project_name": "DEFCON 28",
-                "status": "future"
-            },
-            {
-                "milestone_date": "2020-08-09",
-                "description": "DEFCON Day 3",
-                "owner": "No Owner",
-                "project_name": "DEFCON 28",
-                "status": "future"
-            }
-        ],
+        "name": "DEFCON 28 ",
+        "milestones": [],
         "description": "- 25K to 28K Attendees previous year- CASH ONLY- NO pre-registration- $320 per Badge - ONLY ONE BADGE AVAILABLE for Event- NO DISCOUNTS",
         "leaders": [
             {
