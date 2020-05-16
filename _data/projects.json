@@ -26,7 +26,7 @@
                 "description": "Validate Meetup Connector",
                 "owner": "Harold",
                 "project_name": "Website Re-launch",
-                "status": "on-time"
+                "status": "overdue"
             }
         ],
         "description": "Before December 20, 2019, the Foundation will launch a new website designed to engage visitors and professionally convey the value of our collective work. Rather than just re-skinning our current wiki or placing a simplified landing page in front of our site, we plan to migrate to an entirely new platform. The project must better connect with our developer audience and be valuable when visited on a variety of devices. It must be possible for elements of our site to be managed by our communities or through automation and any platform change must retain these attributes as well as ensuring continuity of analytics, permissions design, and redirect of inbound links. A proof of concept will be complete by July 1. Once the new website is launched, the wiki will be archived through 2020 for historical purposes.Upon the completion of this project, OWASP.org will be hosted in Github. The architecture will place a repository for each logical entity of the foundation in one organizational account. For instance, there would be a repo for each chapter, project, event, and several other organizational entities. This design will increase source control and allow us to connect visitors with the content that is of interest to them.",
@@ -336,7 +336,7 @@
                 "description": "Open CFT",
                 "owner": "Emily",
                 "project_name": "Virtual AppSec Days Summer of Security",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-05-22",
@@ -413,14 +413,14 @@
                 "description": "Close Scholarship Form",
                 "owner": "Mike",
                 "project_name": "Virtual AppSec Days Summer of Security",
-                "status": "future"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-06-15",
                 "description": "Send Scholarship codes",
                 "owner": "Emily",
                 "project_name": "Virtual AppSec Days Summer of Security",
-                "status": "future"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-06-18",
@@ -804,7 +804,7 @@
                 "description": "General Service Contract Signed",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin 2021",
-                "status": "future"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-05-01",
