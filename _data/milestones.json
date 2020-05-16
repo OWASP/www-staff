@@ -37,7 +37,7 @@
     {
         "milestone_date": "2020-04-22",
         "description": "Deadline for invoices and expense reimbursement requests",
-        "owner": "Emily",
+        "owner": "Dawn",
         "project_name": "Projects Summit - Winter 2020",
         "status": "overdue"
     },
@@ -81,14 +81,14 @@
         "description": "Validate Meetup Connector",
         "owner": "Harold",
         "project_name": "Website Re-launch",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-05-15",
         "description": "Open CFT",
         "owner": "Emily",
         "project_name": "Virtual AppSec Days Summer of Security",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-05-18",
@@ -193,21 +193,21 @@
         "description": "Close Scholarship Form",
         "owner": "Mike",
         "project_name": "Virtual AppSec Days Summer of Security",
-        "status": "future"
+        "status": "on-time"
     },
     {
         "milestone_date": "2020-06-15",
         "description": "Send Scholarship codes",
         "owner": "Emily",
         "project_name": "Virtual AppSec Days Summer of Security",
-        "status": "future"
+        "status": "on-time"
     },
     {
         "milestone_date": "2020-06-15",
         "description": "General Service Contract Signed",
         "owner": "Emily",
         "project_name": "Global AppSec - Dublin 2021",
-        "status": "future"
+        "status": "on-time"
     },
     {
         "milestone_date": "2020-06-18",
