@@ -95,7 +95,7 @@
         "description": "ecision made on SWAG and handouts; orders placed.",
         "owner": "Mike & Lisa",
         "project_name": "BlackHat Las Vegas",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-05-22",
@@ -214,14 +214,14 @@
         "description": "Dress Rehearsal NOON ET",
         "owner": "Harold",
         "project_name": "Virtual AppSec Days Summer of Security",
-        "status": "future"
+        "status": "on-time"
     },
     {
         "milestone_date": "2020-06-18",
         "description": "Send Trainers course Rosters",
         "owner": "Emily",
         "project_name": "Virtual AppSec Days Summer of Security",
-        "status": "future"
+        "status": "on-time"
     },
     {
         "milestone_date": "2020-06-19",
