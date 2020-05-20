@@ -26,7 +26,8 @@ Staff Projects are work products primarily done by staff that require either 40+
 
 ## 2020 Plans
 - [2020 Operating Plan](/www-staff/operating-plan/2020)
-- [2020 Budget](/www-staff/budget/2020)
+- [2020 Budget COVID-19 Response (Model Z)](/www-staff/budget/2020-modelz)
+- [Original 2020 Budget](/www-staff/budget/2020)
 
 ## Active Projects
 {% assign pages = site.pages | sort: 'title' | limit: 1000 %}
