@@ -34,7 +34,7 @@ The courses will be 8-hour virtual training courses. The courses will be offered
 - [ ] 2020-05-22, Close CFT, [Emily]
 - [ ] 2020-05-25, Review Submissions, [Emily]
 - [ ] 2020-05-29, Notify submitters, [Emily]
-- [ ] 2020-06-01, Launch Website, [Harold]
+- [X] 2020-06-01, Launch Website, [Harold]
 - [ ] 2020-06-03, Announce program, [Emily]
 - [ ] 2020-06-03, Open Registration, [Emily]
 - [ ] 2020-06-05, Announce Sponsors, [Kelly]
