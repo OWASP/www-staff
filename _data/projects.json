@@ -360,13 +360,6 @@
                 "status": "on-time"
             },
             {
-                "milestone_date": "2020-06-01",
-                "description": "Launch Website",
-                "owner": "Harold",
-                "project_name": "Virtual AppSec Days Summer of Security",
-                "status": "on-time"
-            },
-            {
                 "milestone_date": "2020-06-03",
                 "description": "Announce program",
                 "owner": "Emily",
