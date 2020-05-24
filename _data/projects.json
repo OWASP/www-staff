@@ -441,7 +441,7 @@
                 "description": "Event Day 1",
                 "owner": "Emily",
                 "project_name": "Virtual AppSec Days Summer of Security",
-                "status": "future"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-06-24",
