@@ -8,8 +8,8 @@ layout: col-generic
 
 ## Goals
 
-1. Drive attendance to and interest in virtual and Global events
-1. Complete GDPR compliance list migration
+1. Drive attendance to and interest in virtual and Global events for a $500K in revenue.
+1. Complete GDPR compliance list migration by July 1, 2020.
 1. Publish stories, feature new projects and chapters monthly on website
 1. Assist Development in sourcing and closing Corporate Memberships
 1. Engage global partnerships to promote OWASP and its projects
