@@ -1,7 +1,7 @@
 ---
 
 title: 2H20 Marketing Plan
-layout: full-width
+layout: col-generic
 
 ---
 
