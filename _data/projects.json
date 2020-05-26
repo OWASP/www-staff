@@ -92,7 +92,7 @@
                 "description": "Memorial Day",
                 "owner": "No Owner",
                 "project_name": "OWASP Staff Holidays",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-07-03",
@@ -350,7 +350,7 @@
                 "description": "Review Submissions",
                 "owner": "Emily",
                 "project_name": "Virtual AppSec Days Summer of Security",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-05-29",
