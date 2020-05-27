@@ -8,8 +8,37 @@
     },
     {
         "name": "Email Clean-Up",
-        "milestones": [],
-        "description": "MailChimp is the email tool of record for the OWASP Foundation. Given the GDPR rules of the EU and the undocumented history of email address imports into MailChimp, this project's aim is to re-validate every address in our system for an opt-in for marketing emails. OWASP should take a leadership position in p[roactively cleansing our email list and ensure voluntary opt-in of addresses.The project will primarily be a series of emails requesting recipients to opt-in to Foundation marketing messages.",
+        "milestones": [
+            {
+                "milestone_date": "2020-05-15",
+                "description": "Develop 5-step email campaign to migrate OWASP-Foundation list into OWASP-Main",
+                "owner": "Mike",
+                "project_name": "Email Clean-Up",
+                "status": "overdue"
+            },
+            {
+                "milestone_date": "2020-05-27",
+                "description": "Launch campaign",
+                "owner": "Mike",
+                "project_name": "Email Clean-Up",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-06-20",
+                "description": "Report metrics from campaign",
+                "owner": "Mike",
+                "project_name": "Email Clean-Up",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-06-21",
+                "description": "Downlown to OWASP Staff the OWASP Foundation list then REMOVE it from Mailchimp",
+                "owner": "Mike",
+                "project_name": "Email Clean-Up",
+                "status": "on-time"
+            }
+        ],
+        "description": "MailChimp is the email tool of record for the OWASP Foundation. Given the GDPR rules of the EU and the undocumented history of email address imports into MailChimp, this project's aim is to re-validate every address in our system for an opt-in for marketing emails. OWASP should take a leadership position in proactively cleansing our email list and ensure voluntary opt-in of addresses.The project will primarily be a series of emails requesting recipients to opt-in to Foundation marketing messages.",
         "leaders": [
             {
                 "name": "Mike McCamon",
@@ -311,6 +340,13 @@
             }
         ],
         "url": "https://owasp.org/www-staff/projects/202004-OWASP-Virtual-Training-Day"
+    },
+    {
+        "name": "2H20 Marketing Plan",
+        "milestones": [],
+        "description": "tle: 2H20 Marketing Planlayout: col-generic---",
+        "leaders": [],
+        "url": "https://owasp.org/www-staff/projects/202005-marketing-plan"
     },
     {
         "name": "Global AppSec - Dublin 2020",
