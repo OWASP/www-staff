@@ -78,6 +78,13 @@
     },
     {
         "milestone_date": "2020-05-15",
+        "description": "Develop 5-step email campaign to migrate OWASP-Foundation list into OWASP-Main",
+        "owner": "Mike",
+        "project_name": "Email Clean-Up",
+        "status": "overdue"
+    },
+    {
+        "milestone_date": "2020-05-15",
         "description": "Validate Meetup Connector",
         "owner": "Harold",
         "project_name": "Website Re-launch",
@@ -117,6 +124,13 @@
         "owner": "Emily",
         "project_name": "Virtual AppSec Days Summer of Security",
         "status": "overdue"
+    },
+    {
+        "milestone_date": "2020-05-27",
+        "description": "Launch campaign",
+        "owner": "Mike",
+        "project_name": "Email Clean-Up",
+        "status": "on-time"
     },
     {
         "milestone_date": "2020-05-29",
@@ -221,6 +235,20 @@
         "description": "Send KBYG Email",
         "owner": "Emily",
         "project_name": "Virtual AppSec Days Summer of Security",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2020-06-20",
+        "description": "Report metrics from campaign",
+        "owner": "Mike",
+        "project_name": "Email Clean-Up",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2020-06-21",
+        "description": "Downlown to OWASP Staff the OWASP Foundation list then REMOVE it from Mailchimp",
+        "owner": "Mike",
+        "project_name": "Email Clean-Up",
         "status": "on-time"
     },
     {
