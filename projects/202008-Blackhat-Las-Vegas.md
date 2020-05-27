@@ -1,6 +1,6 @@
 ---
 
-title: BlackHat Las Vegas
+title: BlackHat USA 2020 Virtual 
 layout: full-width
 date: August 1-6, 2020
 
