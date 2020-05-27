@@ -6,7 +6,7 @@ date: August 1-6, 2020
 
 ---
 
-# BlackHat Las Vegas
+# BlackHat USA 2020 - Vitual 
 
 ## Overview
  
