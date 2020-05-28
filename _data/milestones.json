@@ -101,7 +101,7 @@
         "milestone_date": "2020-05-18",
         "description": "ecision made on SWAG and handouts; orders placed.",
         "owner": "Mike & Lisa",
-        "project_name": "BlackHat Las Vegas",
+        "project_name": "BlackHat USA 2020 Virtual ",
         "status": "overdue"
     },
     {
@@ -130,7 +130,7 @@
         "description": "Launch campaign",
         "owner": "Mike",
         "project_name": "Email Clean-Up",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-05-29",
@@ -283,7 +283,7 @@
         "milestone_date": "2020-06-30",
         "description": "olunteers confirmed with schedule, registered and notification.",
         "owner": "Lisa",
-        "project_name": "BlackHat Las Vegas",
+        "project_name": "BlackHat USA 2020 Virtual ",
         "status": "future"
     },
     {
@@ -367,14 +367,14 @@
         "milestone_date": "2020-07-27",
         "description": "end out Wufoo Volunteer form through Meetup again for new date/",
         "owner": "Lisa",
-        "project_name": "BlackHat Las Vegas",
+        "project_name": "BlackHat USA 2020 Virtual ",
         "status": "future"
     },
     {
         "milestone_date": "2020-07-27",
         "description": "ummary email sent to team with schedule, contact person, lead scanner info, booth merchandise info, lead volunteer/contact person info sent to the team.",
         "owner": "No Owner",
-        "project_name": "BlackHat Las Vegas",
+        "project_name": "BlackHat USA 2020 Virtual ",
         "status": "future"
     },
     {
