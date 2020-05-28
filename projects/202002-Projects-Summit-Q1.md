@@ -57,7 +57,7 @@ Leaders of projects selected are required to attend or that project will not be 
 - [x] 2020-02-28, Summitt Hours 9a-5p
 - [x] 2020-02-29, Summitt Hours 9a-5p
 - [x] 2020-03-01, Departure Day
-- [ ] 2020-04-22, Deadline for invoices and expense reimbursement requests, [Dawn]
+- [x] 2020-04-22, Deadline for invoices and expense reimbursement requests, [Dawn]
 
 ## Leadership
 
