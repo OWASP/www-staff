@@ -28,34 +28,6 @@
         "status": "overdue"
     },
     {
-        "milestone_date": "2020-04-20",
-        "description": "Close CFT/CFP",
-        "owner": "Emily",
-        "project_name": "Global AppSec - San Francisco",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-04-22",
-        "description": "Deadline for invoices and expense reimbursement requests",
-        "owner": "Dawn",
-        "project_name": "Projects Summit - Winter 2020",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-05-01",
-        "description": "Registration Opens",
-        "owner": "Emily",
-        "project_name": "Global AppSec - San Francisco",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-05-01",
-        "description": "Keynotes Announced",
-        "owner": "Emily",
-        "project_name": "Global AppSec - San Francisco",
-        "status": "overdue"
-    },
-    {
         "milestone_date": "2020-05-01",
         "description": "NEW Hotel Room Block Contract Signed, OSD-3266",
         "owner": "Emily",
@@ -141,13 +113,6 @@
     },
     {
         "milestone_date": "2020-06-01",
-        "description": "Program Announced",
-        "owner": "Emily",
-        "project_name": "Global AppSec - San Francisco",
-        "status": "on-time"
-    },
-    {
-        "milestone_date": "2020-06-01",
         "description": "Training Schedule Announced",
         "owner": "Emily",
         "project_name": "Global AppSec - Dublin 2021",
@@ -189,6 +154,20 @@
         "status": "on-time"
     },
     {
+        "milestone_date": "2020-06-08",
+        "description": "Program Announced",
+        "owner": "Emily",
+        "project_name": "Global AppSec - San Francisco",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2020-06-08",
+        "description": "Keynotes Announced",
+        "owner": "Emily",
+        "project_name": "Global AppSec - San Francisco",
+        "status": "on-time"
+    },
+    {
         "milestone_date": "2020-06-12",
         "description": "Secure Platform",
         "owner": "Emily",
@@ -211,9 +190,23 @@
     },
     {
         "milestone_date": "2020-06-15",
+        "description": "Registration Opens",
+        "owner": "Emily",
+        "project_name": "Global AppSec - San Francisco",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2020-06-15",
         "description": "General Service Contract Signed",
         "owner": "Emily",
         "project_name": "Global AppSec - Dublin 2021",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2020-06-17",
+        "description": "Go-no-go decision for live event",
+        "owner": "Emily",
+        "project_name": "LASCON 2020",
         "status": "on-time"
     },
     {
@@ -277,6 +270,13 @@
         "description": "Send Thank you email",
         "owner": "Emily",
         "project_name": "Virtual AppSec Days Summer of Security",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2020-06-28",
+        "description": "Last Day to notify Norris Convention Center of cancellation",
+        "owner": "Emily",
+        "project_name": "LASCON 2020",
         "status": "on-time"
     },
     {
