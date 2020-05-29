@@ -215,15 +215,7 @@
     },
     {
         "name": "Projects Summit - Winter 2020",
-        "milestones": [
-            {
-                "milestone_date": "2020-04-22",
-                "description": "Deadline for invoices and expense reimbursement requests",
-                "owner": "Dawn",
-                "project_name": "Projects Summit - Winter 2020",
-                "status": "overdue"
-            }
-        ],
+        "milestones": [],
         "description": "The OWASP Foundation will host a three-day working session for FIVE selected projects in Cancun, Mexico, February 27-29, 2020. Arrival day will be Wednesday the 26th and departures will be March 1st. Projects must apply and then get selected to participate. The application process will require project meeting goals, workplan, key contributors, and expected attendance. The OWASP Foundation Officers Group will make the final selection.The event program will solely include heads-down work time for OWASP projects. Any \"group\" gatherings will be during meal times. Spectators are not welcomed and attendance is limited to OWASP Members. Limited travel assistance will be provided for up to five key project leaders/contributors per project selected.Leaders of projects selected are required to attend or that project will not be selected. If a project fails to secure five attendees, their project's invitation may be rescinded.",
         "leaders": [
             {
@@ -696,7 +688,7 @@
         "url": "https://owasp.org/www-staff/projects/202008-Blackhat-Las-Vegas"
     },
     {
-        "name": "DEFCON 28 ",
+        "name": "DEFCON 28 NOW Called DEFCON Safe Mode ",
         "milestones": [],
         "description": "- 25K to 28K Attendees previous year- CASH ONLY- NO pre-registration- $320 per Badge - ONLY ONE BADGE AVAILABLE for Event- NO DISCOUNTS",
         "leaders": [
@@ -711,32 +703,25 @@
         "name": "Global AppSec - San Francisco",
         "milestones": [
             {
-                "milestone_date": "2020-04-20",
-                "description": "Close CFT/CFP",
-                "owner": "Emily",
-                "project_name": "Global AppSec - San Francisco",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-05-01",
-                "description": "Registration Opens",
-                "owner": "Emily",
-                "project_name": "Global AppSec - San Francisco",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-06-01",
+                "milestone_date": "2020-06-08",
                 "description": "Program Announced",
                 "owner": "Emily",
                 "project_name": "Global AppSec - San Francisco",
                 "status": "on-time"
             },
             {
-                "milestone_date": "2020-05-01",
+                "milestone_date": "2020-06-08",
                 "description": "Keynotes Announced",
                 "owner": "Emily",
                 "project_name": "Global AppSec - San Francisco",
-                "status": "overdue"
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-06-15",
+                "description": "Registration Opens",
+                "owner": "Emily",
+                "project_name": "Global AppSec - San Francisco",
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-08-01",
@@ -790,6 +775,20 @@
     {
         "name": "LASCON 2020",
         "milestones": [
+            {
+                "milestone_date": "2020-06-17",
+                "description": "Go-no-go decision for live event",
+                "owner": "Emily",
+                "project_name": "LASCON 2020",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-06-28",
+                "description": "Last Day to notify Norris Convention Center of cancellation",
+                "owner": "Emily",
+                "project_name": "LASCON 2020",
+                "status": "on-time"
+            },
             {
                 "milestone_date": "2020-07-01",
                 "description": "3rd Payment of $3,000 due to venue",
