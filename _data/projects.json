@@ -794,7 +794,7 @@
                 "description": "3rd Payment of $3,000 due to venue",
                 "owner": "Emily",
                 "project_name": "LASCON 2020",
-                "status": "future"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-10-27",
@@ -860,7 +860,7 @@
                 "description": "Registration Re-Opens",
                 "owner": "Harold",
                 "project_name": "Global AppSec - Dublin 2021",
-                "status": "future"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-08-01",
