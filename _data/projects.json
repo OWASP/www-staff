@@ -853,7 +853,7 @@
                 "description": "Training Schedule Announced",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin 2021",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-07-01",
