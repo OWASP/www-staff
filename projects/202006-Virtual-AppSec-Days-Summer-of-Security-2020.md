@@ -30,14 +30,14 @@ The courses will be 8-hour virtual training courses. The courses will be offered
 
 ## Milestones
 
-- [ ] 2020-05-15, Open CFT, [Emily]
-- [ ] 2020-05-22, Close CFT, [Emily]
-- [ ] 2020-05-25, Review Submissions, [Emily]
-- [ ] 2020-05-29, Notify submitters, [Emily]
+- [x] 2020-05-15, Open CFT, [Emily]
+- [x] 2020-05-22, Close CFT, [Emily]
+- [x] 2020-05-25, Review Submissions, [Emily]
+- [x] 2020-05-29, Notify submitters, [Emily]
 - [X] 2020-06-01, Launch Website, [Harold]
-- [ ] 2020-06-03, Announce program, [Emily]
-- [ ] 2020-06-03, Open Registration, [Emily]
-- [ ] 2020-06-05, Announce Sponsors, [Kelly]
+- [x] 2020-06-03, Announce program, [Emily]
+- [x] 2020-06-03, Open Registration, [Emily]
+- [x] 2020-06-05, Announce Sponsors, [Kelly]
 - [ ] 2020-06-08, Send Trainers Link to Registration Report, [Emily]
 - [ ] 2020-06-12, Secure Platform, [Emily]
 - [ ] 2020-06-08, Open Scholarship Form, [Mike]
