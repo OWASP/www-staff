@@ -360,55 +360,6 @@
         "name": "Virtual AppSec Days Summer of Security",
         "milestones": [
             {
-                "milestone_date": "2020-05-15",
-                "description": "Open CFT",
-                "owner": "Emily",
-                "project_name": "Virtual AppSec Days Summer of Security",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-05-22",
-                "description": "Close CFT",
-                "owner": "Emily",
-                "project_name": "Virtual AppSec Days Summer of Security",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-05-25",
-                "description": "Review Submissions",
-                "owner": "Emily",
-                "project_name": "Virtual AppSec Days Summer of Security",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-05-29",
-                "description": "Notify submitters",
-                "owner": "Emily",
-                "project_name": "Virtual AppSec Days Summer of Security",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-06-03",
-                "description": "Announce program",
-                "owner": "Emily",
-                "project_name": "Virtual AppSec Days Summer of Security",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-06-03",
-                "description": "Open Registration",
-                "owner": "Emily",
-                "project_name": "Virtual AppSec Days Summer of Security",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-06-05",
-                "description": "Announce Sponsors",
-                "owner": "Kelly",
-                "project_name": "Virtual AppSec Days Summer of Security",
-                "status": "on-time"
-            },
-            {
                 "milestone_date": "2020-06-08",
                 "description": "Send Trainers Link to Registration Report",
                 "owner": "Emily",
