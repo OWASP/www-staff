@@ -599,36 +599,7 @@
     },
     {
         "name": "BlackHat USA 2020 Virtual ",
-        "milestones": [
-            {
-                "milestone_date": "2020-07-27",
-                "description": "end out Wufoo Volunteer form through Meetup again for new date/",
-                "owner": "Lisa",
-                "project_name": "BlackHat USA 2020 Virtual ",
-                "status": "future"
-            },
-            {
-                "milestone_date": "2020-05-18",
-                "description": "ecision made on SWAG and handouts; orders placed.",
-                "owner": "Mike & Lisa",
-                "project_name": "BlackHat USA 2020 Virtual ",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-06-30",
-                "description": "olunteers confirmed with schedule, registered and notification.",
-                "owner": "Lisa",
-                "project_name": "BlackHat USA 2020 Virtual ",
-                "status": "on-time"
-            },
-            {
-                "milestone_date": "2020-07-27",
-                "description": "ummary email sent to team with schedule, contact person, lead scanner info, booth merchandise info, lead volunteer/contact person info sent to the team.",
-                "owner": "No Owner",
-                "project_name": "BlackHat USA 2020 Virtual ",
-                "status": "future"
-            }
-        ],
+        "milestones": [],
         "description": "Now in its 23rd year, Black Hat USA is the world's leading information security event, providing attendees with the very latest in research, development and trends. Black Hat USA 2020 opens with four days of technical Trainings (August 1-4) followed by the two-day main conference (August 5-6) featuring Briefings, Arsenal, Business Hall, and more. Mandalay Bay Las Vegas, NV",
         "leaders": [
             {
