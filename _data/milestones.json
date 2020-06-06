@@ -105,13 +105,6 @@
         "status": "on-time"
     },
     {
-        "milestone_date": "2020-06-08",
-        "description": "Keynotes Announced",
-        "owner": "Emily",
-        "project_name": "Global AppSec - San Francisco",
-        "status": "on-time"
-    },
-    {
         "milestone_date": "2020-06-12",
         "description": "Secure Platform",
         "owner": "Emily",
