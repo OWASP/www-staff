@@ -88,21 +88,21 @@
         "description": "Send Trainers Link to Registration Report",
         "owner": "Emily",
         "project_name": "Virtual AppSec Days Summer of Security",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-06-08",
         "description": "Open Scholarship Form",
         "owner": "Mike",
         "project_name": "Virtual AppSec Days Summer of Security",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-06-08",
         "description": "Program Announced",
         "owner": "Emily",
         "project_name": "Global AppSec - San Francisco",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-06-12",
