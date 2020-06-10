@@ -105,11 +105,11 @@
         "status": "overdue"
     },
     {
-        "milestone_date": "2020-06-12",
-        "description": "Secure Platform",
-        "owner": "Emily",
+        "milestone_date": "2020-06-09",
+        "description": "Begin Email Campaign #1",
+        "owner": "Marketing",
         "project_name": "Virtual AppSec Days Summer of Security",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-06-15",
@@ -210,6 +210,13 @@
         "status": "on-time"
     },
     {
+        "milestone_date": "2020-06-24",
+        "description": "Modify Event Menu, Event YML file, and banner to have only July & August",
+        "owner": "Harold",
+        "project_name": "Virtual AppSec Days Summer of Security",
+        "status": "on-time"
+    },
+    {
         "milestone_date": "2020-06-28",
         "description": "Last Day to notify Norris Convention Center of cancellation",
         "owner": "Emily",
@@ -291,6 +298,13 @@
         "description": "end out Wufoo Volunteer form through Meetup again for new date/",
         "owner": "Lisa",
         "project_name": "BlackHat Asia 2020",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-07-27",
+        "description": "Modify Event Menu, Event YML file, and banner to have only August",
+        "owner": "Harold",
+        "project_name": "Virtual AppSec Days Summer of Security",
         "status": "future"
     },
     {
@@ -381,6 +395,13 @@
         "milestone_date": "2020-08-21",
         "description": "Send KBYG Email",
         "owner": "Emily",
+        "project_name": "Virtual AppSec Days Summer of Security",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-08-22",
+        "description": "Modify Event Menu, Event YML file, and banner",
+        "owner": "Harold",
         "project_name": "Virtual AppSec Days Summer of Security",
         "status": "future"
     },
