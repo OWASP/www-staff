@@ -367,16 +367,16 @@
                 "status": "overdue"
             },
             {
-                "milestone_date": "2020-06-12",
-                "description": "Secure Platform",
-                "owner": "Emily",
-                "project_name": "Virtual AppSec Days Summer of Security",
-                "status": "on-time"
-            },
-            {
                 "milestone_date": "2020-06-08",
                 "description": "Open Scholarship Form",
                 "owner": "Mike",
+                "project_name": "Virtual AppSec Days Summer of Security",
+                "status": "overdue"
+            },
+            {
+                "milestone_date": "2020-06-09",
+                "description": "Begin Email Campaign #1",
+                "owner": "Marketing",
                 "project_name": "Virtual AppSec Days Summer of Security",
                 "status": "overdue"
             },
@@ -444,6 +444,13 @@
                 "status": "on-time"
             },
             {
+                "milestone_date": "2020-06-24",
+                "description": "Modify Event Menu, Event YML file, and banner to have only July & August",
+                "owner": "Harold",
+                "project_name": "Virtual AppSec Days Summer of Security",
+                "status": "on-time"
+            },
+            {
                 "milestone_date": "2020-07-13",
                 "description": "Open Scholarship Form",
                 "owner": "Mike",
@@ -500,6 +507,13 @@
                 "status": "future"
             },
             {
+                "milestone_date": "2020-07-27",
+                "description": "Modify Event Menu, Event YML file, and banner to have only August",
+                "owner": "Harold",
+                "project_name": "Virtual AppSec Days Summer of Security",
+                "status": "future"
+            },
+            {
                 "milestone_date": "2020-07-29",
                 "description": "Send Post Event Survey",
                 "owner": "Mike",
@@ -552,6 +566,13 @@
                 "milestone_date": "2020-08-21",
                 "description": "Send KBYG Email",
                 "owner": "Emily",
+                "project_name": "Virtual AppSec Days Summer of Security",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-08-22",
+                "description": "Modify Event Menu, Event YML file, and banner",
+                "owner": "Harold",
                 "project_name": "Virtual AppSec Days Summer of Security",
                 "status": "future"
             },
