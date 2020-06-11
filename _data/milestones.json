@@ -231,13 +231,6 @@
         "status": "on-time"
     },
     {
-        "milestone_date": "2020-07-01",
-        "description": "Registration Re-Opens",
-        "owner": "Harold",
-        "project_name": "Global AppSec - Dublin 2021",
-        "status": "on-time"
-    },
-    {
         "milestone_date": "2020-07-03",
         "description": "Independence Day (Observed)",
         "owner": "No Owner",
@@ -337,8 +330,8 @@
     },
     {
         "milestone_date": "2020-08-01",
-        "description": "Open CFP",
-        "owner": "Emily",
+        "description": "Registration Re-Opens",
+        "owner": "Harold",
         "project_name": "Global AppSec - Dublin 2021",
         "status": "future"
     },
@@ -434,6 +427,13 @@
         "status": "future"
     },
     {
+        "milestone_date": "2020-08-31",
+        "description": "Open CFP",
+        "owner": "Emily",
+        "project_name": "Global AppSec - Dublin 2021",
+        "status": "future"
+    },
+    {
         "milestone_date": "2020-09-07",
         "description": "Labor Day",
         "owner": "No Owner",
@@ -462,17 +462,17 @@
         "status": "future"
     },
     {
-        "milestone_date": "2020-09-20",
-        "description": "Close CFP",
-        "owner": "Emily",
-        "project_name": "Global AppSec - Dublin 2021",
-        "status": "future"
-    },
-    {
         "milestone_date": "2020-09-25",
         "description": "ummary email sent to team with schedule, contact person, lead scanner info, booth merchandise info, lead volunteer/contact person info sent to the team.",
         "owner": "No Owner",
         "project_name": "BlackHat Asia 2020",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-09-30",
+        "description": "Close CFP",
+        "owner": "Emily",
+        "project_name": "Global AppSec - Dublin 2021",
         "status": "future"
     },
     {
