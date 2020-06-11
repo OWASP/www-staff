@@ -792,21 +792,21 @@
                 "status": "overdue"
             },
             {
-                "milestone_date": "2020-07-01",
+                "milestone_date": "2020-08-01",
                 "description": "Registration Re-Opens",
                 "owner": "Harold",
                 "project_name": "Global AppSec - Dublin 2021",
-                "status": "on-time"
+                "status": "future"
             },
             {
-                "milestone_date": "2020-08-01",
+                "milestone_date": "2020-08-31",
                 "description": "Open CFP",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin 2021",
                 "status": "future"
             },
             {
-                "milestone_date": "2020-09-20",
+                "milestone_date": "2020-09-30",
                 "description": "Close CFP",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin 2021",
