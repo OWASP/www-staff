@@ -116,28 +116,28 @@
         "description": "Close Scholarship Form",
         "owner": "Mike",
         "project_name": "Virtual AppSec Days Summer of Security",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-06-15",
         "description": "Send Scholarship codes",
         "owner": "Emily",
         "project_name": "Virtual AppSec Days Summer of Security",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-06-15",
         "description": "Registration Opens",
         "owner": "Emily",
         "project_name": "Global AppSec - San Francisco",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-06-15",
         "description": "General Service Contract Signed",
         "owner": "Emily",
         "project_name": "Global AppSec - Dublin 2021",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-06-17",
