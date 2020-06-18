@@ -144,7 +144,7 @@
         "description": "Go-no-go decision for live event",
         "owner": "Emily",
         "project_name": "LASCON 2020",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-06-18",
