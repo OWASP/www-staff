@@ -344,6 +344,14 @@
     },
     {
         "milestone_date": "2020-08-15",
+        "description": "Candidate Submissions for 2020 Global Board of Directors Elections",
+        "owner": "Dawn",
+        "project_name": "2020 Global Board of Directors Elections",
+        "status": "future"
+    },
+    
+    {
+        "milestone_date": "2020-08-15",
         "description": "SWAG Ordered",
         "owner": "Emily",
         "project_name": "Global AppSec - San Francisco",
