@@ -399,14 +399,14 @@
                 "description": "Dress Rehearsal NOON ET",
                 "owner": "Harold",
                 "project_name": "Virtual AppSec Days Summer of Security",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-06-18",
                 "description": "Send Trainers course Rosters",
                 "owner": "Emily",
                 "project_name": "Virtual AppSec Days Summer of Security",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-06-19",
