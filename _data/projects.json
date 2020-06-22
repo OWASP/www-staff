@@ -35,7 +35,7 @@
                 "description": "Downlown to OWASP Staff the OWASP Foundation list then REMOVE it from Mailchimp",
                 "owner": "Mike",
                 "project_name": "Email Clean-Up",
-                "status": "on-time"
+                "status": "overdue"
             }
         ],
         "description": "MailChimp is the email tool of record for the OWASP Foundation. Given the GDPR rules of the EU and the undocumented history of email address imports into MailChimp, this project's aim is to re-validate every address in our system for an opt-in for marketing emails. OWASP should take a leadership position in proactively cleansing our email list and ensure voluntary opt-in of addresses.The project will primarily be a series of emails requesting recipients to opt-in to Foundation marketing messages.",
