@@ -32,10 +32,8 @@ Each project will have a 2-3 paragraph overview narrative. Keep to the key top p
 
 * [x] 2019-12-31, Initial payment for venue $3,000 OSD-3301, [Mike]
 * [X] 2020-03-10, 2nd Payment of $3,000 due to venue, [Emily]
-* [ ] 2020-06-17, Go-no-go decision for live event, [Emily]
-* [ ] 2020-06-28, Last Day to notify Norris Convention Center of cancellation, [Emily]
-
-* [ ] 2020-07-01, 3rd Payment of $3,000 due to venue, [Emily]
+* [x] 2020-06-17, Go-no-go decision for live event, [Emily]
+* [x] 2020-06-28, Last Day to notify Norris Convention Center of cancellation, [Alonna]
 * [ ] 2020-10-27, LASCON 2020
 * [ ] 2020-12-27, Close P&L, [Emily]
 
