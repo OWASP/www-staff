@@ -140,13 +140,6 @@
         "status": "overdue"
     },
     {
-        "milestone_date": "2020-06-17",
-        "description": "Go-no-go decision for live event",
-        "owner": "Emily",
-        "project_name": "LASCON 2020",
-        "status": "overdue"
-    },
-    {
         "milestone_date": "2020-06-18",
         "description": "Dress Rehearsal NOON ET",
         "owner": "Harold",
@@ -186,7 +179,7 @@
         "description": "Event Day 1",
         "owner": "Emily",
         "project_name": "Virtual AppSec Days Summer of Security",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-06-24",
@@ -214,20 +207,6 @@
         "description": "Modify Event Menu, Event YML file, and banner to have only July & August",
         "owner": "Harold",
         "project_name": "Virtual AppSec Days Summer of Security",
-        "status": "on-time"
-    },
-    {
-        "milestone_date": "2020-06-28",
-        "description": "Last Day to notify Norris Convention Center of cancellation",
-        "owner": "Emily",
-        "project_name": "LASCON 2020",
-        "status": "on-time"
-    },
-    {
-        "milestone_date": "2020-07-01",
-        "description": "3rd Payment of $3,000 due to venue",
-        "owner": "Emily",
-        "project_name": "LASCON 2020",
         "status": "on-time"
     },
     {
@@ -284,7 +263,7 @@
         "description": "Send KBYG Email",
         "owner": "Emily",
         "project_name": "Virtual AppSec Days Summer of Security",
-        "status": "future"
+        "status": "on-time"
     },
     {
         "milestone_date": "2020-07-27",
