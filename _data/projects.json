@@ -237,7 +237,7 @@
                 "description": "end out Wufoo Volunteer form through Meetup again for new date/",
                 "owner": "Lisa",
                 "project_name": "BlackHat Asia 2020",
-                "status": "future"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-08-21",
@@ -511,7 +511,7 @@
                 "description": "Modify Event Menu, Event YML file, and banner to have only August",
                 "owner": "Harold",
                 "project_name": "Virtual AppSec Days Summer of Security",
-                "status": "future"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-07-29",
