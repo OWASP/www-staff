@@ -28,10 +28,10 @@ As part of the OWASP website migration, we will creating a new Events form that 
 - [x] 2020-02-14, Beta version of Event Form Ready for testing, [Simon]
 - [x] 2020-02-21, Release Candiate of Form ready for regression testing, [Simon]
 - [x] 2020-03-01, Launch form with Global AppSec - Dublin as MVP, [Harold]
-- [ ] 2020-04-10, Post-launch fixes complete, [Simon]
+- [x] 2020-04-10, Post-launch fixes complete, [Simon]
 - [x] 2020-03-06, Google Sheet Template, [Mike]
-- [ ] 2020-04-10, Google Sheet push implemented, tested, and in production, [Simon]
-- [ ] 2020-04-17, Project Complete, [Harold]
+- [x] 2020-04-10, Google Sheet push implemented, tested, and in production, [Simon]
+- [ ] 2020-07-15, Project Complete, [Harold]
 
 ## Leadership
 
