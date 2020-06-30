@@ -25,7 +25,7 @@ Each project will have a 2-3 paragraph overview narrative. Keep to the key top p
 - [x] 2019-02-15, Insurance Certificate, [Dawn]
 - [x] 2020-02-05, Confirm attendance. If over 500 please notify Dawn to update Insurance Policy, [Emily]
 - [x] 2020-03-05, SnowFROC, Denver
-- [ ] 2020-05-05, Close P&L, [Emily]
+- [x] 2020-05-05, Close P&L, [Emily]
 
 ## Leadership
 
