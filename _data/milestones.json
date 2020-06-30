@@ -63,13 +63,6 @@
         "status": "overdue"
     },
     {
-        "milestone_date": "2020-05-25",
-        "description": "Memorial Day",
-        "owner": "No Owner",
-        "project_name": "OWASP Staff Holidays",
-        "status": "overdue"
-    },
-    {
         "milestone_date": "2020-05-27",
         "description": "Launch campaign",
         "owner": "Mike",
