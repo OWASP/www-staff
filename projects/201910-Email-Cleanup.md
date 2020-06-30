@@ -25,10 +25,10 @@ https://mailchimp.com/help/collect-consent-with-gdpr-forms/
 ## Milestones
 
 - [x] 2020-05-15, Develop form for opt-in, [Mike]
-- [ ] 2020-05-15, Develop 5-step email campaign to migrate OWASP-Foundation list into OWASP-Main, [Mike]
-- [ ] 2020-05-27, Launch campaign, [Mike]
-- [ ] 2020-06-20, Report metrics from campaign, [Mike]
-- [ ] 2020-06-21, Downlown to OWASP Staff the OWASP Foundation list then REMOVE it from Mailchimp, [Mike]
+- [ ] 2020-07-15, Develop 5-step email campaign to migrate OWASP-Foundation list into OWASP-Main, [Mike]
+- [ ] 2020-07-27, Launch campaign, [Mike]
+- [ ] 2020-08-20, Report metrics from campaign, [Mike]
+- [ ] 2020-08-21, Downlown to OWASP Staff the OWASP Foundation list then REMOVE it from Mailchimp, [Mike]
 
 ## Leadership
 
