@@ -36,8 +36,6 @@ Upon the completion of this project, OWASP.org will be hosted in Github. The arc
 
 ## Milestones
 
-* [ ] 2020-05-15, Validate Meetup Connector, [Harold]
-
 ## Historical Milestones (Completed)
 * [x] 2019-06-01, Proof of concept complete validating Requirements (below)
 * [x] 2019-06-03, Site Map designed
