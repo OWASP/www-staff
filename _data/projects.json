@@ -117,13 +117,6 @@
         "name": "OWASP Staff Holidays",
         "milestones": [
             {
-                "milestone_date": "2020-05-25",
-                "description": "Memorial Day",
-                "owner": "No Owner",
-                "project_name": "OWASP Staff Holidays",
-                "status": "overdue"
-            },
-            {
                 "milestone_date": "2020-07-03",
                 "description": "Independence Day (Observed)",
                 "owner": "No Owner",
@@ -180,7 +173,7 @@
                 "status": "future"
             }
         ],
-        "description": "tle: OWASP Staff Holidayslayout: full-width---# OWASP Staff U.S. Holidays- [x] 2020-01-01, New Year\u2019s Day- [x] 2020-02-17, Presidents Day- [ ] 2020-05-25, Memorial Day- [ ] 2020-07-03, Independence Day (Observed)- [ ] 2020-09-07, Labor Day- [ ] 2020-11-03, Federal Election Day- [ ] 2020-11-26, Thanksgiving Day- [ ] 2020-11-27, Day after Thanksgiving- [ ] 2020-12-24, Christmas Eve- [ ] 2020-12-25, Christmas Day- [ ] 2020-12-31, New Year\u2019s Eve",
+        "description": "tle: OWASP Staff Holidayslayout: full-width---# OWASP Staff U.S. Holidays- [x] 2020-01-01, New Year\u2019s Day- [x] 2020-02-17, Presidents Day- [x] 2020-05-25, Memorial Day- [ ] 2020-07-03, Independence Day (Observed)- [ ] 2020-09-07, Labor Day- [ ] 2020-11-03, Federal Election Day- [ ] 2020-11-26, Thanksgiving Day- [ ] 2020-11-27, Day after Thanksgiving- [ ] 2020-12-24, Christmas Eve- [ ] 2020-12-25, Christmas Day- [ ] 2020-12-31, New Year\u2019s Eve",
         "leaders": [
             {
                 "name": "x",
