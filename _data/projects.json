@@ -10,32 +10,32 @@
         "name": "Email Clean-Up",
         "milestones": [
             {
-                "milestone_date": "2020-05-15",
+                "milestone_date": "2020-07-15",
                 "description": "Develop 5-step email campaign to migrate OWASP-Foundation list into OWASP-Main",
                 "owner": "Mike",
                 "project_name": "Email Clean-Up",
-                "status": "overdue"
+                "status": "on-time"
             },
             {
-                "milestone_date": "2020-05-27",
+                "milestone_date": "2020-07-27",
                 "description": "Launch campaign",
                 "owner": "Mike",
                 "project_name": "Email Clean-Up",
-                "status": "overdue"
+                "status": "on-time"
             },
             {
-                "milestone_date": "2020-06-20",
+                "milestone_date": "2020-08-20",
                 "description": "Report metrics from campaign",
                 "owner": "Mike",
                 "project_name": "Email Clean-Up",
-                "status": "overdue"
+                "status": "future"
             },
             {
-                "milestone_date": "2020-06-21",
+                "milestone_date": "2020-08-21",
                 "description": "Downlown to OWASP Staff the OWASP Foundation list then REMOVE it from Mailchimp",
                 "owner": "Mike",
                 "project_name": "Email Clean-Up",
-                "status": "overdue"
+                "status": "future"
             }
         ],
         "description": "MailChimp is the email tool of record for the OWASP Foundation. Given the GDPR rules of the EU and the undocumented history of email address imports into MailChimp, this project's aim is to re-validate every address in our system for an opt-in for marketing emails. OWASP should take a leadership position in proactively cleansing our email list and ensure voluntary opt-in of addresses.The project will primarily be a series of emails requesting recipients to opt-in to Foundation marketing messages.",
@@ -48,52 +48,14 @@
         "url": "https://owasp.org/www-staff/projects/201910-Email-Cleanup"
     },
     {
-        "name": "Website Re-launch",
-        "milestones": [
-            {
-                "milestone_date": "2020-05-15",
-                "description": "Validate Meetup Connector",
-                "owner": "Harold",
-                "project_name": "Website Re-launch",
-                "status": "overdue"
-            }
-        ],
-        "description": "Before December 20, 2019, the Foundation will launch a new website designed to engage visitors and professionally convey the value of our collective work. Rather than just re-skinning our current wiki or placing a simplified landing page in front of our site, we plan to migrate to an entirely new platform. The project must better connect with our developer audience and be valuable when visited on a variety of devices. It must be possible for elements of our site to be managed by our communities or through automation and any platform change must retain these attributes as well as ensuring continuity of analytics, permissions design, and redirect of inbound links. A proof of concept will be complete by July 1. Once the new website is launched, the wiki will be archived through 2020 for historical purposes.Upon the completion of this project, OWASP.org will be hosted in Github. The architecture will place a repository for each logical entity of the foundation in one organizational account. For instance, there would be a repo for each chapter, project, event, and several other organizational entities. This design will increase source control and allow us to connect visitors with the content that is of interest to them.",
-        "leaders": [
-            {
-                "name": "Harold Blankenship, Project Leader",
-                "email": "harold.blankenship@owasp.com"
-            },
-            {
-                "name": "Mike McCamon",
-                "email": "mike.mccamon@owasp.com"
-            }
-        ],
-        "url": "https://owasp.org/www-staff/projects/201912-Website-Launch"
-    },
-    {
         "name": "Events Form",
         "milestones": [
             {
-                "milestone_date": "2020-04-10",
-                "description": "Post-launch fixes complete",
-                "owner": "Simon",
-                "project_name": "Events Form",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-04-10",
-                "description": "Google Sheet push implemented, tested, and in production",
-                "owner": "Simon",
-                "project_name": "Events Form",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-04-17",
+                "milestone_date": "2020-07-15",
                 "description": "Project Complete",
                 "owner": "Harold",
                 "project_name": "Events Form",
-                "status": "overdue"
+                "status": "on-time"
             }
         ],
         "description": "As part of the OWASP website migration, we will creating a new Events form that will use Stripe as a back end. This should be a simple form that is hosted on the website and will EVENUTALLY serve as the prmiary e-commerce path for all OWASP Global and Regional events replacing Eventbrite for (1) hosting secure forms on github, (2) presenting and then selecting multiple SKUs from a single Product ID as in Training Class A for Event X and Early Bird ticket for Event X, (3) 2-3 aggregate online reports, (4) validate Stripe can manage inventory of SKUs, and (5) integrating Stripe form activities with light integrations with other key data in the OWASP ecosystem.",
@@ -183,30 +145,6 @@
         "url": "https://owasp.org/www-staff/projects/2020-staff-holidays"
     },
     {
-        "name": "AppSec California 2020",
-        "milestones": [
-            {
-                "milestone_date": "2020-03-24",
-                "description": "Close P&L",
-                "owner": "Emily",
-                "project_name": "AppSec California 2020",
-                "status": "overdue"
-            }
-        ],
-        "description": "Each project will have a 2-3 paragraph overview narrative. Keep to the key top points about the project. Visitors should be able to read this short narrative and have a good understanding of the project without having to scroll the entire document.",
-        "leaders": [
-            {
-                "name": "Richard Greenberg",
-                "email": "richard.greenberg@owasp.org"
-            },
-            {
-                "name": "Elizabeth Dugan - Venue/Contracts",
-                "email": "Elizabeth.Dugan@smgov.net"
-            }
-        ],
-        "url": "https://owasp.org/www-staff/projects/202001-event-appsec-california"
-    },
-    {
         "name": "Projects Summit - Winter 2020",
         "milestones": [],
         "description": "The OWASP Foundation will host a three-day working session for FIVE selected projects in Cancun, Mexico, February 27-29, 2020. Arrival day will be Wednesday the 26th and departures will be March 1st. Projects must apply and then get selected to participate. The application process will require project meeting goals, workplan, key contributors, and expected attendance. The OWASP Foundation Officers Group will make the final selection.The event program will solely include heads-down work time for OWASP projects. Any \"group\" gatherings will be during meal times. Spectators are not welcomed and attendance is limited to OWASP Members. Limited travel assistance will be provided for up to five key project leaders/contributors per project selected.Leaders of projects selected are required to attend or that project will not be selected. If a project fails to secure five attendees, their project's invitation may be rescinded.",
@@ -271,46 +209,6 @@
         "url": "https://owasp.org/www-staff/projects/202003-DNS-VM-migration"
     },
     {
-        "name": "OWASP SnowFROC",
-        "milestones": [
-            {
-                "milestone_date": "2020-05-05",
-                "description": "Close P&L",
-                "owner": "Emily",
-                "project_name": "OWASP SnowFROC",
-                "status": "overdue"
-            }
-        ],
-        "description": "Each project will have a 2-3 paragraph overview narrative. Keep to the key top points about the project. Visitors should be able to read this short narrative and have a good understanding of the project without having to scroll the entire document.",
-        "leaders": [
-            {
-                "name": "Serge Boso - LEAD",
-                "email": "serge.boso@owasp.org"
-            },
-            {
-                "name": "Aaron Cure ",
-                "email": "aaron.cure@owasp.org"
-            },
-            {
-                "name": "Frank Vianzon ",
-                "email": "frank.vianzon@owasp.org"
-            },
-            {
-                "name": "Matt Shufeldt ",
-                "email": "matt.shufeldt@owasp.org"
-            },
-            {
-                "name": "Steve Kosten ",
-                "email": "steve.kosten@owasp.org"
-            },
-            {
-                "name": "Emily Berman - Staff",
-                "email": "emily.berman@owasp.com"
-            }
-        ],
-        "url": "https://owasp.org/www-staff/projects/202003-snowfroc"
-    },
-    {
         "name": "OWASP Virtual Training Day",
         "milestones": [],
         "description": "tle: OWASP Virtual Training Daylayout: full-widthdate: April 28-29, 2020---# OWASP Virtual Training Day  ```April 28-29, 2020```OWASP Virtual Training Day will take place for 4 hours on both April 28th and 29th. Up to 10 separate trainings will be offered across both Europe and North America. Sponsorships will also be offered as well as an ancillary CTF event.",
@@ -352,97 +250,6 @@
     {
         "name": "Virtual AppSec Days Summer of Security",
         "milestones": [
-            {
-                "milestone_date": "2020-06-08",
-                "description": "Send Trainers Link to Registration Report",
-                "owner": "Emily",
-                "project_name": "Virtual AppSec Days Summer of Security",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-06-08",
-                "description": "Open Scholarship Form",
-                "owner": "Mike",
-                "project_name": "Virtual AppSec Days Summer of Security",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-06-09",
-                "description": "Begin Email Campaign #1",
-                "owner": "Marketing",
-                "project_name": "Virtual AppSec Days Summer of Security",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-06-15",
-                "description": "Close Scholarship Form",
-                "owner": "Mike",
-                "project_name": "Virtual AppSec Days Summer of Security",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-06-15",
-                "description": "Send Scholarship codes",
-                "owner": "Emily",
-                "project_name": "Virtual AppSec Days Summer of Security",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-06-18",
-                "description": "Dress Rehearsal NOON ET",
-                "owner": "Harold",
-                "project_name": "Virtual AppSec Days Summer of Security",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-06-18",
-                "description": "Send Trainers course Rosters",
-                "owner": "Emily",
-                "project_name": "Virtual AppSec Days Summer of Security",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-06-19",
-                "description": "Send KBYG Email",
-                "owner": "Emily",
-                "project_name": "Virtual AppSec Days Summer of Security",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-06-23",
-                "description": "Event Day 1",
-                "owner": "Emily",
-                "project_name": "Virtual AppSec Days Summer of Security",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-06-24",
-                "description": "Event Day 2",
-                "owner": "Emily",
-                "project_name": "Virtual AppSec Days Summer of Security",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-06-24",
-                "description": "Send Post Event Survey",
-                "owner": "Mike",
-                "project_name": "Virtual AppSec Days Summer of Security",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-06-24",
-                "description": "Send Thank you email",
-                "owner": "Emily",
-                "project_name": "Virtual AppSec Days Summer of Security",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-06-24",
-                "description": "Modify Event Menu, Event YML file, and banner to have only July & August",
-                "owner": "Harold",
-                "project_name": "Virtual AppSec Days Summer of Security",
-                "status": "overdue"
-            },
             {
                 "milestone_date": "2020-07-13",
                 "description": "Open Scholarship Form",
