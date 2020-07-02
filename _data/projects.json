@@ -464,7 +464,7 @@
                 "description": "AV Contract Signed",
                 "owner": "Emily",
                 "project_name": "Global AppSec - San Francisco",
-                "status": "future"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-08-15",
@@ -575,7 +575,7 @@
                 "description": "Registration Re-Opens",
                 "owner": "Harold",
                 "project_name": "Global AppSec - Dublin 2021",
-                "status": "future"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-08-31",
