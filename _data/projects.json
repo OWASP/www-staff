@@ -543,25 +543,18 @@
         "name": "Global AppSec - Dublin 2021",
         "milestones": [
             {
-                "milestone_date": "2020-06-15",
+                "milestone_date": "2020-10-15",
                 "description": "General Service Contract Signed",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin 2021",
-                "status": "overdue"
+                "status": "future"
             },
             {
-                "milestone_date": "2020-05-01",
+                "milestone_date": "2020-07-09",
                 "description": "NEW Hotel Room Block Contract Signed, OSD-3266",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin 2021",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-05-01",
-                "description": "Keynotes Announced",
-                "owner": "Emily",
-                "project_name": "Global AppSec - Dublin 2021",
-                "status": "overdue"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-06-01",
