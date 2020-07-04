@@ -25,7 +25,7 @@
         "description": "Independence Day (Observed)",
         "owner": "No Owner",
         "project_name": "OWASP Staff Holidays",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-07-09",
