@@ -14,7 +14,7 @@ layout: full-width
 ## Timeline
 
 |   | Notice of Draft | Comments Close | Team Deadline |
-| --- | ---: | ---: | ---: |
+| --- | --- | --- | --- |
 |  Donations | 15-Jul | 5-Aug | 4-Sep |
 |  Conference & Event Attendee | 15-Jul | 5-Aug | 4-Sep |
 |  Global AppSec Program Teams | 15-Jul | 5-Aug | 4-Sep |
