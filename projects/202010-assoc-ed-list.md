@@ -1,7 +1,7 @@
 ---
 
 title: Associate Executive Director Off-boarding
-layout: col-right
+layout: full-width
 
 ---
 
