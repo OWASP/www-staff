@@ -33,7 +33,7 @@ layout: full-width
     - Leader Agreement
     - Corporate Membership Agreement
     - Trademark License Agreeement
-- [Policies](projects/202010-policy-review)
+- [Policies](202010-policy-review)
   - Ready for Review
     - Donations
     - Membership
