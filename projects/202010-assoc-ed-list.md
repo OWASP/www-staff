@@ -8,10 +8,10 @@ layout: col-right
 ## Overview
 
 ## Goals 
-* Secure trademarks for our organizational and conference names in our primary markets
-* Migrate our conference naming convention to fit our registered trademarks
-* Increase the consistency of execution of our marks across our community
-
+* Ensure business continuity through Executive Director transition
+* Complete priority operational projects for future operations
+* Establish firm legal, policy, and procudural base for growth into 2021
+* Assist with 2021 Operational and Budgetary planning
 
 ## Work Items
 
@@ -87,18 +87,17 @@ Unprioritized
 22. CODE: Copper Donations
 23. CODE: Replace Meetup
 
-Remaining Board Meetings
-- 28-July
-- 25-August
-- 22-September
-- 27-October
-
 ## Milestones
 
 - [ ] 2020-07-28, Present to Board Trademark Line of Business Concept, [Mike]
 - [ ] 2020-07-31, Complete Staff Performance Reviews, [Mike]
 - [ ] 2020-08-14, Contract Packet Ready for Board Review, [Mike]
-- [ ] 2020-08-25, Accept Contract Packet without vote of Board at Board Meeting, [Mike]
+- [ ] 2020-08-25, Encourage consensus acceptance of Contract Packet at Board Meeting (Vote not needed), [Mike]
 
+Remaining Board Meetings
+- 28-July
+- 25-August
+- 22-September
+- 27-October
 
 
