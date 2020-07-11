@@ -43,13 +43,6 @@
     },
     {
         "milestone_date": "2020-07-15",
-        "description": "Develop 5-step email campaign to migrate OWASP-Foundation list into OWASP-Main",
-        "owner": "Mike",
-        "project_name": "Email Clean-Up",
-        "status": "on-time"
-    },
-    {
-        "milestone_date": "2020-07-15",
         "description": "Project Complete",
         "owner": "Harold",
         "project_name": "Events Form",
@@ -99,13 +92,6 @@
     },
     {
         "milestone_date": "2020-07-27",
-        "description": "Launch campaign",
-        "owner": "Mike",
-        "project_name": "Email Clean-Up",
-        "status": "on-time"
-    },
-    {
-        "milestone_date": "2020-07-27",
         "description": "end out Wufoo Volunteer form through Meetup again for new date/",
         "owner": "Lisa",
         "project_name": "BlackHat Asia 2020",
@@ -126,6 +112,13 @@
         "status": "on-time"
     },
     {
+        "milestone_date": "2020-07-28",
+        "description": "Present to Board Trademark Line of Business Concept",
+        "owner": "Mike",
+        "project_name": "Associate Executive Director Off-boarding",
+        "status": "on-time"
+    },
+    {
         "milestone_date": "2020-07-29",
         "description": "Send Post Event Survey",
         "owner": "Mike",
@@ -137,6 +130,13 @@
         "description": "Send Thank you email",
         "owner": "Emily",
         "project_name": "Virtual AppSec Days Summer of Security",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2020-07-31",
+        "description": "Complete Staff Performance Reviews",
+        "owner": "Mike",
+        "project_name": "Associate Executive Director Off-boarding",
         "status": "on-time"
     },
     {
@@ -158,6 +158,13 @@
         "description": "Open Scholarship Form",
         "owner": "Mike",
         "project_name": "Virtual AppSec Days Summer of Security",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2020-08-14",
+        "description": "Contract Packet Ready for Board Review",
+        "owner": "Mike",
+        "project_name": "Associate Executive Director Off-boarding",
         "status": "future"
     },
     {
@@ -183,13 +190,6 @@
     },
     {
         "milestone_date": "2020-08-20",
-        "description": "Report metrics from campaign",
-        "owner": "Mike",
-        "project_name": "Email Clean-Up",
-        "status": "future"
-    },
-    {
-        "milestone_date": "2020-08-20",
         "description": "Dress Rehearsal NOON ET",
         "owner": "Harold",
         "project_name": "Virtual AppSec Days Summer of Security",
@@ -200,13 +200,6 @@
         "description": "Send Trainers course Rosters",
         "owner": "Emily",
         "project_name": "Virtual AppSec Days Summer of Security",
-        "status": "future"
-    },
-    {
-        "milestone_date": "2020-08-21",
-        "description": "Downlown to OWASP Staff the OWASP Foundation list then REMOVE it from Mailchimp",
-        "owner": "Mike",
-        "project_name": "Email Clean-Up",
         "status": "future"
     },
     {
@@ -235,6 +228,13 @@
         "description": "Event Day 1",
         "owner": "Emily",
         "project_name": "Virtual AppSec Days Summer of Security",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-08-25",
+        "description": "Encourage consensus acceptance of Contract Packet at Board Meeting (Vote not needed)",
+        "owner": "Mike",
+        "project_name": "Associate Executive Director Off-boarding",
         "status": "future"
     },
     {
