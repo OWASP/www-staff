@@ -1,6 +1,6 @@
 ---
 
-title: Global AppSec - San Francisco
+title: Global AppSec - Virtual
 layout: full-width
 date: October 19-23, 2020
 
@@ -22,7 +22,7 @@ Join us for a celebration of leading application security technologies, speakers
 
 ## Project Links
 
-* [Hyatt Regency SF Contract](www-staff/files/HyattRegencySFContract.pdf)
+sf.globalappsec.org
 
 ## Goals
 
@@ -41,14 +41,18 @@ Join us for a celebration of leading application security technologies, speakers
 - [X] 2020-01-10, Website ready for traffic, [Emily]
 - [x] 2020-03-23, Open CFT/CFP, [Emily]
 - [x] 2020-04-20, Close CFT/CFP, [Emily]
-- [ ] 2020-06-08, Program Announced, [Emily]
+- [x] 2020-06-08, Program Announced, [Emily]
 - [x] 2020-06-08, Keynotes Announced, [Emily]
-- [ ] 2020-06-15, Registration Opens, [Emily]
-- [ ] 2020-08-01, AV Contract Signed, [Emily]
-- [ ] 2020-08-15, SWAG Ordered, [Emily]
-- [ ] 2020-09-15, Signage Ordered, [Emily]
+- [ ] 2020-07-24, Registration Opens, [Emily]
+- [ ] 2020-07-24, Contact speakers and trainers about virtual platform, [Alonna]
+- [x] 2020-08-01, AV Contract Signed, [Emily]
+- [x] 2020-08-15, N/A SWAG Ordered, [Emily]
+- [ ] 2020-09-01, All recorded presentations collected, [Alonna]
+- [ ] 2020-09-15, Virtual platform finalized, [Emily]
+- [x] 2020-09-15, N/A Signage Ordered, [Emily]
 - [ ] 2020-09-15, Volunteers finalized and communication initiated, [Emily]
-- [ ] 2020-10-01, F&B Order Complete, [Emily]
+- [ ] 2020-09-21, Ondemand content launch, [Emily]
+- [x] 2020-10-01, N/AF&B Order Complete, [Emily]
 
 ## Leadership
 
@@ -63,15 +67,13 @@ Join us for a celebration of leading application security technologies, speakers
 
 ### Name & URLs
 
-* Name: Global AppSec Sn Francisco
+* Name: Virtual Global AppSec 
 * URL: [https://sf.globalappsec.org/](https://sf.globalappsec.org/)
 
 ### Venue & Lodging
 
 ```
-Hyatt Regency San Francisco
-5 Embarcadero Center, San Francisco, CA 94111
-Room block opens early 2020
+Virtual
 ```
 
 ### Registration 
