@@ -46,7 +46,7 @@
         "description": "Project Complete",
         "owner": "Harold",
         "project_name": "Events Form",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-07-20",
@@ -169,17 +169,10 @@
     },
     {
         "milestone_date": "2020-08-15",
-        "description": "OWASP 2020 Global Board Elections - Call for Candidates",
-        "owner": "Dawn",
-        "project_name": "OWASP 2020 Global Board Elections",
-        "status": "future"
-    },
-    {
-        "milestone_date": "2020-08-15",
         "description": "SWAG Ordered",
         "owner": "Emily",
         "project_name": "Global AppSec - San Francisco",
-        "status": "future"
+        "status": "on-time"
     },
     {
         "milestone_date": "2020-08-17",
