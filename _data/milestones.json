@@ -1,47 +1,5 @@
 [
     {
-        "milestone_date": "2020-06-01",
-        "description": "Training Schedule Announced",
-        "owner": "Emily",
-        "project_name": "Global AppSec - Dublin 2021",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-06-08",
-        "description": "Program Announced",
-        "owner": "Emily",
-        "project_name": "Global AppSec - San Francisco",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-06-15",
-        "description": "Registration Opens",
-        "owner": "Emily",
-        "project_name": "Global AppSec - San Francisco",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-07-03",
-        "description": "Independence Day (Observed)",
-        "owner": "No Owner",
-        "project_name": "OWASP Staff Holidays",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-07-09",
-        "description": "NEW Hotel Room Block Contract Signed, OSD-3266",
-        "owner": "Emily",
-        "project_name": "Global AppSec - Dublin 2021",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-07-13",
-        "description": "Open Scholarship Form",
-        "owner": "Mike",
-        "project_name": "Virtual AppSec Days Summer of Security",
-        "status": "overdue"
-    },
-    {
         "milestone_date": "2020-07-15",
         "description": "Project Complete",
         "owner": "Harold",
@@ -88,6 +46,20 @@
         "description": "Send KBYG Email",
         "owner": "Emily",
         "project_name": "Virtual AppSec Days Summer of Security",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2020-07-24",
+        "description": "Registration Opens",
+        "owner": "Emily",
+        "project_name": "Global AppSec - Virtual",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2020-07-24",
+        "description": "Contact speakers and trainers about virtual platform",
+        "owner": "Alonna",
+        "project_name": "Global AppSec - Virtual",
         "status": "on-time"
     },
     {
@@ -140,16 +112,9 @@
         "status": "on-time"
     },
     {
-        "milestone_date": "2020-08-01",
-        "description": "AV Contract Signed",
+        "milestone_date": "2020-08-09",
+        "description": "NEW Hotel Room Block Contract Signed, OSD-3266",
         "owner": "Emily",
-        "project_name": "Global AppSec - San Francisco",
-        "status": "on-time"
-    },
-    {
-        "milestone_date": "2020-08-01",
-        "description": "Registration Re-Opens",
-        "owner": "Harold",
         "project_name": "Global AppSec - Dublin 2021",
         "status": "on-time"
     },
@@ -165,13 +130,6 @@
         "description": "Contract Packet Ready for Board Review",
         "owner": "Mike",
         "project_name": "Associate Executive Director Off-boarding",
-        "status": "on-time"
-    },
-    {
-        "milestone_date": "2020-08-15",
-        "description": "SWAG Ordered",
-        "owner": "Emily",
-        "project_name": "Global AppSec - San Francisco",
         "status": "on-time"
     },
     {
@@ -266,6 +224,13 @@
         "status": "future"
     },
     {
+        "milestone_date": "2020-09-01",
+        "description": "All recorded presentations collected",
+        "owner": "Alonna",
+        "project_name": "Global AppSec - Virtual",
+        "status": "future"
+    },
+    {
         "milestone_date": "2020-09-07",
         "description": "Labor Day",
         "owner": "No Owner",
@@ -274,16 +239,16 @@
     },
     {
         "milestone_date": "2020-09-15",
-        "description": "Signage Ordered",
+        "description": "Virtual platform finalized",
         "owner": "Emily",
-        "project_name": "Global AppSec - San Francisco",
+        "project_name": "Global AppSec - Virtual",
         "status": "future"
     },
     {
         "milestone_date": "2020-09-15",
         "description": "Volunteers finalized and communication initiated",
         "owner": "Emily",
-        "project_name": "Global AppSec - San Francisco",
+        "project_name": "Global AppSec - Virtual",
         "status": "future"
     },
     {
@@ -291,6 +256,13 @@
         "description": "olunteers confirmed with schedule, registered and notification.",
         "owner": "Lisa",
         "project_name": "BlackHat Asia 2020",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-09-21",
+        "description": "Ondemand content launch",
+        "owner": "Emily",
+        "project_name": "Global AppSec - Virtual",
         "status": "future"
     },
     {
@@ -309,9 +281,16 @@
     },
     {
         "milestone_date": "2020-10-01",
-        "description": "F&B Order Complete",
+        "description": "Training Schedule Announced",
         "owner": "Emily",
-        "project_name": "Global AppSec - San Francisco",
+        "project_name": "Global AppSec - Dublin 2021",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-10-01",
+        "description": "Registration Re-Opens",
+        "owner": "Harold",
+        "project_name": "Global AppSec - Dublin 2021",
         "status": "future"
     },
     {
