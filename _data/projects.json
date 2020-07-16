@@ -38,13 +38,6 @@
         "name": "OWASP Staff Holidays",
         "milestones": [
             {
-                "milestone_date": "2020-07-03",
-                "description": "Independence Day (Observed)",
-                "owner": "No Owner",
-                "project_name": "OWASP Staff Holidays",
-                "status": "overdue"
-            },
-            {
                 "milestone_date": "2020-09-07",
                 "description": "Labor Day",
                 "owner": "No Owner",
@@ -94,7 +87,7 @@
                 "status": "future"
             }
         ],
-        "description": "tle: OWASP Staff Holidayslayout: full-width---# OWASP Staff U.S. Holidays- [x] 2020-01-01, New Year\u2019s Day- [x] 2020-02-17, Presidents Day- [x] 2020-05-25, Memorial Day- [ ] 2020-07-03, Independence Day (Observed)- [ ] 2020-09-07, Labor Day- [ ] 2020-11-03, Federal Election Day- [ ] 2020-11-26, Thanksgiving Day- [ ] 2020-11-27, Day after Thanksgiving- [ ] 2020-12-24, Christmas Eve- [ ] 2020-12-25, Christmas Day- [ ] 2020-12-31, New Year\u2019s Eve",
+        "description": "tle: OWASP Staff Holidayslayout: full-width---# OWASP Staff U.S. Holidays- [x] 2020-01-01, New Year\u2019s Day- [x] 2020-02-17, Presidents Day- [x] 2020-05-25, Memorial Day- [x] 2020-07-03, Independence Day (Observed)- [ ] 2020-09-07, Labor Day- [ ] 2020-11-03, Federal Election Day- [ ] 2020-11-26, Thanksgiving Day- [ ] 2020-11-27, Day after Thanksgiving- [ ] 2020-12-24, Christmas Eve- [ ] 2020-12-25, Christmas Day- [ ] 2020-12-31, New Year\u2019s Eve",
         "leaders": [
             {
                 "name": "x",
@@ -202,13 +195,6 @@
     {
         "name": "Virtual AppSec Days Summer of Security",
         "milestones": [
-            {
-                "milestone_date": "2020-07-13",
-                "description": "Open Scholarship Form",
-                "owner": "Mike",
-                "project_name": "Virtual AppSec Days Summer of Security",
-                "status": "overdue"
-            },
             {
                 "milestone_date": "2020-07-20",
                 "description": "Close Scholarship Form",
@@ -395,55 +381,48 @@
         "url": "https://owasp.org/www-staff/projects/202008-Defcon-28"
     },
     {
-        "name": "Global AppSec - San Francisco",
+        "name": "Global AppSec - Virtual",
         "milestones": [
             {
-                "milestone_date": "2020-06-08",
-                "description": "Program Announced",
-                "owner": "Emily",
-                "project_name": "Global AppSec - San Francisco",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-06-15",
+                "milestone_date": "2020-07-24",
                 "description": "Registration Opens",
                 "owner": "Emily",
-                "project_name": "Global AppSec - San Francisco",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-08-01",
-                "description": "AV Contract Signed",
-                "owner": "Emily",
-                "project_name": "Global AppSec - San Francisco",
+                "project_name": "Global AppSec - Virtual",
                 "status": "on-time"
             },
             {
-                "milestone_date": "2020-08-15",
-                "description": "SWAG Ordered",
-                "owner": "Emily",
-                "project_name": "Global AppSec - San Francisco",
+                "milestone_date": "2020-07-24",
+                "description": "Contact speakers and trainers about virtual platform",
+                "owner": "Alonna",
+                "project_name": "Global AppSec - Virtual",
                 "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-09-01",
+                "description": "All recorded presentations collected",
+                "owner": "Alonna",
+                "project_name": "Global AppSec - Virtual",
+                "status": "future"
             },
             {
                 "milestone_date": "2020-09-15",
-                "description": "Signage Ordered",
+                "description": "Virtual platform finalized",
                 "owner": "Emily",
-                "project_name": "Global AppSec - San Francisco",
+                "project_name": "Global AppSec - Virtual",
                 "status": "future"
             },
             {
                 "milestone_date": "2020-09-15",
                 "description": "Volunteers finalized and communication initiated",
                 "owner": "Emily",
-                "project_name": "Global AppSec - San Francisco",
+                "project_name": "Global AppSec - Virtual",
                 "status": "future"
             },
             {
-                "milestone_date": "2020-10-01",
-                "description": "F&B Order Complete",
+                "milestone_date": "2020-09-21",
+                "description": "Ondemand content launch",
                 "owner": "Emily",
-                "project_name": "Global AppSec - San Francisco",
+                "project_name": "Global AppSec - Virtual",
                 "status": "future"
             }
         ],
@@ -545,25 +524,25 @@
                 "status": "future"
             },
             {
-                "milestone_date": "2020-07-09",
+                "milestone_date": "2020-08-09",
                 "description": "NEW Hotel Room Block Contract Signed, OSD-3266",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin 2021",
-                "status": "overdue"
+                "status": "on-time"
             },
             {
-                "milestone_date": "2020-06-01",
+                "milestone_date": "2020-10-01",
                 "description": "Training Schedule Announced",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin 2021",
-                "status": "overdue"
+                "status": "future"
             },
             {
-                "milestone_date": "2020-08-01",
+                "milestone_date": "2020-10-01",
                 "description": "Registration Re-Opens",
                 "owner": "Harold",
                 "project_name": "Global AppSec - Dublin 2021",
-                "status": "on-time"
+                "status": "future"
             },
             {
                 "milestone_date": "2020-08-31",
