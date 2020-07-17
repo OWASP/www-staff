@@ -508,9 +508,50 @@
     },
     {
         "name": "2020 Policy Review",
-        "milestones": [],
+        "milestones": [
+            {
+                "milestone_date": "2020-07-17",
+                "description": "Kickoff email sent to Members",
+                "owner": "Mike",
+                "project_name": "2020 Policy Review",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-07-31",
+                "description": "Kickoff Meeting of Policy Review Team",
+                "owner": "Mike",
+                "project_name": "2020 Policy Review",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-09-15",
+                "description": "Present items 1-3 for Board approval",
+                "owner": "Mike",
+                "project_name": "2020 Policy Review",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-10-19",
+                "description": "Present items 4-14 for Board approval",
+                "owner": "Mike",
+                "project_name": "2020 Policy Review",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-11-16",
+                "description": "Present remaining items for Board approval",
+                "owner": "Andrew",
+                "project_name": "2020 Policy Review",
+                "status": "future"
+            }
+        ],
         "description": "tle: 2020 Policy Reviewlayout: full-width---",
-        "leaders": [],
+        "leaders": [
+            {
+                "name": "Mike McCamon",
+                "email": "mike.mccamon@owasp.com"
+            }
+        ],
         "url": "https://owasp.org/www-staff/projects/202010-policy-review"
     },
     {
