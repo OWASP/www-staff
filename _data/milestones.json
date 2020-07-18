@@ -11,7 +11,7 @@
         "description": "Kickoff email sent to Members",
         "owner": "Mike",
         "project_name": "2020 Policy Review",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-07-20",
@@ -151,14 +151,14 @@
         "description": "Close Scholarship Form",
         "owner": "Mike",
         "project_name": "Virtual AppSec Days Summer of Security",
-        "status": "future"
+        "status": "on-time"
     },
     {
         "milestone_date": "2020-08-17",
         "description": "Send Scholarship codes",
         "owner": "Emily",
         "project_name": "Virtual AppSec Days Summer of Security",
-        "status": "future"
+        "status": "on-time"
     },
     {
         "milestone_date": "2020-08-20",
