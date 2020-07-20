@@ -30,7 +30,7 @@ layout: full-width
     - Board of Directors Committment Agreement
     - Conflict of Interest Annual Questionnaire
   - Incomplete
-    - Leader Agreement
+    - Leader Committment Letter
     - Corporate Membership Agreement
     - Trademark License Agreeement
 - [Policies](202010-policy-review)
