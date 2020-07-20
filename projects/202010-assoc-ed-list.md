@@ -89,6 +89,7 @@ layout: full-width
 
 ## Milestones
 
+- [x] 2020-07-22, Migrate CC info to Andrew, [Mike]
 - [ ] 2020-07-28, Present to Board Trademark Line of Business Concept, [Mike]
 - [ ] 2020-07-31, Complete Staff Performance Reviews, [Mike]
 - [ ] 2020-08-14, Contract Packet Ready for Board Review, [Mike]
