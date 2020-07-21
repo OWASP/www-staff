@@ -200,14 +200,14 @@
                 "description": "Close Scholarship Form",
                 "owner": "Mike",
                 "project_name": "Virtual AppSec Days Summer of Security",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-07-20",
                 "description": "Send Scholarship codes",
                 "owner": "Emily",
                 "project_name": "Virtual AppSec Days Summer of Security",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-07-23",
@@ -291,14 +291,14 @@
                 "description": "Dress Rehearsal NOON ET",
                 "owner": "Harold",
                 "project_name": "Virtual AppSec Days Summer of Security",
-                "status": "future"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-08-20",
                 "description": "Send Trainers course Rosters",
                 "owner": "Emily",
                 "project_name": "Virtual AppSec Days Summer of Security",
-                "status": "future"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-08-21",
@@ -379,6 +379,18 @@
             }
         ],
         "url": "https://owasp.org/www-staff/projects/202008-Defcon-28"
+    },
+    {
+        "name": "Project Template",
+        "milestones": [],
+        "description": "2020 Global Board Elections",
+        "leaders": [
+            {
+                "name": "Mike McCamon",
+                "email": "mike.mccamon@owasp.com"
+            }
+        ],
+        "url": "https://owasp.org/www-staff/projects/202010-Global Board Elections"
     },
     {
         "name": "Global AppSec - Virtual",
