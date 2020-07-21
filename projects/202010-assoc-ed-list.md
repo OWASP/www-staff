@@ -65,8 +65,10 @@ layout: full-width
     - Contact Us
     - Membership
     - Event Registration
+    - Event
     - Donations and Restricted Gifts
     - Reimbursement
+    - Create Project/Chapter/Committee
 
 ### Assist Andrew/Others
 - Operation Plan 2021 (Sept 30)
