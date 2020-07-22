@@ -127,7 +127,7 @@
                 "description": "ecision made on SWAG and handouts; orders placed.",
                 "owner": "Mike & Lisa",
                 "project_name": "BlackHat Asia 2020",
-                "status": "future"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-09-18",
@@ -305,7 +305,7 @@
                 "description": "Send KBYG Email",
                 "owner": "Emily",
                 "project_name": "Virtual AppSec Days Summer of Security",
-                "status": "future"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-08-22",
