@@ -149,18 +149,6 @@
         "url": "https://owasp.org/www-staff/projects/202003-Blackhat-Asia"
     },
     {
-        "name": "DNS and VM Migration",
-        "milestones": [],
-        "description": "The DNS, name provider, and virtual machine infrastructure currently resides on several different platforms.  In addition, the website redirection currently is at an elevated risk due to a single point of failure.  In order to consolidate our platforms and mitigate the risk, the VM infrastructure will be moved to DigitalOcean, the name provider will shift to Namecheap, and the DNS and redirect infrastructure will be moved to Cloudflare.",
-        "leaders": [
-            {
-                "name": "Harold Blankenship",
-                "email": "harold.blankenship@owasp.com"
-            }
-        ],
-        "url": "https://owasp.org/www-staff/projects/202003-DNS-VM-migration"
-    },
-    {
         "name": "OWASP Virtual Training Day",
         "milestones": [],
         "description": "tle: OWASP Virtual Training Daylayout: full-widthdate: April 28-29, 2020---# OWASP Virtual Training Day  ```April 28-29, 2020```OWASP Virtual Training Day will take place for 4 hours on both April 28th and 29th. Up to 10 separate trainings will be offered across both Europe and North America. Sponsorships will also be offered as well as an ancillary CTF event.",
@@ -214,14 +202,14 @@
                 "description": "Dress Rehearsal NOON ET",
                 "owner": "Harold",
                 "project_name": "Virtual AppSec Days Summer of Security",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-07-23",
                 "description": "Send Trainers course Rosters",
                 "owner": "Emily",
                 "project_name": "Virtual AppSec Days Summer of Security",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-07-24",
@@ -235,7 +223,7 @@
                 "description": "Event Day 1",
                 "owner": "Emily",
                 "project_name": "Virtual AppSec Days Summer of Security",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-07-28",
