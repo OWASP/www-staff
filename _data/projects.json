@@ -307,7 +307,7 @@
                 "description": "Event Day 1",
                 "owner": "Emily",
                 "project_name": "Virtual AppSec Days Summer of Security",
-                "status": "future"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-08-26",
@@ -468,7 +468,7 @@
                 "description": "Encourage consensus acceptance of Contract Packet at Board Meeting (Vote not needed)",
                 "owner": "Mike",
                 "project_name": "Associate Executive Director Off-boarding",
-                "status": "future"
+                "status": "on-time"
             }
         ],
         "description": "",
