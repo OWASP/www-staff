@@ -91,15 +91,16 @@ layout: full-width
 
 ## Milestones
 
+- [x] 2020-07-17, Kick off call with Counsel regarding Contracts, [Mike]
+- [x] 2020-07-20, Launch Policy Review Process, [Mike]
 - [x] 2020-07-22, Migrate CC info to Andrew, [Mike]
-- [ ] 2020-07-28, Present to Board Trademark Line of Business Concept, [Mike]
-- [ ] 2020-07-31, Complete Staff Performance Reviews, [Mike]
-- [ ] 2020-08-14, Contract Packet Ready for Board Review, [Mike]
-- [ ] 2020-08-25, Encourage consensus acceptance of Contract Packet at Board Meeting (Vote not needed), [Mike]
+- [ ] 2020-08-31, Complete Staff Performance Reviews, [Mike]
+- [ ] 2020-09-15, Contract Packet Ready for Board Review, [Mike]
+- [ ] 2020-09-22, Present to Board Trademark Line of Business Concept, [Mike]
+- [ ] 2020-09-22, Encourage consensus acceptance of Contract Packet at Board Meeting (Vote not needed), [Mike]
 
 ## Remaining Board Meetings
 - 28-July
-- 25-August
 - 22-September
 - 27-October
 
