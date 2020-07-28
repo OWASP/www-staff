@@ -74,27 +74,20 @@
         "description": "end out Wufoo Volunteer form through Meetup again for new date/",
         "owner": "Lisa",
         "project_name": "BlackHat Asia 2020",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-07-27",
         "description": "Modify Event Menu, Event YML file, and banner to have only August",
         "owner": "Harold",
         "project_name": "Virtual AppSec Days Summer of Security",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-07-28",
         "description": "Event Day 2",
         "owner": "Emily",
         "project_name": "Virtual AppSec Days Summer of Security",
-        "status": "on-time"
-    },
-    {
-        "milestone_date": "2020-07-28",
-        "description": "Present to Board Trademark Line of Business Concept",
-        "owner": "Mike",
-        "project_name": "Associate Executive Director Off-boarding",
         "status": "on-time"
     },
     {
@@ -109,13 +102,6 @@
         "description": "Send Thank you email",
         "owner": "Emily",
         "project_name": "Virtual AppSec Days Summer of Security",
-        "status": "on-time"
-    },
-    {
-        "milestone_date": "2020-07-31",
-        "description": "Complete Staff Performance Reviews",
-        "owner": "Mike",
-        "project_name": "Associate Executive Director Off-boarding",
         "status": "on-time"
     },
     {
@@ -137,13 +123,6 @@
         "description": "Open Scholarship Form",
         "owner": "Mike",
         "project_name": "Virtual AppSec Days Summer of Security",
-        "status": "on-time"
-    },
-    {
-        "milestone_date": "2020-08-14",
-        "description": "Contract Packet Ready for Board Review",
-        "owner": "Mike",
-        "project_name": "Associate Executive Director Off-boarding",
         "status": "on-time"
     },
     {
@@ -203,13 +182,6 @@
         "status": "on-time"
     },
     {
-        "milestone_date": "2020-08-25",
-        "description": "Encourage consensus acceptance of Contract Packet at Board Meeting (Vote not needed)",
-        "owner": "Mike",
-        "project_name": "Associate Executive Director Off-boarding",
-        "status": "on-time"
-    },
-    {
         "milestone_date": "2020-08-26",
         "description": "Event Day 2",
         "owner": "Emily",
@@ -229,6 +201,13 @@
         "owner": "Emily",
         "project_name": "Virtual AppSec Days Summer of Security",
         "status": "on-time"
+    },
+    {
+        "milestone_date": "2020-08-31",
+        "description": "Complete Staff Performance Reviews",
+        "owner": "Mike",
+        "project_name": "Associate Executive Director Off-boarding",
+        "status": "future"
     },
     {
         "milestone_date": "2020-08-31",
@@ -267,6 +246,13 @@
     },
     {
         "milestone_date": "2020-09-15",
+        "description": "Contract Packet Ready for Board Review",
+        "owner": "Mike",
+        "project_name": "Associate Executive Director Off-boarding",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-09-15",
         "description": "Present items 1-3 for Board approval",
         "owner": "Mike",
         "project_name": "2020 Policy Review",
@@ -284,6 +270,20 @@
         "description": "Ondemand content launch",
         "owner": "Emily",
         "project_name": "Global AppSec - Virtual",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-09-22",
+        "description": "Present to Board Trademark Line of Business Concept",
+        "owner": "Mike",
+        "project_name": "Associate Executive Director Off-boarding",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-09-22",
+        "description": "Encourage consensus acceptance of Contract Packet at Board Meeting (Vote not needed)",
+        "owner": "Mike",
+        "project_name": "Associate Executive Director Off-boarding",
         "status": "future"
     },
     {
