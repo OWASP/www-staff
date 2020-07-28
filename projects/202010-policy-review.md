@@ -19,8 +19,8 @@ layout: full-width
 |  2. [Conference & Event Attendee](/www-policy/operational/conferences-events) | 22-Jul | 12-Aug | 11-Sep |
 |  3. [Global AppSec Program Teams](/www-policy/operational/program-team) | 22-Jul | 12-Aug | 11-Sep |
 |  4. [Membership](/www-policy/operational/membership) | 29-Jul | 19-Aug | 18-Sep |
-|  5. Elections - under development | 29-Jul | 19-Aug | 18-Sep |
-|  6. [Events](/www-policy/operational/events) | 5-Aug | 26-Aug | 25-Sep |
+|  5. [Events](/www-policy/operational/events) | 29-Jul | 19-Aug | 18-Sep |
+|  6. [Elections](/www-policy/operational/election)| 5-Aug | 26-Aug | 25-Sep |
 |  7. Mailing Lists - under development | 5-Aug | 26-Aug | 25-Sep |
 |  8. [Expense Policy](/www-policy/operational/expense-reimbursement) | 12-Aug | 2-Sep | 2-Oct |
 |  9. [Social Media](/www-policy/operational/social-media) | 12-Aug | 2-Sep | 2-Oct |
@@ -42,8 +42,8 @@ layout: full-width
   
 ## Milestones
 
-- [ ] 2020-07-17, Kickoff email sent to Members, [Mike]
-- [ ] 2020-07-31, Kickoff Meeting of Policy Review Team, [Mike]
+- [x] 2020-07-17, Kickoff email sent to Members, [Mike]
+- [x] 2020-07-28, Kickoff Meeting of Policy Review Team, [Mike]
 - [ ] 2020-09-15, Present items 1-3 for Board approval, [Mike]
 - [ ] 2020-10-19, Present items 4-14 for Board approval, [Mike]
 - [ ] 2020-11-16, Present remaining items for Board approval, [Andrew]
