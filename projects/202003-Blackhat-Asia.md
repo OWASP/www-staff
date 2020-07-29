@@ -27,7 +27,7 @@ OWASP logo in official Black Hat Mobile App
 Exhibit stand in Business Hall: 3M x 3M
 2 full Briefings Passes
 4 Booth Staff Passes
-$200 Discount available OWASP Members on Briefings (training not included) - email(marketing@owasp.org)
+$200 Discount available OWASP Members on Briefings (training not included)
 (1) Lead Scanner
 Booth E13
 
