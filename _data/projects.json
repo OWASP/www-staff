@@ -244,14 +244,14 @@
                 "description": "Send Post Event Survey",
                 "owner": "Mike",
                 "project_name": "Virtual AppSec Days Summer of Security",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-07-29",
                 "description": "Send Thank you email",
                 "owner": "Emily",
                 "project_name": "Virtual AppSec Days Summer of Security",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-08-10",
