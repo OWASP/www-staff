@@ -115,7 +115,7 @@ Expenses
 This event offers several parter sponsorships opportunities.  If you are interested in supporting the event please contact [kelly.santalucia@owasp.com](mailto:kelly.santalucia@owasp.com&subject:Eventname). Below is a list of existing and available sponsorships. All sponsor assets will go in a folder named sponsors in this repo.
 
 ## Sponsorship Status
-Sponsorship Contract Status to Date (as of 9:00amET March 6, 2020). Amount Contracted: $398,245/USD Amount Collected: $200,000/USD
+Sponsorship Contract Status to Date (as of 9:00amET July 30, 2020). 
 
 #### Sapphire Sponsors
 - Acunetix - paid
