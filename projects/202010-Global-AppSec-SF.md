@@ -112,22 +112,21 @@ Expenses
 
 ## Sponsorships
 
-This event offers several parter sponsorships opportunities.  If you are interested in supporting the event please contact [kelly@owasp.com](mailto:kelly@owasp.com&subject:Eventname). Below is a list of existing and available sponsorships. All sponsor assets will go in a folder named sponsors in this repo.
+This event offers several parter sponsorships opportunities.  If you are interested in supporting the event please contact [kelly.santalucia@owasp.com](mailto:kelly.santalucia@owasp.com&subject:Eventname). Below is a list of existing and available sponsorships. All sponsor assets will go in a folder named sponsors in this repo.
 
 ## Sponsorship Status
 Sponsorship Contract Status to Date (as of 9:00amET March 6, 2020). Amount Contracted: $398,245/USD Amount Collected: $200,000/USD
 
 #### Sapphire Sponsors
 - Acunetix - paid
-- Micro Focus - invoiced
+- Micro Focus - paid
 - Netsparker - paid 
 - Rapid7 - invoiced
-- Salesforce - invoiced
+- Salesforce - paid
 - Security Compass - invoiced
 
 #### Ruby Sponsors
-- Security Innovation - invoiced 
-- Virtru - invoiced
+- Security Innovation - paid
 - Whitehat Security - invoiced
 
 #### Gold Corpoate Supporters
@@ -135,7 +134,7 @@ Sponsorship Contract Status to Date (as of 9:00amET March 6, 2020). Amount Contr
 
 #### Silver Corporate Supporters
 - Altitude Networks (Silver Corporate Supporter) - paid
-- Bugcrowd (Silver Corporate Supporter) - invoiced
+- Bugcrowd (Silver Corporate Supporter) - paid
 - Detectify (Silver Corporate Supporter) - paid 
 - ExtraHop (Silcer Corporate Supporter) - paid 
 - Intertrust (Silver Corporate Supporter) - paid 
@@ -147,15 +146,15 @@ Sponsorship Contract Status to Date (as of 9:00amET March 6, 2020). Amount Contr
 - Security Journey (Silver Corporate Supporter) - paid 
 - Sqreen (Silver Corporate Supporter) - paid
 - Tala Security (Silver Corporate Supporter) - paid 
-- Veracode (Silver Corporate Supporter) - invoiced 
+- Veracode (Silver Corporate Supporter) - paid
 - White Source Software (Silver Corporate Supporter) - paid 
 - Zero North (Silver Corporate Supporter) - paid 
 
 #### Capture the Flag - SOLD OUT
-- Security Innovation - 
+- Security Innovation - paid
 
 #### Lunch Sponsor
-- Segment - contract sent
+- Segment - paid
 
 
 ## Legal
