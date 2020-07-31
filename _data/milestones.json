@@ -1,54 +1,5 @@
 [
     {
-        "milestone_date": "2020-07-15",
-        "description": "Project Complete",
-        "owner": "Harold",
-        "project_name": "Events Form",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-07-20",
-        "description": "Close Scholarship Form",
-        "owner": "Mike",
-        "project_name": "Virtual AppSec Days Summer of Security",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-07-20",
-        "description": "Send Scholarship codes",
-        "owner": "Emily",
-        "project_name": "Virtual AppSec Days Summer of Security",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-07-23",
-        "description": "Dress Rehearsal NOON ET",
-        "owner": "Harold",
-        "project_name": "Virtual AppSec Days Summer of Security",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-07-23",
-        "description": "Send Trainers course Rosters",
-        "owner": "Emily",
-        "project_name": "Virtual AppSec Days Summer of Security",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-07-23",
-        "description": "Event Day 1",
-        "owner": "Emily",
-        "project_name": "Virtual AppSec Days Summer of Security",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-07-24",
-        "description": "Send KBYG Email",
-        "owner": "Emily",
-        "project_name": "Virtual AppSec Days Summer of Security",
-        "status": "overdue"
-    },
-    {
         "milestone_date": "2020-07-24",
         "description": "Registration Opens",
         "owner": "Emily",
@@ -70,20 +21,6 @@
         "status": "overdue"
     },
     {
-        "milestone_date": "2020-07-27",
-        "description": "Modify Event Menu, Event YML file, and banner to have only August",
-        "owner": "Harold",
-        "project_name": "Virtual AppSec Days Summer of Security",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-07-28",
-        "description": "Event Day 2",
-        "owner": "Emily",
-        "project_name": "Virtual AppSec Days Summer of Security",
-        "status": "overdue"
-    },
-    {
         "milestone_date": "2020-07-29",
         "description": "Send Post Event Survey",
         "owner": "Mike",
@@ -102,13 +39,6 @@
         "description": "NEW Hotel Room Block Contract Signed, OSD-3266",
         "owner": "Emily",
         "project_name": "Global AppSec - Dublin 2021",
-        "status": "on-time"
-    },
-    {
-        "milestone_date": "2020-08-10",
-        "description": "Open Scholarship Form",
-        "owner": "Mike",
-        "project_name": "Virtual AppSec Days Summer of Security",
         "status": "on-time"
     },
     {
