@@ -7,34 +7,6 @@
         "url": "https://owasp.org/www-staff/projects/201902-Trademarks"
     },
     {
-        "name": "Events Form",
-        "milestones": [
-            {
-                "milestone_date": "2020-07-15",
-                "description": "Project Complete",
-                "owner": "Harold",
-                "project_name": "Events Form",
-                "status": "overdue"
-            }
-        ],
-        "description": "As part of the OWASP website migration, we will creating a new Events form that will use Stripe as a back end. This should be a simple form that is hosted on the website and will EVENUTALLY serve as the prmiary e-commerce path for all OWASP Global and Regional events replacing Eventbrite for (1) hosting secure forms on github, (2) presenting and then selecting multiple SKUs from a single Product ID as in Training Class A for Event X and Early Bird ticket for Event X, (3) 2-3 aggregate online reports, (4) validate Stripe can manage inventory of SKUs, and (5) integrating Stripe form activities with light integrations with other key data in the OWASP ecosystem.",
-        "leaders": [
-            {
-                "name": "Harold Blankenship ",
-                "email": "Harold.blankenship@owasp.com"
-            },
-            {
-                "name": "Emily Berman - Customer",
-                "email": "emily.berman@owasp.com"
-            },
-            {
-                "name": "Mike McCamon",
-                "email": "mike.mccamon@owasp.com"
-            }
-        ],
-        "url": "https://owasp.org/www-staff/projects/201912-events-form"
-    },
-    {
         "name": "OWASP Staff Holidays",
         "milestones": [
             {
@@ -184,62 +156,6 @@
         "name": "Virtual AppSec Days Summer of Security",
         "milestones": [
             {
-                "milestone_date": "2020-07-20",
-                "description": "Close Scholarship Form",
-                "owner": "Mike",
-                "project_name": "Virtual AppSec Days Summer of Security",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-07-20",
-                "description": "Send Scholarship codes",
-                "owner": "Emily",
-                "project_name": "Virtual AppSec Days Summer of Security",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-07-23",
-                "description": "Dress Rehearsal NOON ET",
-                "owner": "Harold",
-                "project_name": "Virtual AppSec Days Summer of Security",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-07-23",
-                "description": "Send Trainers course Rosters",
-                "owner": "Emily",
-                "project_name": "Virtual AppSec Days Summer of Security",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-07-24",
-                "description": "Send KBYG Email",
-                "owner": "Emily",
-                "project_name": "Virtual AppSec Days Summer of Security",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-07-23",
-                "description": "Event Day 1",
-                "owner": "Emily",
-                "project_name": "Virtual AppSec Days Summer of Security",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-07-28",
-                "description": "Event Day 2",
-                "owner": "Emily",
-                "project_name": "Virtual AppSec Days Summer of Security",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-07-27",
-                "description": "Modify Event Menu, Event YML file, and banner to have only August",
-                "owner": "Harold",
-                "project_name": "Virtual AppSec Days Summer of Security",
-                "status": "overdue"
-            },
-            {
                 "milestone_date": "2020-07-29",
                 "description": "Send Post Event Survey",
                 "owner": "Mike",
@@ -252,13 +168,6 @@
                 "owner": "Emily",
                 "project_name": "Virtual AppSec Days Summer of Security",
                 "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-08-10",
-                "description": "Open Scholarship Form",
-                "owner": "Mike",
-                "project_name": "Virtual AppSec Days Summer of Security",
-                "status": "on-time"
             },
             {
                 "milestone_date": "2020-08-17",
