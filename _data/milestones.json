@@ -123,14 +123,14 @@
         "description": "Complete Staff Performance Reviews",
         "owner": "Mike",
         "project_name": "Associate Executive Director Off-boarding",
-        "status": "future"
+        "status": "on-time"
     },
     {
         "milestone_date": "2020-08-31",
         "description": "Open CFP",
         "owner": "Emily",
         "project_name": "Global AppSec - Dublin 2021",
-        "status": "future"
+        "status": "on-time"
     },
     {
         "milestone_date": "2020-09-01",
