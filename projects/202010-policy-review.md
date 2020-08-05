@@ -21,9 +21,9 @@ layout: full-width
 |  4. [Membership](/www-policy/operational/membership) | 29-Jul | 19-Aug | 18-Sep |
 |  5. [Events](/www-policy/operational/events) | 29-Jul | 19-Aug | 18-Sep |
 |  6. [Elections](/www-policy/operational/election)| 5-Aug | 26-Aug | 25-Sep |
-|  7. Mailing Lists - under development | 5-Aug | 26-Aug | 25-Sep |
-|  8. [Expense Policy](/www-policy/operational/expense-reimbursement) | 12-Aug | 2-Sep | 2-Oct |
-|  9. [Social Media](/www-policy/operational/social-media) | 12-Aug | 2-Sep | 2-Oct |
+|  7. [Social Media](/www-policy/operational/social-media) | 5-Aug | 26-Aug | 25-Sep |
+|  8. Mailing Lists - under development | 12-Aug | 2-Sep | 2-Oct |
+|  9. [Expense Policy](/www-policy/operational/expense-reimbursement) | 12-Aug | 2-Sep | 2-Oct |
 |  10. Travel Assistance Program - under development | 12-Aug | 2-Sep | 2-Oct |
 |  11. [Leaders](/www-policy/operational/leader) | 19-Aug | 9-Sep | 9-Oct |
 |  12. [Chapter Procedure (formerly Handbook)](/www-policy/guidebook/chapter-leader) | 26-Aug | 16-Sep | 16-Oct |
