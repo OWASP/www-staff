@@ -6,7 +6,7 @@ date: October 19-23, 2020
 
 ---
 
-# Global AppSec - San Francisco
+# Global AppSec - Virtual
 
 ## Overview
 
@@ -43,16 +43,16 @@ sf.globalappsec.org
 - [x] 2020-04-20, Close CFT/CFP, [Emily]
 - [x] 2020-06-08, Program Announced, [Emily]
 - [x] 2020-06-08, Keynotes Announced, [Emily]
-- [ ] 2020-07-24, Registration Opens, [Emily]
-- [ ] 2020-07-24, Contact speakers and trainers about virtual platform, [Alonna]
+- [ ] 2020-08-17, Registration Opens, [Emily]
+- [x] 2020-07-24, Contact speakers and trainers about virtual platform, [Alonna]
 - [x] 2020-08-01, AV Contract Signed, [Emily]
 - [x] 2020-08-15, N/A SWAG Ordered, [Emily]
-- [ ] 2020-09-01, All recorded presentations collected, [Alonna]
+- [ ] 2020-09-15, All recorded presentations collected, [Alonna]
 - [ ] 2020-09-15, Virtual platform finalized, [Emily]
 - [x] 2020-09-15, N/A Signage Ordered, [Emily]
 - [ ] 2020-09-15, Volunteers finalized and communication initiated, [Emily]
-- [ ] 2020-09-21, Ondemand content launch, [Emily]
-- [x] 2020-10-01, N/AF&B Order Complete, [Emily]
+- [ ] 2020-10-01, Ondemand content launch, [Emily]
+- [x] 2020-10-01, N/A F&B Order Complete, [Emily]
 
 ## Leadership
 
