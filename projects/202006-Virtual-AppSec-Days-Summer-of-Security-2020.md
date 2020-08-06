@@ -61,7 +61,6 @@ The courses will be 8-hour virtual training courses. The courses will be offered
 - [x] 2020-07-28, Event Day 2, [Emily]
 - [x] 2020-07-27, Modify Event Menu, Event YML file, and banner to have only August, [Harold]
 - [ ] 2020-07-29, Send Post Event Survey, [Mike]
-- [ ] 2020-07-29, Send Thank you email, [Emily]
 - [x] 2020-08-10, Open Scholarship Form, [Mike]
 - [ ] 2020-08-17, Close Scholarship Form, [Mike]
 - [ ] 2020-08-17, Send Scholarship codes, [Emily]
