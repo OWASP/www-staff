@@ -158,14 +158,7 @@
             {
                 "milestone_date": "2020-07-29",
                 "description": "Send Post Event Survey",
-                "owner": "Mike",
-                "project_name": "Virtual AppSec Days Summer of Security",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-07-29",
-                "description": "Send Thank you email",
-                "owner": "Emily",
+                "owner": "Alonna",
                 "project_name": "Virtual AppSec Days Summer of Security",
                 "status": "overdue"
             },
@@ -228,7 +221,7 @@
             {
                 "milestone_date": "2020-08-26",
                 "description": "Send Post Event Survey",
-                "owner": "Mike",
+                "owner": "Alonna",
                 "project_name": "Virtual AppSec Days Summer of Security",
                 "status": "on-time"
             },
@@ -293,25 +286,18 @@
         "name": "Global AppSec - Virtual",
         "milestones": [
             {
-                "milestone_date": "2020-07-24",
+                "milestone_date": "2020-08-17",
                 "description": "Registration Opens",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Virtual",
-                "status": "overdue"
+                "status": "on-time"
             },
             {
-                "milestone_date": "2020-07-24",
-                "description": "Contact speakers and trainers about virtual platform",
-                "owner": "Alonna",
-                "project_name": "Global AppSec - Virtual",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-09-01",
+                "milestone_date": "2020-09-15",
                 "description": "All recorded presentations collected",
                 "owner": "Alonna",
                 "project_name": "Global AppSec - Virtual",
-                "status": "on-time"
+                "status": "future"
             },
             {
                 "milestone_date": "2020-09-15",
@@ -328,7 +314,7 @@
                 "status": "future"
             },
             {
-                "milestone_date": "2020-09-21",
+                "milestone_date": "2020-10-01",
                 "description": "Ondemand content launch",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Virtual",
@@ -460,13 +446,6 @@
                 "status": "future"
             },
             {
-                "milestone_date": "2020-08-09",
-                "description": "NEW Hotel Room Block Contract Signed, OSD-3266",
-                "owner": "Emily",
-                "project_name": "Global AppSec - Dublin 2021",
-                "status": "on-time"
-            },
-            {
                 "milestone_date": "2020-10-01",
                 "description": "Training Schedule Announced",
                 "owner": "Emily",
@@ -474,71 +453,36 @@
                 "status": "future"
             },
             {
-                "milestone_date": "2020-10-01",
+                "milestone_date": "2020-12-01",
                 "description": "Registration Re-Opens",
                 "owner": "Harold",
                 "project_name": "Global AppSec - Dublin 2021",
                 "status": "future"
             },
             {
-                "milestone_date": "2020-08-31",
+                "milestone_date": "2020-10-01",
                 "description": "Open CFP",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin 2021",
-                "status": "on-time"
+                "status": "future"
             },
             {
-                "milestone_date": "2020-09-30",
+                "milestone_date": "2020-10-31",
                 "description": "Close CFP",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin 2021",
                 "status": "future"
             },
             {
-                "milestone_date": "2020-10-05",
+                "milestone_date": "2020-11-20",
                 "description": "CFP Review Complete",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin 2021",
                 "status": "future"
             },
             {
-                "milestone_date": "2020-10-15",
-                "description": "NEW Hotel Attrition Milestone, OSD-3266",
-                "owner": "Emily",
-                "project_name": "Global AppSec - Dublin 2021",
-                "status": "future"
-            },
-            {
-                "milestone_date": "2020-10-19",
+                "milestone_date": "2020-12-01",
                 "description": "Program Announced",
-                "owner": "Emily",
-                "project_name": "Global AppSec - Dublin 2021",
-                "status": "future"
-            },
-            {
-                "milestone_date": "2020-12-10",
-                "description": "NEW Hotel Attrition Milestone, OSD-3266",
-                "owner": "Emily",
-                "project_name": "Global AppSec - Dublin 2021",
-                "status": "future"
-            },
-            {
-                "milestone_date": "2021-01-01",
-                "description": "NEW Hotel Attrition Milestone, OSD-3266",
-                "owner": "Emily",
-                "project_name": "Global AppSec - Dublin 2021",
-                "status": "future"
-            },
-            {
-                "milestone_date": "2021-01-15",
-                "description": "Signage Ordered",
-                "owner": "Emily",
-                "project_name": "Global AppSec - Dublin 2021",
-                "status": "future"
-            },
-            {
-                "milestone_date": "2021-01-15",
-                "description": "SWAG Ordered",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin 2021",
                 "status": "future"
@@ -546,13 +490,6 @@
             {
                 "milestone_date": "2021-01-15",
                 "description": "Volunteers finalized and communication initiated",
-                "owner": "Emily",
-                "project_name": "Global AppSec - Dublin 2021",
-                "status": "future"
-            },
-            {
-                "milestone_date": "2021-02-01",
-                "description": "F&B Order Complete",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin 2021",
                 "status": "future"
