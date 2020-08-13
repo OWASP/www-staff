@@ -156,13 +156,6 @@
         "name": "Virtual AppSec Days Summer of Security",
         "milestones": [
             {
-                "milestone_date": "2020-07-29",
-                "description": "Send Post Event Survey",
-                "owner": "Alonna",
-                "project_name": "Virtual AppSec Days Summer of Security",
-                "status": "overdue"
-            },
-            {
                 "milestone_date": "2020-08-17",
                 "description": "Close Scholarship Form",
                 "owner": "Mike",
