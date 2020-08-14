@@ -24,12 +24,12 @@ layout: full-width
 |  7. [Social Media](/www-policy/operational/social-media) | 5-Aug | 26-Aug | 25-Sep |
 |  8. Mailing Lists - under development | 14-Aug | 4-Sep | 4-Oct |
 |  9. [Expense Policy](/www-policy/operational/expense-reimbursement) | 14-Aug | 4-Sep | 4-Oct |
-|  11. [Leaders](/www-policy/operational/leader) | 19-Aug | 9-Sep | 9-Oct |
-|  14. Local Partnerships - under development | 26-Aug | 16-Sep | 16-Oct |
-|  10. Travel Assistance Program - under development | 26-Aug | 16-Sep | 16-Oct |
-|  15. [Committees](/www-policy/operational/committees) | 2-Sep | 23-Sep | 23-Oct |
-|  12. [Chapter Procedure (formerly Handbook)](/www-policy/guidebook/chapter-leader) | 2-Sep | 23-Sep | 23-Oct |
-|  13. [Chapters](/www-policy/operational/chapters) | 2-Sep | 23-Sep | 23-Oct |
+|  10. [Leaders](/www-policy/operational/leader) | 19-Aug | 9-Sep | 9-Oct |
+|  11. Local Partnerships - under development | 26-Aug | 16-Sep | 16-Oct |
+|  12. Travel Assistance Program - under development | 26-Aug | 16-Sep | 16-Oct |
+|  13. [Committees](/www-policy/operational/committees) | 2-Sep | 23-Sep | 23-Oct |
+|  14. [Chapter Procedure (formerly Handbook)](/www-policy/guidebook/chapter-leader) | 2-Sep | 23-Sep | 23-Oct |
+|  15. [Chapters](/www-policy/operational/chapters) | 2-Sep | 23-Sep | 23-Oct |
 |  16. [Branding Guidelines](/www-policy/operational/branding) | 9-Sep | 30-Sep | 30-Oct |
 
 ## Leadership
