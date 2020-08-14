@@ -87,7 +87,7 @@ The courses will be 8-hour virtual training courses. The courses will be offered
 
 ### Marketing Plan
 
-* [Social/Email Media Calendar](https://docs.google.com/spreadsheets/d/1_3es_9PE_6MxSAVERRieDC80zjqqRbFrTaGfEbxIzQE/edit?ts=5e9759d0#gid=0)
+* Plan: [Social/Email Media Calendar](https://docs.google.com/spreadsheets/d/1_3es_9PE_6MxSAVERRieDC80zjqqRbFrTaGfEbxIzQE/edit?ts=5e9759d0#gid=0)
 
 ### Venue
 
