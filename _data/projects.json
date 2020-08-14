@@ -264,6 +264,238 @@
         "url": "https://owasp.org/www-staff/projects/202008-Defcon-28"
     },
     {
+        "name": "Executive Director",
+        "milestones": [
+            {
+                "milestone_date": "2020-08-13",
+                "description": "ove and upload media from July and August special meetings, make sure minutes are underway",
+                "owner": "Andrew",
+                "project_name": "Executive Director",
+                "status": "overdue"
+            },
+            {
+                "milestone_date": "2020-08-14",
+                "description": "rite WEF article",
+                "owner": "Andrew",
+                "project_name": "Executive Director",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-08-14",
+                "description": "heck Secure Flag Pilot Launch",
+                "owner": "Andrew",
+                "project_name": "Executive Director",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-08-20",
+                "description": "ocial media scheduling issues",
+                "owner": "Andrew, Emily",
+                "project_name": "Executive Director",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-08-17",
+                "description": "rep agenda for OWASP Board Meeting",
+                "owner": "Andrew",
+                "project_name": "Executive Director",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-08-25",
+                "description": "WASP Board Meeting",
+                "owner": "Andrew",
+                "project_name": "Executive Director",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-08-31",
+                "description": "ullcon / Paytou MoU",
+                "owner": "Andrew",
+                "project_name": "Executive Director",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-08-31",
+                "description": "WCSA MoU",
+                "owner": "Andrew",
+                "project_name": "Executive Director",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-08-31",
+                "description": "rants policy with Mike",
+                "owner": "Andrew, Mike",
+                "project_name": "Executive Director",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-08-31",
+                "description": "xpensify setup",
+                "owner": "Andrew",
+                "project_name": "Executive Director",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-08-31",
+                "description": "inalize Performance Reviews",
+                "owner": "Andrew, Mike",
+                "project_name": "Executive Director",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-08-31",
+                "description": "orporate monthly subscription",
+                "owner": "Andrew, Harold, Kelly",
+                "project_name": "Executive Director",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-08-31",
+                "description": "eneral counsel retainer",
+                "owner": "Andrew",
+                "project_name": "Executive Director",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-08-31",
+                "description": "eview Board education programs",
+                "owner": "Andrew",
+                "project_name": "Executive Director",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-08-31",
+                "description": "ommittees 2.0 gap analysis with Owen",
+                "owner": "Andrew",
+                "project_name": "Executive Director",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-08-31",
+                "description": "embership drive strategy",
+                "owner": "Andrew, Lisa",
+                "project_name": "Executive Director",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-08-31",
+                "description": "WASP Twenty Years",
+                "owner": "Andrew, Emily",
+                "project_name": "Executive Director",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-08-31",
+                "description": "dditional trademarks",
+                "owner": "Andrew, Mike",
+                "project_name": "Executive Director",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-09-01",
+                "description": "eview Events strategy",
+                "owner": "Andrew, Emily",
+                "project_name": "Executive Director",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-09-01",
+                "description": "eview Content Marketing Strategy",
+                "owner": "Andrew, Alonna",
+                "project_name": "Executive Director",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-09-01",
+                "description": "eview Fundraising and Donations Strategy",
+                "owner": "Andrew, Mike",
+                "project_name": "Executive Director",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-09-22",
+                "description": "eneral Regional Model with Chapters committee",
+                "owner": "Andrew",
+                "project_name": "Executive Director",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-09-22",
+                "description": "resent 2021 Operational Plan",
+                "owner": "Andrew",
+                "project_name": "Executive Director",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-09-22",
+                "description": "resent COVID Chapters and Events Strategy",
+                "owner": "Andrew, Emily, Lisa",
+                "project_name": "Executive Director",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-09-22",
+                "description": "roject Sabbatical Plan",
+                "owner": "Andrew, Harold",
+                "project_name": "Executive Director",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-09-22",
+                "description": "resent OWASP Content Media Strategy with Outreach Committee",
+                "owner": "Andrew, Alonna",
+                "project_name": "Executive Director",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-09-01",
+                "description": "hapter and Event co-branding strategy",
+                "owner": "Andrew, Emily",
+                "project_name": "Executive Director",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-09-30",
+                "description": "eet with Stack overflow",
+                "owner": "Andrew",
+                "project_name": "Executive Director",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-10-31",
+                "description": "ike's last day send off",
+                "owner": "Andrew, Mike",
+                "project_name": "Executive Director",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-11-22",
+                "description": "021 Budget",
+                "owner": "Andrew",
+                "project_name": "Executive Director",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-12-31",
+                "description": "WASP Member Points",
+                "owner": "Andrew, Harold",
+                "project_name": "Executive Director",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-12-31",
+                "description": "perationalize quarterly OWASP training",
+                "owner": "Andrew, Emily",
+                "project_name": "Executive Director",
+                "status": "future"
+            }
+        ],
+        "description": "This is the list of activities that Andrew van der Stock, Executive Director is either doing or monitoring.",
+        "leaders": [],
+        "url": "https://owasp.org/www-staff/projects/202008-ExecDirector"
+    },
+    {
         "name": "Project Template",
         "milestones": [],
         "description": "2020 Global Board Elections",
