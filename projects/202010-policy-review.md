@@ -22,7 +22,7 @@ layout: full-width
 |  5. [Events](/www-policy/operational/events) | 29-Jul | 19-Aug | 18-Sep |
 |  6. [Elections](/www-policy/operational/election)| 5-Aug | 26-Aug | 25-Sep |
 |  7. [Social Media](/www-policy/operational/social-media) | 5-Aug | 26-Aug | 25-Sep |
-|  8. Mailing Lists - under development | 14-Aug | 4-Sep | 4-Oct |
+|  8. [Mailing Lists](/www-policy/operational/mailing-list) | 14-Aug | 4-Sep | 4-Oct |
 |  9. [Expense Policy](/www-policy/operational/expense-reimbursement) | 14-Aug | 4-Sep | 4-Oct |
 |  10. [Leaders](/www-policy/operational/leader) | 19-Aug | 9-Sep | 9-Oct |
 |  11. Local Partnerships - under development | 26-Aug | 16-Sep | 16-Oct |
