@@ -278,14 +278,14 @@
                 "description": "rite WEF article",
                 "owner": "Andrew",
                 "project_name": "Executive Director",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-08-14",
                 "description": "heck Secure Flag Pilot Launch",
                 "owner": "Andrew",
                 "project_name": "Executive Director",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-08-20",
