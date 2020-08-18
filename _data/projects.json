@@ -160,14 +160,14 @@
                 "description": "Close Scholarship Form",
                 "owner": "Mike",
                 "project_name": "Virtual AppSec Days Summer of Security",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-08-17",
                 "description": "Send Scholarship codes",
                 "owner": "Emily",
                 "project_name": "Virtual AppSec Days Summer of Security",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-08-20",
@@ -299,7 +299,7 @@
                 "description": "rep agenda for OWASP Board Meeting",
                 "owner": "Andrew",
                 "project_name": "Executive Director",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-08-25",
@@ -515,7 +515,7 @@
                 "description": "Registration Opens",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Virtual",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-09-15",
