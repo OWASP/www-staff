@@ -5,6 +5,8 @@ layout: full-width
 
 ---
 
+**Modified 18-August-2020**
+
 ## Goals
 
 * Collect Member feedback and input on organizational policies
@@ -24,13 +26,14 @@ layout: full-width
 |  7. [Social Media](/www-policy/operational/social-media) | 5-Aug | 26-Aug | 25-Sep |
 |  8. [Mailing Lists](/www-policy/operational/mailing-list) | 14-Aug | 4-Sep | 4-Oct |
 |  9. [Expense Policy](/www-policy/operational/expense-reimbursement) | 14-Aug | 4-Sep | 4-Oct |
-|  10. [Leaders](/www-policy/operational/leader) | 19-Aug | 9-Sep | 9-Oct |
-|  11. Local Partnerships - under development | 26-Aug | 16-Sep | 16-Oct |
-|  12. Travel Assistance Program - under development | 26-Aug | 16-Sep | 16-Oct |
-|  13. [Committees](/www-policy/operational/committees) | 2-Sep | 23-Sep | 23-Oct |
-|  14. [Chapter Procedure (formerly Handbook)](/www-policy/guidebook/chapter-leader) | 2-Sep | 23-Sep | 23-Oct |
-|  15. [Chapters](/www-policy/operational/chapters) | 2-Sep | 23-Sep | 23-Oct |
-|  16. [Branding Guidelines](/www-policy/operational/branding) | 9-Sep | 30-Sep | 30-Oct |
+|  10. [Branding Guidelines](/www-policy/operational/branding) | 2-Sep | 23-Sep | 23-Oct |
+|  11. [Leaders](/www-policy/operational/leader) | 9-Sep | 30-Sep | 30-Oct |
+|  12. Local Partnerships - under development | 9-Sep | 30-Sep | 30-Oct |
+|  13. [Committees](/www-policy/operational/committees) | 9-Sep | 30-Sep | 30-Oct |
+|  14. [Chapter Procedure (formerly Handbook)](/www-policy/guidebook/chapter-leader)* | TBD | TBD | TBD |
+|  15. [Chapters](/www-policy/operational/chapters)* | TBD | TBD | TBD |
+
+* These items will be developed and submitted by the Chapters Committee
 
 ## Leadership
 * [Mike McCamon](mailto:mike.mccamon@owasp.com?subject=Policy%20Review)
@@ -45,5 +48,5 @@ layout: full-width
 - [x] 2020-07-17, Kickoff email sent to Members, [Mike]
 - [x] 2020-07-28, Kickoff Meeting of Policy Review Team, [Mike]
 - [ ] 2020-09-15, Present items 1-3 for Board approval, [Mike]
-- [ ] 2020-10-19, Present items 4-14 for Board approval, [Mike]
+- [ ] 2020-10-19, Present items 4-9 for Board approval, [Mike]
 - [ ] 2020-11-16, Present remaining items for Board approval, [Andrew]
