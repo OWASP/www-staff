@@ -22,13 +22,6 @@
     },
     {
         "milestone_date": "2020-08-17",
-        "description": "Close Scholarship Form",
-        "owner": "Mike",
-        "project_name": "Virtual AppSec Days Summer of Security",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-08-17",
         "description": "Send Scholarship codes",
         "owner": "Emily",
         "project_name": "Virtual AppSec Days Summer of Security",
@@ -53,21 +46,21 @@
         "description": "Dress Rehearsal NOON ET",
         "owner": "Harold",
         "project_name": "Virtual AppSec Days Summer of Security",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-08-20",
         "description": "Send Trainers course Rosters",
         "owner": "Emily",
         "project_name": "Virtual AppSec Days Summer of Security",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-08-20",
         "description": "Social media scheduling issues",
         "owner": "Andrew, Emily",
         "project_name": "Executive Director",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-08-21",
