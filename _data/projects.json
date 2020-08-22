@@ -99,7 +99,7 @@
                 "description": "WAG - Online Raffle - Virtual Event",
                 "owner": "Andrew & Alonna",
                 "project_name": "BlackHat Asia 2020",
-                "status": "future"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-09-18",
@@ -181,7 +181,7 @@
                 "description": "Send KBYG Email",
                 "owner": "Emily",
                 "project_name": "Virtual AppSec Days Summer of Security",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-08-22",
