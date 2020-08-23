@@ -188,7 +188,7 @@
                 "description": "Modify Event Menu, Event YML file, and banner",
                 "owner": "Harold",
                 "project_name": "Virtual AppSec Days Summer of Security",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-08-25",
@@ -411,35 +411,35 @@
                 "description": "General Regional Model with Chapters committee",
                 "owner": "Andrew",
                 "project_name": "Executive Director",
-                "status": "future"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-09-22",
                 "description": "Present 2021 Operational Plan",
                 "owner": "Andrew",
                 "project_name": "Executive Director",
-                "status": "future"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-09-22",
                 "description": "Present COVID Chapters and Events Strategy",
                 "owner": "Andrew, Emily, Lisa",
                 "project_name": "Executive Director",
-                "status": "future"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-09-22",
                 "description": "Project Sabbatical Plan",
                 "owner": "Andrew, Harold",
                 "project_name": "Executive Director",
-                "status": "future"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-09-22",
                 "description": "Present OWASP Content Media Strategy with Outreach Committee",
                 "owner": "Andrew, Alonna",
                 "project_name": "Executive Director",
-                "status": "future"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-09-01",
@@ -574,14 +574,14 @@
                 "description": "Present to Board Trademark Line of Business Concept",
                 "owner": "Mike",
                 "project_name": "Associate Executive Director Off-boarding",
-                "status": "future"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-09-22",
                 "description": "Encourage consensus acceptance of Contract Packet at Board Meeting (Vote not needed)",
                 "owner": "Mike",
                 "project_name": "Associate Executive Director Off-boarding",
-                "status": "future"
+                "status": "on-time"
             }
         ],
         "description": "",
