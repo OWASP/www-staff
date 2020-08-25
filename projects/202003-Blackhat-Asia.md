@@ -36,10 +36,8 @@ Booth E13
 
 * [x] 2020-01-08 Sign contract (inperson event) OSD-3340, [Mike]
 * [X] 2020-02-20 New Date received and Event site updated [Lisa]
-* [ ] 2020-08-27 Send out Wufoo Volunteer form - virtual event [Alonna]
-* [ ] 2020-09-21 SWAG - Online Raffle - Virtual Event [Andrew & Alonna]
-* [ ] 2020-09-18 Volunteers confirmed with schedule, registered and notification. 
-* [ ] 2020-09-25 Summary email sent to team with schedule, contact person, lead scanner info, booth merchandise info, lead volunteer/contact person info sent to the team.
+       [Transitioned to Alonna 8/14/2020]
+
 
 
 ## Budget
