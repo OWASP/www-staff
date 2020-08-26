@@ -86,36 +86,7 @@
     },
     {
         "name": "BlackHat Asia 2020",
-        "milestones": [
-            {
-                "milestone_date": "2020-08-27",
-                "description": "end out Wufoo Volunteer form - virtual event",
-                "owner": "Alonna",
-                "project_name": "BlackHat Asia 2020",
-                "status": "on-time"
-            },
-            {
-                "milestone_date": "2020-09-21",
-                "description": "WAG - Online Raffle - Virtual Event",
-                "owner": "Andrew & Alonna",
-                "project_name": "BlackHat Asia 2020",
-                "status": "on-time"
-            },
-            {
-                "milestone_date": "2020-09-18",
-                "description": "olunteers confirmed with schedule, registered and notification.",
-                "owner": "No Owner",
-                "project_name": "BlackHat Asia 2020",
-                "status": "on-time"
-            },
-            {
-                "milestone_date": "2020-09-25",
-                "description": "ummary email sent to team with schedule, contact person, lead scanner info, booth merchandise info, lead volunteer/contact person info sent to the team.",
-                "owner": "No Owner",
-                "project_name": "BlackHat Asia 2020",
-                "status": "future"
-            }
-        ],
+        "milestones": [],
         "description": "Black Hat returns to Marina Bay Sands in Singapore, September 29 - October 2, 2020. The information security community comes together for esteemed Trainings taught by industry experts, innovative research presentations at Briefings, the latest open-source tool demos in Arsenal, and the Business Hall featuring top-tier solutions and service providers.",
         "leaders": [],
         "url": "https://owasp.org/www-staff/projects/202003-Blackhat-Asia"
@@ -195,7 +166,7 @@
                 "description": "Event Day 1",
                 "owner": "Emily",
                 "project_name": "Virtual AppSec Days Summer of Security",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-08-26",
@@ -260,22 +231,8 @@
         "name": "Executive Director",
         "milestones": [
             {
-                "milestone_date": "2020-08-13",
-                "description": "Move and upload media from July and August special meetings, make sure minutes are underway",
-                "owner": "Andrew",
-                "project_name": "Executive Director",
-                "status": "overdue"
-            },
-            {
                 "milestone_date": "2020-08-14",
                 "description": "Write WEF article",
-                "owner": "Andrew",
-                "project_name": "Executive Director",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-08-14",
-                "description": "Check Secure Flag Pilot Launch",
                 "owner": "Andrew",
                 "project_name": "Executive Director",
                 "status": "overdue"
@@ -288,15 +245,22 @@
                 "status": "overdue"
             },
             {
-                "milestone_date": "2020-08-17",
-                "description": "Prep agenda for OWASP Board Meeting",
+                "milestone_date": "2020-08-27",
+                "description": "3 x Town Halls",
                 "owner": "Andrew",
                 "project_name": "Executive Director",
-                "status": "overdue"
+                "status": "on-time"
             },
             {
-                "milestone_date": "2020-08-25",
-                "description": "OWASP Board Meeting",
+                "milestone_date": "2020-08-27",
+                "description": "Theme Calendar for Marketing",
+                "owner": "Andrew, Alonna",
+                "project_name": "Executive Director",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-08-31",
+                "description": "Schedule Board Virtual F2F",
                 "owner": "Andrew",
                 "project_name": "Executive Director",
                 "status": "on-time"
@@ -324,7 +288,7 @@
             },
             {
                 "milestone_date": "2020-08-31",
-                "description": "Expensify setup",
+                "description": "20th Anniversary planning and book first panel",
                 "owner": "Andrew",
                 "project_name": "Executive Director",
                 "status": "on-time"
@@ -346,13 +310,6 @@
             {
                 "milestone_date": "2020-08-31",
                 "description": "General counsel retainer",
-                "owner": "Andrew",
-                "project_name": "Executive Director",
-                "status": "on-time"
-            },
-            {
-                "milestone_date": "2020-08-31",
-                "description": "Review Board education programs",
                 "owner": "Andrew",
                 "project_name": "Executive Director",
                 "status": "on-time"
@@ -387,6 +344,13 @@
             },
             {
                 "milestone_date": "2020-09-01",
+                "description": "Postpone the Dublin event event & transition sponsors",
+                "owner": "Emily, Kelly",
+                "project_name": "Executive Director",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-09-01",
                 "description": "Review Events strategy",
                 "owner": "Andrew, Emily",
                 "project_name": "Executive Director",
@@ -401,6 +365,13 @@
             },
             {
                 "milestone_date": "2020-09-01",
+                "description": "Send a copy of the newly revised Roberts Rules of Order to all Board members",
+                "owner": "Dawn",
+                "project_name": "Executive Director",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-09-01",
                 "description": "Review Fundraising and Donations Strategy",
                 "owner": "Andrew, Mike",
                 "project_name": "Executive Director",
@@ -408,8 +379,22 @@
             },
             {
                 "milestone_date": "2020-09-22",
-                "description": "General Regional Model with Chapters committee",
+                "description": "Add bylaw and update other policies to prevent memberships being paid by Foundation",
                 "owner": "Andrew",
+                "project_name": "Executive Director",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-09-22",
+                "description": "Update minutes from special Board meeting to reflect adjournment",
+                "owner": "Andrew",
+                "project_name": "Executive Director",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-09-22",
+                "description": "Policy Development and Review Process",
+                "owner": "Andrew, Sherif",
                 "project_name": "Executive Director",
                 "status": "on-time"
             },
@@ -463,6 +448,13 @@
                 "status": "future"
             },
             {
+                "milestone_date": "2020-09-22",
+                "description": "New analytic traffics KPIs",
+                "owner": "Andrew",
+                "project_name": "Executive Director",
+                "status": "on-time"
+            },
+            {
                 "milestone_date": "2020-11-22",
                 "description": "2021 Budget",
                 "owner": "Andrew",
@@ -480,6 +472,20 @@
                 "milestone_date": "2020-12-31",
                 "description": "Operationalize quarterly OWASP training",
                 "owner": "Andrew, Emily",
+                "project_name": "Executive Director",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-11-15",
+                "description": "Review trainer splits",
+                "owner": "Emily, Andrew",
+                "project_name": "Executive Director",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2021-01-05",
+                "description": "Review leadership promotion re: mediation",
+                "owner": "Harold, Andrew",
                 "project_name": "Executive Director",
                 "status": "future"
             }
