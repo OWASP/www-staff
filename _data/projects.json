@@ -127,67 +127,18 @@
         "name": "Virtual AppSec Days Summer of Security",
         "milestones": [
             {
-                "milestone_date": "2020-08-17",
-                "description": "Send Scholarship codes",
-                "owner": "Emily",
-                "project_name": "Virtual AppSec Days Summer of Security",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-08-20",
-                "description": "Dress Rehearsal NOON ET",
-                "owner": "Harold",
-                "project_name": "Virtual AppSec Days Summer of Security",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-08-20",
-                "description": "Send Trainers course Rosters",
-                "owner": "Emily",
-                "project_name": "Virtual AppSec Days Summer of Security",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-08-21",
-                "description": "Send KBYG Email",
-                "owner": "Emily",
-                "project_name": "Virtual AppSec Days Summer of Security",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-08-22",
-                "description": "Modify Event Menu, Event YML file, and banner",
-                "owner": "Harold",
-                "project_name": "Virtual AppSec Days Summer of Security",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-08-25",
-                "description": "Event Day 1",
-                "owner": "Emily",
-                "project_name": "Virtual AppSec Days Summer of Security",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-08-26",
-                "description": "Event Day 2",
-                "owner": "Emily",
-                "project_name": "Virtual AppSec Days Summer of Security",
-                "status": "on-time"
-            },
-            {
                 "milestone_date": "2020-08-26",
                 "description": "Send Post Event Survey",
                 "owner": "Alonna",
                 "project_name": "Virtual AppSec Days Summer of Security",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-08-26",
                 "description": "Send Thank you email",
                 "owner": "Emily",
                 "project_name": "Virtual AppSec Days Summer of Security",
-                "status": "on-time"
+                "status": "overdue"
             }
         ],
         "description": "tle: Virtual AppSec Days Summer of Securitylayout: full-widthdate: June-August 2020---# Virtual AppSec Days Summer of Security  ```June 23 - 24, 2020July 28 - 29, 2020August 25 - 26, 2020```The OWASP Foundation is hosting Virtual Trainings during our Virtual AppSec Days Summer of Security events taking place June - August 2020.  The courses will be 8-hour virtual training courses. The courses will be offered in 4-hour blocks over 2 days. The trainings will begin at 12:00pm Eastern Time (USA)/6:00pm Central European Time.",
@@ -510,23 +461,9 @@
         "name": "Global AppSec - Virtual",
         "milestones": [
             {
-                "milestone_date": "2020-08-17",
-                "description": "Registration Opens",
-                "owner": "Emily",
-                "project_name": "Global AppSec - Virtual",
-                "status": "overdue"
-            },
-            {
                 "milestone_date": "2020-09-15",
                 "description": "All recorded presentations collected",
                 "owner": "Alonna",
-                "project_name": "Global AppSec - Virtual",
-                "status": "on-time"
-            },
-            {
-                "milestone_date": "2020-09-15",
-                "description": "Virtual platform finalized",
-                "owner": "Emily",
                 "project_name": "Global AppSec - Virtual",
                 "status": "on-time"
             },
