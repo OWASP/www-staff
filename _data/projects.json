@@ -200,14 +200,14 @@
                 "description": "3 x Town Halls",
                 "owner": "Andrew",
                 "project_name": "Executive Director",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-08-27",
                 "description": "Theme Calendar for Marketing",
                 "owner": "Andrew, Alonna",
                 "project_name": "Executive Director",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-08-31",
@@ -506,22 +506,8 @@
                 "status": "on-time"
             },
             {
-                "milestone_date": "2020-09-15",
-                "description": "Contract Packet Ready for Board Review",
-                "owner": "Mike",
-                "project_name": "Associate Executive Director Off-boarding",
-                "status": "on-time"
-            },
-            {
                 "milestone_date": "2020-09-22",
                 "description": "Present to Board Trademark Line of Business Concept",
-                "owner": "Mike",
-                "project_name": "Associate Executive Director Off-boarding",
-                "status": "on-time"
-            },
-            {
-                "milestone_date": "2020-09-22",
-                "description": "Encourage consensus acceptance of Contract Packet at Board Meeting (Vote not needed)",
                 "owner": "Mike",
                 "project_name": "Associate Executive Director Off-boarding",
                 "status": "on-time"
