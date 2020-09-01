@@ -214,84 +214,84 @@
                 "description": "Schedule Board Virtual F2F",
                 "owner": "Andrew",
                 "project_name": "Executive Director",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-08-31",
                 "description": "nullcon / Paytou MoU",
                 "owner": "Andrew",
                 "project_name": "Executive Director",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-08-31",
                 "description": "TWCSA MoU",
                 "owner": "Andrew",
                 "project_name": "Executive Director",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-08-31",
                 "description": "Grants policy with Mike",
                 "owner": "Andrew, Mike",
                 "project_name": "Executive Director",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-08-31",
                 "description": "20th Anniversary planning and book first panel",
                 "owner": "Andrew",
                 "project_name": "Executive Director",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-08-31",
                 "description": "Finalize Performance Reviews",
                 "owner": "Andrew, Mike",
                 "project_name": "Executive Director",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-08-31",
                 "description": "Corporate monthly subscription",
                 "owner": "Andrew, Harold, Kelly",
                 "project_name": "Executive Director",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-08-31",
                 "description": "General counsel retainer",
                 "owner": "Andrew",
                 "project_name": "Executive Director",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-08-31",
                 "description": "Committees 2.0 gap analysis with Owen",
                 "owner": "Andrew",
                 "project_name": "Executive Director",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-08-31",
                 "description": "Membership drive strategy",
                 "owner": "Andrew, Lisa",
                 "project_name": "Executive Director",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-08-31",
                 "description": "OWASP Twenty Years",
                 "owner": "Andrew, Emily",
                 "project_name": "Executive Director",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-08-31",
                 "description": "Additional trademarks",
                 "owner": "Andrew, Mike",
                 "project_name": "Executive Director",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-09-01",
@@ -479,7 +479,7 @@
                 "description": "Ondemand content launch",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Virtual",
-                "status": "future"
+                "status": "on-time"
             }
         ],
         "description": "```Training Days: October 19-21, 2020Conference Days: October 22-23, 2020```Welcome to Global AppSec San Francisco 2020 presented by the OWASP Foundation. The Global AppSec Conference is the premier application security conference for developers and security experts. Designed for private and public sector infosec professionals, the OWASP three day training and two day conference equips developers, defenders, and advocates to build a more secure web.Join us for a celebration of leading application security technologies, speakers, prospects, and community, in a unique event that will build on everything you already know to expect from an OWASP Global Conference.",
@@ -503,7 +503,7 @@
                 "description": "Complete Staff Performance Reviews",
                 "owner": "Mike",
                 "project_name": "Associate Executive Director Off-boarding",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-09-22",
@@ -597,7 +597,7 @@
                 "description": "Training Schedule Announced",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin 2021",
-                "status": "future"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-12-01",
@@ -611,7 +611,7 @@
                 "description": "Open CFP",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin 2021",
-                "status": "future"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-10-31",
