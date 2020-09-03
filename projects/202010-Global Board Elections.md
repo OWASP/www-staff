@@ -15,13 +15,13 @@ layout: full-width
 
 ## Milestones
 
-* [ ]  2020-08-15, Call for Candidates  [Dawn Aitken]
-* [ ]  2020-08-15, Submission for Questions from the community for the candidate interviews  [Dawn Aitken]
-* [ ]  2020-08-22, Email Reminder for Call for Candidates and Questions from the community for the candidate interviews  [Dawn Aitken]
-* [ ]  2020-08-29, Email Reminder for Call for Candidates and Questions from the community for the candidate interviews  [Dawn Aitken]
-* [ ]  2020-08-31, Call for Candidates and Questions from the community for the candidate interviews closes  [Dawn Aitken]
-* [ ]  2020-09-01, Verification of Candidates  [Dawn Aitken]
-* [ ]  2020-09-01, Email Reminder regarding Membership is a required to vote  [Dawn Aitken]
+* [X]  2020-08-15, Call for Candidates  [Dawn Aitken]
+* [X]  2020-08-15, Submission for Questions from the community for the candidate interviews  [Dawn Aitken]
+* [X]  2020-08-22, Email Reminder for Call for Candidates and Questions from the community for the candidate interviews  [Dawn Aitken]
+* [X]  2020-08-29, Email Reminder for Call for Candidates and Questions from the community for the candidate interviews  [Dawn Aitken]
+* [X]  2020-08-31, Call for Candidates and Questions from the community for the candidate interviews closes  [Dawn Aitken]
+* [X]  2020-09-01, Verification of Candidates  [Dawn Aitken]
+* [X]  2020-09-01, Email Reminder regarding Membership is a required to vote  [Dawn Aitken]
 * [ ]  2020-09-10, Candidates announced via email and social media  [Dawn Aitken]
 * [ ]  2020-09-15, The top (6-7) questions from the community will be selected and shared with candidates  [Dawn Aitken]
 * [ ]  2020-09-15, Email Reminder regarding Membership is a required to vote  [Dawn Aitken]
