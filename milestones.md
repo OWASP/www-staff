@@ -5,7 +5,12 @@ layout: full-width
 
 ---
 
-{% assign owners_unique = site.data.milestones | map: 'owner' | join: ',' | split: ',' | uniq | sort %}
+
+{% assign almost_unique = site.data.milestones | map: 'owner' | join: ',' | split: ',' | uniq | sort %}
+{% capture cap_owners_unique %}{% for owner in almost_unique %}{{ owner | strip }},{% endfor %}{% endcapture %}
+
+{% assign owners_unique = cap_owners_unique | split: ',' | uniq %}
+
 
 <div class='milestones'>
 <h2>Organizational View</h2>
@@ -34,7 +39,7 @@ layout: full-width
 <ul>
     {% for milestone in site.data.milestones %}
     {% assign project = site.data.projects | where: 'name', milestone.project_name | first %}
-        {% if milestone.owner == owner %}
+        {% if milestone.owner contains owner %}
         <li class='{{ milestone.status }}'> {{ milestone.milestone_date }}:&nbsp;&nbsp;<a href='{{ project.url }}'>{{ milestone.project_name }}</a>&nbsp;&nbsp;
             {{ milestone.description }}&nbsp;&nbsp;
             Owner: {{ milestone.owner }}
