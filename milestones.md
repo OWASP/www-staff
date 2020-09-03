@@ -5,7 +5,7 @@ layout: full-width
 
 ---
 
-{% assign owners_unique = site.data.milestones | map: 'owner' | join: ',' | split: ',' | uniq | sort %}
+{% assign owners_unique = site.data.milestones | map: 'owner' | join: ',' | split: ',' | strip | uniq | sort %}
 
 <div class='milestones'>
 <h2>Organizational View</h2>
