@@ -182,6 +182,27 @@
         "status": "on-time"
     },
     {
+        "milestone_date": "2020-09-10",
+        "description": "Candidates announced via email and social media",
+        "owner": "Dawn Aitken",
+        "project_name": "Project Template",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2020-09-15",
+        "description": "The top (6-7) questions from the community will be selected and shared with candidates",
+        "owner": "Dawn Aitken",
+        "project_name": "Project Template",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2020-09-15",
+        "description": "Email Reminder regarding Membership is a required to vote",
+        "owner": "Dawn Aitken",
+        "project_name": "Project Template",
+        "status": "on-time"
+    },
+    {
         "milestone_date": "2020-09-15",
         "description": "All recorded presentations collected",
         "owner": "Alonna",
@@ -266,10 +287,45 @@
         "status": "on-time"
     },
     {
+        "milestone_date": "2020-09-25",
+        "description": "Email Reminder regarding Membership is a required to vote",
+        "owner": "Dawn Aitken",
+        "project_name": "Project Template",
+        "status": "on-time"
+    },
+    {
         "milestone_date": "2020-09-30",
         "description": "Meet with Stack overflow",
         "owner": "Andrew",
         "project_name": "Executive Director",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2020-09-30",
+        "description": "Candidates to post their videos",
+        "owner": "Dawn Aitken",
+        "project_name": "Project Template",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2020-09-30",
+        "description": "Paid membership deadline",
+        "owner": "Dawn Aitken",
+        "project_name": "Project Template",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2020-10-01",
+        "description": "Recordings to be posted on website",
+        "owner": "Dawn Aitken",
+        "project_name": "Project Template",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2020-10-01",
+        "description": "Email and social media notifying the community that the recordings are posted",
+        "owner": "Dawn Aitken",
+        "project_name": "Project Template",
         "status": "on-time"
     },
     {
@@ -295,6 +351,13 @@
     },
     {
         "milestone_date": "2020-10-15",
+        "description": "Voting opens",
+        "owner": "Dawn Aitken",
+        "project_name": "Project Template",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-10-15",
         "description": "General Service Contract Signed",
         "owner": "Emily",
         "project_name": "Global AppSec - Dublin 2021",
@@ -308,10 +371,31 @@
         "status": "future"
     },
     {
+        "milestone_date": "2020-10-22",
+        "description": "Email reminder for voting",
+        "owner": "Dawn Aitken",
+        "project_name": "Project Template",
+        "status": "future"
+    },
+    {
         "milestone_date": "2020-10-27",
         "description": "LASCON 2020",
         "owner": "No Owner",
         "project_name": "LASCON 2020",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-10-28",
+        "description": "Email reminder for voting",
+        "owner": "Dawn Aitken",
+        "project_name": "Project Template",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-10-30",
+        "description": "Voting closes",
+        "owner": "Dawn Aitken",
+        "project_name": "Project Template",
         "status": "future"
     },
     {
@@ -323,9 +407,23 @@
     },
     {
         "milestone_date": "2020-10-31",
+        "description": "Results shared with all candidate",
+        "owner": "Dawn Aitken",
+        "project_name": "Project Template",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-10-31",
         "description": "Close CFP",
         "owner": "Emily",
         "project_name": "Global AppSec - Dublin 2021",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-11-01",
+        "description": "Results shared via email and social media",
+        "owner": "Dawn Aitken",
+        "project_name": "Project Template",
         "status": "future"
     },
     {
