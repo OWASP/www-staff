@@ -1,6 +1,6 @@
 ---
 
-title: Project Template
+title: 2020 Global Board Elections
 layout: full-width
 
 ---
