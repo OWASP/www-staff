@@ -14,7 +14,7 @@
                 "description": "Labor Day",
                 "owner": "No Owner",
                 "project_name": "OWASP Staff Holidays",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-11-03",
