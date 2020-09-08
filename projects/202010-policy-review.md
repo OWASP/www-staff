@@ -26,10 +26,10 @@ layout: full-width
 |  7. [Social Media](/www-policy/operational/social-media) | 5-Aug | 26-Aug | 25-Sep |
 |  8. [Mailing Lists](/www-policy/operational/mailing-list) | 14-Aug | 4-Sep | 4-Oct |
 |  9. [Expense Policy](/www-policy/operational/expense-reimbursement) | 14-Aug | 4-Sep | 4-Oct |
-|  10. [Branding Guidelines](/www-policy/operational/branding) | 2-Sep | 23-Sep | 23-Oct |
-|  11. [Leaders](/www-policy/operational/leader) | 9-Sep | 30-Sep | 30-Oct |
-|  12. Local Partnerships - under development | 9-Sep | 30-Sep | 30-Oct |
-|  13. [Committees](/www-policy/operational/committees) | 9-Sep | 30-Sep | 30-Oct |
+|  10. [Branding Guidelines](/www-policy/operational/branding) | 9-Sep | 30-Sep | 30-Oct  |
+|  11. [Leaders](/www-policy/operational/leader) | 16-Sep | 07-Oct | 28-Oct |
+|  12. Local Partnerships - under development | 16-Sep | 07-Oct | 28-Oct |
+|  13. [Committees](/www-policy/operational/committees) | 16-Sep | 07-Oct | 28-Oct |
 |  14. [Chapter Procedure (formerly Handbook)](/www-policy/guidebook/chapter-leader)* | TBD | TBD | TBD |
 |  15. [Chapters](/www-policy/operational/chapters)* | TBD | TBD | TBD |
 
