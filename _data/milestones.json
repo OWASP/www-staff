@@ -232,6 +232,13 @@
     },
     {
         "milestone_date": "2020-10-01",
+        "description": "Ondemand content launch",
+        "owner": "Emily",
+        "project_name": "Global AppSec - Virtual",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2020-10-01",
         "description": "Recordings to be posted on website",
         "owner": "Dawn",
         "project_name": "2020 Global Board Elections",
@@ -242,13 +249,6 @@
         "description": "Email and social media notifying the community that the recordings are posted",
         "owner": "Dawn",
         "project_name": "2020 Global Board Elections",
-        "status": "on-time"
-    },
-    {
-        "milestone_date": "2020-10-01",
-        "description": "Ondemand content launch",
-        "owner": "Emily",
-        "project_name": "Global AppSec - Virtual",
         "status": "on-time"
     },
     {
