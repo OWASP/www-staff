@@ -70,8 +70,8 @@ The courses will be 8-hour virtual training courses. The courses will be offered
 - [X] 2020-08-22, Modify Event Menu, Event YML file, and banner, [Harold]
 - [X] 2020-08-25, Event Day 1, [Emily]
 - [X] 2020-08-26, Event Day 2, [Emily]
-- [ ] 2020-08-26, Send Post Event Survey, [Alonna]
-- [ ] 2020-08-26, Send Thank you email, [Emily]
+- [X] 2020-08-26, Send Post Event Survey, [Alonna]
+- [X] 2020-08-26, Send Thank you email, [Emily]
 
 ## Leadership
 
