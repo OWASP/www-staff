@@ -409,13 +409,6 @@
         "name": "2020 Global Board Elections",
         "milestones": [
             {
-                "milestone_date": "2020-09-10",
-                "description": "Candidates announced via email and social media",
-                "owner": "Dawn",
-                "project_name": "2020 Global Board Elections",
-                "status": "on-time"
-            },
-            {
                 "milestone_date": "2020-09-15",
                 "description": "The top (6-7) questions from the community will be selected and shared with candidates",
                 "owner": "Dawn",
