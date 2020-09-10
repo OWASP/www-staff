@@ -47,10 +47,10 @@ sf.globalappsec.org
 - [x] 2020-07-24, Contact speakers and trainers about virtual platform, [Alonna]
 - [x] 2020-08-01, AV Contract Signed, [Emily]
 - [x] 2020-08-15, N/A SWAG Ordered, [Emily]
-- [ ] 2020-09-15, All recorded presentations collected, [Alonna]
+- [ ] 2020-09-20, All recorded presentations collected, [Alonna]
 - [x] 2020-09-15, Virtual platform finalized, [Emily]
 - [x] 2020-09-15, N/A Signage Ordered, [Emily]
-- [ ] 2020-09-15, Volunteers finalized and communication initiated, [Emily]
+- [X] 2020-09-15, CANCELED Volunteers finalized and communication initiated, [Emily]
 - [ ] 2020-10-01, Ondemand content launch, [Emily]
 - [x] 2020-10-01, N/A F&B Order Complete, [Emily]
 
