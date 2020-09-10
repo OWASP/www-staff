@@ -92,13 +92,6 @@
     },
     {
         "milestone_date": "2020-09-01",
-        "description": "Send a copy of the newly revised Roberts Rules of Order to all Board members",
-        "owner": "Dawn",
-        "project_name": "Executive Director",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-09-01",
         "description": "Review Fundraising and Donations Strategy",
         "owner": "Andrew, Mike",
         "project_name": "Executive Director",
@@ -109,13 +102,6 @@
         "description": "Chapter and Event co-branding strategy",
         "owner": "Andrew, Emily",
         "project_name": "Executive Director",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-09-07",
-        "description": "Labor Day",
-        "owner": "No Owner",
-        "project_name": "OWASP Staff Holidays",
         "status": "overdue"
     },
     {
