@@ -22,7 +22,7 @@ layout: full-width
 * [X] 2020-08-31, Call for Candidates and Questions from the community for the candidate interviews closes  [Dawn]
 * [X] 2020-09-01, Verification of Candidates  [Dawn]
 * [X] 2020-09-01, Email Reminder regarding Membership is a required to vote  [Dawn]
-* [ ] 2020-09-10, Candidates announced via email and social media  [Dawn]
+* [X] 2020-09-10, Candidates announced via email and social media  [Dawn]
 * [ ] 2020-09-15, The top (6-7) questions from the community will be selected and shared with candidates  [Dawn]
 * [ ] 2020-09-15, Email Reminder regarding Membership is a required to vote  [Dawn]
 * [ ] 2020-09-25, Email Reminder regarding Membership is a required to vote [Dawn]
