@@ -105,13 +105,6 @@
         "status": "overdue"
     },
     {
-        "milestone_date": "2020-09-10",
-        "description": "Candidates announced via email and social media",
-        "owner": "Dawn",
-        "project_name": "2020 Global Board Elections",
-        "status": "on-time"
-    },
-    {
         "milestone_date": "2020-09-15",
         "description": "Review Events strategy",
         "owner": "Andrew, Emily",
