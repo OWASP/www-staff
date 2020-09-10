@@ -11,7 +11,7 @@ layout: full-width
 - [x] 2020-02-17, Presidents Day
 - [x] 2020-05-25, Memorial Day
 - [x] 2020-07-03, Independence Day (Observed)
-- [ ] 2020-09-07, Labor Day
+- [x] 2020-09-07, Labor Day
 - [ ] 2020-11-03, Federal Election Day
 - [ ] 2020-11-26, Thanksgiving Day
 - [ ] 2020-11-27, Day after Thanksgiving
