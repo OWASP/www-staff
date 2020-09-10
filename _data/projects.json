@@ -530,16 +530,9 @@
         "name": "LASCON 2020",
         "milestones": [
             {
-                "milestone_date": "2020-10-27",
-                "description": "LASCON 2020",
-                "owner": "No Owner",
-                "project_name": "LASCON 2020",
-                "status": "future"
-            },
-            {
                 "milestone_date": "2020-12-27",
                 "description": "Close P&L",
-                "owner": "Emily",
+                "owner": "Dawn",
                 "project_name": "LASCON 2020",
                 "status": "future"
             }
