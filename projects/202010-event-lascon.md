@@ -34,8 +34,8 @@ Each project will have a 2-3 paragraph overview narrative. Keep to the key top p
 * [X] 2020-03-10, 2nd Payment of $3,000 due to venue, [Emily]
 * [x] 2020-06-17, Go-no-go decision for live event, [Emily]
 * [x] 2020-06-28, Last Day to notify Norris Convention Center of cancellation, [Alonna]
-* [ ] 2020-10-27, LASCON 2020
-* [ ] 2020-12-27, Close P&L, [Emily]
+* [x] 2020-10-27, LASCON 2020 - EVENT CANCELED
+* [ ] 2020-12-27, Close P&L, [Dawn]
 
 ## Sponsorships
 
