@@ -42,7 +42,7 @@ If you want to make an ad hoc appointment with me, please choose an [appointment
 * [ ] 2020-08-31, Additional trademarks, [Andrew, Mike]
 * [x] 2020-09-01, Postpone the Dublin event event & transition sponsors, [Emily, Kelly]
 * [ ] 2020-09-15, Review Events strategy, [Andrew, Emily]
-* [ ] 2020-09-01, Send a copy of the newly revised Roberts Rules of Order to all Board members, [Dawn]
+* [x] 2020-09-01, Send a copy of the newly revised Roberts Rules of Order to all Board members, [Dawn]
 * [ ] 2020-09-01, Review Fundraising and Donations Strategy, [Andrew, Mike] 
 * [ ] 2020-09-22, Add bylaw and update other policies to prevent memberships being paid by Foundation, [Andrew]
 * [ ] 2020-09-22, Update minutes from special Board meeting to reflect adjournment, [Andrew]
