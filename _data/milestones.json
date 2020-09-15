@@ -263,14 +263,14 @@
         "description": "Voting opens",
         "owner": "Dawn",
         "project_name": "2020 Global Board Elections",
-        "status": "future"
+        "status": "on-time"
     },
     {
         "milestone_date": "2020-10-15",
         "description": "General Service Contract Signed",
         "owner": "Emily",
         "project_name": "Global AppSec - Dublin 2021",
-        "status": "future"
+        "status": "on-time"
     },
     {
         "milestone_date": "2020-10-19",
