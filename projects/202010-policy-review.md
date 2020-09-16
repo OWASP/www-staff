@@ -17,9 +17,9 @@ layout: full-width
 
 |   | Notice of Draft | Comments Close | Team Deadline | Comments |
 | --- | --- | --- | --- | --- |
-|  1. [Donations](/www-policy/operational/donations) | 22-Jul | 12-Aug | 11-Sep | [Feedback](/www-staff/files/2020-policy-review-feedback/Policy-Feedback-donations.pdf) |
-|  2. [Conference & Event Attendee](/www-policy/operational/conferences-events) | 22-Jul | 12-Aug | 11-Sep |  [Feedback](/www-staff/files/2020-policy-review-feedback/Policy-Feedback-event-attendee.pdf) |
-|  3. [Global AppSec Program Teams](/www-policy/operational/program-team) | 22-Jul | 12-Aug | 11-Sep | [Feedback](/www-staff/files/2020-policy-review-feedback/Policy-Feedback-global-event-teams.pdf)  |
+|  1. [Donations](/www-policy/operational/donations) | 22-Jul | 12-Aug | 11-Sep | [Download](/www-staff/files/2020-policy-review-feedback/Policy-Feedback-donations.pdf) |
+|  2. [Conference & Event Attendee](/www-policy/operational/conferences-events) | 22-Jul | 12-Aug | 11-Sep | [Download](/www-staff/files/2020-policy-review-feedback/Policy-Feedback-event-attendee.pdf) |
+|  3. [Global AppSec Program Teams](/www-policy/operational/program-team) | 22-Jul | 12-Aug | 11-Sep | [Download](/www-staff/files/2020-policy-review-feedback/Policy-Feedback-global-event-teams.pdf)  |
 |  4. [Membership](/www-policy/operational/membership) | 29-Jul | 19-Aug | 18-Sep |Coming soon |
 |  5. [Events](/www-policy/operational/events) | 29-Jul | 19-Aug | 18-Sep |Coming soon |
 |  6. [Elections](/www-policy/operational/election)| 5-Aug | 26-Aug | 25-Sep |Coming soon |
