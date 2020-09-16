@@ -94,11 +94,10 @@ layout: full-width
 - [x] 2020-07-17, Kick off call with Counsel regarding Contracts, [Mike]
 - [x] 2020-07-20, Launch Policy Review Process, [Mike]
 - [x] 2020-07-22, Migrate CC info to Andrew, [Mike]
-- [ ] 2020-08-31, Complete Staff Performance Reviews, [Mike]
+- [x] 2020-08-31, Complete Staff Performance Reviews - Completed 18-Sep, [Mike]
 - [ ] 2020-09-22, Present to Board Trademark Line of Business Concept, [Mike]
 
 ## Remaining Board Meetings
-- 28-July
 - 22-September
 - 27-October
 
