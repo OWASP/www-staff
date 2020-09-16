@@ -109,28 +109,21 @@
         "description": "Review Events strategy",
         "owner": "Andrew, Emily",
         "project_name": "Executive Director",
-        "status": "on-time"
-    },
-    {
-        "milestone_date": "2020-09-15",
-        "description": "The top (6-7) questions from the community will be selected and shared with candidates",
-        "owner": "Dawn",
-        "project_name": "2020 Global Board Elections",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-09-15",
         "description": "Email Reminder regarding Membership is a required to vote",
         "owner": "Dawn",
         "project_name": "2020 Global Board Elections",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-09-15",
         "description": "Present items 1-3 for Board approval",
         "owner": "Mike",
         "project_name": "2020 Policy Review",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-09-20",
