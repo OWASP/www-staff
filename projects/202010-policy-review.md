@@ -47,6 +47,6 @@ layout: full-width
 
 - [x] 2020-07-17, Kickoff email sent to Members, [Mike]
 - [x] 2020-07-28, Kickoff Meeting of Policy Review Team, [Mike]
-- [ ] 2020-09-15, Present items 1-3 for Board approval, [Mike]
+- [x] 2020-09-15, Present items 1-3 for Board approval, [Mike]
 - [ ] 2020-10-19, Present items 4-9 for Board approval, [Mike]
 - [ ] 2020-11-16, Present remaining items for Board approval, [Andrew]
