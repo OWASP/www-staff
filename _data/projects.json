@@ -501,13 +501,6 @@
         "name": "Associate Executive Director Off-boarding",
         "milestones": [
             {
-                "milestone_date": "2020-08-31",
-                "description": "Complete Staff Performance Reviews",
-                "owner": "Mike",
-                "project_name": "Associate Executive Director Off-boarding",
-                "status": "overdue"
-            },
-            {
                 "milestone_date": "2020-09-22",
                 "description": "Present to Board Trademark Line of Business Concept",
                 "owner": "Mike",
