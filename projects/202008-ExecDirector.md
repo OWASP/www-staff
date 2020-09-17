@@ -30,7 +30,7 @@ If you want to make an ad hoc appointment with me, please choose an [appointment
 * [ ] 2020-09-22, Project Sabbatical Plan, [Andrew, Harold]
 * [ ] 2020-09-22, Update minutes from special Board meeting to reflect adjournment, [Andrew]
 * [ ] 2020-09-30, Meet with Stack overflow, [Andrew]
-* [ ] 2020-09-31, Finalize Performance Reviews, [Mike, Andrew]
+* [ ] 2020-09-30, Finalize Performance Reviews, [Mike, Andrew]
 * [ ] 2020-10-20, General counsel retainer, [Andrew]
 * [ ] 2020-10-20, Review Fundraising and Donations Strategy, [Andrew, Mike]
 * [ ] 2020-10-28, Mike's last day send off, [Andrew, Mike]
