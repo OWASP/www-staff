@@ -24,7 +24,7 @@ layout: full-width
 * [X] 2020-09-01, Email Reminder regarding Membership is a required to vote  [Dawn]
 * [X] 2020-09-10, Candidates announced via email and social media  [Dawn]
 * [X] 2020-09-15, The top (6-7) questions from the community will be selected and shared with candidates  [Dawn]
-* [ ] 2020-09-15, Email Reminder regarding Membership is a required to vote  [Dawn]
+* [X] 2020-09-15, Email Reminder regarding Membership is a required to vote  [Dawn]
 * [ ] 2020-09-25, Email Reminder regarding Membership is a required to vote [Dawn]
 * [ ] 2020-09-30, Candidates to post their videos [Dawn]
 * [ ] 2020-09-30, Paid membership deadline [Dawn]
