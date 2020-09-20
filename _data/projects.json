@@ -255,14 +255,14 @@
                 "description": "General counsel retainer",
                 "owner": "Andrew",
                 "project_name": "Executive Director",
-                "status": "future"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-10-20",
                 "description": "Review Fundraising and Donations Strategy",
                 "owner": "Andrew, Mike",
                 "project_name": "Executive Director",
-                "status": "future"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-10-28",
@@ -463,7 +463,7 @@
                 "description": "Present to Board Trademark Line of Business Concept",
                 "owner": "Mike",
                 "project_name": "Associate Executive Director Off-boarding",
-                "status": "future"
+                "status": "on-time"
             }
         ],
         "description": "",
@@ -593,5 +593,88 @@
             }
         ],
         "url": "https://owasp.org/www-staff/projects/202102-GlobalAppSec-Dublin"
+    },
+    {
+        "name": "ORG Domain Email Offboarding",
+        "milestones": [
+            {
+                "milestone_date": "2020-09-23",
+                "description": "Update leaders.json to include \"Date Created information\"",
+                "owner": "Harold",
+                "project_name": "ORG Domain Email Offboarding",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-09-27",
+                "description": "Project \"A\" Complete ready for deployment",
+                "owner": "Christian",
+                "project_name": "ORG Domain Email Offboarding",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-09-29",
+                "description": "Project \"A\" Regression testing complete",
+                "owner": "Harold",
+                "project_name": "ORG Domain Email Offboarding",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-10-01",
+                "description": "Deploy Project \"A\" into production",
+                "owner": "Harold",
+                "project_name": "ORG Domain Email Offboarding",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-10-05",
+                "description": "Project \"B\" Complete ready for deployment",
+                "owner": "Christian",
+                "project_name": "ORG Domain Email Offboarding",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-10-07",
+                "description": "Project \"B\" Regression testing complete",
+                "owner": "Harold",
+                "project_name": "ORG Domain Email Offboarding",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-10-08",
+                "description": "Deploy Project \"B\" into production",
+                "owner": "Harold",
+                "project_name": "ORG Domain Email Offboarding",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-10-15",
+                "description": "Validation of six-days of production for errors",
+                "owner": "Harold",
+                "project_name": "ORG Domain Email Offboarding",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-10-16",
+                "description": "Remove Stripe customers marked cleanup-customer = \"true\"",
+                "owner": "Harold",
+                "project_name": "ORG Domain Email Offboarding",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-10-16",
+                "description": "Project Complete",
+                "owner": "Mike",
+                "project_name": "ORG Domain Email Offboarding",
+                "status": "on-time"
+            }
+        ],
+        "description": "To reduce manual work, this project's primary deliverable is a robot that can be nightly run to hygeine the OWASP.org email domain. Notably the primary script will disable owasp.org email addresses of former members and outgoing Leaders. The process will NOT onboard nor reactive \"lost\" emails as that process is outside the scope of this project. Additionally this project includes a small amount of clean up work with regard to our Stipe Instance. All of these projects will be written in Python and hosted in the OWASP Azure instance.",
+        "leaders": [
+            {
+                "name": "Harold Blankenship ",
+                "email": "Harold.blankenship@owasp.com"
+            }
+        ],
+        "url": "https://owasp.org/www-staff/projects/email-offboarding"
     }
 ]
