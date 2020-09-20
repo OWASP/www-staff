@@ -84,10 +84,31 @@
         "status": "on-time"
     },
     {
+        "milestone_date": "2020-09-23",
+        "description": "Update leaders.json to include \"Date Created information\"",
+        "owner": "Harold",
+        "project_name": "ORG Domain Email Offboarding",
+        "status": "on-time"
+    },
+    {
         "milestone_date": "2020-09-25",
         "description": "Email Reminder regarding Membership is a required to vote",
         "owner": "Dawn",
         "project_name": "2020 Global Board Elections",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2020-09-27",
+        "description": "Project \"A\" Complete ready for deployment",
+        "owner": "Christian",
+        "project_name": "ORG Domain Email Offboarding",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2020-09-29",
+        "description": "Project \"A\" Regression testing complete",
+        "owner": "Harold",
+        "project_name": "ORG Domain Email Offboarding",
         "status": "on-time"
     },
     {
@@ -154,10 +175,38 @@
         "status": "on-time"
     },
     {
+        "milestone_date": "2020-10-01",
+        "description": "Deploy Project \"A\" into production",
+        "owner": "Harold",
+        "project_name": "ORG Domain Email Offboarding",
+        "status": "on-time"
+    },
+    {
         "milestone_date": "2020-10-05",
         "description": "owasp.org domain automation",
         "owner": "Mike",
         "project_name": "Associate Executive Director Off-boarding",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2020-10-05",
+        "description": "Project \"B\" Complete ready for deployment",
+        "owner": "Christian",
+        "project_name": "ORG Domain Email Offboarding",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2020-10-07",
+        "description": "Project \"B\" Regression testing complete",
+        "owner": "Harold",
+        "project_name": "ORG Domain Email Offboarding",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2020-10-08",
+        "description": "Deploy Project \"B\" into production",
+        "owner": "Harold",
+        "project_name": "ORG Domain Email Offboarding",
         "status": "on-time"
     },
     {
@@ -182,6 +231,27 @@
         "status": "on-time"
     },
     {
+        "milestone_date": "2020-10-15",
+        "description": "Validation of six-days of production for errors",
+        "owner": "Harold",
+        "project_name": "ORG Domain Email Offboarding",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2020-10-16",
+        "description": "Remove Stripe customers marked cleanup-customer = \"true\"",
+        "owner": "Harold",
+        "project_name": "ORG Domain Email Offboarding",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2020-10-16",
+        "description": "Project Complete",
+        "owner": "Mike",
+        "project_name": "ORG Domain Email Offboarding",
+        "status": "on-time"
+    },
+    {
         "milestone_date": "2020-10-19",
         "description": "Present items 4-9 for Board approval",
         "owner": "Mike",
@@ -193,21 +263,21 @@
         "description": "General counsel retainer",
         "owner": "Andrew",
         "project_name": "Executive Director",
-        "status": "future"
+        "status": "on-time"
     },
     {
         "milestone_date": "2020-10-20",
         "description": "Review Fundraising and Donations Strategy",
         "owner": "Andrew, Mike",
         "project_name": "Executive Director",
-        "status": "future"
+        "status": "on-time"
     },
     {
         "milestone_date": "2020-10-20",
         "description": "Present to Board Trademark Line of Business Concept",
         "owner": "Mike",
         "project_name": "Associate Executive Director Off-boarding",
-        "status": "future"
+        "status": "on-time"
     },
     {
         "milestone_date": "2020-10-22",
