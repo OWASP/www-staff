@@ -40,49 +40,48 @@ To reduce manual work, this project's primary deliverable is a robot that can be
 ## Project A - Stripe Clean
 1. Export Stripe customer data as a backup and load into local store for development
 2. Add meta-data to local store customer data
-  1. cleanup-case
-  2. cleanup-customer
+    1. cleanup-case
+    2. cleanup-customer
 3. Validate #2 had no errors
 4. Run #2 against production environment
 5. Modify Azure functions to injest email data entry as lowercase prior to saving in Stripe or Mailchimp
-  1. [Donation Form](https://github.com/OWASP/owasp.github.io/blob/master/pages/donate.md)
-  2. [Join Form](https://github.com/OWASP/owasp.github.io/blob/master/pages/membership.md)
-  3. [Manage-membership Form](https://github.com/OWASP/owasp.github.io/blob/master/pages/manage-membership.md)
-  4. Events Form - Harold we need link
+    1. [Donation Form](https://github.com/OWASP/owasp.github.io/blob/master/pages/donate.md)
+    2. [Join Form](https://github.com/OWASP/owasp.github.io/blob/master/pages/membership.md)
+    3. [Manage-membership Form](https://github.com/OWASP/owasp.github.io/blob/master/pages/manage-membership.md)
+    4. Events Form - Harold we need link
   
 
 ## Project B - Email Hygiene
 1. Export Google owasp.org email domain and load into local store for development
 2. Using production leaders.json file and Stripe userdata, add meta-data to local store
-  1. cleanup-disable
-  2. cleanup-date
+    1. cleanup-disable
+    2. cleanup-date
 3. While processing data check for the following errors:
-  1. leaders.json file should be date-stamped from yesterday
-  2. validate connection to Google Groups
-  3. validate connection to Stripe
+    1. leaders.json file should be date-stamped from yesterday
+    2. validate connection to Google Groups
+    3. validate connection to Stripe
 3. Using Sendgrid send email to admin@owasp.com with the following:
-  1. Subject: Daily Email Cleanup, x errors, y addresses disabled
-  2. Body: leaders.json date yyyy-mm-dd [OK/Fail]
-  3.       Connection to Google Groups  [OK/Fail]
-  4.       Connection to Stripe         [OK/Fail]
-  5.
-  6.       Processing started yyyy-mm-dd hh:mm:ss and completed yyyy-mm-dd hh:mm:ss
-  7.       Addresses Disable: y
-  8.       Log File of Disabled Addresses:
-  9.       email address 1
-  10.      email address 2
+    * Subject: Daily Email Cleanup, x errors, y addresses disabled
+    * Body: leaders.json date yyyy-mm-dd [OK/Fail]
+        * Connection to Google Groups  [OK/Fail]
+        * Connection to Stripe         [OK/Fail]
+        *  Processing started yyyy-mm-dd hh:mm:ss and completed yyyy-mm-dd hh:mm:ss
+        * Addresses Disable: y
+        * Log File of Disabled Addresses:
+        * email address 1
+        * email address 2
 4. Run in test mode for one week on local store
 
 
 
 ## Metadata schema
 1. cleanup-case = "fix" or "okay"
-  a. "Fix" records will have their email address convered to lowercase
+    1. "Fix" records will have their email address convered to lowercase
 2. cleanup-customer = "true" or "false"
-  a. False records will be DELETED
+    1. False records will be DELETED
 3. cleanup-disable = "nonmember" or "nonleader" or "valid"
-  a. Email is disabled if email not (in leaders.json OR in Stripe)
-4. cleanup-date = date of metadata update in yyyy-mm-dd format
+    1. Email is disabled if email not (in leaders.json OR in Stripe)
+4. cleanup-date = date of metadata updated in yyyy-mm-dd format
 
 
 ## Budget
