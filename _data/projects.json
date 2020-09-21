@@ -10,13 +10,6 @@
         "name": "OWASP Staff Holidays",
         "milestones": [
             {
-                "milestone_date": "2020-09-07",
-                "description": "Labor Day",
-                "owner": "No Owner",
-                "project_name": "OWASP Staff Holidays",
-                "status": "overdue"
-            },
-            {
                 "milestone_date": "2020-11-03",
                 "description": "Federal Election Day",
                 "owner": "No Owner",
@@ -59,7 +52,7 @@
                 "status": "future"
             }
         ],
-        "description": "tle: OWASP Staff Holidayslayout: full-width---# OWASP Staff U.S. Holidays- [x] 2020-01-01, New Year\u2019s Day- [x] 2020-02-17, Presidents Day- [x] 2020-05-25, Memorial Day- [x] 2020-07-03, Independence Day (Observed)- [ ] 2020-09-07, Labor Day- [ ] 2020-11-03, Federal Election Day- [ ] 2020-11-26, Thanksgiving Day- [ ] 2020-11-27, Day after Thanksgiving- [ ] 2020-12-24, Christmas Eve- [ ] 2020-12-25, Christmas Day- [ ] 2020-12-31, New Year\u2019s Eve",
+        "description": "tle: OWASP Staff Holidayslayout: full-width---# OWASP Staff U.S. Holidays- [x] 2020-01-01, New Year\u2019s Day- [x] 2020-02-17, Presidents Day- [x] 2020-05-25, Memorial Day- [x] 2020-07-03, Independence Day (Observed)- [x] 2020-09-07, Labor Day- [ ] 2020-11-03, Federal Election Day- [ ] 2020-11-26, Thanksgiving Day- [ ] 2020-11-27, Day after Thanksgiving- [ ] 2020-12-24, Christmas Eve- [ ] 2020-12-25, Christmas Day- [ ] 2020-12-31, New Year\u2019s Eve",
         "leaders": [
             {
                 "name": "x",
@@ -125,22 +118,7 @@
     },
     {
         "name": "Virtual AppSec Days Summer of Security",
-        "milestones": [
-            {
-                "milestone_date": "2020-08-26",
-                "description": "Send Post Event Survey",
-                "owner": "Alonna",
-                "project_name": "Virtual AppSec Days Summer of Security",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-08-26",
-                "description": "Send Thank you email",
-                "owner": "Emily",
-                "project_name": "Virtual AppSec Days Summer of Security",
-                "status": "overdue"
-            }
-        ],
+        "milestones": [],
         "description": "tle: Virtual AppSec Days Summer of Securitylayout: full-widthdate: June-August 2020---# Virtual AppSec Days Summer of Security  ```June 23 - 24, 2020July 28 - 29, 2020August 25 - 26, 2020```The OWASP Foundation is hosting Virtual Trainings during our Virtual AppSec Days Summer of Security events taking place June - August 2020.  The courses will be 8-hour virtual training courses. The courses will be offered in 4-hour blocks over 2 days. The trainings will begin at 12:00pm Eastern Time (USA)/6:00pm Central European Time.",
         "leaders": [
             {
@@ -189,93 +167,9 @@
                 "status": "overdue"
             },
             {
-                "milestone_date": "2020-08-20",
-                "description": "Social media scheduling issues",
-                "owner": "Andrew, Emily",
-                "project_name": "Executive Director",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-08-27",
-                "description": "3 x Town Halls",
-                "owner": "Andrew",
-                "project_name": "Executive Director",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-08-27",
-                "description": "Theme Calendar for Marketing",
-                "owner": "Andrew, Alonna",
-                "project_name": "Executive Director",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-08-31",
-                "description": "Schedule Board Virtual F2F",
-                "owner": "Andrew",
-                "project_name": "Executive Director",
-                "status": "overdue"
-            },
-            {
                 "milestone_date": "2020-08-31",
                 "description": "nullcon / Paytou MoU",
                 "owner": "Andrew",
-                "project_name": "Executive Director",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-08-31",
-                "description": "TWCSA MoU",
-                "owner": "Andrew",
-                "project_name": "Executive Director",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-08-31",
-                "description": "Grants policy with Mike",
-                "owner": "Andrew, Mike",
-                "project_name": "Executive Director",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-08-31",
-                "description": "20th Anniversary planning and book first panel",
-                "owner": "Andrew",
-                "project_name": "Executive Director",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-08-31",
-                "description": "Finalize Performance Reviews",
-                "owner": "Andrew, Mike",
-                "project_name": "Executive Director",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-08-31",
-                "description": "Corporate monthly subscription",
-                "owner": "Andrew, Harold, Kelly",
-                "project_name": "Executive Director",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-08-31",
-                "description": "General counsel retainer",
-                "owner": "Andrew",
-                "project_name": "Executive Director",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-08-31",
-                "description": "Committees 2.0 gap analysis with Owen",
-                "owner": "Andrew",
-                "project_name": "Executive Director",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-08-31",
-                "description": "Membership drive strategy",
-                "owner": "Andrew, Lisa",
                 "project_name": "Executive Director",
                 "status": "overdue"
             },
@@ -288,45 +182,17 @@
             },
             {
                 "milestone_date": "2020-08-31",
-                "description": "Additional trademarks",
-                "owner": "Andrew, Mike",
+                "description": "TWCSA MoU",
+                "owner": "Andrew",
                 "project_name": "Executive Director",
                 "status": "overdue"
             },
             {
-                "milestone_date": "2020-09-01",
-                "description": "Postpone the Dublin event event & transition sponsors",
-                "owner": "Emily, Kelly",
+                "milestone_date": "2020-09-22",
+                "description": "2021 Operational Plan due for Board",
+                "owner": "Andrew",
                 "project_name": "Executive Director",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-09-01",
-                "description": "Review Events strategy",
-                "owner": "Andrew, Emily",
-                "project_name": "Executive Director",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-09-01",
-                "description": "Review Content Marketing Strategy",
-                "owner": "Andrew, Alonna",
-                "project_name": "Executive Director",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-09-01",
-                "description": "Send a copy of the newly revised Roberts Rules of Order to all Board members",
-                "owner": "Dawn",
-                "project_name": "Executive Director",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-09-01",
-                "description": "Review Fundraising and Donations Strategy",
-                "owner": "Andrew, Mike",
-                "project_name": "Executive Director",
-                "status": "overdue"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-09-22",
@@ -337,7 +203,14 @@
             },
             {
                 "milestone_date": "2020-09-22",
-                "description": "Update minutes from special Board meeting to reflect adjournment",
+                "description": "Committees 2.0 rewrite with Owen",
+                "owner": "Andrew",
+                "project_name": "Executive Director",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-09-22",
+                "description": "New analytic traffics KPIs",
                 "owner": "Andrew",
                 "project_name": "Executive Director",
                 "status": "on-time"
@@ -351,20 +224,6 @@
             },
             {
                 "milestone_date": "2020-09-22",
-                "description": "Present 2021 Operational Plan",
-                "owner": "Andrew",
-                "project_name": "Executive Director",
-                "status": "on-time"
-            },
-            {
-                "milestone_date": "2020-09-22",
-                "description": "Present COVID Chapters and Events Strategy",
-                "owner": "Andrew, Emily, Lisa",
-                "project_name": "Executive Director",
-                "status": "on-time"
-            },
-            {
-                "milestone_date": "2020-09-22",
                 "description": "Project Sabbatical Plan",
                 "owner": "Andrew, Harold",
                 "project_name": "Executive Director",
@@ -372,17 +231,10 @@
             },
             {
                 "milestone_date": "2020-09-22",
-                "description": "Present OWASP Content Media Strategy with Outreach Committee",
-                "owner": "Andrew, Alonna",
+                "description": "Update minutes from special Board meeting to reflect adjournment",
+                "owner": "Andrew",
                 "project_name": "Executive Director",
                 "status": "on-time"
-            },
-            {
-                "milestone_date": "2020-09-01",
-                "description": "Chapter and Event co-branding strategy",
-                "owner": "Andrew, Emily",
-                "project_name": "Executive Director",
-                "status": "overdue"
             },
             {
                 "milestone_date": "2020-09-30",
@@ -392,18 +244,39 @@
                 "status": "on-time"
             },
             {
-                "milestone_date": "2020-10-31",
+                "milestone_date": "2020-09-30",
+                "description": "Finalize Performance Reviews",
+                "owner": "Mike, Andrew",
+                "project_name": "Executive Director",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-10-20",
+                "description": "General counsel retainer",
+                "owner": "Andrew",
+                "project_name": "Executive Director",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-10-20",
+                "description": "Review Fundraising and Donations Strategy",
+                "owner": "Andrew, Mike",
+                "project_name": "Executive Director",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-10-28",
                 "description": "Mike's last day send off",
                 "owner": "Andrew, Mike",
                 "project_name": "Executive Director",
                 "status": "future"
             },
             {
-                "milestone_date": "2020-09-22",
-                "description": "New analytic traffics KPIs",
-                "owner": "Andrew",
+                "milestone_date": "2020-11-04",
+                "description": "AppSec Virtual Debrief",
+                "owner": "Emily, Alonna, Kelly, Andrew",
                 "project_name": "Executive Director",
-                "status": "on-time"
+                "status": "future"
             },
             {
                 "milestone_date": "2020-11-22",
@@ -414,29 +287,36 @@
             },
             {
                 "milestone_date": "2020-12-31",
-                "description": "OWASP Member Points",
-                "owner": "Andrew, Harold",
+                "description": "Corporate monthly subscription",
+                "owner": "Andrew, Harold, Kelly",
                 "project_name": "Executive Director",
                 "status": "future"
             },
             {
                 "milestone_date": "2020-12-31",
-                "description": "Operationalize quarterly OWASP training",
-                "owner": "Andrew, Emily",
+                "description": "Grants policy",
+                "owner": "Andrew",
                 "project_name": "Executive Director",
                 "status": "future"
             },
             {
-                "milestone_date": "2020-11-15",
-                "description": "Review trainer splits",
-                "owner": "Emily, Andrew",
+                "milestone_date": "2020-12-31",
+                "description": "Marketing: 20th Anniversary planning and book first panel",
+                "owner": "Andrew",
                 "project_name": "Executive Director",
                 "status": "future"
             },
             {
-                "milestone_date": "2021-01-05",
-                "description": "Review leadership promotion re: mediation",
-                "owner": "Harold, Andrew",
+                "milestone_date": "2020-12-31",
+                "description": "Marketing & Social media Strategy",
+                "owner": "Andrew, Emily, Alonna",
+                "project_name": "Executive Director",
+                "status": "future"
+            },
+            {
+                "milestone_date": "2020-12-31",
+                "description": "Quarterly OWASP training",
+                "owner": "Emily",
                 "project_name": "Executive Director",
                 "status": "future"
             }
@@ -446,29 +326,39 @@
         "url": "https://owasp.org/www-staff/projects/202008-ExecDirector"
     },
     {
-        "name": "2020 Global Board Elections",
+        "name": "Global AppSec - Virtual",
         "milestones": [
             {
-                "milestone_date": "2020-09-10",
-                "description": "Candidates announced via email and social media",
-                "owner": "Dawn",
-                "project_name": "2020 Global Board Elections",
-                "status": "on-time"
+                "milestone_date": "2020-09-20",
+                "description": "All recorded presentations collected",
+                "owner": "Alonna",
+                "project_name": "Global AppSec - Virtual",
+                "status": "overdue"
             },
             {
-                "milestone_date": "2020-09-15",
-                "description": "The top (6-7) questions from the community will be selected and shared with candidates",
-                "owner": "Dawn",
-                "project_name": "2020 Global Board Elections",
+                "milestone_date": "2020-10-01",
+                "description": "Ondemand content launch",
+                "owner": "Emily",
+                "project_name": "Global AppSec - Virtual",
                 "status": "on-time"
+            }
+        ],
+        "description": "```Training Days: October 19-21, 2020Conference Days: October 22-23, 2020```Welcome to Global AppSec San Francisco 2020 presented by the OWASP Foundation. The Global AppSec Conference is the premier application security conference for developers and security experts. Designed for private and public sector infosec professionals, the OWASP three day training and two day conference equips developers, defenders, and advocates to build a more secure web.Join us for a celebration of leading application security technologies, speakers, prospects, and community, in a unique event that will build on everything you already know to expect from an OWASP Global Conference.",
+        "leaders": [
+            {
+                "name": "Emily Berman",
+                "email": "emily.berman@owasp.com"
             },
             {
-                "milestone_date": "2020-09-15",
-                "description": "Email Reminder regarding Membership is a required to vote",
-                "owner": "Dawn",
-                "project_name": "2020 Global Board Elections",
-                "status": "on-time"
-            },
+                "name": "Mike McCamon",
+                "email": "mike.mccamon@owasp.com"
+            }
+        ],
+        "url": "https://owasp.org/www-staff/projects/202010-Global-AppSec-SF"
+    },
+    {
+        "name": "2020 Global Board Elections",
+        "milestones": [
             {
                 "milestone_date": "2020-09-25",
                 "description": "Email Reminder regarding Membership is a required to vote",
@@ -509,7 +399,7 @@
                 "description": "Voting opens",
                 "owner": "Dawn",
                 "project_name": "2020 Global Board Elections",
-                "status": "future"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-10-22",
@@ -549,58 +439,27 @@
         ],
         "description": "2020 Global Board Elections * [https://owasp.org/www-board/elections/2020_elections]",
         "leaders": [],
-        "url": "https://owasp.org/www-staff/projects/202010-Global Board Elections"
-    },
-    {
-        "name": "Global AppSec - Virtual",
-        "milestones": [
-            {
-                "milestone_date": "2020-09-15",
-                "description": "All recorded presentations collected",
-                "owner": "Alonna",
-                "project_name": "Global AppSec - Virtual",
-                "status": "on-time"
-            },
-            {
-                "milestone_date": "2020-09-15",
-                "description": "Volunteers finalized and communication initiated",
-                "owner": "Emily",
-                "project_name": "Global AppSec - Virtual",
-                "status": "on-time"
-            },
-            {
-                "milestone_date": "2020-10-01",
-                "description": "Ondemand content launch",
-                "owner": "Emily",
-                "project_name": "Global AppSec - Virtual",
-                "status": "on-time"
-            }
-        ],
-        "description": "```Training Days: October 19-21, 2020Conference Days: October 22-23, 2020```Welcome to Global AppSec San Francisco 2020 presented by the OWASP Foundation. The Global AppSec Conference is the premier application security conference for developers and security experts. Designed for private and public sector infosec professionals, the OWASP three day training and two day conference equips developers, defenders, and advocates to build a more secure web.Join us for a celebration of leading application security technologies, speakers, prospects, and community, in a unique event that will build on everything you already know to expect from an OWASP Global Conference.",
-        "leaders": [
-            {
-                "name": "Emily Berman",
-                "email": "emily.berman@owasp.com"
-            },
-            {
-                "name": "Mike McCamon",
-                "email": "mike.mccamon@owasp.com"
-            }
-        ],
-        "url": "https://owasp.org/www-staff/projects/202010-Global-AppSec-SF"
+        "url": "https://owasp.org/www-staff/projects/202010-Global-Board-Elections"
     },
     {
         "name": "Associate Executive Director Off-boarding",
         "milestones": [
             {
-                "milestone_date": "2020-08-31",
-                "description": "Complete Staff Performance Reviews",
+                "milestone_date": "2020-10-05",
+                "description": "owasp.org domain automation",
                 "owner": "Mike",
                 "project_name": "Associate Executive Director Off-boarding",
-                "status": "overdue"
+                "status": "on-time"
             },
             {
-                "milestone_date": "2020-09-22",
+                "milestone_date": "2020-10-10",
+                "description": "Complete Trademark Line of Business Concept for Board",
+                "owner": "Mike",
+                "project_name": "Associate Executive Director Off-boarding",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-10-20",
                 "description": "Present to Board Trademark Line of Business Concept",
                 "owner": "Mike",
                 "project_name": "Associate Executive Director Off-boarding",
@@ -615,16 +474,9 @@
         "name": "LASCON 2020",
         "milestones": [
             {
-                "milestone_date": "2020-10-27",
-                "description": "LASCON 2020",
-                "owner": "No Owner",
-                "project_name": "LASCON 2020",
-                "status": "future"
-            },
-            {
                 "milestone_date": "2020-12-27",
                 "description": "Close P&L",
-                "owner": "Emily",
+                "owner": "Dawn",
                 "project_name": "LASCON 2020",
                 "status": "future"
             }
@@ -646,18 +498,11 @@
         "name": "2020 Policy Review",
         "milestones": [
             {
-                "milestone_date": "2020-09-15",
-                "description": "Present items 1-3 for Board approval",
-                "owner": "Mike",
-                "project_name": "2020 Policy Review",
-                "status": "on-time"
-            },
-            {
                 "milestone_date": "2020-10-19",
                 "description": "Present items 4-9 for Board approval",
                 "owner": "Mike",
                 "project_name": "2020 Policy Review",
-                "status": "future"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-11-16",
@@ -684,7 +529,7 @@
                 "description": "General Service Contract Signed",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin 2021",
-                "status": "future"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-10-01",
@@ -748,5 +593,88 @@
             }
         ],
         "url": "https://owasp.org/www-staff/projects/202102-GlobalAppSec-Dublin"
+    },
+    {
+        "name": "ORG Domain Email Offboarding",
+        "milestones": [
+            {
+                "milestone_date": "2020-09-23",
+                "description": "Update leaders.json to include \"Date Created information\"",
+                "owner": "Harold",
+                "project_name": "ORG Domain Email Offboarding",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-09-27",
+                "description": "Project \"A\" Complete ready for deployment",
+                "owner": "Christian",
+                "project_name": "ORG Domain Email Offboarding",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-09-29",
+                "description": "Project \"A\" Regression testing complete",
+                "owner": "Harold",
+                "project_name": "ORG Domain Email Offboarding",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-10-01",
+                "description": "Deploy Project \"A\" into production",
+                "owner": "Harold",
+                "project_name": "ORG Domain Email Offboarding",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-10-05",
+                "description": "Project \"B\" Complete ready for deployment",
+                "owner": "Christian",
+                "project_name": "ORG Domain Email Offboarding",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-10-07",
+                "description": "Project \"B\" Regression testing complete",
+                "owner": "Harold",
+                "project_name": "ORG Domain Email Offboarding",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-10-08",
+                "description": "Deploy Project \"B\" into production",
+                "owner": "Harold",
+                "project_name": "ORG Domain Email Offboarding",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-10-15",
+                "description": "Validation of six-days of production for errors",
+                "owner": "Harold",
+                "project_name": "ORG Domain Email Offboarding",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-10-16",
+                "description": "Remove Stripe customers marked cleanup-customer = \"true\"",
+                "owner": "Harold",
+                "project_name": "ORG Domain Email Offboarding",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-10-16",
+                "description": "Project Complete",
+                "owner": "Mike",
+                "project_name": "ORG Domain Email Offboarding",
+                "status": "on-time"
+            }
+        ],
+        "description": "To reduce manual work, this project's primary deliverable is a robot that can be nightly run to hygeine the OWASP.org email domain. Notably the primary script will disable owasp.org email addresses of former members and outgoing Leaders. The process will NOT onboard nor reactive \"lost\" emails as that process is outside the scope of this project. Additionally this project includes a small amount of clean up work with regard to our Stipe Instance. All of these projects will be written in Python and hosted in the OWASP Azure instance.",
+        "leaders": [
+            {
+                "name": "Harold Blankenship ",
+                "email": "Harold.blankenship@owasp.com"
+            }
+        ],
+        "url": "https://owasp.org/www-staff/projects/email-offboarding"
     }
 ]
