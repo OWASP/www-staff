@@ -17,7 +17,7 @@ As part of the Operational Plan for 2021, the ingesting of membership data into 
 ## Milestones
 
 * [x] 2020-09-01, Investigate and research current process to determine placement of Copper integration, [Harold]
-* [ ] 2020-09-31, Automate on-boarding of new member data into Copper, create GMAIL, [Harold]
+* [ ] 2020-09-30, Automate on-boarding of new member data into Copper, create GMAIL, [Harold]
 * [ ] 2020-10-05, Determine off-boarding member from Copper process, [Harold]
 * [ ] 2020-10-16, Automate off-boarding of members from Copper, [Harold]
 
