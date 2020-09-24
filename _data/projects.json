@@ -192,49 +192,49 @@
                 "description": "2021 Operational Plan due for Board",
                 "owner": "Andrew",
                 "project_name": "Executive Director",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-09-22",
                 "description": "Add bylaw and update other policies to prevent memberships being paid by Foundation",
                 "owner": "Andrew",
                 "project_name": "Executive Director",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-09-22",
                 "description": "Committees 2.0 rewrite with Owen",
                 "owner": "Andrew",
                 "project_name": "Executive Director",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-09-22",
                 "description": "New analytic traffics KPIs",
                 "owner": "Andrew",
                 "project_name": "Executive Director",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-09-22",
                 "description": "Policy Development and Review Process",
                 "owner": "Andrew, Sherif",
                 "project_name": "Executive Director",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-09-22",
                 "description": "Project Sabbatical Plan",
                 "owner": "Andrew, Harold",
                 "project_name": "Executive Director",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-09-22",
                 "description": "Update minutes from special Board meeting to reflect adjournment",
                 "owner": "Andrew",
                 "project_name": "Executive Director",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-09-30",
@@ -326,6 +326,83 @@
         "url": "https://owasp.org/www-staff/projects/202008-ExecDirector"
     },
     {
+        "name": "CRM Automation & Integration for Membership",
+        "milestones": [
+            {
+                "milestone_date": "2020-09-30",
+                "description": "Automate on-boarding of new member data into Copper, create GMAIL",
+                "owner": "Harold",
+                "project_name": "CRM Automation & Integration for Membership",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-10-05",
+                "description": "Determine off-boarding member from Copper process",
+                "owner": "Harold",
+                "project_name": "CRM Automation & Integration for Membership",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-10-16",
+                "description": "Automate off-boarding of members from Copper",
+                "owner": "Harold",
+                "project_name": "CRM Automation & Integration for Membership",
+                "status": "on-time"
+            }
+        ],
+        "description": "As part of the Operational Plan for 2021, the ingesting of membership data into our CRM will be automated where it can be. These data include new membership and historical membership.",
+        "leaders": [
+            {
+                "name": "Harold Blankenship",
+                "email": "harold.blankenship@owasp.com"
+            }
+        ],
+        "url": "https://owasp.org/www-staff/projects/202009-Copper-Automation"
+    },
+    {
+        "name": "Regional Events - P&L",
+        "milestones": [
+            {
+                "milestone_date": "2020-09-30",
+                "description": "P&L - OWASP New Zealand Day - changes sent to Virtual",
+                "owner": "Dawn",
+                "project_name": "Regional Events - P&L",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-09-30",
+                "description": "P&L - SnowFroc 2019 - changes sent to Virtual",
+                "owner": "Dawn",
+                "project_name": "Regional Events - P&L",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-09-30",
+                "description": "P&L - BASC 2019 - changes sent to Virtual",
+                "owner": "Dawn",
+                "project_name": "Regional Events - P&L",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-09-30",
+                "description": "P&L - Lascon X 2019 - changes sent to Virtual",
+                "owner": "Dawn",
+                "project_name": "Regional Events - P&L",
+                "status": "on-time"
+            },
+            {
+                "milestone_date": "2020-09-30",
+                "description": "P&L - SnowFroc 2020",
+                "owner": "Dawn",
+                "project_name": "Regional Events - P&L",
+                "status": "on-time"
+            }
+        ],
+        "description": "itle: Regional Events - P&Llayout: full-width---# Regional Events - P&Ls",
+        "leaders": [],
+        "url": "https://owasp.org/www-staff/projects/202009-RegionalEventsPL"
+    },
+    {
         "name": "Global AppSec - Virtual",
         "milestones": [
             {
@@ -406,7 +483,7 @@
                 "description": "Email reminder for voting",
                 "owner": "Dawn",
                 "project_name": "2020 Global Board Elections",
-                "status": "future"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-10-28",
@@ -602,7 +679,7 @@
                 "description": "Update leaders.json to include \"Date Created information\"",
                 "owner": "Harold",
                 "project_name": "ORG Domain Email Offboarding",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-09-27",
