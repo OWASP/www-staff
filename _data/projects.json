@@ -441,7 +441,7 @@
                 "description": "Email Reminder regarding Membership is a required to vote",
                 "owner": "Dawn",
                 "project_name": "2020 Global Board Elections",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-09-30",
