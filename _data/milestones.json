@@ -102,7 +102,7 @@
         "description": "Project \"A\" Complete ready for deployment",
         "owner": "Christian",
         "project_name": "ORG Domain Email Offboarding",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-09-29",
@@ -347,14 +347,14 @@
         "description": "Mike's last day send off",
         "owner": "Andrew, Mike",
         "project_name": "Executive Director",
-        "status": "future"
+        "status": "on-time"
     },
     {
         "milestone_date": "2020-10-28",
         "description": "Email reminder for voting",
         "owner": "Dawn",
         "project_name": "2020 Global Board Elections",
-        "status": "future"
+        "status": "on-time"
     },
     {
         "milestone_date": "2020-10-30",
