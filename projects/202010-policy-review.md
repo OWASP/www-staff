@@ -5,7 +5,7 @@ layout: full-width
 
 ---
 
-**TImeline Modified 18-August-2020**
+**TImeline Modified 28-Sep-2020**
 
 ## Goals
 
@@ -28,7 +28,7 @@ layout: full-width
 |  9. [Expense Policy](/www-policy/operational/expense-reimbursement) | 14-Aug | 4-Sep | 4-Oct |Coming soon |
 |  10. [Branding Guidelines](/www-policy/operational/branding) | 9-Sep | 30-Sep | 30-Oct  |Coming soon |
 |  11. [Leaders](/www-policy/operational/leader) | 16-Sep | 07-Oct | 28-Oct |Coming soon |
-|  12. [Code of Conduct]() | 02-Oct | 22-Oct | 13-Nov |Coming soon |
+|  12. [Code of Conduct](/www-policy/operational/code-of-conduct-2) | 02-Oct | 22-Oct | 13-Nov |Coming soon |
 |  13. [Committees](/www-policy/operational/committees) | TBD | TBD | TBD | TBD |
 |  14. [Chapter Procedure (formerly Handbook)](/www-policy/guidebook/chapter-leader)* | TBD | TBD | TBD | TBD |
 |  15. [Chapters](/www-policy/operational/chapters)* | TBD | TBD | TBD | TBD |
