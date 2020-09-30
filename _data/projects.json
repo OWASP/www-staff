@@ -497,7 +497,7 @@
                 "description": "Voting closes",
                 "owner": "Dawn",
                 "project_name": "2020 Global Board Elections",
-                "status": "future"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-10-31",
@@ -693,7 +693,7 @@
                 "description": "Project \"A\" Regression testing complete",
                 "owner": "Harold",
                 "project_name": "ORG Domain Email Offboarding",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-10-01",
