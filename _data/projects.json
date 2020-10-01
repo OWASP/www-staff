@@ -241,14 +241,14 @@
                 "description": "Meet with Stack overflow",
                 "owner": "Andrew",
                 "project_name": "Executive Director",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-09-30",
                 "description": "Finalize Performance Reviews",
                 "owner": "Mike, Andrew",
                 "project_name": "Executive Director",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-10-20",
@@ -333,7 +333,7 @@
                 "description": "Automate on-boarding of new member data into Copper, create GMAIL",
                 "owner": "Harold",
                 "project_name": "CRM Automation & Integration for Membership",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-10-05",
@@ -367,35 +367,35 @@
                 "description": "P&L - OWASP New Zealand Day - changes sent to Virtual",
                 "owner": "Dawn",
                 "project_name": "Regional Events - P&L",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-09-30",
                 "description": "P&L - SnowFroc 2019 - changes sent to Virtual",
                 "owner": "Dawn",
                 "project_name": "Regional Events - P&L",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-09-30",
                 "description": "P&L - BASC 2019 - changes sent to Virtual",
                 "owner": "Dawn",
                 "project_name": "Regional Events - P&L",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-09-30",
                 "description": "P&L - Lascon X 2019 - changes sent to Virtual",
                 "owner": "Dawn",
                 "project_name": "Regional Events - P&L",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-09-30",
                 "description": "P&L - SnowFroc 2020",
                 "owner": "Dawn",
                 "project_name": "Regional Events - P&L",
-                "status": "on-time"
+                "status": "overdue"
             }
         ],
         "description": "itle: Regional Events - P&Llayout: full-width---# Regional Events - P&Ls",
@@ -448,14 +448,14 @@
                 "description": "Candidates to post their videos",
                 "owner": "Dawn",
                 "project_name": "2020 Global Board Elections",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-09-30",
                 "description": "Paid membership deadline",
                 "owner": "Dawn",
                 "project_name": "2020 Global Board Elections",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-10-01",
@@ -504,7 +504,7 @@
                 "description": "Results shared with all candidate",
                 "owner": "Dawn",
                 "project_name": "2020 Global Board Elections",
-                "status": "future"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-11-01",
@@ -634,7 +634,7 @@
                 "description": "Close CFP",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin 2021",
-                "status": "future"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-11-20",
