@@ -91,13 +91,6 @@
         "status": "overdue"
     },
     {
-        "milestone_date": "2020-09-25",
-        "description": "Email Reminder regarding Membership is a required to vote",
-        "owner": "Dawn",
-        "project_name": "2020 Global Board Elections",
-        "status": "overdue"
-    },
-    {
         "milestone_date": "2020-09-27",
         "description": "Project \"A\" Complete ready for deployment",
         "owner": "Christian",
@@ -133,95 +126,32 @@
         "status": "overdue"
     },
     {
-        "milestone_date": "2020-09-30",
-        "description": "P&L - OWASP New Zealand Day - changes sent to Virtual",
-        "owner": "Dawn",
-        "project_name": "Regional Events - P&L",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-09-30",
-        "description": "P&L - SnowFroc 2019 - changes sent to Virtual",
-        "owner": "Dawn",
-        "project_name": "Regional Events - P&L",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-09-30",
-        "description": "P&L - BASC 2019 - changes sent to Virtual",
-        "owner": "Dawn",
-        "project_name": "Regional Events - P&L",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-09-30",
-        "description": "P&L - Lascon X 2019 - changes sent to Virtual",
-        "owner": "Dawn",
-        "project_name": "Regional Events - P&L",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-09-30",
-        "description": "P&L - SnowFroc 2020",
-        "owner": "Dawn",
-        "project_name": "Regional Events - P&L",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-09-30",
-        "description": "Candidates to post their videos",
-        "owner": "Dawn",
-        "project_name": "2020 Global Board Elections",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-09-30",
-        "description": "Paid membership deadline",
-        "owner": "Dawn",
-        "project_name": "2020 Global Board Elections",
-        "status": "overdue"
-    },
-    {
         "milestone_date": "2020-10-01",
         "description": "Ondemand content launch",
         "owner": "Emily",
         "project_name": "Global AppSec - Virtual",
-        "status": "on-time"
-    },
-    {
-        "milestone_date": "2020-10-01",
-        "description": "Recordings to be posted on website",
-        "owner": "Dawn",
-        "project_name": "2020 Global Board Elections",
-        "status": "on-time"
-    },
-    {
-        "milestone_date": "2020-10-01",
-        "description": "Email and social media notifying the community that the recordings are posted",
-        "owner": "Dawn",
-        "project_name": "2020 Global Board Elections",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-10-01",
         "description": "Training Schedule Announced",
         "owner": "Emily",
         "project_name": "Global AppSec - Dublin 2021",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-10-01",
         "description": "Open CFP",
         "owner": "Emily",
         "project_name": "Global AppSec - Dublin 2021",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-10-01",
         "description": "Deploy Project \"A\" into production",
         "owner": "Harold",
         "project_name": "ORG Domain Email Offboarding",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-10-05",
@@ -256,6 +186,13 @@
         "description": "Deploy Project \"B\" into production",
         "owner": "Harold",
         "project_name": "ORG Domain Email Offboarding",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2020-10-10",
+        "description": "P&L - SnowFroc 2020",
+        "owner": "Dawn",
+        "project_name": "Regional Events - P&L",
         "status": "on-time"
     },
     {
@@ -382,7 +319,7 @@
         "description": "Results shared via email and social media",
         "owner": "Dawn",
         "project_name": "2020 Global Board Elections",
-        "status": "future"
+        "status": "on-time"
     },
     {
         "milestone_date": "2020-11-03",
