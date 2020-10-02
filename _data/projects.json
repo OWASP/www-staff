@@ -363,39 +363,11 @@
         "name": "Regional Events - P&L",
         "milestones": [
             {
-                "milestone_date": "2020-09-30",
-                "description": "P&L - OWASP New Zealand Day - changes sent to Virtual",
-                "owner": "Dawn",
-                "project_name": "Regional Events - P&L",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-09-30",
-                "description": "P&L - SnowFroc 2019 - changes sent to Virtual",
-                "owner": "Dawn",
-                "project_name": "Regional Events - P&L",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-09-30",
-                "description": "P&L - BASC 2019 - changes sent to Virtual",
-                "owner": "Dawn",
-                "project_name": "Regional Events - P&L",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-09-30",
-                "description": "P&L - Lascon X 2019 - changes sent to Virtual",
-                "owner": "Dawn",
-                "project_name": "Regional Events - P&L",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-09-30",
+                "milestone_date": "2020-10-10",
                 "description": "P&L - SnowFroc 2020",
                 "owner": "Dawn",
                 "project_name": "Regional Events - P&L",
-                "status": "overdue"
+                "status": "on-time"
             }
         ],
         "description": "itle: Regional Events - P&Llayout: full-width---# Regional Events - P&Ls",
@@ -417,7 +389,7 @@
                 "description": "Ondemand content launch",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Virtual",
-                "status": "on-time"
+                "status": "overdue"
             }
         ],
         "description": "```Training Days: October 19-21, 2020Conference Days: October 22-23, 2020```Welcome to Global AppSec San Francisco 2020 presented by the OWASP Foundation. The Global AppSec Conference is the premier application security conference for developers and security experts. Designed for private and public sector infosec professionals, the OWASP three day training and two day conference equips developers, defenders, and advocates to build a more secure web.Join us for a celebration of leading application security technologies, speakers, prospects, and community, in a unique event that will build on everything you already know to expect from an OWASP Global Conference.",
@@ -436,41 +408,6 @@
     {
         "name": "2020 Global Board Elections",
         "milestones": [
-            {
-                "milestone_date": "2020-09-25",
-                "description": "Email Reminder regarding Membership is a required to vote",
-                "owner": "Dawn",
-                "project_name": "2020 Global Board Elections",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-09-30",
-                "description": "Candidates to post their videos",
-                "owner": "Dawn",
-                "project_name": "2020 Global Board Elections",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-09-30",
-                "description": "Paid membership deadline",
-                "owner": "Dawn",
-                "project_name": "2020 Global Board Elections",
-                "status": "overdue"
-            },
-            {
-                "milestone_date": "2020-10-01",
-                "description": "Recordings to be posted on website",
-                "owner": "Dawn",
-                "project_name": "2020 Global Board Elections",
-                "status": "on-time"
-            },
-            {
-                "milestone_date": "2020-10-01",
-                "description": "Email and social media notifying the community that the recordings are posted",
-                "owner": "Dawn",
-                "project_name": "2020 Global Board Elections",
-                "status": "on-time"
-            },
             {
                 "milestone_date": "2020-10-15",
                 "description": "Voting opens",
@@ -511,7 +448,7 @@
                 "description": "Results shared via email and social media",
                 "owner": "Dawn",
                 "project_name": "2020 Global Board Elections",
-                "status": "future"
+                "status": "on-time"
             }
         ],
         "description": "2020 Global Board Elections * [https://owasp.org/www-board/elections/2020_elections]",
@@ -613,7 +550,7 @@
                 "description": "Training Schedule Announced",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin 2021",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-12-01",
@@ -627,7 +564,7 @@
                 "description": "Open CFP",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin 2021",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-10-31",
@@ -700,7 +637,7 @@
                 "description": "Deploy Project \"A\" into production",
                 "owner": "Harold",
                 "project_name": "ORG Domain Email Offboarding",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-10-05",
