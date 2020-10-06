@@ -158,21 +158,21 @@
         "description": "Determine off-boarding member from Copper process",
         "owner": "Harold",
         "project_name": "CRM Automation & Integration for Membership",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-10-05",
         "description": "owasp.org domain automation",
         "owner": "Mike",
         "project_name": "Associate Executive Director Off-boarding",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-10-05",
         "description": "Project \"B\" Complete ready for deployment",
         "owner": "Christian",
         "project_name": "ORG Domain Email Offboarding",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-10-07",
