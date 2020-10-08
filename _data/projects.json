@@ -651,7 +651,7 @@
                 "description": "Project \"B\" Regression testing complete",
                 "owner": "Harold",
                 "project_name": "ORG Domain Email Offboarding",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-10-08",
