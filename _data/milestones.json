@@ -1,33 +1,5 @@
 [
     {
-        "milestone_date": "2020-08-14",
-        "description": "Write WEF article",
-        "owner": "Andrew",
-        "project_name": "Executive Director",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-08-31",
-        "description": "nullcon / Paytou MoU",
-        "owner": "Andrew",
-        "project_name": "Executive Director",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-08-31",
-        "description": "OWASP Twenty Years",
-        "owner": "Andrew, Emily",
-        "project_name": "Executive Director",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-08-31",
-        "description": "TWCSA MoU",
-        "owner": "Andrew",
-        "project_name": "Executive Director",
-        "status": "overdue"
-    },
-    {
         "milestone_date": "2020-09-20",
         "description": "All recorded presentations collected",
         "owner": "Alonna",
@@ -35,87 +7,10 @@
         "status": "overdue"
     },
     {
-        "milestone_date": "2020-09-22",
-        "description": "2021 Operational Plan due for Board",
-        "owner": "Andrew",
-        "project_name": "Executive Director",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-09-22",
-        "description": "Add bylaw and update other policies to prevent memberships being paid by Foundation",
-        "owner": "Andrew",
-        "project_name": "Executive Director",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-09-22",
-        "description": "Committees 2.0 rewrite with Owen",
-        "owner": "Andrew",
-        "project_name": "Executive Director",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-09-22",
-        "description": "New analytic traffics KPIs",
-        "owner": "Andrew",
-        "project_name": "Executive Director",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-09-22",
-        "description": "Policy Development and Review Process",
-        "owner": "Andrew, Sherif",
-        "project_name": "Executive Director",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-09-22",
-        "description": "Project Sabbatical Plan",
-        "owner": "Andrew, Harold",
-        "project_name": "Executive Director",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-09-22",
-        "description": "Update minutes from special Board meeting to reflect adjournment",
-        "owner": "Andrew",
-        "project_name": "Executive Director",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-09-23",
-        "description": "Update leaders.json to include \"Date Created information\"",
-        "owner": "Harold",
-        "project_name": "ORG Domain Email Offboarding",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-09-27",
-        "description": "Project \"A\" Complete ready for deployment",
-        "owner": "Christian",
-        "project_name": "ORG Domain Email Offboarding",
-        "status": "overdue"
-    },
-    {
         "milestone_date": "2020-09-29",
         "description": "Project \"A\" Regression testing complete",
         "owner": "Harold",
         "project_name": "ORG Domain Email Offboarding",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-09-30",
-        "description": "Meet with Stack overflow",
-        "owner": "Andrew",
-        "project_name": "Executive Director",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-09-30",
-        "description": "Finalize Performance Reviews",
-        "owner": "Mike, Andrew",
-        "project_name": "Executive Director",
         "status": "overdue"
     },
     {
@@ -162,13 +57,6 @@
     },
     {
         "milestone_date": "2020-10-05",
-        "description": "owasp.org domain automation",
-        "owner": "Mike",
-        "project_name": "Associate Executive Director Off-boarding",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-10-05",
         "description": "Project \"B\" Complete ready for deployment",
         "owner": "Christian",
         "project_name": "ORG Domain Email Offboarding",
@@ -186,7 +74,7 @@
         "description": "Deploy Project \"B\" into production",
         "owner": "Harold",
         "project_name": "ORG Domain Email Offboarding",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-10-10",
@@ -196,17 +84,17 @@
         "status": "on-time"
     },
     {
-        "milestone_date": "2020-10-10",
-        "description": "Complete Trademark Line of Business Concept for Board",
-        "owner": "Mike",
-        "project_name": "Associate Executive Director Off-boarding",
-        "status": "on-time"
-    },
-    {
         "milestone_date": "2020-10-15",
         "description": "Voting opens",
         "owner": "Dawn",
         "project_name": "2020 Global Board Elections",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2020-10-15",
+        "description": "Complete Trademark Line of Business Concept for Board",
+        "owner": "Mike",
+        "project_name": "Associate Executive Director Off-boarding",
         "status": "on-time"
     },
     {
@@ -246,23 +134,16 @@
     },
     {
         "milestone_date": "2020-10-19",
+        "description": "owasp.org domain automation",
+        "owner": "Mike",
+        "project_name": "Associate Executive Director Off-boarding",
+        "status": "on-time"
+    },
+    {
+        "milestone_date": "2020-10-19",
         "description": "Present items 4-9 for Board approval",
         "owner": "Mike",
         "project_name": "2020 Policy Review",
-        "status": "on-time"
-    },
-    {
-        "milestone_date": "2020-10-20",
-        "description": "General counsel retainer",
-        "owner": "Andrew",
-        "project_name": "Executive Director",
-        "status": "on-time"
-    },
-    {
-        "milestone_date": "2020-10-20",
-        "description": "Review Fundraising and Donations Strategy",
-        "owner": "Andrew, Mike",
-        "project_name": "Executive Director",
         "status": "on-time"
     },
     {
@@ -277,13 +158,6 @@
         "description": "Email reminder for voting",
         "owner": "Dawn",
         "project_name": "2020 Global Board Elections",
-        "status": "on-time"
-    },
-    {
-        "milestone_date": "2020-10-28",
-        "description": "Mike's last day send off",
-        "owner": "Andrew, Mike",
-        "project_name": "Executive Director",
         "status": "on-time"
     },
     {
@@ -329,13 +203,6 @@
         "status": "on-time"
     },
     {
-        "milestone_date": "2020-11-04",
-        "description": "AppSec Virtual Debrief",
-        "owner": "Emily, Alonna, Kelly, Andrew",
-        "project_name": "Executive Director",
-        "status": "on-time"
-    },
-    {
         "milestone_date": "2020-11-16",
         "description": "Present remaining items for Board approval",
         "owner": "Andrew",
@@ -347,13 +214,6 @@
         "description": "CFP Review Complete",
         "owner": "Emily",
         "project_name": "Global AppSec - Dublin 2021",
-        "status": "future"
-    },
-    {
-        "milestone_date": "2020-11-22",
-        "description": "2021 Budget",
-        "owner": "Andrew",
-        "project_name": "Executive Director",
         "status": "future"
     },
     {
@@ -410,41 +270,6 @@
         "description": "New Year\u2019s Eve",
         "owner": "No Owner",
         "project_name": "OWASP Staff Holidays",
-        "status": "future"
-    },
-    {
-        "milestone_date": "2020-12-31",
-        "description": "Corporate monthly subscription",
-        "owner": "Andrew, Harold, Kelly",
-        "project_name": "Executive Director",
-        "status": "future"
-    },
-    {
-        "milestone_date": "2020-12-31",
-        "description": "Grants policy",
-        "owner": "Andrew",
-        "project_name": "Executive Director",
-        "status": "future"
-    },
-    {
-        "milestone_date": "2020-12-31",
-        "description": "Marketing: 20th Anniversary planning and book first panel",
-        "owner": "Andrew",
-        "project_name": "Executive Director",
-        "status": "future"
-    },
-    {
-        "milestone_date": "2020-12-31",
-        "description": "Marketing & Social media Strategy",
-        "owner": "Andrew, Emily, Alonna",
-        "project_name": "Executive Director",
-        "status": "future"
-    },
-    {
-        "milestone_date": "2020-12-31",
-        "description": "Quarterly OWASP training",
-        "owner": "Emily",
-        "project_name": "Executive Director",
         "status": "future"
     },
     {
