@@ -133,16 +133,11 @@ Sponsorship Contract Status to Date (as of 9:00amET July 30, 2020).
 - Secure Code Warrior (Gold Corporate Supporter) - paid
 
 #### Silver Corporate Supporters
-- Altitude Networks (Silver Corporate Supporter) - paid
 - Bugcrowd (Silver Corporate Supporter) - paid
-- Detectify (Silver Corporate Supporter) - paid 
 - ExtraHop (Silcer Corporate Supporter) - paid 
 - Intertrust (Silver Corporate Supporter) - paid 
-- Lyft (Silver Corporate Supporter) - paid
 - NowSecure (Silver Corporate Supporter) - paid 
-- Qualys (Silver Corporate Supporter) - paid 
-- RIPS (Silver Corporate Supporter) - paid
-- Salt Security (Silver Corporate Supporter) - paid 
+- SonarSource (Silver Corporate Supporter) - paid 
 - Security Journey (Silver Corporate Supporter) - paid 
 - Sqreen (Silver Corporate Supporter) - paid
 - Tala Security (Silver Corporate Supporter) - paid 
@@ -152,9 +147,6 @@ Sponsorship Contract Status to Date (as of 9:00amET July 30, 2020).
 
 #### Capture the Flag - SOLD OUT
 - Security Innovation - paid
-
-#### Lunch Sponsor
-- Segment - paid
 
 
 ## Legal
