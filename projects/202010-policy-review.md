@@ -13,13 +13,10 @@ layout: full-width
 * Establish a clear policy framework for growth
 * Engage the community in policy development
 
-## Timeline
+## Timeline of Open Policies
 
 |   | Notice of Draft | Comments Close | Team Deadline | Comments |
 | --- | --- | --- | --- | --- |
-|  1. [Donations](/www-policy/operational/donations) | 22-Jul | 12-Aug | 11-Sep | [Download](/www-staff/files/2020-policy-review-feedback/Policy-Feedback-donations.pdf) |
-|  2. [Conference & Event Attendee](/www-policy/operational/conferences-events) | 22-Jul | 12-Aug | 11-Sep | [Download](/www-staff/files/2020-policy-review-feedback/Policy-Feedback-event-attendee.pdf) |
-|  3. [Global AppSec Program Teams](/www-policy/operational/program-team) | 22-Jul | 12-Aug | 11-Sep | [Download](/www-staff/files/2020-policy-review-feedback/Policy-Feedback-global-event-teams.pdf)  |
 |  4. [Membership](/www-policy/operational/membership) | 29-Jul | 19-Aug | 18-Sep |[Download](/www-staff/files/2020-policy-review-feedback/Policy-Mebership-Feedback.pdf)  |
 |  5. [Events](/www-policy/operational/events) | 29-Jul | 19-Aug | 18-Sep |[Download](/www-staff/files/2020-policy-review-feedback/Policy-Events-Feedback.pdf)  |
 |  6. [Elections](/www-policy/operational/election)| 5-Aug | 26-Aug | 25-Sep |[Download](/www-staff/files/2020-policy-review-feedback/Policy-Elections-Feedback.pdf)  |
@@ -34,6 +31,14 @@ layout: full-width
 |  15. [Chapters](/www-policy/operational/chapters)* | TBD | TBD | TBD | TBD |
 
 * These items will be developed and submitted by the Chapters Committee
+
+## Board Approvals
+|   | Approved Date | Comments |
+| --- | --- | --- | --- | --- |
+| [Donations](/www-policy/operational/donations) | 22-Sep | [Download](/www-staff/files/2020-policy-review-feedback/Policy-Feedback-donations.pdf) |
+| [Conference & Event Attendee](/www-policy/operational/conferences-events) | 22-Sep | [Download](/www-staff/files/2020-policy-review-feedback/Policy-Feedback-event-attendee.pdf) |
+| [Global AppSec Program Teams](/www-policy/operational/program-team) | 22-Sep | [Download](/www-staff/files/2020-policy-review-feedback/Policy-Feedback-global-event-teams.pdf)  |
+
 
 ## Leadership
 * [Mike McCamon](mailto:mike.mccamon@owasp.com?subject=Policy%20Review)
