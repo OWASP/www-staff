@@ -25,7 +25,7 @@ layout: full-width
 |  6. [Elections](/www-policy/operational/election)| 5-Aug | 26-Aug | 25-Sep |[Download](/www-staff/files/2020-policy-review-feedback/Policy-Elections-Feedback.pdf)  |
 |  7. [Social Media](/www-policy/operational/social-media) | 5-Aug | 26-Aug | 25-Sep |[Download](/www-staff/files/2020-policy-review-feedback/Policy-Social-Media-Feedback.pdf) |
 |  8. [Mailing Lists](/www-policy/operational/mailing-list) | 14-Aug | 4-Sep | 4-Oct |[Download](/www-staff/files/2020-policy-review-feedback/Policy-Mailing-Lists-Feedback.pdf) |
-|  9. [Expense Policy](/www-policy/operational/expense-reimbursement) | 14-Aug | 4-Sep | 4-Oct |Coming soon |
+|  9. [Expense Policy](/www-policy/operational/expense-reimbursement) | 14-Aug | 4-Sep | 4-Oct |[Download](/www-staff/files/2020-policy-review-feedback/Policy-Expenses-Feedback.pdf) |
 |  10. [Branding Guidelines](/www-policy/operational/branding) | 9-Sep | 30-Sep | 30-Oct  |Coming soon |
 |  11. [Leaders](/www-policy/operational/leader) | 16-Sep | 07-Oct | 28-Oct |Coming soon |
 |  12. [Code of Conduct](/www-policy/operational/code-of-conduct-2) | 02-Oct | 22-Oct | 13-Nov |Coming soon |
