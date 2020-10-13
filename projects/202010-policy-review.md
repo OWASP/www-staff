@@ -20,11 +20,11 @@ layout: full-width
 |  1. [Donations](/www-policy/operational/donations) | 22-Jul | 12-Aug | 11-Sep | [Download](/www-staff/files/2020-policy-review-feedback/Policy-Feedback-donations.pdf) |
 |  2. [Conference & Event Attendee](/www-policy/operational/conferences-events) | 22-Jul | 12-Aug | 11-Sep | [Download](/www-staff/files/2020-policy-review-feedback/Policy-Feedback-event-attendee.pdf) |
 |  3. [Global AppSec Program Teams](/www-policy/operational/program-team) | 22-Jul | 12-Aug | 11-Sep | [Download](/www-staff/files/2020-policy-review-feedback/Policy-Feedback-global-event-teams.pdf)  |
-|  4. [Membership](/www-policy/operational/membership) | 29-Jul | 19-Aug | 18-Sep |Coming soon |
-|  5. [Events](/www-policy/operational/events) | 29-Jul | 19-Aug | 18-Sep |Coming soon |
-|  6. [Elections](/www-policy/operational/election)| 5-Aug | 26-Aug | 25-Sep |Coming soon |
-|  7. [Social Media](/www-policy/operational/social-media) | 5-Aug | 26-Aug | 25-Sep |Coming soon |
-|  8. [Mailing Lists](/www-policy/operational/mailing-list) | 14-Aug | 4-Sep | 4-Oct |Coming soon |
+|  4. [Membership](/www-policy/operational/membership) | 29-Jul | 19-Aug | 18-Sep |[Download](/www-staff/files/2020-policy-review-feedback/Policy-Mebership-Feedback.pdf)  |
+|  5. [Events](/www-policy/operational/events) | 29-Jul | 19-Aug | 18-Sep |[Download](/www-staff/files/2020-policy-review-feedback/Policy-Events-Feedback.pdf)  |
+|  6. [Elections](/www-policy/operational/election)| 5-Aug | 26-Aug | 25-Sep |[Download](/www-staff/files/2020-policy-review-feedback/Policy-Elections-Feedback.pdf)  |
+|  7. [Social Media](/www-policy/operational/social-media) | 5-Aug | 26-Aug | 25-Sep |[Download](/www-staff/files/2020-policy-review-feedback/Policy-Social-Media-Feedback.pdf) |
+|  8. [Mailing Lists](/www-policy/operational/mailing-list) | 14-Aug | 4-Sep | 4-Oct |[Download](/www-staff/files/2020-policy-review-feedback/Policy-Mailing-Lists-Feedback.pdf) |
 |  9. [Expense Policy](/www-policy/operational/expense-reimbursement) | 14-Aug | 4-Sep | 4-Oct |Coming soon |
 |  10. [Branding Guidelines](/www-policy/operational/branding) | 9-Sep | 30-Sep | 30-Oct  |Coming soon |
 |  11. [Leaders](/www-policy/operational/leader) | 16-Sep | 07-Oct | 28-Oct |Coming soon |
