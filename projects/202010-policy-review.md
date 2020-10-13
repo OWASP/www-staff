@@ -34,7 +34,7 @@ layout: full-width
 
 ## Board Approvals
 |   | Approved Date | Comments |
-| --- | --- | --- | --- | --- |
+| --- | --- | --- |
 | [Donations](/www-policy/operational/donations) | 22-Sep | [Download](/www-staff/files/2020-policy-review-feedback/Policy-Feedback-donations.pdf) |
 | [Conference & Event Attendee](/www-policy/operational/conferences-events) | 22-Sep | [Download](/www-staff/files/2020-policy-review-feedback/Policy-Feedback-event-attendee.pdf) |
 | [Global AppSec Program Teams](/www-policy/operational/program-team) | 22-Sep | [Download](/www-staff/files/2020-policy-review-feedback/Policy-Feedback-global-event-teams.pdf)  |
