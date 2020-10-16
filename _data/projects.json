@@ -251,7 +251,7 @@
                 "description": "Voting opens",
                 "owner": "Dawn",
                 "project_name": "2020 Global Board Elections",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-10-22",
@@ -301,7 +301,7 @@
                 "description": "Complete Trademark Line of Business Concept for Board",
                 "owner": "Mike",
                 "project_name": "Associate Executive Director Off-boarding",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-10-19",
@@ -381,7 +381,7 @@
                 "description": "General Service Contract Signed",
                 "owner": "Emily",
                 "project_name": "Global AppSec - Dublin 2021",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-10-01",
@@ -489,7 +489,7 @@
                 "description": "Validation of six-days of production for errors",
                 "owner": "Harold",
                 "project_name": "ORG Domain Email Offboarding",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-10-16",
