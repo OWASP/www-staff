@@ -185,7 +185,7 @@
                 "description": "Automate off-boarding of members from Copper",
                 "owner": "Harold",
                 "project_name": "CRM Automation & Integration for Membership",
-                "status": "on-time"
+                "status": "overdue"
             }
         ],
         "description": "As part of the Operational Plan for 2021, the ingesting of membership data into our CRM will be automated where it can be. These data include new membership and historical membership.",
@@ -361,7 +361,7 @@
                 "description": "Present remaining items for Board approval",
                 "owner": "Andrew",
                 "project_name": "2020 Policy Review",
-                "status": "future"
+                "status": "on-time"
             }
         ],
         "description": "tle: 2020 Policy Reviewlayout: full-width---**TImeline Modified 28-Sep-2020**",
@@ -496,14 +496,14 @@
                 "description": "Remove Stripe customers marked cleanup-customer = \"true\"",
                 "owner": "Harold",
                 "project_name": "ORG Domain Email Offboarding",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-10-16",
                 "description": "Project Complete",
                 "owner": "Mike",
                 "project_name": "ORG Domain Email Offboarding",
-                "status": "on-time"
+                "status": "overdue"
             }
         ],
         "description": "To reduce manual work, this project's primary deliverable is a robot that can be nightly run to hygeine the OWASP.org email domain. Notably the primary script will disable owasp.org email addresses of former members and outgoing Leaders. The process will NOT onboard nor reactive \"lost\" emails as that process is outside the scope of this project. Additionally this project includes a small amount of clean up work with regard to our Stipe Instance. All of these projects will be written in Python and hosted in the OWASP Azure instance.",
