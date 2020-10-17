@@ -116,21 +116,21 @@
         "description": "Automate off-boarding of members from Copper",
         "owner": "Harold",
         "project_name": "CRM Automation & Integration for Membership",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-10-16",
         "description": "Remove Stripe customers marked cleanup-customer = \"true\"",
         "owner": "Harold",
         "project_name": "ORG Domain Email Offboarding",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-10-16",
         "description": "Project Complete",
         "owner": "Mike",
         "project_name": "ORG Domain Email Offboarding",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-10-19",
@@ -207,7 +207,7 @@
         "description": "Present remaining items for Board approval",
         "owner": "Andrew",
         "project_name": "2020 Policy Review",
-        "status": "future"
+        "status": "on-time"
     },
     {
         "milestone_date": "2020-11-20",
