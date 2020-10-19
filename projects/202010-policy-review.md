@@ -33,6 +33,7 @@ layout: full-width
 * These items will be developed and submitted by the Chapters Committee
 
 ## Board Approvals
+
 |   | Approved Date | Comments |
 | --- | --- | --- |
 | [Donations](/www-policy/operational/donations) | 22-Sep | [Download](/www-staff/files/2020-policy-review-feedback/Policy-Feedback-donations.pdf) |
