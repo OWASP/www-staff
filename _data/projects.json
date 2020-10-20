@@ -308,7 +308,7 @@
                 "description": "owasp.org domain automation",
                 "owner": "Mike",
                 "project_name": "Associate Executive Director Off-boarding",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-10-20",
@@ -354,7 +354,7 @@
                 "description": "Present items 4-9 for Board approval",
                 "owner": "Mike",
                 "project_name": "2020 Policy Review",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2020-11-16",
