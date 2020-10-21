@@ -151,7 +151,7 @@
         "description": "Present to Board Trademark Line of Business Concept",
         "owner": "Mike",
         "project_name": "Associate Executive Director Off-boarding",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-10-22",
@@ -214,7 +214,7 @@
         "description": "CFP Review Complete",
         "owner": "Emily",
         "project_name": "Global AppSec - Dublin 2021",
-        "status": "future"
+        "status": "on-time"
     },
     {
         "milestone_date": "2020-11-26",
