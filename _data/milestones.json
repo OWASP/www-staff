@@ -158,7 +158,7 @@
         "description": "Email reminder for voting",
         "owner": "Dawn",
         "project_name": "2020 Global Board Elections",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-10-28",
