@@ -33,12 +33,12 @@ layout: full-width
 | [Donations](/www-policy/operational/donations) | 22-Sep | [Download](/www-staff/files/2020-policy-review-feedback/Policy-Feedback-donations.pdf) |
 | [Conference & Event Attendee](/www-policy/operational/conferences-events) | 22-Sep | [Download](/www-staff/files/2020-policy-review-feedback/Policy-Feedback-event-attendee.pdf) |
 | [Global AppSec Program Teams](/www-policy/operational/program-team) | 22-Sep | [Download](/www-staff/files/2020-policy-review-feedback/Policy-Feedback-global-event-teams.pdf)  |
-| [Membership](/www-policy/operational/membership) | 29-Jul | 19-Aug | 18-Sep |[Download](/www-staff/files/2020-policy-review-feedback/Policy-Mebership-Feedback.pdf)  |
-| [Events](/www-policy/operational/events) | 29-Jul | 19-Aug | 18-Sep |[Download](/www-staff/files/2020-policy-review-feedback/Policy-Events-Feedback.pdf)  |
-| [Elections](/www-policy/operational/election)| 5-Aug | 26-Aug | 25-Sep |[Download](/www-staff/files/2020-policy-review-feedback/Policy-Elections-Feedback.pdf)  |
-| [Social Media](/www-policy/operational/social-media) | 5-Aug | 26-Aug | 25-Sep |[Download](/www-staff/files/2020-policy-review-feedback/Policy-Social-Media-Feedback.pdf) |
-| [Mailing Lists](/www-policy/operational/mailing-list) | 14-Aug | 4-Sep | 4-Oct |[Download](/www-staff/files/2020-policy-review-feedback/Policy-Mailing-Lists-Feedback.pdf) |
-| [Expense Policy](/www-policy/operational/expense-reimbursement) | 14-Aug | 4-Sep | 4-Oct |[Download](/www-staff/files/2020-policy-review-feedback/Policy-Expenses-Feedback.pdf) |
+| [Membership](/www-policy/operational/membership) | 20-Oct |[Download](/www-staff/files/2020-policy-review-feedback/Policy-Mebership-Feedback.pdf)  |
+| [Events](/www-policy/operational/events) | 20-Oct |[Download](/www-staff/files/2020-policy-review-feedback/Policy-Events-Feedback.pdf)  |
+| [Elections](/www-policy/operational/election)| 20-Oct |[Download](/www-staff/files/2020-policy-review-feedback/Policy-Elections-Feedback.pdf)  |
+| [Social Media](/www-policy/operational/social-media) | 20-Oct |[Download](/www-staff/files/2020-policy-review-feedback/Policy-Social-Media-Feedback.pdf) |
+| [Mailing Lists](/www-policy/operational/mailing-list) | 20-Oct |[Download](/www-staff/files/2020-policy-review-feedback/Policy-Mailing-Lists-Feedback.pdf) |
+| [Expense Policy](/www-policy/operational/expense-reimbursement) | 20-Oct |[Download](/www-staff/files/2020-policy-review-feedback/Policy-Expenses-Feedback.pdf) |
 
 
 ## Leadership
