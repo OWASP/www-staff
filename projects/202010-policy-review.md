@@ -23,9 +23,9 @@ layout: full-width
 |  7. [Social Media](/www-policy/operational/social-media) | 5-Aug | 26-Aug | 25-Sep |[Download](/www-staff/files/2020-policy-review-feedback/Policy-Social-Media-Feedback.pdf) |
 |  8. [Mailing Lists](/www-policy/operational/mailing-list) | 14-Aug | 4-Sep | 4-Oct |[Download](/www-staff/files/2020-policy-review-feedback/Policy-Mailing-Lists-Feedback.pdf) |
 |  9. [Expense Policy](/www-policy/operational/expense-reimbursement) | 14-Aug | 4-Sep | 4-Oct |[Download](/www-staff/files/2020-policy-review-feedback/Policy-Expenses-Feedback.pdf) |
-|  10. [Branding Guidelines](/www-policy/operational/branding) | 9-Sep | 30-Sep | 30-Oct  |Coming soon |
-|  11. [Leaders](/www-policy/operational/leader) | 16-Sep | 07-Oct | 28-Oct |Coming soon |
-|  12. [Code of Conduct](/www-policy/operational/code-of-conduct-2) | 02-Oct | 22-Oct | 13-Nov |Coming soon |
+|  10. [Branding Guidelines](/www-policy/operational/branding) | 9-Sep | 30-Sep | 30-Oct  |[Download](/www-staff/files/2020-policy-review-feedback/Policy-Feedback-Branding.pdf) |
+|  11. [Leaders](/www-policy/operational/leader) | 16-Sep | 07-Oct | 28-Oct |[Download](/www-staff/files/2020-policy-review-feedback/Policy-Feedback-Leaders.pdf) |
+|  12. [Code of Conduct](/www-policy/operational/code-of-conduct-2) | 02-Oct | 22-Oct | 13-Nov |[Download](/www-staff/files/2020-policy-review-feedback/Policy-Feedback-Code-Of-Conduct.pdf) |
 |  13. [Committees](/www-policy/operational/committees) | TBD | TBD | TBD | TBD |
 |  14. [Chapter Procedure (formerly Handbook)](/www-policy/guidebook/chapter-leader)* | TBD | TBD | TBD | TBD |
 |  15. [Chapters](/www-policy/operational/chapters)* | TBD | TBD | TBD | TBD |
