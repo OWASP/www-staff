@@ -16,7 +16,6 @@ layout: full-width
 ## Work Items
 
 ### Lead
-- CODE: On/Off-boarding of owasp.org emails
 - Finance. Migrate CC to Amex and fix Paypal
 - Contracts & Legal Agreements
   - Ready for Review
@@ -29,7 +28,6 @@ layout: full-width
     - Event Sponorship Agreement
     - Board of Directors Committment Agreement
     - Conflict of Interest Annual Questionnaire
-  - Incomplete
     - Leader Committment Letter
     - Corporate Membership Agreement
     - Trademark License Agreeement
@@ -41,40 +39,17 @@ layout: full-width
     - Conference & Event Attendee
     - Global AppSec Program Teams
     - Expense Policy
-  - Incomplete
     - Leaders
-    - Chapter Procedure (formerly Handbook)
-    - Chapters
     - Branding Guidelines
-    - Social Media
-    - Committees
-  - To be Developed
-    - Travel Assistance Program
     - Local Partnerships
     - Mailing Lists
     - Elections
-    - Licenses
 - 2020 Staff Performance Reviews
 - Trademark Line of Business
-- Procedures (~10)
-  - Ready for Review
-    - Invoice Process
-    - Staff On and Off-boarding Processes
-  - To be Developed
-    - Executive Director Credentials
-    - Contact Us
-    - Membership
-    - Event Registration
-    - Event
-    - Donations and Restricted Gifts
-    - Reimbursement
-    - Create Project/Chapter/Committee
 
 ### Assist Andrew/Others
 - Operation Plan 2021 (Sept 30)
 - 2021 Budget (Nov 30)
-- 20-Year Anniversary Celebration (Andrew/Emily)
-- Semi-Annual Chapter Audit (Lisa)
 
 ### Assist Harold
 - CODE: Meetup Ingest into Website
@@ -95,12 +70,10 @@ layout: full-width
 - [x] 2020-07-20, Launch Policy Review Process, [Mike]
 - [x] 2020-07-22, Migrate CC info to Andrew, [Mike]
 - [x] 2020-08-31, Complete Staff Performance Reviews - Completed 18-Sep, [Mike]
-- [ ] 2020-10-15, Complete Trademark Line of Business Concept for Board, [Mike]
-- [ ] 2020-10-19, owasp.org domain automation, [Mike]
-- [ ] 2020-10-20, Present to Board Trademark Line of Business Concept, [Mike]
+- [x] 2020-10-15, Complete Trademark Line of Business Concept for Board, [Mike]
+- [x] 2020-10-20, Present to Board Trademark Line of Business Concept, [Mike]
 
 ## Remaining Board Meetings
-- 22-September
-- 20-October
+None
 
 
