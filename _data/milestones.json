@@ -1,248 +1,17 @@
 [
     {
-        "milestone_date": "2020-09-20",
-        "description": "All recorded presentations collected",
-        "owner": "Alonna",
-        "project_name": "Global AppSec - Virtual",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-09-29",
-        "description": "Project \"A\" Regression testing complete",
-        "owner": "Harold",
-        "project_name": "ORG Domain Email Offboarding",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-09-30",
-        "description": "Automate on-boarding of new member data into Copper, create GMAIL",
-        "owner": "Harold",
-        "project_name": "CRM Automation & Integration for Membership",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-10-01",
-        "description": "Ondemand content launch",
-        "owner": "Emily",
-        "project_name": "Global AppSec - Virtual",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-10-01",
-        "description": "Training Schedule Announced",
-        "owner": "Emily",
-        "project_name": "Global AppSec - Dublin 2021",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-10-01",
-        "description": "Open CFP",
-        "owner": "Emily",
-        "project_name": "Global AppSec - Dublin 2021",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-10-01",
-        "description": "Deploy Project \"A\" into production",
-        "owner": "Harold",
-        "project_name": "ORG Domain Email Offboarding",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-10-05",
-        "description": "Determine off-boarding member from Copper process",
-        "owner": "Harold",
-        "project_name": "CRM Automation & Integration for Membership",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-10-05",
-        "description": "Project \"B\" Complete ready for deployment",
-        "owner": "Christian",
-        "project_name": "ORG Domain Email Offboarding",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-10-07",
-        "description": "Project \"B\" Regression testing complete",
-        "owner": "Harold",
-        "project_name": "ORG Domain Email Offboarding",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-10-08",
-        "description": "Deploy Project \"B\" into production",
-        "owner": "Harold",
-        "project_name": "ORG Domain Email Offboarding",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-10-10",
-        "description": "P&L - SnowFroc 2020",
-        "owner": "Dawn",
-        "project_name": "Regional Events - P&L",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-10-15",
-        "description": "Voting opens",
-        "owner": "Dawn",
-        "project_name": "2020 Global Board Elections",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-10-15",
-        "description": "Complete Trademark Line of Business Concept for Board",
-        "owner": "Mike",
-        "project_name": "Associate Executive Director Off-boarding",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-10-15",
-        "description": "General Service Contract Signed",
-        "owner": "Emily",
-        "project_name": "Global AppSec - Dublin 2021",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-10-15",
-        "description": "Validation of six-days of production for errors",
-        "owner": "Harold",
-        "project_name": "ORG Domain Email Offboarding",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-10-16",
-        "description": "Automate off-boarding of members from Copper",
-        "owner": "Harold",
-        "project_name": "CRM Automation & Integration for Membership",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-10-16",
-        "description": "Remove Stripe customers marked cleanup-customer = \"true\"",
-        "owner": "Harold",
-        "project_name": "ORG Domain Email Offboarding",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-10-16",
-        "description": "Project Complete",
-        "owner": "Mike",
-        "project_name": "ORG Domain Email Offboarding",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-10-19",
-        "description": "owasp.org domain automation",
-        "owner": "Mike",
-        "project_name": "Associate Executive Director Off-boarding",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-10-19",
-        "description": "Present items 4-9 for Board approval",
-        "owner": "Mike",
-        "project_name": "2020 Policy Review",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-10-20",
-        "description": "Present to Board Trademark Line of Business Concept",
-        "owner": "Mike",
-        "project_name": "Associate Executive Director Off-boarding",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-10-22",
-        "description": "Email reminder for voting",
-        "owner": "Dawn",
-        "project_name": "2020 Global Board Elections",
-        "status": "overdue"
-    },
-    {
-        "milestone_date": "2020-10-28",
-        "description": "Email reminder for voting",
-        "owner": "Dawn",
-        "project_name": "2020 Global Board Elections",
-        "status": "on-time"
-    },
-    {
-        "milestone_date": "2020-10-30",
-        "description": "Voting closes",
-        "owner": "Dawn",
-        "project_name": "2020 Global Board Elections",
-        "status": "on-time"
-    },
-    {
-        "milestone_date": "2020-10-31",
-        "description": "Results shared with all candidate",
-        "owner": "Dawn",
-        "project_name": "2020 Global Board Elections",
-        "status": "on-time"
-    },
-    {
-        "milestone_date": "2020-10-31",
-        "description": "Close CFP",
-        "owner": "Emily",
-        "project_name": "Global AppSec - Dublin 2021",
-        "status": "on-time"
-    },
-    {
-        "milestone_date": "2020-11-01",
-        "description": "Results shared via email and social media",
-        "owner": "Dawn",
-        "project_name": "2020 Global Board Elections",
-        "status": "on-time"
-    },
-    {
-        "milestone_date": "2020-11-03",
-        "description": "Federal Election Day",
-        "owner": "No Owner",
-        "project_name": "OWASP Staff Holidays",
-        "status": "on-time"
-    },
-    {
-        "milestone_date": "2020-11-16",
-        "description": "Present remaining items for Board approval",
-        "owner": "Andrew",
-        "project_name": "2020 Policy Review",
-        "status": "on-time"
-    },
-    {
-        "milestone_date": "2020-11-20",
-        "description": "CFP Review Complete",
-        "owner": "Emily",
-        "project_name": "Global AppSec - Dublin 2021",
-        "status": "on-time"
-    },
-    {
         "milestone_date": "2020-11-26",
         "description": "Thanksgiving Day",
         "owner": "No Owner",
         "project_name": "OWASP Staff Holidays",
-        "status": "future"
+        "status": "on-time"
     },
     {
         "milestone_date": "2020-11-27",
         "description": "Day after Thanksgiving",
         "owner": "No Owner",
         "project_name": "OWASP Staff Holidays",
-        "status": "future"
-    },
-    {
-        "milestone_date": "2020-12-01",
-        "description": "Registration Re-Opens",
-        "owner": "Harold",
-        "project_name": "Global AppSec - Dublin 2021",
-        "status": "future"
-    },
-    {
-        "milestone_date": "2020-12-01",
-        "description": "Program Announced",
-        "owner": "Emily",
-        "project_name": "Global AppSec - Dublin 2021",
-        "status": "future"
+        "status": "on-time"
     },
     {
         "milestone_date": "2020-12-24",
@@ -259,10 +28,24 @@
         "status": "future"
     },
     {
-        "milestone_date": "2020-12-27",
-        "description": "Close P&L",
-        "owner": "Dawn",
-        "project_name": "LASCON 2020",
+        "milestone_date": "2020-12-28",
+        "description": "Office Closed",
+        "owner": "No Owner",
+        "project_name": "OWASP Staff Holidays",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-12-29",
+        "description": "Office Closed",
+        "owner": "No Owner",
+        "project_name": "OWASP Staff Holidays",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2020-12-30",
+        "description": "Office Closed",
+        "owner": "No Owner",
+        "project_name": "OWASP Staff Holidays",
         "status": "future"
     },
     {
@@ -273,10 +56,115 @@
         "status": "future"
     },
     {
-        "milestone_date": "2021-01-15",
-        "description": "Volunteers finalized and communication initiated",
-        "owner": "Emily",
-        "project_name": "Global AppSec - Dublin 2021",
+        "milestone_date": "2021-01-01",
+        "description": "New Year\u2019s Day",
+        "owner": "No Owner",
+        "project_name": "OWASP Staff Holidays",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2021-02-15",
+        "description": "Presidents Day",
+        "owner": "No Owner",
+        "project_name": "OWASP Staff Holidays",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2021-05-28",
+        "description": "Office Closed",
+        "owner": "No Owner",
+        "project_name": "OWASP Staff Holidays",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2021-05-31",
+        "description": "Memorial Day",
+        "owner": "No Owner",
+        "project_name": "OWASP Staff Holidays",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2021-07-05",
+        "description": "Independence Day (Observed)",
+        "owner": "No Owner",
+        "project_name": "OWASP Staff Holidays",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2021-09-03",
+        "description": "Office Closed",
+        "owner": "No Owner",
+        "project_name": "OWASP Staff Holidays",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2021-09-06",
+        "description": "Labor Day",
+        "owner": "No Owner",
+        "project_name": "OWASP Staff Holidays",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2021-11-11",
+        "description": "Veteran's Day",
+        "owner": "No Owner",
+        "project_name": "OWASP Staff Holidays",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2021-11-25",
+        "description": "Thanksgiving Day",
+        "owner": "No Owner",
+        "project_name": "OWASP Staff Holidays",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2021-11-26",
+        "description": "Day after Thanksgiving",
+        "owner": "No Owner",
+        "project_name": "OWASP Staff Holidays",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2021-12-24",
+        "description": "Christmas Eve",
+        "owner": "No Owner",
+        "project_name": "OWASP Staff Holidays",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2021-12-25",
+        "description": "Christmas Day",
+        "owner": "No Owner",
+        "project_name": "OWASP Staff Holidays",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2021-12-28",
+        "description": "Christmas Day (Observed)",
+        "owner": "No Owner",
+        "project_name": "OWASP Staff Holidays",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2021-12-29",
+        "description": "Office Closed",
+        "owner": "No Owner",
+        "project_name": "OWASP Staff Holidays",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2021-12-30",
+        "description": "Office Closed",
+        "owner": "No Owner",
+        "project_name": "OWASP Staff Holidays",
+        "status": "future"
+    },
+    {
+        "milestone_date": "2021-12-31",
+        "description": "New Year\u2019s Eve",
+        "owner": "No Owner",
+        "project_name": "OWASP Staff Holidays",
         "status": "future"
     }
 ]
