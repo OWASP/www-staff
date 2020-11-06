@@ -1,11 +1,11 @@
 ---
 
-title: OWASP Staff Holidays
+title: OWASP Office Closures
 layout: full-width
 
 ---
 
-# OWASP Staff U.S. Holidays
+# OWASP Observed Holidays and Office Closures
 
 - [x] 2020-01-01, New Year’s Day
 - [x] 2020-02-17, Presidents Day
