@@ -1,65 +1,65 @@
 [
     {
-        "name": "OWASP Staff Holidays",
+        "name": "OWASP Office Closures",
         "milestones": [
             {
                 "milestone_date": "2020-11-26",
                 "description": "Thanksgiving Day",
                 "owner": "No Owner",
-                "project_name": "OWASP Staff Holidays",
+                "project_name": "OWASP Office Closures",
                 "status": "on-time"
             },
             {
                 "milestone_date": "2020-11-27",
                 "description": "Day after Thanksgiving",
                 "owner": "No Owner",
-                "project_name": "OWASP Staff Holidays",
+                "project_name": "OWASP Office Closures",
                 "status": "on-time"
             },
             {
                 "milestone_date": "2020-12-24",
                 "description": "Christmas Eve",
                 "owner": "No Owner",
-                "project_name": "OWASP Staff Holidays",
+                "project_name": "OWASP Office Closures",
                 "status": "future"
             },
             {
                 "milestone_date": "2020-12-25",
                 "description": "Christmas Day",
                 "owner": "No Owner",
-                "project_name": "OWASP Staff Holidays",
+                "project_name": "OWASP Office Closures",
                 "status": "future"
             },
             {
                 "milestone_date": "2020-12-28",
                 "description": "Office Closed",
                 "owner": "No Owner",
-                "project_name": "OWASP Staff Holidays",
+                "project_name": "OWASP Office Closures",
                 "status": "future"
             },
             {
                 "milestone_date": "2020-12-29",
                 "description": "Office Closed",
                 "owner": "No Owner",
-                "project_name": "OWASP Staff Holidays",
+                "project_name": "OWASP Office Closures",
                 "status": "future"
             },
             {
                 "milestone_date": "2020-12-30",
                 "description": "Office Closed",
                 "owner": "No Owner",
-                "project_name": "OWASP Staff Holidays",
+                "project_name": "OWASP Office Closures",
                 "status": "future"
             },
             {
                 "milestone_date": "2020-12-31",
                 "description": "New Year\u2019s Eve",
                 "owner": "No Owner",
-                "project_name": "OWASP Staff Holidays",
+                "project_name": "OWASP Office Closures",
                 "status": "future"
             }
         ],
-        "description": "tle: OWASP Staff Holidayslayout: full-width---# OWASP Staff U.S. Holidays- [x] 2020-01-01, New Year\u2019s Day- [x] 2020-02-17, Presidents Day- [x] 2020-05-25, Memorial Day- [x] 2020-07-03, Independence Day (Observed)- [x] 2020-09-07, Labor Day- [x] 2020-11-03, Federal Election Day- [ ] 2020-11-26, Thanksgiving Day- [ ] 2020-11-27, Day after Thanksgiving- [ ] 2020-12-24, Christmas Eve- [ ] 2020-12-25, Christmas Day- [ ] 2020-12-28, Office Closed- [ ] 2020-12-29, Office Closed- [ ] 2020-12-30, Office Closed- [ ] 2020-12-31, New Year\u2019s Eve",
+        "description": "tle: OWASP Office Closureslayout: full-width---# OWASP Observed Holidays and Office Closures- [x] 2020-01-01, New Year\u2019s Day- [x] 2020-02-17, Presidents Day- [x] 2020-05-25, Memorial Day- [x] 2020-07-03, Independence Day (Observed)- [x] 2020-09-07, Labor Day- [x] 2020-11-03, Federal Election Day- [ ] 2020-11-26, Thanksgiving Day- [ ] 2020-11-27, Day after Thanksgiving- [ ] 2020-12-24, Christmas Eve- [ ] 2020-12-25, Christmas Day- [ ] 2020-12-28, Office Closed- [ ] 2020-12-29, Office Closed- [ ] 2020-12-30, Office Closed- [ ] 2020-12-31, New Year\u2019s Eve",
         "leaders": [
             {
                 "name": "x",
@@ -69,122 +69,122 @@
         "url": "https://owasp.org/www-staff/projects/2020-staff-holidays"
     },
     {
-        "name": "OWASP Staff Holidays",
+        "name": "OWASP Office Closures",
         "milestones": [
             {
                 "milestone_date": "2021-01-01",
                 "description": "New Year\u2019s Day",
                 "owner": "No Owner",
-                "project_name": "OWASP Staff Holidays",
+                "project_name": "OWASP Office Closures",
                 "status": "future"
             },
             {
                 "milestone_date": "2021-02-15",
                 "description": "Presidents Day",
                 "owner": "No Owner",
-                "project_name": "OWASP Staff Holidays",
+                "project_name": "OWASP Office Closures",
                 "status": "future"
             },
             {
                 "milestone_date": "2021-05-28",
                 "description": "Office Closed",
                 "owner": "No Owner",
-                "project_name": "OWASP Staff Holidays",
+                "project_name": "OWASP Office Closures",
                 "status": "future"
             },
             {
                 "milestone_date": "2021-05-31",
                 "description": "Memorial Day",
                 "owner": "No Owner",
-                "project_name": "OWASP Staff Holidays",
+                "project_name": "OWASP Office Closures",
                 "status": "future"
             },
             {
                 "milestone_date": "2021-07-05",
                 "description": "Independence Day (Observed)",
                 "owner": "No Owner",
-                "project_name": "OWASP Staff Holidays",
+                "project_name": "OWASP Office Closures",
                 "status": "future"
             },
             {
                 "milestone_date": "2021-09-03",
                 "description": "Office Closed",
                 "owner": "No Owner",
-                "project_name": "OWASP Staff Holidays",
+                "project_name": "OWASP Office Closures",
                 "status": "future"
             },
             {
                 "milestone_date": "2021-09-06",
                 "description": "Labor Day",
                 "owner": "No Owner",
-                "project_name": "OWASP Staff Holidays",
+                "project_name": "OWASP Office Closures",
                 "status": "future"
             },
             {
                 "milestone_date": "2021-11-11",
                 "description": "Veteran's Day",
                 "owner": "No Owner",
-                "project_name": "OWASP Staff Holidays",
+                "project_name": "OWASP Office Closures",
                 "status": "future"
             },
             {
                 "milestone_date": "2021-11-25",
                 "description": "Thanksgiving Day",
                 "owner": "No Owner",
-                "project_name": "OWASP Staff Holidays",
+                "project_name": "OWASP Office Closures",
                 "status": "future"
             },
             {
                 "milestone_date": "2021-11-26",
                 "description": "Day after Thanksgiving",
                 "owner": "No Owner",
-                "project_name": "OWASP Staff Holidays",
+                "project_name": "OWASP Office Closures",
                 "status": "future"
             },
             {
                 "milestone_date": "2021-12-24",
                 "description": "Christmas Eve",
                 "owner": "No Owner",
-                "project_name": "OWASP Staff Holidays",
+                "project_name": "OWASP Office Closures",
                 "status": "future"
             },
             {
                 "milestone_date": "2021-12-25",
                 "description": "Christmas Day",
                 "owner": "No Owner",
-                "project_name": "OWASP Staff Holidays",
+                "project_name": "OWASP Office Closures",
                 "status": "future"
             },
             {
                 "milestone_date": "2021-12-28",
                 "description": "Christmas Day (Observed)",
                 "owner": "No Owner",
-                "project_name": "OWASP Staff Holidays",
+                "project_name": "OWASP Office Closures",
                 "status": "future"
             },
             {
                 "milestone_date": "2021-12-29",
                 "description": "Office Closed",
                 "owner": "No Owner",
-                "project_name": "OWASP Staff Holidays",
+                "project_name": "OWASP Office Closures",
                 "status": "future"
             },
             {
                 "milestone_date": "2021-12-30",
                 "description": "Office Closed",
                 "owner": "No Owner",
-                "project_name": "OWASP Staff Holidays",
+                "project_name": "OWASP Office Closures",
                 "status": "future"
             },
             {
                 "milestone_date": "2021-12-31",
                 "description": "New Year\u2019s Eve",
                 "owner": "No Owner",
-                "project_name": "OWASP Staff Holidays",
+                "project_name": "OWASP Office Closures",
                 "status": "future"
             }
         ],
-        "description": "tle: OWASP Staff Holidayslayout: full-width---# OWASP Staff U.S. Holidays- [ ] 2021-01-01, New Year\u2019s Day- [ ] 2021-02-15, Presidents Day- [ ] 2021-05-28, Office Closed- [ ] 2021-05-31, Memorial Day- [ ] 2021-07-05, Independence Day (Observed)- [ ] 2021-09-03, Office Closed- [ ] 2021-09-06, Labor Day- [ ] 2021-11-11, Veteran's Day- [ ] 2021-11-25, Thanksgiving Day- [ ] 2021-11-26, Day after Thanksgiving- [ ] 2021-12-24, Christmas Eve- [ ] 2021-12-25, Christmas Day- [ ] 2021-12-28, Christmas Day (Observed)- [ ] 2021-12-29, Office Closed- [ ] 2021-12-30, Office Closed- [ ] 2021-12-31, New Year\u2019s Eve",
+        "description": "tle: OWASP Office Closureslayout: full-width---# OWASP Observed Holidays and Office Closures- [ ] 2021-01-01, New Year\u2019s Day- [ ] 2021-02-15, Presidents Day- [ ] 2021-05-28, Office Closed- [ ] 2021-05-31, Memorial Day- [ ] 2021-07-05, Independence Day (Observed)- [ ] 2021-09-03, Office Closed- [ ] 2021-09-06, Labor Day- [ ] 2021-11-11, Veteran's Day- [ ] 2021-11-25, Thanksgiving Day- [ ] 2021-11-26, Day after Thanksgiving- [ ] 2021-12-24, Christmas Eve- [ ] 2021-12-25, Christmas Day- [ ] 2021-12-28, Christmas Day (Observed)- [ ] 2021-12-29, Office Closed- [ ] 2021-12-30, Office Closed- [ ] 2021-12-31, New Year\u2019s Eve",
         "leaders": [
             {
                 "name": " ",
