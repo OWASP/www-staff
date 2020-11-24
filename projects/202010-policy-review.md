@@ -5,8 +5,6 @@ layout: full-width
 
 ---
 
-**TImeline Modified 28-Sep-2020**
-
 ## Goals
 
 * Collect Member feedback and input on organizational policies
@@ -20,7 +18,6 @@ layout: full-width
 | [Branding Guidelines](/www-policy/operational/branding) | 9-Sep | 30-Sep | 30-Oct  |[Download](/www-staff/files/2020-policy-review-feedback/Policy-Feedback-Branding.pdf) |
 | [Leaders](/www-policy/operational/leader) | 16-Sep | 07-Oct | 28-Oct |[Download](/www-staff/files/2020-policy-review-feedback/Policy-Feedback-Leaders.pdf) |
 | [Code of Conduct](/www-policy/operational/code-of-conduct-2) | 02-Oct | 22-Oct | 13-Nov |[Download](/www-staff/files/2020-policy-review-feedback/Policy-Feedback-Code-Of-Conduct.pdf) |
-| [Committees](/www-policy/operational/committees) | TBD | TBD | TBD | TBD |
 | [Chapter Procedure (formerly Handbook)](/www-policy/guidebook/chapter-leader)* | TBD | TBD | TBD | TBD |
 | [Chapters](/www-policy/operational/chapters)* | TBD | TBD | TBD | TBD |
 
@@ -39,20 +36,22 @@ layout: full-width
 | [Social Media](/www-policy/operational/social-media) | 20-Oct |[Download](/www-staff/files/2020-policy-review-feedback/Policy-Social-Media-Feedback.pdf) |
 | [Mailing Lists](/www-policy/operational/mailing-list) | 20-Oct |[Download](/www-staff/files/2020-policy-review-feedback/Policy-Mailing-Lists-Feedback.pdf) |
 | [Expense Policy](/www-policy/operational/expense-reimbursement) | 20-Oct |[Download](/www-staff/files/2020-policy-review-feedback/Policy-Expenses-Feedback.pdf) |
-
+| [Committees](/www-policy/operational/committees) | 20-Oct |  |
 
 ## Leadership
-* [Mike McCamon](mailto:mike.mccamon@owasp.com?subject=Policy%20Review)
-* Policy Review Team 
+
+* [Harold Blankenship](mailto:harold.blankenship@owasp.com?subject=Policy%20Review)
+* Policy Review Team
   * Bil Corry
   * Rick Mitchell
   * Tobias Glemser
-  * Mike McCamon
+  * Harold Blankenship
   
 ## Milestones
 
 - [x] 2020-07-17, Kickoff email sent to Members, [Mike]
 - [x] 2020-07-28, Kickoff Meeting of Policy Review Team, [Mike]
 - [x] 2020-09-15, Present items 1-3 for Board approval, [Mike]
-- [ ] 2020-10-19, Present items 4-9 for Board approval, [Mike]
-- [ ] 2020-11-16, Present remaining items for Board approval, [Andrew]
+- [x] 2020-10-19, Present items 4-9 for Board approval, [Mike]
+- [x] 2020-11-16, Present remaining items for Board approval, [Andrew]
+- [ ] 2020-11-24, Doodles for e-votes, [Andrew]
