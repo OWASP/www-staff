@@ -28,7 +28,7 @@
                 "description": "Christmas Day",
                 "owner": "No Owner",
                 "project_name": "OWASP Office Closures",
-                "status": "future"
+                "status": "on-time"
             },
             {
                 "milestone_date": "2020-12-28",
@@ -67,6 +67,26 @@
             }
         ],
         "url": "https://owasp.org/www-staff/projects/2020-staff-holidays"
+    },
+    {
+        "name": "2020 Policy Review",
+        "milestones": [
+            {
+                "milestone_date": "2020-11-24",
+                "description": "Doodles for e-votes",
+                "owner": "Andrew",
+                "project_name": "2020 Policy Review",
+                "status": "overdue"
+            }
+        ],
+        "description": "tle: 2020 Policy Reviewlayout: full-width---",
+        "leaders": [
+            {
+                "name": "Harold Blankenship",
+                "email": "harold.blankenship@owasp.com"
+            }
+        ],
+        "url": "https://owasp.org/www-staff/projects/202010-policy-review"
     },
     {
         "name": "OWASP Office Closures",
