@@ -1,5 +1,12 @@
 [
     {
+        "milestone_date": "2020-11-24",
+        "description": "Doodles for e-votes",
+        "owner": "Andrew",
+        "project_name": "2020 Policy Review",
+        "status": "overdue"
+    },
+    {
         "milestone_date": "2020-11-26",
         "description": "Thanksgiving Day",
         "owner": "No Owner",
@@ -25,7 +32,7 @@
         "description": "Christmas Day",
         "owner": "No Owner",
         "project_name": "OWASP Office Closures",
-        "status": "future"
+        "status": "on-time"
     },
     {
         "milestone_date": "2020-12-28",
