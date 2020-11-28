@@ -18,7 +18,7 @@
         "description": "Day after Thanksgiving",
         "owner": "No Owner",
         "project_name": "OWASP Office Closures",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-12-24",
@@ -39,7 +39,7 @@
         "description": "Office Closed",
         "owner": "No Owner",
         "project_name": "OWASP Office Closures",
-        "status": "future"
+        "status": "on-time"
     },
     {
         "milestone_date": "2020-12-29",
