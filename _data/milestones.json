@@ -53,7 +53,7 @@
         "description": "Office Closed",
         "owner": "No Owner",
         "project_name": "OWASP Office Closures",
-        "status": "future"
+        "status": "on-time"
     },
     {
         "milestone_date": "2020-12-31",
