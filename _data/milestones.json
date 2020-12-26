@@ -32,7 +32,7 @@
         "description": "Christmas Day",
         "owner": "No Owner",
         "project_name": "OWASP Office Closures",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2020-12-28",
