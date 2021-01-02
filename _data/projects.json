@@ -96,7 +96,7 @@
                 "description": "New Year\u2019s Day",
                 "owner": "No Owner",
                 "project_name": "OWASP Office Closures",
-                "status": "on-time"
+                "status": "overdue"
             },
             {
                 "milestone_date": "2021-02-15",
