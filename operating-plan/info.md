@@ -1,41 +1,20 @@
-### 2020 Budget (WIP)
-### Operating Plan
-####  Operations
-* [Single Source of Truth](#truth)
-* [Retool Business Operations](#retool-operations)
-* [Project Planning and Budgeting](#planning-budgeting)
-* [Staffing](#staffing)
-* [Financial Controls](#financial-controls)
-* [Expense Policies](#expense-polcies)
-* [Travel Assistance Budget](#travel-assi)
-* [Trademark Registration](#trademark)
-* [KPI Dashboard](#kpi)
-* [Committee 2.0](#committee2)
-#### Community
-* [Build Community](#build-community)
-* [Chapter Operations](#chapter-operations)
-* [Individual Membership](#individual-membership)
-* [Corporate Membership](#corporate-membership)
-* [Local Partnerships](#local-partnerships)
-* [Community Outreach](#community-outreach)
-* [Town Halls](#town-hall)
-#### Projects
-* [OWASP Top 10 - 2020 Edition](#top-10)
-* [Project Operations](#project-operations)
-* [Project Nurishment](#project-nurishment)
-* [Project Summits](#projoect-summits)
-#### Events
-* [Global AppSec Events](#global-appse)
-* [Global AppSec Program Team](#global-team)
-* [AppSec Days](#appsec-days)
-* [Regional Events](#regional-events)
-#### Growth & Partnering
-* [Branding](#branding)
-* [Website 2.0](#web2)
-* [Corporate Sponsorship](#corporate-sponsorship)
-* [Global Partnerships](#global-partnerships)
-* [Marketing Plan](#marketing-plan)
-* [Grant Funding](#grant-funding)
-* [20th Year Anniversary Celebration](#20-anniversary)
-* [Online Training and Certificate Program](#online-training)
-* [Underserved Communities](#underserved)
+---
+
+title: OWASP 2020 Operating Plan
+layout: col-sidebar
+
+---
+
+## Operating Plan 2021
+
+Adopted by the Board September 22, 2020
+
+- [Introduction](/www-staff/operating-plan/intro-2021)
+- [Status of milestones](/www-staff/operating-plan/status-2021)
+- [Survive (Part 1)](/www-staff/operating-plan/survive-2021)
+- [Focus on Mission (Part 2)](/www-staff/operating-plan/focus-on-mission-2021)
+- [Thrive (Part 3)](/www-staff/operating-plan/thrive-2021)
+
+## Operating Plan 2020
+
+- [Operating Plan 2020 (superceded)](/www-staff/operating-plan/2020)
