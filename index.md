@@ -24,12 +24,20 @@ Staff Projects are work products primarily done by staff that require either 40+
 
 *Concept >> Document >> Socialize >> Iterate >> [Approval if needed] >> Plan >> Implement >> Report >> Revisit*
 
-## 2020 Plans
+
+## 2021 Operational Plans & Budget
+
+- [2021 Operating Plan](/www-staff/operating-plan/)
+- [2021 Budget - TBA]()
+
+## 2020 Operational Plans & Budget
+
 - [2020 Operating Plan](/www-staff/operating-plan/2020)
 - [2020 Budget COVID-19 Response (Model Z)](/www-staff/budget/2020-modelz)
 - [Original 2020 Budget](/www-staff/budget/2020)
 
 ## Active Projects
+
 {% assign pages = site.pages | sort: 'title' | limit: 1000 %}
 <ul>
 {% for page in pages %}
@@ -40,18 +48,32 @@ Staff Projects are work products primarily done by staff that require either 40+
 </ul>
 
 ## Prioritized Projects
-* SalesForce New Instance > Migration
-  * Invoice Workflow (SalesForce & JIRA)
-  * SalesForce Sales Pipeline
-* Backup plan for Meetup
-* Retool Invoice process to support CC payments
 
-## Unprioritized Projects
-* Bi-Annual Signatory/Password Audit Jan/June
-* Submittable download stylesheet for owasp.org website
+* 2021 Budget
+* Board Strategy Meeting, including setting a new mission statement
+* Finance Reform, including Grants, Awards and Scholarships
+* Fundraising and grant seeking 
+
+## Strategies from the operating plan
+
+* Run by the community, for the community
+* OWASP Foundation enables the mission, not does it
+* All chapters, projects, committees, and all mission areas should be their own profit and loss, able to earn and spend funds on mission in an accountable way
+* Developers and Testers must be a key target for all mission activities 
+* Automation of all BAU, or if automation is not possible, single touch processes that are fair, community supported, and repeatable outcomes
+
+## Foundation Goals for 2021
+
+1. Emerge from 2021 a stronger, more cohesive community, with increased chapter and project activity, with more member benefits
+2. Ensure we raise sufficient funds to put on two Global AppSecs in 2022
+3. Increase student, individual, and lifetime memberships to 4000
+4. Recruit active leaders to all inactive chapters, and increase chapter activity by 25% over 2020 levels
+5. Simplify and minimize administrative costs and overheads
+
+*Vision: TBA after Board strategy meeting*
 
 ## Recently Completed Projects
-* [AppSec Days Melbourne, 1 November, 2019](https://www.owasp.org/index.php/Staff-Projects/20191101-AppSecDay-Melbourne)
+
 {% assign pages = site.pages | sort: 'title' | limit: 1000 %}
 <ul>
 {% for page in pages %}
@@ -61,24 +83,5 @@ Staff Projects are work products primarily done by staff that require either 40+
 {% endfor %}
 </ul>
 
-
 ## Templates 
 * [Blank Template](/www-staff/projects/202001-template)
-
-## Strategies
-* Create and share best practices and tools for InfoSec community
-* Increase connectedness and engagement within the community.
-* Position the Foundation for growth.
-* Professionalize administrative and operational tasks and practices.
-* Redesign financial model and membership benefits.
-
-## Foundation Goals for 2020
-1. Promote updated version of OWASP Top 10 set to release in october 2020.
-1. Continue to optimize business operations to overachieve financial and membership targets.
-1. Manage two successful global conferences planning three in 2021.
-1. Launch Project Summits and AppSec Days to over 500 attendees
-1. Increase relevance and reputation of OWASP measured by 10% increase in web traffic.
-1. Improve satisfaction with OWASP by survey measured a 10% increase.
-1. Increase corporate and individual membership by 25%
-
-*Vision: Global and open resource for software security*
