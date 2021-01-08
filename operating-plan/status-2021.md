@@ -11,6 +11,8 @@ Approved by the Board September 22, 2021
 
 ### OWASP Foundation and OWASP Member Services
 
+<span style="font-size:12px;">
+
 | Section | Description | Priority | Status | Due Date |
 | --- | --- | --- | --- | --- |
 | Survive | COVID temporary restrictions | Medium | Done | | 
@@ -53,7 +55,11 @@ Approved by the Board September 22, 2021
 | Thrive | Donate a car funding program | Medium | Backlog | Q4 2021 | 
 | Thrive | Bequests funding program | Medium | Backlog | Q4 2021 | 
 
+</span>
+
 ### Members
+
+<span style="font-size:12px;">
 
 | Section | Description | Priority | Status | Due Date |
 | --- | --- | --- | --- | --- |
@@ -68,7 +74,11 @@ Approved by the Board September 22, 2021
 | Survive | Periodic billing plan for lifetime members | Low | Backlog | Q3 2021 | 
 | Survive | Monthly email only membership program | Low | Backlog | Q4 2021 | 
 
+</span>
+
 ### Chapters
+
+<span style="font-size:12px;">
 
 | Section | Description | Priority | Status | Due Date |
 | --- | --- | --- | --- | --- |
@@ -84,7 +94,11 @@ Approved by the Board September 22, 2021
 | Focus on mission | Formalize regional chapters | Medium | Backlog | Q2 2021 | 
 | Focus on Mission | Formalize student chapters & membership | Medium | Backlog | Q3 2021 | 
 
+</span>
+
 ### Projects and Technology
+
+<span style="font-size:12px;">
 
 | Section | Description | Priority | Status | Due Date |
 | --- | --- | --- | --- | --- |
@@ -95,7 +109,11 @@ Approved by the Board September 22, 2021
 | Focus on mission | Update Project Handbook | Medium | Backlog | Q2 2021 | 
 | Thrive | Establish a vulnerabilty management / bug bounty platform | Medium | Backlog | Q4 2021 | 
 
+</span>
+
 ### Committees
+
+<span style="font-size:12px;">
 
 | Section | Description | Priority | Status | Due Date |
 | --- | --- | --- | --- | --- |
@@ -108,7 +126,11 @@ Approved by the Board September 22, 2021
 | Focus on mission | Outreach Handbook | Medium | Backlog | Q4 2021 | 
 | Focus on mission | Overall Committee Handbook | Medium | Backlog | Q4 2021 | 
 
+</span>
+
 ### Education 
+
+<span style="font-size:12px;">
 
 | Section | Description | Priority | Status | Due Date |
 | --- | --- | --- | --- | --- |
@@ -121,7 +143,11 @@ Approved by the Board September 22, 2021
 | Thrive | Industry certification program | Medium | Backlog | Q3 2021 | 
 | Thrive | Trainer certification program | Medium | Backlog | Q4 2021 | 
 
+</span>
+
 ### Events
+
+<span style="font-size:12px;">
 
 | Section | Description | Priority | Status | Due Date |
 | --- | --- | --- | --- | --- |
@@ -136,14 +162,18 @@ Approved by the Board September 22, 2021
 | Survive | Regional event finance reform | Medium | In progress | Q1 2021 | 
 | Survive | Review virtual trainer splits | Medium | Backlog | Q1 2021 | 
 | Focus on Mission | Establish Event committee | High | Backlog | Q1 2021 | 
-| Survive | Events in a box (Events Handbook) | Backlog | High | Q2 2021 | 
+| Survive | Events in a box (Events Handbook) | High | Backlog | Q2 2021 | 
 | Survive | Improve transparency of CFP/CFT process, including panel appointments | Medium | Backlog | Q2 2021 | 
 | Survive | Develop Regional event rate card for Foundation services | Medium | Backlog | Q2 2021 | 
-| Survive | Recognize regional event orgs as OWASP leaders and access to leader shared services | Medium | Backlog | Q2 2021 | 
+| Survive | Recognize regional event orgs as OWASP leaders and access to leader shared services | Medium | Backlog | Q3 2021 | 
 | Survive | COVID Return to Physical Events Plan | Medium | Backlog | Q3 2021 | 
 | Survive | Develop Regional X model | Medium | Backlog | Q4 2021 | 
 
+</span>
+
 ### Corporate Support
+
+<span style="font-size:12px;">
 
 | Section | Description | Priority | Status | Due Date |
 | --- | --- | --- | --- | --- |
@@ -162,3 +192,5 @@ Approved by the Board September 22, 2021
 | Focus on Mission | Create a Corporate Member Handbook | Medium | Backlog | Q2 2021 | 
 | Survive | Implement a bartering policy | Medium | Backlog | Q2 2021 | 
 | Survive | Board Community Connections | Medium | Backlog | Q3 2021 | 
+
+</span>

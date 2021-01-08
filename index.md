@@ -27,7 +27,7 @@ Staff Projects are work products primarily done by staff that require either 40+
 
 ## 2021 Operational Plans & Budget
 
-- [2021 Operating Plan](/www-staff/operating-plan/)
+- [2021 Operating Plan](/www-staff/operating-plan/info)
 - [2021 Budget - TBA]()
 
 ## 2020 Operational Plans & Budget

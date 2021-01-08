@@ -1,6 +1,6 @@
 ---
 
-title: OWASP Operating Plan 2021 - Survive
+title: OWASP Operating Plan 2021 - Introduction
 layout: col-sidebar
 
 ---
