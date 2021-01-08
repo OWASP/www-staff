@@ -7,7 +7,7 @@ layout: full-width
 
 # OWASP Observed Holidays and Office Closures
 
-- [ ] 2021-01-01, New Year’s Day
+- [x] 2021-01-01, New Year’s Day
 - [ ] 2021-02-15, Presidents Day
 - [ ] 2021-05-28, Office Closed
 - [ ] 2021-05-31, Memorial Day
