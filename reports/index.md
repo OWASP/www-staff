@@ -1,7 +1,7 @@
 ---
 
 title: Important Staff Links
-layout: col-general
+layout: col-generic
 
 ---
 
