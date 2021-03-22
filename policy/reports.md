@@ -2,7 +2,6 @@
 
 title: Important Staff Links
 layout: col-sidebar
-permalink: /reports/
 
 ---
 
