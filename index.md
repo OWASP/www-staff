@@ -24,6 +24,15 @@ Staff Projects are work products primarily done by staff that require either 40+
 
 *Concept >> Document >> Socialize >> Iterate >> [Approval if needed] >> Plan >> Implement >> Report >> Revisit*
 
+## Staff Workflow Procedures (in development)
+{% assign pages = site.pages | sort: 'title' | limit: 1000 %}
+<ul>
+{% for page in pages %}
+ {% if page.path contains 'procedures/' %}
+ <li><a href="/www-staff{{ page.url | replace: '.html', '' }}">{{ page.title }}</a></li>
+ {% endif %}
+{% endfor %}
+</ul>
 
 ## 2021 Operational Plans & Budget
 
