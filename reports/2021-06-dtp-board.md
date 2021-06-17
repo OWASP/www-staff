@@ -5,6 +5,7 @@ date: 2021-06
 author: Harold L. Blankenship
 layout: col-generic
 image: https://owasp.org/assets/images/people/staff_harold.jpg
+
 ---
 ![Harold Image]({{page.image}}){:width='75px'} {{ page.author }}
 
