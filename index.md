@@ -1,29 +1,13 @@
 ---
 
-title: Staff Projects
-layout: full-width
+title: Staff Information and Procedures
+layout: col-sidebar
 
 ---
 
+The OWASP Foundation Staff are responsible for helping the community to enable the OWASP mission. Information pertaining to the current operating procedures, staff goals, and plans can be found below.
+
 <!-- rebuild 6 -->
-
-# Staff Projects
-
-[Milestone View](/www-staff/milestones)
-
-
-<!-- Place this tag in your head or just before your close body tag. -->
-<script async defer src="https://buttons.github.io/buttons.js"></script>
-<!-- Place this tag where you want the button to render. --><a class="github-button" href="https://github.com/owasp/www-staff"  data-icon="octicon-eye" data-size="large" data-show-count="true" aria-label="Watch ntkme/github-buttons on GitHub">Watch</a>
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/owasp/www-staff" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star ntkme/github-buttons on GitHub">Star</a>
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/owasp/www-staff/issues" data-icon="octicon-issue-opened" data-size="large" data-show-count="true" aria-label="Issue owasp/www-staff on GitHub">Issue</a>
-
-Staff Projects are work products primarily done by staff that require either 40+hrs of staff time or have a financial obligation of more than $10,000. **Active** Staff Projects have written plans that include measurable goals, milestones, and should be linked below.  **Prioritized** Staff Projects are in the formation stages and are listed in rank importance. **Unprioritized** Staff Projects are items that lack a plan and are in a "bucket list" until they get prioritized with a project plan. *Note this project list is not the exhaustive list of staff daily work product. These are the key projects above everyday work that is purposefully planned to deliver on the Foundation Goals. Generally the process we will use to implement our plans are: 
-
-*Concept >> Document >> Socialize >> Iterate >> [Approval if needed] >> Plan >> Implement >> Report >> Revisit*
-
 ## Staff Workflow Procedures (in development)
 {% assign pages = site.pages | sort: 'title' | limit: 1000 %}
 <ul>
@@ -45,24 +29,6 @@ Staff Projects are work products primarily done by staff that require either 40+
 - [2020 Budget COVID-19 Response (Model Z)](/www-staff/budget/2020-modelz)
 - [Original 2020 Budget](/www-staff/budget/2020)
 
-## Active Projects
-
-{% assign pages = site.pages | sort: 'title' | limit: 1000 %}
-<ul>
-{% for page in pages %}
- {% if page.path contains 'projects/' %}
- <li><a href='/www-staff{{ page.url }}'>{{ page.title }}</a>{% if page.date %}, {{ page.date }}{% endif %}</li>
- {% endif %}
-{% endfor %}
-</ul>
-
-## Prioritized Projects
-
-* 2021 Budget
-* Board Strategy Meeting, including setting a new mission statement
-* Finance Reform, including Grants, Awards and Scholarships
-* Fundraising and grant seeking 
-
 ## Strategies from the operating plan
 
 * Run by the community, for the community
@@ -80,17 +46,3 @@ Staff Projects are work products primarily done by staff that require either 40+
 5. Simplify and minimize administrative costs and overheads
 
 *Vision: TBA after Board strategy meeting*
-
-## Recently Completed Projects
-
-{% assign pages = site.pages | sort: 'title' | limit: 1000 %}
-<ul>
-{% for page in pages %}
- {%- if page.path contains 'projects-historical/' -%}
- <li><a href='/www-staff{{ page.url }}'>{{ page.title }}</a></li>
- {% endif %}
-{% endfor %}
-</ul>
-
-## Templates 
-* [Blank Template](/www-staff/projects/202001-template)

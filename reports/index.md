@@ -1,8 +1,15 @@
 ---
 
-title: Important Staff Links
+title: Staff Reports
 layout: col-generic
 
 ---
+{% assign pages = site.pages | sort: 'title' | limit: 240 %}
+{% for item in pages %}
+{%- if item.path contains 'reports/' -%}
+{%- unless item.path contains 'index.md' -%}
+* [{{item.title}}]({{item.url}})
+{% endunless %}
+{% endif %}
+{% endfor %}
 
-### [Restricted Donations](https://dashboard.stripe.com/search?query=is%3Apayment%20metadata%3Arestricted%3DTrue){:target='_blank'}
