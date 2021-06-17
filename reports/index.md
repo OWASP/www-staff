@@ -8,7 +8,7 @@ layout: col-generic
 {% for item in pages %}
 {%- if item.path contains 'reports/' -%}
 {%- unless item.path contains 'index.md' -%}
-* [{{item.title}}]({{item.url}})
+* [{{item.title}}](www-staff/{{item.url}})
 {% endunless %}
 {% endif %}
 {% endfor %}
