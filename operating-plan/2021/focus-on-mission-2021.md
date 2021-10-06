@@ -5,10 +5,10 @@ layout: col-sidebar
 
 ---
 
-- [Introduction](/www-staff/operating-plan/intro-2021)
-- [Survive (Part 1)](/www-staff/operating-plan/survive-2021)
+- [Introduction](./intro-2021)
+- [Survive (Part 1)](./survive-2021)
 [TOC]
-- [Thrive (Part 3)](/www-staff/operating-plan/thrive-2021)
+- [Thrive (Part 3)](./thrive-2021)
 
 ## Focus on Mission
 
