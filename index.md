@@ -9,6 +9,7 @@ The OWASP Foundation Staff are responsible for helping the community to enable t
 
 <!-- rebuild 6 -->
 ## Staff Workflow Procedures (in development)
+
 {% assign pages = site.pages | sort: 'title' | limit: 1000 %}
 <ul>
 {% for page in pages %}
@@ -30,7 +31,7 @@ The OWASP Foundation Staff are responsible for helping the community to enable t
 
 ## 2020 Operational Plans & Budget
 
-- [2020 Operating Plan](/www-staff/operating-plan/2020)
+- [2020 Operating Plan](operating-plan/2020/2020)
 - [2020 Budget COVID-19 Response (Model Z)](/www-staff/budget/2020-modelz)
 - [Original 2020 Budget](/www-staff/budget/2020)
 
