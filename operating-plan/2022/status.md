@@ -11,6 +11,7 @@ layout: col-sidebar
 | -- | -- | -- |
 | Improve chapter CX | tba | tba |
 | Implement Association Management System | tba | tba |
+| Chapter Handbook | tba | tba |
 | Increase active chapters | tba | tba |
 | Increase RSVPs | tba | tba |
 
@@ -50,12 +51,12 @@ layout: col-sidebar
 | OWASP Learning Platform | tba | tba |
 | Project Summit H2 2022 | tba | tba |
 
-
 ## Operations Status
 
 | Project | Description | Status |
 | -- | -- | -- |
-| tba | tba | tba |
+| Books Online | tba | tba |
+| Improve | tba | tba |
 
 ## Fundraising Status
 

@@ -21,7 +21,7 @@ The OWASP Foundation Staff are responsible for helping the community to enable t
 
 ## 2022 Draft Operational Plan & Budget
 
-- [2022 Draft Operating Plan](operating-plan/2022)
+- [2022 Draft Operating Plan](operating-plan/2022/intro)
 - [2022 Draft Budget](budget/2022)
 
 ## 2021 Operational Plans & Budget
@@ -37,11 +37,11 @@ The OWASP Foundation Staff are responsible for helping the community to enable t
 
 ## Strategies from the operating plan
 
-* Run by the community, for the community
-* OWASP Foundation enables the mission, not does it
-* All chapters, projects, committees, and all mission areas should be their own profit and loss, able to earn and spend funds on mission in an accountable way
-* Developers and Testers must be a key target for all mission activities 
-* Automation of all BAU, or if automation is not possible, single touch processes that are fair, community supported, and repeatable outcomes
+- Run by the community, for the community
+- OWASP Foundation enables the mission, not does it
+- All chapters, projects, committees, and all mission areas should be their own profit and loss, able to earn and spend funds on mission in an accountable way
+- Developers and Testers must be a key target for all mission activities
+- Automation of all BAU, or if automation is not possible, single touch processes that are fair, community supported, and repeatable outcomes
 
 ## Foundation Goals for 2021
 
@@ -50,5 +50,3 @@ The OWASP Foundation Staff are responsible for helping the community to enable t
 3. Increase student, individual, and lifetime memberships to 4000
 4. Recruit active leaders to all inactive chapters, and increase chapter activity by 25% over 2020 levels
 5. Simplify and minimize administrative costs and overheads
-
-*Vision: TBA after Board strategy meeting*

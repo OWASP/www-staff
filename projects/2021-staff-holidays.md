@@ -5,16 +5,16 @@ layout: full-width
 
 ---
 
-# OWASP Observed Holidays and Office Closures
+## OWASP Observed Holidays and Office Closures
 
 - [x] 2021-01-01, New Year’s Day
-- [ ] 2021-02-15, Presidents Day
-- [ ] 2021-05-28, Office Closed
-- [ ] 2021-05-31, Memorial Day
-- [ ] 2021-07-05, Independence Day (Observed)
-- [ ] 2021-09-03, Office Closed
-- [ ] 2021-09-06, Labor Day
-- [ ] 2021-11-11, Veteran's Day
+- [x] 2021-02-15, Presidents Day
+- [x] 2021-05-28, Office Closed
+- [x] 2021-05-31, Memorial Day
+- [x] 2021-07-05, Independence Day (Observed)
+- [x] 2021-09-03, Office Closed
+- [x] 2021-09-06, Labor Day
+- [ ] 2021-11-24, (in lieu of) US Veteran's Day (Observed)
 - [ ] 2021-11-25, Thanksgiving Day
 - [ ] 2021-11-26, Day after Thanksgiving
 - [ ] 2021-12-24, Christmas Eve
