@@ -14,27 +14,27 @@ Approved by the Board September 22, 2021
 <span style="font-size:12px;">
 
 | Section | Description | Priority | Status | Due Date |
-| --- | --- | --- | --- | --- |
-| Focus on mission | Create a grants form | Medium | [x] | |
+| --- | --- | --- | :-: | :-: |
+| Focus on mission | Create a grants form | Medium |  :white_check_mark: | |
 | Focus on mission | Write a grants handbook | Medium | | Q4 2021 |
 | Focus on mission | Ask Board to continue audit committee | Medium | Shelved | |
-| Survive | Review Virtual Inc Marketing contracts | High | [x] | |
-| Survive | Committee reform | High | [x] | |
-| Survive | Finance Reform | High | [x] | |
-| Survive | COVID temporary restrictions | Medium | [x] | |
-| Survive | Awards and Scholarship Policy | Medium | [x] | |
-| Survive | GAAP recognition of membership | Medium | [x] | |
-| Survive | Improve international payments | Medium | [x] | |
-| Survive | Policy Review | Medium | [x] | |
-| Survive | Qualified advice procedures | Medium | [x] | |
-| Survive | Review accounts receivable | Medium | [x] | |
-| Survive | Close all open job positions | Low | [x] | |
-| Survive | Implement 30 day payment terms | Low | [x] | |
-| Survive | Implement Google AdWords marketing | Low | [x] | |
-| Survive | Review and revamp OWASP Connector | Low | [x] | |
-| Survive | Review EU entity | Medium | [x] | |
-| Survive | Simplify payment mechanisms | Medium | [x]  | |
-| Survive | Review, de-duplicate, and promote shared services | Medium | [x] | |
+| Survive | Review Virtual Inc Marketing contracts | High |  :white_check_mark: | |
+| Survive | Committee reform | High |  :white_check_mark: | |
+| Survive | Finance Reform | High |  :white_check_mark: | |
+| Survive | COVID temporary restrictions | Medium |  :white_check_mark: | |
+| Survive | Awards and Scholarship Policy | Medium |  :white_check_mark: | |
+| Survive | GAAP recognition of membership | Medium |  :white_check_mark: | |
+| Survive | Improve international payments | Medium |  :white_check_mark: | |
+| Survive | Policy Review | Medium |  :white_check_mark: | |
+| Survive | Qualified advice procedures | Medium |  :white_check_mark: | |
+| Survive | Review accounts receivable | Medium |  :white_check_mark: | |
+| Survive | Close all open job positions | Low |  :white_check_mark: | |
+| Survive | Implement 30 day payment terms | Low |  :white_check_mark: | |
+| Survive | Implement Google AdWords marketing | Low |  :white_check_mark: | |
+| Survive | Review and revamp OWASP Connector | Low |  :white_check_mark: | |
+| Survive | Review EU entity | Medium |  :white_check_mark: | |
+| Survive | Simplify payment mechanisms | Medium |  :white_check_mark:  | |
+| Survive | Review, de-duplicate, and promote shared services | Medium |  :white_check_mark: | |
 | Survive | Create BCP plan | High | In progress | Q4 2021 |
 | Survive | Contract review | Medium | In progress | Q4 2021 |
 | Survive | New mission statement | Medium | In progress | Q4 2021 |
@@ -42,8 +42,8 @@ Approved by the Board September 22, 2021
 | Survive | Review, reform, and implement marketing strategy | Medium | In progress | Q4 2021 |
 | Survive | Travel Reform and appoint a travel agency | Low | In progress | Q4 2021 |
 | Survive | Community Social Media Managers and Content Creators | Medium | | Q4 2021 |
-| Thrive | Revitalize "news" and site content | Medium | [x] | |
-| Thrive | OWASP Merchandise Program | Medium | [x] |  |
+| Thrive | Revitalize "news" and site content | Medium |  :white_check_mark: | |
+| Thrive | OWASP Merchandise Program | Medium |  :white_check_mark: |  |
 | Thrive | OWASP Trademark licensing program | Medium | In progress | Q4 2021 |
 | Thrive | Distrubute existing stickers & pins | Medium | In progress | Q4 2021 |
 | Thrive | Crowdsource funding | Medium | | Q4 2021 |
@@ -61,12 +61,12 @@ Approved by the Board September 22, 2021
 <span style="font-size:12px;">
 
 | Section | Description | Priority | Status | Due Date |
-| --- | --- | --- | --- | --- |
-| Survive | Move memberships to Copper CRM | High | [x] | |
-| Survive | Regional pricing for all membership types | Medium | [x] | |
-| Survive | Reform Lifetime Honorary membership | Medium | [x] | |
-| Survive | Quarterly Membership Drives | Medium | [x] | |
-| Survive | Complimentary membership for active leaders | Low | [x] | |
+| --- | --- | --- | :-: | :-: |
+| Survive | Move memberships to Copper CRM | High |  :white_check_mark: | |
+| Survive | Regional pricing for all membership types | Medium |  :white_check_mark: | |
+| Survive | Reform Lifetime Honorary membership | Medium |  :white_check_mark: | |
+| Survive | Quarterly Membership Drives | Medium |  :white_check_mark: | |
+| Survive | Complimentary membership for active leaders | Low |  :white_check_mark: | |
 | Survive | Periodic billing plan for lifetime members | Low | Backlog | 2022 |
 | Survive | Monthly email only membership program | Low | Backlog | 2022 |
 | Focus on mission | Member Handbook | Medium | Backlog | 2022 |
@@ -79,15 +79,15 @@ Approved by the Board September 22, 2021
 <span style="font-size:12px;">
 
 | Section | Description | Priority | Status | Due Date |
-| --- | --- | --- | --- | --- |
-| Focus on mission | Reactivate inactive chapters | High | [x] | |
-| Focus on Mission | Recharter Chapter committee | Medium | [x] | |
-| Focus on Mission | Automate chapter announcement | Medium | [x] | |
-| Focus on Mission | Establish COVID era activity requirements | Medium | [x] | |
-| Focus on Mission | Monthly update to slides by Chapter Committee | Medium | [x]| |
-| Focus on Mission | Formalize chapter expenses with chapter committee | Medium | [x] | |
-| Focus on Mission | Establish a speaker's bureau | Medium | [x] | |
-| Focus on Mission | Formalize student chapters & membership | Medium | [x] | |
+| --- | --- | --- | :-: | :-: |
+| Focus on mission | Reactivate inactive chapters | High |  :white_check_mark: | |
+| Focus on Mission | Recharter Chapter committee | Medium |  :white_check_mark: | |
+| Focus on Mission | Automate chapter announcement | Medium |  :white_check_mark: | |
+| Focus on Mission | Establish COVID era activity requirements | Medium |  :white_check_mark: | |
+| Focus on Mission | Monthly update to slides by Chapter Committee | Medium |  :white_check_mark:| |
+| Focus on Mission | Formalize chapter expenses with chapter committee | Medium |  :white_check_mark: | |
+| Focus on Mission | Establish a speaker's bureau | Medium |  :white_check_mark: | |
+| Focus on Mission | Formalize student chapters & membership | Medium |  :white_check_mark: | |
 | Focus on mission | Formalize regional chapters | Medium | In progress | Q4 2021 |
 | Focus on mission | Re-write chapter Handbook | Medium | Backlog | 2022 |
 | Focus on Mission | Formalize chapter activity metrics with chapter committee | Low | Backlog | 2022 |
@@ -99,9 +99,9 @@ Approved by the Board September 22, 2021
 <span style="font-size:12px;">
 
 | Section | Description | Priority | Status | Due Date |
-| --- | --- | --- | --- | --- |
-| Focus on Mission | Establish Project committee | High | [x] | |
-| Focus on mission | Get project promotions moving again | Medium | [x] | |
+| --- | --- | --- | :-: | :-: |
+| Focus on Mission | Establish Project committee | High |  :white_check_mark: | |
+| Focus on mission | Get project promotions moving again | Medium |  :white_check_mark: | |
 | Survive | Automate most BAU functions | Medium | In progress | Q4 2021 |
 | Survive | Full automation of all membership self service | Medium | In progress | Q4 2021 |
 | Focus on mission | Promote Project Activity | Medium | | Q4 2021 |
@@ -117,9 +117,9 @@ Approved by the Board September 22, 2021
 <span style="font-size:12px;">
 
 | Section | Description | Priority | Status | Due Date |
-| --- | --- | --- | --- | --- |
-| Focus on Mission | WIA to become WIA, Diversity and Inclusion committee | Medium | [x] | |
-| Focus on mission | Re-charter Compliance Committee | Medium | [x] | |
+| --- | --- | --- | :-: | :-: |
+| Focus on Mission | WIA to become WIA, Diversity and Inclusion committee | Medium |  :white_check_mark: | |
+| Focus on mission | Re-charter Compliance Committee | Medium |  :white_check_mark: | |
 | Focus on mission | Recruit more Compliance Committee members | High | In progress | Q4 2021 |
 | Focus on mission | Privacy respecting policy review output, including anonymous submissions | Medium | Backlog | 2022 |
 | Focus on mission | Compliance Commitee Handbook | Medium | Backlog | 2022 |
@@ -134,9 +134,9 @@ Approved by the Board September 22, 2021
 <span style="font-size:12px;">
 
 | Section | Description | Priority | Status | Due Date |
-| --- | --- | --- | --- | --- |
-| Focus on Mission | Establish Education committee | High | [x] | |
-| Focus on mission | Secure Flag Member Benefit | Medium | [x] | |
+| --- | --- | --- | :-: | :-: |
+| Focus on Mission | Establish Education committee | High |  :white_check_mark: | |
+| Focus on mission | Secure Flag Member Benefit | Medium |  :white_check_mark: | |
 | Focus on mission | Create an Education Projects Handbook | Medium | Backlog | 2022 |
 | Focus on mission | Create OWASP Research & Papers Portal | Medium | Backlog | 2022 |
 | Thrive | Industry certification program | Medium | Backlog | 2022 |
@@ -149,22 +149,22 @@ Approved by the Board September 22, 2021
 <span style="font-size:12px;">
 
 | Section | Description | Priority | Status | Due Date |
-| --- | --- | --- | --- | --- |
-| Survive | Move physical events to 2022 | Critical | [x] |  |
-| Survive | Approve Global AppSec Australia | High | [x] | |
-| Survive | Virtual events & Training approvals in 2021 | High | [x] | |
-| Survive | Events in a box (Events Handbook) | High | [x] | |
-| Survive | Event Sponsorship Prepayment Plan | Medium | [x] | |
-| Survive | Devolve authority to Event Director | Medium | [x] | |
-| Survive | Event strategy | Medium | [x] | |
-| Survive | Event calendar | Medium | [x] | |
-| Survive | Create partnership event MOU | Medium | [x] | |
-| Survive | Regional event finance reform | Medium | [x] |  |
-| Survive | Review virtual trainer splits | Medium | [x] | |
-| Survive | Improve transparency of CFP/CFT process, including panel appointments | Medium | [x] | |
-| Survive | Recognize regional event orgs as OWASP leaders and access to leader shared services | Medium | [x] | |
-| Survive | COVID Return to Physical Events Plan | Medium | [x] | |
-| Survive | Develop Regional X model | Medium | [x] | |
+| --- | --- | --- | :-: | :-: |
+| Survive | Move physical events to 2022 | Critical |  :white_check_mark: |  |
+| Survive | Approve Global AppSec Australia | High |  :white_check_mark: | |
+| Survive | Virtual events & Training approvals in 2021 | High |  :white_check_mark: | |
+| Survive | Events in a box (Events Handbook) | High |  :white_check_mark: | |
+| Survive | Event Sponsorship Prepayment Plan | Medium |  :white_check_mark: | |
+| Survive | Devolve authority to Event Director | Medium |  :white_check_mark: | |
+| Survive | Event strategy | Medium |  :white_check_mark: | |
+| Survive | Event calendar | Medium |  :white_check_mark: | |
+| Survive | Create partnership event MOU | Medium |  :white_check_mark: | |
+| Survive | Regional event finance reform | Medium |  :white_check_mark: |  |
+| Survive | Review virtual trainer splits | Medium |  :white_check_mark: | |
+| Survive | Improve transparency of CFP/CFT process, including panel appointments | Medium |  :white_check_mark: | |
+| Survive | Recognize regional event orgs as OWASP leaders and access to leader shared services | Medium |  :white_check_mark: | |
+| Survive | COVID Return to Physical Events Plan | Medium |  :white_check_mark: | |
+| Survive | Develop Regional X model | Medium |  :white_check_mark: | |
 | Focus on Mission | Establish Event committee | High | Backlog | 2022 |
 | Survive | Develop Regional event rate card for Foundation services | Medium | Shelved | |
 
@@ -175,15 +175,15 @@ Approved by the Board September 22, 2021
 <span style="font-size:12px;">
 
 | Section | Description | Priority | Status | Due Date |
-| --- | --- | --- | --- | --- |
-| Survive | Quarterly Corporate Membership Drives | High | [x] | |
-| Survive | Review Corporate Membership Tiers | Medium | [x] | |
-| Survive | Quarterly Corporate Membership Town Halls | Medium | [x] | |
-| Survive | Implement Regional Corporate Membership Pricing | Medium | [x] | |
-| Survive | Implement Startup Corporate Membership Pricing | Medium | [x] | |
-| Survive | Implement monthly Corporate Membership billing | Medium | [x] | |
-| Survive | Restore Corporate Membership vote | Medium | [x] | |
-| Survive | Implement Startup Corporate Membership Pricing | Medium | [x] | |
+| --- | --- | --- | :-: | :-: |
+| Survive | Quarterly Corporate Membership Drives | High |  :white_check_mark: | |
+| Survive | Review Corporate Membership Tiers | Medium |  :white_check_mark: | |
+| Survive | Quarterly Corporate Membership Town Halls | Medium |  :white_check_mark: | |
+| Survive | Implement Regional Corporate Membership Pricing | Medium |  :white_check_mark: | |
+| Survive | Implement Startup Corporate Membership Pricing | Medium |  :white_check_mark: | |
+| Survive | Implement monthly Corporate Membership billing | Medium |  :white_check_mark: | |
+| Survive | Restore Corporate Membership vote | Medium |  :white_check_mark: | |
+| Survive | Implement Startup Corporate Membership Pricing | Medium |  :white_check_mark: | |
 | Survive | Reform donations (such as Open Collective) | Medium | In pilot | Q4 2021 |
 | Survive | Design and execute a fundraising program | Critical | In progress | Q4 2021 |
 | Survive | Implement a partnerships program | Medium | In progress | Q4 2021 |
