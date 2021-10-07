@@ -16,9 +16,9 @@ Approved by the Board September 22, 2021
 | Section | Description | Pri | Status | Due Date |
 | --- | --- | --- | :-: | :-: |
 | Focus on mission | Create a grants form | :m: | :ballot_box_with_check: | |
-| Survive | Review Virtual Inc Marketing contracts | :h: | :ballot_box_with_check: | |
-| Survive | Committee reform | :h: | :ballot_box_with_check: | |
-| Survive | Finance Reform | :h: | :ballot_box_with_check: | |
+| Survive | Review Virtual Inc Marketing contracts | :H: | :ballot_box_with_check: | |
+| Survive | Committee reform | :H: | :ballot_box_with_check: | |
+| Survive | Finance Reform | :H: | :ballot_box_with_check: | |
 | Survive | COVID temporary restrictions | :m: | :ballot_box_with_check: | |
 | Survive | Awards and Scholarship Policy | :m: | :ballot_box_with_check: | |
 | Survive | GAAP recognition of membership | :m: | :ballot_box_with_check: | |
@@ -36,7 +36,7 @@ Approved by the Board September 22, 2021
 | Thrive | Revitalize "news" and site content | :m: | :ballot_box_with_check: | |
 | Thrive | OWASP Merchandise Program | :m: | :ballot_box_with_check: | |
 | Focus on mission | Write a grants handbook | :m: | | Q4 2021 |
-| Survive | Create BCP plan | :h: | :soon: | Q4 2021 |
+| Survive | Create BCP plan | :H: | :soon: | Q4 2021 |
 | Survive | Contract review | :m: | :soon: | Q4 2021 |
 | Survive | New mission statement | :m: | :soon: | Q4 2021 |
 | Survive | Review Virtual contracts | :m: | :soon: | Q4 2021 |
@@ -61,7 +61,7 @@ Approved by the Board September 22, 2021
 
 | Section | Description | Pri | Status | Due Date |
 | --- | --- | --- | :-: | :-: |
-| Survive | Move memberships to Copper CRM | :h: | :ballot_box_with_check: | |
+| Survive | Move memberships to Copper CRM | :H: | :ballot_box_with_check: | |
 | Survive | Regional pricing for all membership types | :m: | :ballot_box_with_check: | |
 | Survive | Reform Lifetime Honorary membership | :m: | :ballot_box_with_check: | |
 | Survive | Quarterly Membership Drives | :m: | :ballot_box_with_check: | |
@@ -78,7 +78,7 @@ Approved by the Board September 22, 2021
 
 | Section | Description | Pri | Status | Due Date |
 | --- | --- | --- | :-: | :-: |
-| Focus on mission | Reactivate inactive chapters | :h: | :ballot_box_with_check: | |
+| Focus on mission | Reactivate inactive chapters | :H: | :ballot_box_with_check: | |
 | Focus on Mission | Recharter Chapter committee | :m: | :ballot_box_with_check: | |
 | Focus on Mission | Automate chapter announcement | :m: | :ballot_box_with_check: | |
 | Focus on Mission | Establish COVID era activity requirements | :m: | :ballot_box_with_check: | |
@@ -96,7 +96,7 @@ Approved by the Board September 22, 2021
 
 | Section | Description | Pri | Status | Due Date |
 | --- | --- | --- | :-: | :-: |
-| Focus on Mission | Establish Project committee | :h: | :ballot_box_with_check: | |
+| Focus on Mission | Establish Project committee | :H: | :ballot_box_with_check: | |
 | Focus on mission | Get project promotions moving again | :m: | :ballot_box_with_check: | |
 | Survive | Automate most BAU functions | :m: | :soon: | Q4 2021 |
 | Survive | Full automation of all membership self service | :m: | :soon: | Q4 2021 |
@@ -115,7 +115,7 @@ Approved by the Board September 22, 2021
 | --- | --- | --- | :-: | :-: |
 | Focus on Mission | WIA to become WIA, Diversity and Inclusion committee | :m: | :ballot_box_with_check: | |
 | Focus on mission | Re-charter Compliance Committee | :m: | :ballot_box_with_check: | |
-| Focus on mission | Recruit more Compliance Committee members | :h: | :soon: | Q4 2021 |
+| Focus on mission | Recruit more Compliance Committee members | :H: | :soon: | Q4 2021 |
 | Focus on mission | Privacy respecting policy review output, including anonymous submissions | :m: | :clock1030: | 2022 |
 | Focus on mission | Compliance Commitee Handbook | :m: | :clock1030: | 2022 |
 | Focus on mission | Privacy respecting archive of prior Compliance Committee outcomes | :m: | :clock1030: | 2022 |
@@ -129,7 +129,7 @@ Approved by the Board September 22, 2021
 
 | Section | Description | Pri | Status | Due Date |
 | --- | --- | --- | :-: | :-: |
-| Focus on Mission | Establish Education committee | :h: | :ballot_box_with_check: | |
+| Focus on Mission | Establish Education committee | :H: | :ballot_box_with_check: | |
 | Focus on mission | Secure Flag Member Benefit | :m: | :ballot_box_with_check: | |
 | Focus on mission | Create an Education Projects Handbook | :m: | :clock1030: | 2022 |
 | Focus on mission | Create OWASP Research & Papers Portal | :m: | :clock1030: | 2022 |
@@ -144,9 +144,9 @@ Approved by the Board September 22, 2021
 | Section | Description | Pri | Status | Due Date |
 | --- | --- | --- | :-: | :-: |
 | Survive | Move physical events to 2022 | Critical | :ballot_box_with_check: | |
-| Survive | Approve Global AppSec Australia | :h: | :ballot_box_with_check: | |
-| Survive | Virtual events & Training approvals in 2021 | :h: | :ballot_box_with_check: | |
-| Survive | Events in a box (Events Handbook) | :h: | :ballot_box_with_check: | |
+| Survive | Approve Global AppSec Australia | :H: | :ballot_box_with_check: | |
+| Survive | Virtual events & Training approvals in 2021 | :H: | :ballot_box_with_check: | |
+| Survive | Events in a box (Events Handbook) | :H: | :ballot_box_with_check: | |
 | Survive | Event Sponsorship Prepayment Plan | :m: | :ballot_box_with_check: | |
 | Survive | Devolve authority to Event Director | :m: | :ballot_box_with_check: | |
 | Survive | Event strategy | :m: | :ballot_box_with_check: | |
@@ -158,7 +158,7 @@ Approved by the Board September 22, 2021
 | Survive | Recognize regional event orgs as OWASP leaders and access to leader shared services | :m: | :ballot_box_with_check: | |
 | Survive | COVID Return to Physical Events Plan | :m: | :ballot_box_with_check: | |
 | Survive | Develop Regional X model | :m: | :ballot_box_with_check: | |
-| Focus on Mission | Establish Event committee | :h: | :clock1030: | 2022 |
+| Focus on Mission | Establish Event committee | :H: | :clock1030: | 2022 |
 | Survive | Develop Regional event rate card for Foundation services | :m: | Shelved | :x: |
 
 ### Corporate Support
@@ -167,7 +167,7 @@ Approved by the Board September 22, 2021
 
 | Section | Description | Pri | Status | Due Date |
 | --- | --- | --- | :-: | :-: |
-| Survive | Quarterly Corporate Membership Drives | :h: | :ballot_box_with_check: | |
+| Survive | Quarterly Corporate Membership Drives | :H: | :ballot_box_with_check: | |
 | Survive | Review Corporate Membership Tiers | :m: | :ballot_box_with_check: | |
 | Survive | Quarterly Corporate Membership Town Halls | :m: | :ballot_box_with_check: | |
 | Survive | Implement Regional Corporate Membership Pricing | :m: | :ballot_box_with_check: | |
@@ -181,4 +181,4 @@ Approved by the Board September 22, 2021
 | Focus on Mission | Create a Corporate Member Handbook | :m: | :clock1030: | 2022 |
 | Survive | Implement a bartering policy | :m: | :clock1030: | 2022 |
 | Survive | Board Community Connections | :m: | :clock1030: | 2022 |
-| Focus on Mission | Establish Corporate Advisory Committee | :h: | :clock1030: | 2022 |
+| Focus on Mission | Establish Corporate Advisory Committee | :H: | :clock1030: | 2022 |
