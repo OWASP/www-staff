@@ -11,12 +11,11 @@ Approved by the Board September 22, 2021
 
 ### OWASP Foundation and OWASP Member Services
 
-<span style="font-size:12px;">
+{: .fs-3 }
 
 | Section | Description | Priority | Status | Due Date |
 | --- | --- | --- | :-: | :-: |
 | Focus on mission | Create a grants form | Medium |  :ballot_box_with_check: | |
-| Focus on mission | Write a grants handbook | Medium | | Q4 2021 |
 | Survive | Review Virtual Inc Marketing contracts | High |  :ballot_box_with_check: | |
 | Survive | Committee reform | High |  :ballot_box_with_check: | |
 | Survive | Finance Reform | High |  :ballot_box_with_check: | |
@@ -34,6 +33,9 @@ Approved by the Board September 22, 2021
 | Survive | Review EU entity | Medium |  :ballot_box_with_check: | |
 | Survive | Simplify payment mechanisms | Medium |  :ballot_box_with_check:  | |
 | Survive | Review, de-duplicate, and promote shared services | Medium |  :ballot_box_with_check: | |
+| Thrive | Revitalize "news" and site content | Medium |  :ballot_box_with_check: | |
+| Thrive | OWASP Merchandise Program | Medium |  :ballot_box_with_check: |  |
+| Focus on mission | Write a grants handbook | Medium | | Q4 2021 |
 | Survive | Create BCP plan | High | In progress | Q4 2021 |
 | Survive | Contract review | Medium | In progress | Q4 2021 |
 | Survive | New mission statement | Medium | In progress | Q4 2021 |
@@ -41,8 +43,6 @@ Approved by the Board September 22, 2021
 | Survive | Review, reform, and implement marketing strategy | Medium | In progress | Q4 2021 |
 | Survive | Travel Reform and appoint a travel agency | Low | In progress | Q4 2021 |
 | Survive | Community Social Media Managers and Content Creators | Medium | | Q4 2021 |
-| Thrive | Revitalize "news" and site content | Medium |  :ballot_box_with_check: | |
-| Thrive | OWASP Merchandise Program | Medium |  :ballot_box_with_check: |  |
 | Thrive | OWASP Trademark licensing program | Medium | In progress | Q4 2021 |
 | Thrive | Distrubute existing stickers & pins | Medium | In progress | Q4 2021 |
 | Thrive | Crowdsource funding | Medium | | Q4 2021 |
@@ -54,11 +54,10 @@ Approved by the Board September 22, 2021
 | Focus on mission | Ask Board to continue audit committee | Medium | Shelved | :red_circle: |
 | Thrive | Develop an OWASP Mobile app | Medium | Shelved | :red_circle: |
 
-</span>
 
 ### Members
 
-<span style="font-size:12px;">
+{: .fs-3 }
 
 | Section | Description | Priority | Status | Due Date |
 | --- | --- | --- | :-: | :-: |
@@ -72,11 +71,10 @@ Approved by the Board September 22, 2021
 | Focus on mission | Member Handbook | Medium | Backlog | 2022 |
 | Focus on mission | Leader Handbook | Medium | Backlog | 2022 |
 
-</span>
 
 ### Chapters
 
-<span style="font-size:12px;">
+{: .fs-3 }
 
 | Section | Description | Priority | Status | Due Date |
 | --- | --- | --- | :-: | :-: |
@@ -92,11 +90,9 @@ Approved by the Board September 22, 2021
 | Focus on mission | Re-write chapter Handbook | Medium | Backlog | 2022 |
 | Focus on Mission | Formalize chapter activity metrics with chapter committee | Low | Backlog | 2022 |
 
-</span>
-
 ### Projects and Technology
 
-<span style="font-size:12px;">
+{: .fs-3 }
 
 | Section | Description | Priority | Status | Due Date |
 | --- | --- | --- | :-: | :-: |
@@ -110,11 +106,10 @@ Approved by the Board September 22, 2021
 | Focus on mission | Create OWASP Learning Platform Member Benefit | Medium |  | Q4 2021 |
 | Focus on mission | Create OWASP Education Portal | Medium | Backlog | 2022 |
 
-</span>
 
 ### Committees
 
-<span style="font-size:12px;">
+{: .fs-3 }
 
 | Section | Description | Priority | Status | Due Date |
 | --- | --- | --- | :-: | :-: |
@@ -127,11 +122,10 @@ Approved by the Board September 22, 2021
 | Focus on mission | Outreach Handbook | Medium | Backlog | 2022 |
 | Focus on mission | Overall Committee Handbook | Medium | Backlog | 2022 |
 
-</span>
 
 ### Education
 
-<span style="font-size:12px;">
+{: .fs-3 }
 
 | Section | Description | Priority | Status | Due Date |
 | --- | --- | --- | :-: | :-: |
@@ -142,11 +136,10 @@ Approved by the Board September 22, 2021
 | Thrive | Industry certification program | Medium | Backlog | 2022 |
 | Thrive | Trainer certification program | Medium | Backlog | 2022 |
 
-</span>
 
 ### Events
 
-<span style="font-size:12px;">
+{: .fs-3 }
 
 | Section | Description | Priority | Status | Due Date |
 | --- | --- | --- | :-: | :-: |
@@ -168,11 +161,9 @@ Approved by the Board September 22, 2021
 | Focus on Mission | Establish Event committee | High | Backlog | 2022 |
 | Survive | Develop Regional event rate card for Foundation services | Medium | Shelved | :red_circle: |
 
-</span>
-
 ### Corporate Support
 
-<span style="font-size:12px;">
+{: .fs-3 }
 
 | Section | Description | Priority | Status | Due Date |
 | --- | --- | --- | :-: | :-: |
@@ -191,5 +182,3 @@ Approved by the Board September 22, 2021
 | Survive | Implement a bartering policy | Medium | Backlog | 2022 |
 | Survive | Board Community Connections | Medium | Backlog | 2022 |
 | Focus on Mission | Establish Corporate Advisory Committee | High | Backlog | 2022 |
-
-</span>
