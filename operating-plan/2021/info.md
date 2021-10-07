@@ -1,10 +1,3 @@
----
-
-title: OWASP 2021 Operating Plan
-layout: col-sidebar
-
----
-
 ## Operating Plan 2021
 
 Adopted by the Board September 22, 2020. This is the current operating plan.

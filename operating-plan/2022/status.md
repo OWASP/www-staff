@@ -1,7 +1,7 @@
 ---
 
 title: OWASP Operating Plan 2022 - Status
-layout: col-document
+layout: col-sidebar
 
 ---
 
