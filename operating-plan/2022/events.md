@@ -1,7 +1,7 @@
 ---
 
 title: OWASP Operating Plan 2022 - Events
-layout: col-sidebar
+layout: col-document
 
 ---
 
