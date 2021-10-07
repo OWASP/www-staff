@@ -26,21 +26,21 @@ Approved by the Board September 22, 2021
 | Survive | Policy Review | :arrow_up: | :ballot_box_with_check: | |
 | Survive | Qualified advice procedures | :arrow_up: | :ballot_box_with_check: | |
 | Survive | Review accounts receivable | :arrow_up: | :ballot_box_with_check: | |
-| Survive | Close all open job positions | :arrow_down: | :ballot_box_with_check: | |
-| Survive | Implement 30 day payment terms | :arrow_down: | :ballot_box_with_check: | |
-| Survive | Implement Google AdWords marketing | :arrow_down: | :ballot_box_with_check: | |
-| Survive | Review and revamp OWASP Connector | :arrow_down: | :ballot_box_with_check: | |
 | Survive | Review EU entity | :arrow_up: | :ballot_box_with_check: | |
 | Survive | Simplify payment mechanisms | :arrow_up: | :ballot_box_with_check:  | |
 | Survive | Review, de-duplicate, and promote shared services | :arrow_up: | :ballot_box_with_check: | |
 | Thrive | Revitalize "news" and site content | :arrow_up: | :ballot_box_with_check: | |
 | Thrive | OWASP Merchandise Program | :arrow_up: | :ballot_box_with_check: | |
-| Focus on mission | Write a grants handbook | :arrow_up: | | Q4 2021 |
+| Survive | Close all open job positions | :arrow_down: | :ballot_box_with_check: | |
+| Survive | Implement 30 day payment terms | :arrow_down: | :ballot_box_with_check: | |
+| Survive | Implement Google AdWords marketing | :arrow_down: | :ballot_box_with_check: | |
+| Survive | Review and revamp OWASP Connector | :arrow_down: | :ballot_box_with_check: | |
 | Survive | Create BCP plan | :arrow_double_up: | :soon: | Q4 2021 |
 | Survive | New mission statement | :arrow_up: | :soon: | Q4 2021 |
 | Survive | Review, reform, and implement marketing strategy | :arrow_up: | :soon: | Q4 2021 |
 | Survive | Review Virtual contracts | :arrow_up: | | Q4 2021 |
 | Survive | Community Social Media Managers and Content Creators | :arrow_up: | | Q4 2021 |
+| Focus on mission | Write a grants handbook | :arrow_up: | | Q4 2021 |
 | Survive | Travel Reform and appoint a travel agency | :arrow_down: | | Q4 2021 |
 | Thrive | OWASP Trademark licensing program | :arrow_up: | | Q4 2021 |
 | Thrive | Distrubute existing stickers & pins | :arrow_up: | | Q4 2021 |
@@ -50,8 +50,8 @@ Approved by the Board September 22, 2021
 | Thrive | OWASP Online Books | :arrow_up: | :clock1030: | 2022 |
 | Thrive | Revitalize the OWASP Pins project to get new designs for merchandise | :arrow_up: | :clock1030: | 2022 |
 | Thrive | OWASP Rewards program | :arrow_up: | :clock1030: | 2022 |
-| Focus on mission | Ask Board to continue audit committee | :arrow_up: | Shelved | :x: |
-| Thrive | Develop an OWASP Mobile app | :arrow_up: | Shelved | :x: |
+| Focus on mission | ~~Ask Board to continue audit committee~~ | | :x: | :x: |
+| Thrive | ~~Develop an OWASP Mobile app~~ | | :x: | :x: |
 
 
 ### Members
@@ -158,7 +158,7 @@ Approved by the Board September 22, 2021
 | Survive | COVID Return to Physical Events Plan | :arrow_up: | :ballot_box_with_check: | |
 | Survive | Develop Regional X model | :arrow_up: | :ballot_box_with_check: | |
 | Focus on Mission | Establish Event committee | :arrow_double_up: | :clock1030: | 2022 |
-| Survive | Develop Regional event rate card for Foundation services | :arrow_up: | Shelved | :x: |
+| Survive | ~~Develop Regional event rate card for Foundation services~~ |  | :x: | :x: |
 
 ### Corporate Support
 
