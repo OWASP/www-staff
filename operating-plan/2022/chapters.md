@@ -9,9 +9,10 @@ layout: col-sidebar
 
 ## Goals
 
-- Increase number of active chapters to 75%
-- Increase chapter meetings by X% and RSVPs by Y% by working with chapter leaders to share speakers and topics of activities
 - Evaluate and implement Association Management Software for Chapters
+- Increase number of active chapters to 75%
+- Increase number of chapter meetings by 25%
+- Increase RSVPs by 25%
 - $125k in chapter fundraising activities in 2022, with 100% of chapter fundraising to fund chapter expenses
 
 ## Program Deliverables
