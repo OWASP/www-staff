@@ -36,23 +36,23 @@ Approved by the Board September 22, 2021
 | Thrive | Revitalize "news" and site content | :m: | :ballot_box_with_check: | |
 | Thrive | OWASP Merchandise Program | :m: | :ballot_box_with_check: | |
 | Focus on mission | Write a grants handbook | :m: | | Q4 2021 |
-| Survive | Create BCP plan | :h: | In progress | Q4 2021 |
-| Survive | Contract review | :m: | In progress | Q4 2021 |
-| Survive | New mission statement | :m: | In progress | Q4 2021 |
-| Survive | Review Virtual contracts | :m: | In progress | Q4 2021 |
-| Survive | Review, reform, and implement marketing strategy | :m: | In progress | Q4 2021 |
-| Survive | Travel Reform and appoint a travel agency | :l: | In progress | Q4 2021 |
+| Survive | Create BCP plan | :h: | :soon: | Q4 2021 |
+| Survive | Contract review | :m: | :soon: | Q4 2021 |
+| Survive | New mission statement | :m: | :soon: | Q4 2021 |
+| Survive | Review Virtual contracts | :m: | :soon: | Q4 2021 |
+| Survive | Review, reform, and implement marketing strategy | :m: | :soon: | Q4 2021 |
+| Survive | Travel Reform and appoint a travel agency | :l: | :soon: | Q4 2021 |
 | Survive | Community Social Media Managers and Content Creators | :m: | | Q4 2021 |
-| Thrive | OWASP Trademark licensing program | :m: | In progress | Q4 2021 |
-| Thrive | Distrubute existing stickers & pins | :m: | In progress | Q4 2021 |
+| Thrive | OWASP Trademark licensing program | :m: | :soon: | Q4 2021 |
+| Thrive | Distrubute existing stickers & pins | :m: | :soon: | Q4 2021 |
 | Thrive | Crowdsource funding | :m: | | Q4 2021 |
 | Thrive | Bequests funding program | :m: | :clock1030: | 2022 |
 | Thrive | Donate a car funding program | :m: | :clock1030: | 2022 |
 | Thrive | OWASP Online Books | :m: | :clock1030: | 2022 |
 | Thrive | Revitalize the OWASP Pins project to get new designs for merchandise | :m: | :clock1030: | 2022 |
 | Thrive | OWASP Rewards program | :m: | :clock1030: | 2022 |
-| Focus on mission | Ask Board to continue audit committee | :m: | Shelved | :red_circle: |
-| Thrive | Develop an OWASP Mobile app | :m: | Shelved | :red_circle: |
+| Focus on mission | Ask Board to continue audit committee | :m: | Shelved | :x: |
+| Thrive | Develop an OWASP Mobile app | :m: | Shelved | :x: |
 
 
 ### Members
@@ -86,7 +86,7 @@ Approved by the Board September 22, 2021
 | Focus on Mission | Formalize chapter expenses with chapter committee | :m: | :ballot_box_with_check: | |
 | Focus on Mission | Establish a speaker's bureau | :m: | :ballot_box_with_check: | |
 | Focus on Mission | Formalize student chapters & membership | :m: | :ballot_box_with_check: | |
-| Focus on mission | Formalize regional chapters | :m: | In progress | Q4 2021 |
+| Focus on mission | Formalize regional chapters | :m: | :soon: | Q4 2021 |
 | Focus on mission | Re-write chapter Handbook | :m: | :clock1030: | 2022 |
 | Focus on Mission | Formalize chapter activity metrics with chapter committee | :l: | :clock1030: | 2022 |
 
@@ -98,8 +98,8 @@ Approved by the Board September 22, 2021
 | --- | --- | --- | :-: | :-: |
 | Focus on Mission | Establish Project committee | :h: | :ballot_box_with_check: | |
 | Focus on mission | Get project promotions moving again | :m: | :ballot_box_with_check: | |
-| Survive | Automate most BAU functions | :m: | In progress | Q4 2021 |
-| Survive | Full automation of all membership self service | :m: | In progress | Q4 2021 |
+| Survive | Automate most BAU functions | :m: | :soon: | Q4 2021 |
+| Survive | Full automation of all membership self service | :m: | :soon: | Q4 2021 |
 | Focus on mission | Promote Project Activity | :m: | | Q4 2021 |
 | Focus on mission | Update Project Handbook | :m: | | Q4 2021 |
 | Thrive | Establish a vulnerabilty management / bug bounty platform | :m: | | Q4 2021 |
@@ -115,7 +115,7 @@ Approved by the Board September 22, 2021
 | --- | --- | --- | :-: | :-: |
 | Focus on Mission | WIA to become WIA, Diversity and Inclusion committee | :m: | :ballot_box_with_check: | |
 | Focus on mission | Re-charter Compliance Committee | :m: | :ballot_box_with_check: | |
-| Focus on mission | Recruit more Compliance Committee members | :h: | In progress | Q4 2021 |
+| Focus on mission | Recruit more Compliance Committee members | :h: | :soon: | Q4 2021 |
 | Focus on mission | Privacy respecting policy review output, including anonymous submissions | :m: | :clock1030: | 2022 |
 | Focus on mission | Compliance Commitee Handbook | :m: | :clock1030: | 2022 |
 | Focus on mission | Privacy respecting archive of prior Compliance Committee outcomes | :m: | :clock1030: | 2022 |
@@ -159,7 +159,7 @@ Approved by the Board September 22, 2021
 | Survive | COVID Return to Physical Events Plan | :m: | :ballot_box_with_check: | |
 | Survive | Develop Regional X model | :m: | :ballot_box_with_check: | |
 | Focus on Mission | Establish Event committee | :h: | :clock1030: | 2022 |
-| Survive | Develop Regional event rate card for Foundation services | :m: | Shelved | :red_circle: |
+| Survive | Develop Regional event rate card for Foundation services | :m: | Shelved | :x: |
 
 ### Corporate Support
 
@@ -175,9 +175,9 @@ Approved by the Board September 22, 2021
 | Survive | Implement monthly Corporate Membership billing | :m: | :ballot_box_with_check: | |
 | Survive | Restore Corporate Membership vote | :m: | :ballot_box_with_check: | |
 | Survive | Implement Startup Corporate Membership Pricing | :m: | :ballot_box_with_check: | |
-| Survive | Reform donations (such as Open Collective) | :m: | In pilot | Q4 2021 |
-| Survive | Design and execute a fundraising program | Critical | In progress | Q4 2021 |
-| Survive | Implement a partnerships program | :m: | In progress | Q4 2021 |
+| Survive | Reform donations (such as Open Collective) | :m: | :soon: | Q4 2021 |
+| Survive | Design and execute a fundraising program | Critical | :soon: | Q4 2021 |
+| Survive | Implement a partnerships program | :m: | :soon: | Q4 2021 |
 | Focus on Mission | Create a Corporate Member Handbook | :m: | :clock1030: | 2022 |
 | Survive | Implement a bartering policy | :m: | :clock1030: | 2022 |
 | Survive | Board Community Connections | :m: | :clock1030: | 2022 |
