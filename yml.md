@@ -97,7 +97,7 @@ There are several errors in the above example. The first is the ItemDescription 
     - ItemName: My Item Two Name
       ItemDescription: >-
         My Item Two Description which is very long but will no longer
-		    produce an error because now it lines up under the first line
+        produce an error because now it lines up under the first line
       Image: My Item Two Image
 ```
 
