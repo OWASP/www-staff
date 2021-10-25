@@ -38,6 +38,8 @@ As part of the clean-up process, beginning July 1st, persons having access to Go
 - 6/30/2021	Email OWASP Main Audience		FALSE
 - 6/30/2021	Twitter, Slack, Facebook, and LinkedIn
 
+Thus far, there has been a slight increase in memberships over the same period (6/7 to 6/17) last year: 97 in 2021 versus 91 in 2020.
+
 #### Email Clean-up Deep-dive
 The following is a simplified procedure for this process:
 

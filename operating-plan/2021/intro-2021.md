@@ -6,6 +6,7 @@ layout: col-sidebar
 ---
 
 ## Operating Plan 2021
+
 Andrew van der Stock and OWASP Foundation Staff
 
 September 2020

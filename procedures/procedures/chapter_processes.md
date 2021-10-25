@@ -149,5 +149,17 @@ Response to the Requestor: Send Leader(s) New Meetup templated email in CRM with
 * Follow the Start a New Chapter/New Leader BUT 50% of the leadership must be new
 **[Start a New Chapter/New Leader](https://owasporg.atlassian.net/servicedesk/customer/portal/7/group/18/create/73) request subitted.**
 
+## Chapter Zoom
+* Provision through slackbot on staff-general /provision-zoom-email [wwww-chapter-name]
+* Notice pops back when completed.
+* Templated response in Copper to sent leader.
+* ID and password automatically sent to the leaders listed in chapter repository leader md file.
+* To resend need to go to domain look in all the zoom leader groups one thru ? to find the chapter name. (This is the zoom ID)
+* Look up in admin.google.com which leaders-zoom- account the chapter is in.
+* Go to LastPass and copy the password for that account.
+* Go to onetimesecret.com and paste the password into the text field, do NOT select add a passcode (or whatever they call it) and then create link. Send that link to one leader (You will have to do this process for each leader if you are sending to more than one because the link 'disappears' once one leader accesses it).
+
+
+
 
 

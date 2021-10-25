@@ -25,21 +25,21 @@
         "description": "Independence Day (Observed)",
         "owner": "No Owner",
         "project_name": "OWASP Office Closures",
-        "status": "on-time"
+        "status": "overdue"
     },
     {
         "milestone_date": "2021-09-03",
         "description": "Office Closed",
         "owner": "No Owner",
         "project_name": "OWASP Office Closures",
-        "status": "future"
+        "status": "on-time"
     },
     {
         "milestone_date": "2021-09-06",
         "description": "Labor Day",
         "owner": "No Owner",
         "project_name": "OWASP Office Closures",
-        "status": "future"
+        "status": "on-time"
     },
     {
         "milestone_date": "2021-11-11",

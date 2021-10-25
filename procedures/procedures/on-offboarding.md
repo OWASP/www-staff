@@ -9,6 +9,7 @@ v2020.6.1
 ### Staff On-boarding
 
 1. User created with @owasp.com email address in [Google Admin](https://admin.google.com/u/1/ac/users)
+    - Make sure to choose owasp.com as the Organizational Unit
     - Add to staff@owasp.org group (this also adds the person to the Staff Time-Off Calendar and OWASP-Staff Shared Drive)
     - Add to other groups as appropriate for position
     - Add to other shared drives as appropriate for position
