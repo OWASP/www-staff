@@ -8,7 +8,7 @@ layout: col-sidebar
 The OWASP Foundation Staff are responsible for helping the community to enable the OWASP mission. Information pertaining to the current operating procedures, staff goals, and plans can be found below.
 
 <!-- rebuild 6 -->
-## Staff Workflow Procedures (in development)
+## Staff Workflow Procedures
 
 {% assign pages = site.pages | sort: 'title' | limit: 1000 %}
 <ul>
