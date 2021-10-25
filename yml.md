@@ -59,12 +59,12 @@ where we start a sub-item called Items:
   Name: This is my name
   Description: This is my description
   Items:
-  - ItemName: My Item Name
-    ItemDescription: My Item Description
-    Image: My Item Image
-  - ItemName: My Item Two Name
-    ItemDescription: My Item Two Description
-    Image: My Item Two Image
+    - ItemName: My Item Name
+      ItemDescription: My Item Description
+      Image: My Item Image
+    - ItemName: My Item Two Name
+      ItemDescription: My Item Two Description
+      Image: My Item Two Image
 ```
 
 	These sub-items must follow similar rules as the top-level items in that they must begin 
