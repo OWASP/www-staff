@@ -2,7 +2,7 @@
 
 title: YAML Errors and How to Avoid Them
 layout: col-sidebar
-permalink: /www-staff/yml/
+permalink: /yml/
 
 ---
 
