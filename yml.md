@@ -79,8 +79,9 @@ items will produce an error:
         ItemDescription: My Item Description
         Image: My Item Image
       - ItemName: My Item Two Name
-        ItemDescription: My Item Two Description which is very long and also will produce an error 
-        because it doesn’t line up under ItemDescription.
+         ItemDescription: >- 
+            My Item Two Description which is very long and also will produce an error 
+        because the second line doesn’t line up under ItemDescription.
     Image: My Item Two Image
 ```
 
@@ -94,8 +95,9 @@ There are several errors in the above example. The first is the ItemDescription 
       ItemDescription: My Item Description
       Image: My Item Image
     - ItemName: My Item Two Name
-      ItemDescription: My Item Two Description which is very long and also will 
-		     produce an error because it doesn’t line up under ItemDescription.
+      ItemDescription: >-
+        My Item Two Description which is very long and also will 
+		    produce an error because it doesn’t line up under ItemDescription.
       Image: My Item Two Image
 ```
 
