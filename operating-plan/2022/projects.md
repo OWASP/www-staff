@@ -10,7 +10,7 @@ Projects are a top focus of the OWASP Foundation. As such, a more proactive envi
 
 **EVENTS**
 - Project Summit First Half of 2022 (current WIP, EU-based)
-- Project Summit Second Half of 2022 (US-based)
+- Project Summit Second Half of 2022 (US-based, researching interest)
 
 **OPERATIONAL**
 - Develop project activity guidelines/tools
@@ -24,6 +24,6 @@ Projects are a top focus of the OWASP Foundation. As such, a more proactive envi
 - Will research the possibility of a project competition for fundraising
 
 **MARKETING**
-- Once quarterly project-specific targeting (ZAP, SAMM, DefectDojo, etc)
+- Once quarterly project-specific targeting
 - Once quarterly project general targeting (OWASP Open Source security projects - come contribute or create new)
 - Marketing project summits
