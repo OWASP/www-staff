@@ -5,6 +5,7 @@
 
 ## 2022 (Draft)
 
+- [Office Holidays and Closures](/www-staff/projects/2022-staff-holidays)
 - [DRAFT Operating Plan 2022](/www-staff/operating-plan/2022/intro)
 - [DRAFT Budget 2022](/www-staff/budget/2022)
 
