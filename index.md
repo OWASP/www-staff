@@ -38,15 +38,27 @@ The OWASP Foundation Staff are responsible for helping the community to enable t
 ## Strategies from the operating plan
 
 - Run by the community, for the community
-- OWASP Foundation enables the mission, not does it
-- All chapters, projects, committees, and all mission areas should be their own profit and loss, able to earn and spend funds on mission in an accountable way
-- Developers and Testers must be a key target for all mission activities
-- Automation of all BAU, or if automation is not possible, single touch processes that are fair, community supported, and repeatable outcomes
+- OWASP Foundation enables the mission, not does the mission
+- All mission areas (chapters, membership, projects, events, etc) must be profitable in their own right, able to earn and spend funds on mission in an accountable way
+- Prioritize and focus on community and outreach activities that drive our mission, deprioritizing costly or stopping unnecessary activities
+
+## Foundation Goals for 2022
+
+1. Continue adding Membership value and benefits; increasing student, individual, and lifetime memberships to 7000
+2. Run at least two Global AppSecs in 2022, including San Francisco
+3. Help drive project, event, membership, and outreach goals by implementing OWASP's first marketing plan
+4. Complete a comprehensive customer experience (CX) improvement program
+5. Evaluate and replace our Association Management System with an off the shelf system
 
 ## Foundation Goals for 2021
 
-1. Emerge from 2021 a stronger, more cohesive community, with increased chapter and project activity, with more member benefits
-2. Ensure we raise sufficient funds to put on two Global AppSecs in 2022
-3. Increase student, individual, and lifetime memberships to 4000
-4. Recruit active leaders to all inactive chapters, and increase chapter activity by 25% over 2020 levels
-5. Simplify and minimize administrative costs and overheads
+[x] Emerge from 2021 a stronger, more cohesive community, with increased chapter and project activity, with more member benefits
+    - We made a small profit in 2021, up from a projected loss
+[x] Ensure we raise sufficient funds to put on two Global AppSecs in 2022
+    - We have sufficient funds to put on AppSec Global San Francisco
+[x] Increase student, individual, and lifetime memberships to 4000
+    - We blew past our membership goal, ending the year with 5486 financial members.
+[x] Recruit active leaders to all inactive chapters, and increase chapter activity by 25% over 2020 levels
+    - We completed a chapter reactivation program, one of the busiest years for RSVPs ever
+[x] Simplify and minimize administrative costs and overheads
+    - We were able to reduce our overheads by more than 70% compared to 2019
