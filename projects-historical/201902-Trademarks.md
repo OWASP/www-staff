@@ -12,7 +12,7 @@ layout: full-width
 Today our institutional name and the events we host are not protected by copyright. The Foundation will endeavor to register the following marks in the United States, European Union, and the United Kingdom: OWASP, Open Web Application Security Project, Global AppSec, and AppSec Days. Additionally the Foundation will register our figure mark (logo) in these same three domiciles. Once completed, the Foundation will develop and share a Trademark Guidelines document for events, chapters, and projects along with implementing these changes on our websites and event names. At this time, the Foundation does not expect to fund any enforcement activities.
 
 ## Project Links
-* [Trademark Contract](https://www.owasp.org/images/9/9c/OWASP-Schwabe-trademark.pdf Agreement with Schwabe, Williamson & Wyatt)
+* [Trademark Contract](https://wiki.owasp.org/images/9/9c/OWASP-Schwabe-trademark.pdf Agreement with Schwabe, Williamson & Wyatt)
 
 ## Goals 
 * Secure trademarks for our organizational and conference names in our primary markets
