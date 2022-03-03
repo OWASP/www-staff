@@ -3,7 +3,6 @@
 title: Membership Workflow
 layout: col-sidebar
 permalink: /member_workflow/
-tags: Charlie-Gordon, Algernon
 
 ---
 
