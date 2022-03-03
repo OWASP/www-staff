@@ -32,7 +32,7 @@ So, let's look at what constitutes a membership again:
 * A record in Mailchimp of the metadata (this is for sending out automated emails, particularly with regard to expiration when it nears)
 
 There are a number of failure points that could happen in this scenario:
-* The webhook from Stripe fails to fire (very rare but does happen - this has not been seen, however, in nearly a year)
+* The webhook from Stripe fails to fire (very rare as they retry for 7 days but does happen - this has not been seen, however, in nearly a year)
 * The Copper record does not get updated/fails for some reason (rare but can happen due to Copper communication issues)
 * The Mailchimp record does not get updated/fails for some reason (also very rare but can happen if, for instance, the email address is unsubscribed or otherwise flagged in Mailchimp)
 
