@@ -64,4 +64,4 @@ There are a number of failure points that could happen in this scenario:
 While a robust solution for the second and third item from above would include re-queueing the message on ANY failure and keeping track of where in the process it failed, there is not a good solution for the first and last items. The
 last item can be partially resolved by having members use the [Membership Portal](https://members.owasp.org/) to renew their membership (because it auto-populates the [Membership page](https://owasp.org/membership/) with the correct email address)
 
-However, an off-the-shelf membership solution is now in the works which should alleviate issues arising from all these issues.
+However, an off-the-shelf membership solution is now in the works which should alleviate all these issues.
