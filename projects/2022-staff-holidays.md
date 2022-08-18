@@ -8,10 +8,10 @@ layout: full-width
 ## OWASP 2022 Observed Holidays and Office Closures
 
 - [x] 2022-01-01, New Year’s Day
-- [ ] 2022-02-21, Presidents Day
-- [ ] 2022-05-27, Office Closed
-- [ ] 2022-05-30, Memorial Day
-- [ ] 2022-07-04, US Independence Day
+- [x] 2022-02-21, Presidents Day
+- [x] 2022-05-27, Office Closed
+- [x] 2022-05-30, Memorial Day
+- [x] 2022-07-04, US Independence Day
 - [ ] 2022-09-02, Office Closed
 - [ ] 2022-09-05, Labor Day
 - [ ] 2022-11-11, US Veteran's Day
