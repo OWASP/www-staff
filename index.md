@@ -21,8 +21,8 @@ The OWASP Foundation Staff are responsible for helping the community to enable t
 
 ## 2022 Draft Operational Plan & Budget
 
-- [2022 Draft Operating Plan](operating-plan/2022/)
-- [2022 Draft Budget](budget/2022)
+- [2022 Operating Plan](operating-plan/2022/)
+- [2022 Budget](budget/2022)
 
 ## 2021 Operational Plans & Budget
 
