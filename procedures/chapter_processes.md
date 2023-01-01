@@ -5,7 +5,8 @@ layout: col-sidebar
 
 ---
 v2021.01.07
-## Chapter Processes
+
+## Chapter Processes 
 To create a new chapter repository in GitHub and CRM record of chapter and leaders.(minmum of 2 leaders to start)
 **Relevant Policy: [Chapter Policy](https://owasp.org/www-policy/operational/chapters)**    
 
