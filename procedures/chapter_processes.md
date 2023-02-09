@@ -4,94 +4,46 @@ title: Chapter Procedures (WIP)
 layout: col-sidebar
 
 ---
-v2021.01.07
+v2023.02.09
 
-## Chapter Processes 
-To create a new chapter repository in GitHub and CRM record of chapter and leaders.(minmum of 2 leaders to start)
-**Relevant Policy: [Chapter Policy](https://owasp.org/www-policy/operational/chapters)**    
+Chapter Leader
 
-**Chapter Support - Start a New Chapter request subitted.**
-* Contact Us or on owasp.org> chapter page click and submit request ticket NFRSD ticket# 
-  * Review for a minimum of 2 leaders & all required information is included.
+I would first like you to read and complete the [Leader acknowledgment form.](https://owasp.wufoo.com/forms/z195uc930thgqcj/)
 
-**Leaders owasp.org email address MANUAL creation**
-   * Google Admin - Admin Console   
-![Chapter Processes Admin]({{site.base_url}}/assets/images/GoogleAdmin_User.png)
-   * Click User   
-   * Click Add New User   
-![Add New User]({{site.base_url}}/assets/images/Add_new_user.png)
-    * Pop Box appears
-    * Fill in First nam
-    * Fill in Last name
-    * Primary email john.smith@owasp.org
-    * Secondary email is the personal email address 
-    * Email User Sign-in Info   
-![Email Login]({{site.base_url}}/assets/images/Email_login_info.png)
-    * Send   
-**The OWASP.org email address that is to be used for the leader in leader.md file in chapter repository.**
- Leader will receive a Google WorkSpace email like below. (link is only good for 48 hours)
-![Chapter Processes Admin]({{site.base_url}}/assets/images/GoogleWorkspace_email.png)
-  
-**Slackbot command "/chapter-create"**
-* Generates a templated form to create GitHub chapter repository & CRM records.
-   * Chapter City name ONLY
-   * Chapter leader’s name
-   * Chapter leader owasp.org emails
-   * City
-   * Country
-   * Region -6 choices: Africa, Asia, Europe, North America, Oceania, and South America
-* SUBMIT to create the GitHub chapter repository and Copper CRM record.
-![Slackbot template]({{site.base_url}}/assets/images/chapter_slackbot_temp.png)
+**OWASP Chapter Governance** 
+While local chapters operate, for the most part, independently from the OWASP Foundation, they are not stand-alone legal entities. Local OWASP Chapters are essentially small local “arms” or “branches” of the OWASP Foundation and must abide by any legal and financial duties or responsibilities imposed on the OWASP Foundation. Furthermore, local chapters and chapter leaders are governed by the OWASP Foundation through the Executive Director and the Global OWASP Board. 
 
-**CRM (Copper) MANAUL Entry**
-* Chapter file (OWASP-City) 
-  * Add JIRA/NFRSD ticket URL or number in field.
-  * Check city, country, and region fields were populated
-  * Chapter status is set to Active
-  * All leaders are related on rightside under "People"
-* People - Leader’s record - MANUAL
-   * Enter secondary personal email address
-   * Tag as Chapter leader
-* Send out a Welcome letter in email to leaders.
-* Resolve and Close the JIRA ticket. 
-**SLA for first response is 72 hours and 144 working hours to complete; pauses when ticket is set to "Waiting for Customer Response"**
-**Issues:**
- * All of the owasp.org emails need to be reviewed and validated that users are current members or leaders.
- * JIRA tickets need a complete overhaul.  Update requirements and use of correct fields and workflows. Stop mass grouping Membership, Chapters, Projects, Corporate Members & Sponsors, Events, Marketing and Other
+* Must have a minimum of two and maximum of five volunteers to start a new or reactivate an OWASP chapter with a maximim of five volunteers to leader the chapter.
+* A chapter is to hold three meeting activities that are free and open for anyone to attend every year(12 months). 
+* The meetings are to be discoverable on the OWASP chapter page on owasp.org. Discoverable for the registration or RSVP that has the date, time, and physical or virtual location to attend.
+* Logo for chapter aligns with [Branding](https://owasp.org/www-policy/operational/branding) and [Word mark usage guidlines](https://owasp.org/www-policy/operational/mark-usage-guidelines) 
+    * Customization of OWASP identity graphics is a way to reflect the individual characteristics of conferences, events, chapters, and projects. The branding guidelines allow for minimal customization of identity graphics. Background images, such as a country flag to identify a local chapter, may be acceptable as long as it does not obscure the branded identity. All customized identity graphics, including logos, banners, avatars, cover photos, presentation templates, etc., must follow these guidelines. Questionable practices include changing the circle to a square, altering the angle of the wasp feature, using non-branded wasp images, copyrighted images, and any other treatment that alters or obscures the OWASP brand. The OWASP Foundation reserves the right to request changes to any graphic that does not comply with these rules.
+* Shared Services the Foundation offers and will provide to a chapter. To obtain submit a [contact us ticket](https://owasporg.atlassian.net/servicedesk/customer/user/login?destination=portals) for each.** 
+    * OWASP.org account
+    * Chapter page repository that is accessed via GitHub user ID.
+    * Meetup.com Chapter group
+    * Shared Zoom account  
+    * Chapter-Leader Google Group 
+    * City-chapter Google Group mailing list
+    * [Slack](https://owasp.slack.com/) 
+    * Contact Us - [JIRA Service Management](https://owasporg.atlassian.net/servicedesk/customer/user/login?destination=portals) open to the public. Do not need an owasp.org account or paid membership.
 
-## Add/Change Chapter Leadership Process - same ticket as New Chapter Request
- Relevant Policy: [Chapter Policy](https://owasp.org/www-policy/operational/chapters) 
-    **Remove leader**
-    * The Leader(s) stepping down submits the Contact Us - Chapter Support -  Stepping down ticket 
-   **Add New leader(s)**
-    * Submit Add a new leader to existing chapter ticket 
-    * Answer and submit all requested information. (Delay only if the information is missing.)
-**SLA for first response is 72 hours and 144 working hours to complete; pauses when ticket is set to "Waiting for Customer Response"**
-**Issue:** Membership policy does not address what happens to a complimentary membership if a leader steps down or the chapter is deemed inactive. 
-OWASP.org email addresses deactivation did not follow a consistant policy when membership or leadership ended. This was and still is manual process.
+**Leaders are volunteers**
+Start a New Chapter, Reactivate a Chapter and Add a Leader Requests
+Must have the minimum information to be considered. 
+* First and Surname (no initials or abbreviations) 
+* Email address- not owasp.org and work emails are not suggested incase of job change. 
+* City and Postal code of residence - must be within 80km/50 miles of the city chapter.
+* [GitHub user ID](https://github.com)
+* To be an active leader you must have access to all the shared services the Foundation has provided to the chapter. All leaders are equal and responsibile to maintain the chapter activity to meet requirements to keep the chapter open. It is also the continguency plan if one or more leaders needs to take personal leave or becomes ill. The lack of access to the shared services by the remaining leadership will not be considered justification to not close the chapter.
+* Any other social media platforms login and password must be shared with all active leaders. 
+    * The login and password must be passed on to the new leadership or if not applicable MUST be closed. If the chapter is closed the leadership is responsible to close all social media accounts created for chapter or remove all usage of the OWASP® word and logo to comply with trademark guidelines.
+* Leaders are offered [complimentary membership.](https://owasp.org/membership/) Enrollment and renewal is not automatic it must be completed by the leader using their owasp.org email.
+* Complimentary membership is termindated when a leader is removed or steps down.
+* Automatic notfications is sent with a timeframe of when the OWASP.org accounts wiil be suspended for leaders that are removed and do not have a paid membership.
 
-## Chapter Reimbursement Process
-**Relevant Policy or ED granted:** [Expense Policy](https://owasp.org/www-policy/operational/expense-reimbursement)
-  **SLAs:** 
-    * To respond to OSD JIRA ticket is 72 working hours.
-    * Submit expense for reimbursement within 60 days[Expense Policy](https://owasp.org/www-policy/operational/expense-reimbursement)  
-    * AP runs twice a month not sure of the two monthly cut off dates to make the AP run.(Virtual)
-**Issue:** SLA reponse from second leader is (7 to 9 days) as listed in Chapter policy for a leaders to respond to the request from the Foundation. 
-    
-**Request for Shared Services offered to active Chapters at no charge.**
-  * Submit ["Contact Us"](https://owasporg.atlassian.net/servicedesk/customer/portal/7/create/72)
-    * Chapter Support - Shared Service
-    * Description: Type shared service requesting.
-     * Zoom (shared account)
-     * Google Group
-     * Meetup Group (Pro)
- 
-**SLA for first response is 72 working hours; pauses when ticket is set to "Waiting for Customer Response"**
-**Issue:** 
-1. Meetup Groups are set up by city location, not region or country. 
-2. Some Leaders do not join or use Meetup. 
-3. Allowed to use other social media do not post activity on chapter page.
-5. Automation not available to truly identify 3 meeting activity but just identifies activity as simply as opening and closing a file in the chapter repository.  
+
+
 
 
 
