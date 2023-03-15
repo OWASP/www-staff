@@ -37,14 +37,16 @@ All leaders must be prepared and have the ability to maintain and run the chapte
 To Start or Reactive requires a minimum of two and a maximum of five volunteer leaders that reside within 80km / 50 miles of the City chapter.
 Start a New Chapter, Reactivate a Chapter and Add a Leader Requests Must have the minimum information to be considered. 
 * First and Surname (no initials or abbreviations) 
-* Email address- not owasp.org and work emails are not suggested incase of job change. 
-* City and Postal code of residence - must be within 80km/50 miles of the city chapter.
+* Student Chapters are required to have a minimum of one full-time student and one active faculty advisor of the school. 
+* The Faculty advisor is a leader and must follow the leader requirements.
+* Email address - not owasp.org and work emails are not suggested incase of job change. 
+* City and Postal code of full-time permanent residence - must be within 80km/50 miles of the city chapter.
 * [GitHub user ID](https://github.com)
+* All leaders are responsible for updating and maintaining current and correct information on their OWASP chapter page. Check your links to make sure they work. Restating OWASP policies on chapter page is not recommended unless the leaders will regularly compare with the OWASP policies page. The Foundation reviews and update only the [Policies](https://owasp.org/www-policy/) page. 
 * To be an active leader you must have access to all the shared services the Foundation has provided to the chapter. All leaders are equal and responsibile to maintain the chapter activity to meet requirements to keep the chapter open. It is also the continguency plan if one or more leaders needs to take personal leave or becomes ill. The lack of access to the shared services by the remaining leadership will not be considered justification to not close the chapter.
 * Any other social media platforms login and password must be shared with all active leaders. 
     * The login and password must be passed on to the new leadership or if not applicable MUST be closed. If the chapter is closed the leadership is responsible to close all social media accounts created for chapter or remove all usage of the OWASP® word and logo to comply with trademark guidelines.
 * Leaders are offered [complimentary membership.](https://owasp.org/membership/) Enrollment and renewal is not automatic it must be completed by the leader using their owasp.org email.
-* Complimentary membership is termindated when a leader is removed or steps down.
 * Automatic notfications is sent with a timeframe of when the OWASP.org accounts wiil be suspended for leaders that are removed and do not have a paid membership.
 * It is the responsibility of the individual leader to notifiy the Foundation by submitting a ticket to step down as a leader. If a leader moves out of the 80km or 50 mile area of the city chapter they MUST notify the Foundation as soon as possible by submitting the ticket.
 * 
