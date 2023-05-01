@@ -9,7 +9,7 @@ permalink: /procedures/projects
 ## Archiving a Project
 At times it is necessary to archive a project; the project may be old or has become inactive or some other reason (perhaps the leader abandoned the project or no longer has time for it). Archiving a project should follow these general steps:
 
-* Find the www-project-[project-name] repository (e.g. https://github.com/owasp/www-projectchapter-example/)
+* In the [OWASP Github](https://github.com/owasp/) find the www-project-[project-name] repository (e.g. https://github.com/owasp/www-projectchapter-example/)
 * If the project repository has a README.md file, open it. Otherwise, create a new README.md file
 * Include the following text in the README.md file: 'This project has been archived. The content remains accessible for historical context.'
 * Save the file
