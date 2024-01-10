@@ -21,3 +21,19 @@ At times it is necessary to archive a project; the project may be old or has bec
 * On the left, click on **General**
 * Scroll all the way down to the **Danger Zone**
 * Click **Archive this repository** and accept warnings
+
+
+
+## Creating a Project
+When creating a project, the following steps are generally followed:
+
+* Review the JIRA ticket
+    * If the ticket has very little information (often the case), just resolve it at Incomplete.
+    * Otherwise, change the status to In Progress.
+* If the project has anything to do with 'Top 10' or 'Verification Standard' or 'Certification' or 'Server' then flag it for higher evaluation and respond with such.
+* If the project does not have anything to do with security or is heavily geared toward offensive security ('harker-like' activities) choose to either pass on the project (respond with Declined and state reason)
+* Otherwise, continue with the following
+    * Determine if the leaders already have @owasp.org email addresses and create them if not.
+    * perform /project-create in Slack and fill in ALL the details (using the @owasp.org email address for the leader instead of any personal email address).
+    * respond to JIRA ticket with Done and the Template for Project created.
+
