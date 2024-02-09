@@ -6,5 +6,12 @@
 ## 2024
 
 - [Office Holidays and Closures](/www-staff/projects/2024-staff-holidays)
-- [DRAFT Operating Plan 2024](/www-staff/operating-plan/2024/intro)
+- [DRAFT Operating Plan 2024](/www-staff/operating-plan/2024/index)
+- [> Introduction and goals](/www-staff/operating-plan/2024/index)
+- [> Membership](/www-staff/operating-plan/2024/membership)
+- [> Chapters](/www-staff/operating-plan/2024/chapters)
+- [> Projects](/www-staff/operating-plan/2024/projects)
+- [> Events](/www-staff/operating-plan/2024/events)
+- [> Operations](/www-staff/operating-plan/2024/operations)
+- [> Status of deliverables](/www-staff/operating-plan/2024/status)
 - [DRAFT Budget 2024](/www-staff/budget/2024)
