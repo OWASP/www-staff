@@ -19,41 +19,22 @@ The OWASP Foundation Staff are responsible for helping the community to enable t
 {% endfor %}
 </ul>
 
-## 2022 Draft Operational Plan & Budget
-
-- [2022 Operating Plan](operating-plan/2022/)
-- [2022 Budget](budget/2022)
-
-## 2021 Operational Plans & Budget
-
-- [2021 Operating Plan](operating-plan/2021/intro-2021)
-- [2021 Budget](budget/2021)
-
-## 2020 Operational Plans & Budget
-
-- [2020 Operating Plan](operating-plan/2020/2020)
-- [2020 Budget COVID-19 Response (Model Z)](/www-staff/budget/2020-modelz)
-- [Original 2020 Budget](/www-staff/budget/2020)
-
 ## Strategies from the operating plan
 
-- Run by the community, for the community
+- OWASP is run by the community, for the benefit of the community
 - OWASP Foundation enables the mission, not does the mission
-- All mission areas (chapters, membership, projects, events, etc) must be profitable in their own right, able to earn and spend funds on mission in an accountable way
-- Prioritize and focus on community and outreach activities that drive our mission, deprioritizing costly or stopping unnecessary activities
+- All mission areas must be profitable in their own right, able to earn, and transparently and accountably spend approved funds
+- Prioritize and focus on community and outreach activities that drive our mission
 
-## Foundation Goals for 2022
+## 2024 Draft Operational Plan & Budget
+
+- [2024 Operating Plan](operating-plan/2024/)
+- [2024 Budget](budget/2024)
+
+## Foundation Goals for 2024
 
 - [ ] Continue adding Membership value and benefits; increasing student, individual, and lifetime memberships to 7000
-- [ ] Run at least two Global AppSecs in 2022, including San Francisco
-- [ ] Help drive project, event, membership, and outreach goals by implementing OWASP's first marketing plan
-- [ ] Complete a comprehensive customer experience (CX) improvement program
-- [ ] Evaluate and replace our Association Management System with a cloud based system, preferably able to handle chapters and events to dramatically reduce costs
-
-## Foundation Goals for 2021
-
-- [x] Emerge from 2021 a stronger, more cohesive community, with increased chapter and project activity, with more member benefits. *We made a small profit in 2021, up from a projected loss*
-- [x] Ensure we raise sufficient funds to put on two Global AppSecs in 2022. *We have sufficient funds to put on AppSec Global San Francisco*
-- [x] Increase student, individual, and lifetime memberships to 4000. *We blew past our membership goal, ending the year with 5486 financial members*
-- [x] Recruit active leaders to all inactive chapters, and increase chapter activity by 25% over 2020 levels. *We completed a chapter reactivation program, one of the busiest years for RSVPs ever*
-- [x] Simplify and minimize administrative costs and overheads. *We were able to reduce our overheads by more than 70% compared to 2019*
+- [ ] Three Global AppSecs
+- [ ] Define and execute a comprehensive marketing and outreach program
+- [ ] Define and execute a comprehensive community management plan
+- [ ] Hire a Director of Community Development, responsible for fundraising, grant writing, and community outreach
