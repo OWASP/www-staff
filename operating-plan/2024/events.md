@@ -22,7 +22,11 @@ The draft Events in a Box was given to the OWASP community in 2021. During the p
 
 As the OWASP Foundation is now fully responsible for the operational delivery of AppSec Global, a new relationship with the community needs to occur, with a call for volunteers from all over the world. This will lead to the ability to host a third AppSec Global at some point in the future, probably in 2023 or 2024 as the world recovers from the pandemic. In the meantime, we need to document and improve our processes to ensure that we can easily host even the largest events.
 
-### Improve Event and Event Sponsor Customer Experience
+### Improve Developer Participation in OWASP Events
+
+TBA
+
+### Improve Event Sponsor Customer Experience
 
 Involving all key stakeholders - organizers, community members, attendees, event sponsors, and more - we will be kicking off a program to determine how we can improve the OWASP event experience for AppSec and AppSec Days regional events. Everything will be on the table, from call for participation, event registration and other systems, attending virtual and physical events, and more.
 
@@ -39,4 +43,8 @@ As the places where AppSec Global events shrink, the number of locations for App
 ## Fundraising
 
 Global AppSec events are a major source of income for the OWASP Foundation. We may need to situate the events in locations that are more profitable, and we may need to increase the ticket prices for the events. We will work with the community to develop a strategy to ensure that all events are profitable, and that the Foundation can continue to support the community with the funds raised from the events. 
+
+## Marketing
+
+TBA
 

@@ -28,7 +28,7 @@ OWASP is not currently in a position to offer Chapter Swag, but we do want to wo
 
 ### Data Sheet
 
-### 
+### Marketing
 
 ## Fundraising
 

@@ -11,8 +11,23 @@ layout: col-sidebar
 
 TBA
 
-### Mission
+## Community
 
-### Vision
 
-### Goals
+
+## Membership
+
+## Chapters
+
+## Projects
+
+## Events
+
+## Operations
+
+## Status
+
+## Budget 2024
+
+- [Budget 2024](/www-staff/budget/2024)
+

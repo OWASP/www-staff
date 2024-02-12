@@ -11,8 +11,6 @@ layout: col-sidebar
 
 - No more than 20% operating overhead unrelated to program delivery
 - $2m USD in the bank at the end of 2024, with > 12 months operational reserve
-- $10,000 in individual merchandise sales
-- $1,000 in text book sales
 - Improvements customer experience delivered in all areas
 
 ## Program Deliverables
@@ -63,12 +61,14 @@ Apply for and receive sales tax exemption in Washington, District of Columbia.
 - Prepare 2024 tax filings
 - Determine when the last EU audit was completed and schedule the next one
 
+### Fundraising
+
 ### Co-marketing
 
 ### Swag and Merchandise
 
-### Revamped Text Books
+TBA
 
-Books and printed materials have been left behind in recent years. We want to reform the way books are created and sold at OWASP. This will never be a big fundraiser for the organization, but spreading knowledge is vital to our mission.
 
-### Fundraising
+### Marketing
+

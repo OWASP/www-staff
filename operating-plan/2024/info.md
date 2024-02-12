@@ -7,6 +7,7 @@
 This is the draft OWASP Foundation operating plan for 2024.
 
 - [Introduction and goals](index)
+- [Community](community)
 - [Membership](membership)
 - [Chapters](chapters)
 - [Projects](projects)

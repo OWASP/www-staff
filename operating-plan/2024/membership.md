@@ -16,10 +16,11 @@ Membership is one of key areas that drives chapters, events, education, and proj
 - $215,000 in individual membership revenue
 - $125,000 in membership fundraising
 
+
+## Program Deliverables
+
 ### Membership Benefits
 
 ### Data Sheet
-
-### Program Deliverables
 
 ### Fundraising
