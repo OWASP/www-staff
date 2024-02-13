@@ -19,7 +19,7 @@ TBA
 
 ## Chapters
 
-## Projects
+## Projects and Education
 
 ## Events
 
@@ -30,4 +30,3 @@ TBA
 ## Budget 2024
 
 - [Budget 2024](/www-staff/budget/2024)
-

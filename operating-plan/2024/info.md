@@ -11,7 +11,7 @@ This is the draft OWASP Foundation operating plan for 2024.
 - [Corporate Support](corporate)
 - [Membership](membership)
 - [Chapters](chapters)
-- [Projects](projects)
+- [Projects and Education](projects)
 - [Events](events)
 - [Operations](operations)
 - [Status of deliverables](status)
