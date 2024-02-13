@@ -13,6 +13,7 @@ layout: col-sidebar
 
 - 3 Global AppSecs (Lisbon, Singapore, San Francisco)
 - Support up to 4 new major AppSec Days regional events all over the world
+- Event Sponsor Portal on OWASP website
 
 ## Program Deliverables
 
