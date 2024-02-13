@@ -11,6 +11,7 @@ layout: col-sidebar
 
 - No more than 20% operating overhead unrelated to program delivery
 - $2m USD in the bank at the end of 2024, with > 12 months operational reserve
+- Establish a CD ladder to invest excess funds
 - Improvements customer experience delivered in all areas
 
 ## Program Deliverables
@@ -24,10 +25,20 @@ Run a successful election for the 2025 Board of Directors.
 - Work to ensure that the new bylaws and certificate of incorporation are passed
 - Ensure that any subsequent changes to the bylaws are passed with legal review
 
+### Netherlands Entity and Governance
+
+### Close the Belgium Entity
+
+The EU Board already 
+
+### Close ING Belgium Bank account
+
+Close the ING Belgium bank account and transfer funds to the Dutch entity.
+
 ### Policies Review and Revamp
 
 - Move policy settings from the old bylaws to policies
-- Policy review and revamp of 1/3rd of policies
+- Policy review and revamp of 1/3rd of policies, starting after the bylaws approval
 
 ### 2024 Budget
 
@@ -53,22 +64,32 @@ Apply for and receive sales tax exemption in Washington, District of Columbia.
 ### EU Entity and Governance
 
 - Ensure that a full board sits on the Belgian entity and that the entity is in good standing.
-- Depending on the outcome of Lisbon tax implications, determine if having an EU entity makes financial sense.
+- Determine if having an EU entity makes financial sense.
 - Wind up the Belgian entity and transfer funds to the Dutch entity
 
 ### Taxes - EU
 
-- Prepare 2024 tax filings
+- Prepare 2023 EU tax filings
+- Prepare 2024 EU tax filings
 - Determine when the last EU audit was completed and schedule the next one
 
 ### Fundraising
 
+- Evaluate and decide if we need a donor management platform
+
 ### Co-marketing
 
-### Swag and Merchandise
+- Develop a co-marketing plan with other organizations focusing on Developer and Security communities
+- Budget?
 
-TBA
+### Outreach, Swag, and Merchandise
 
+- $5k for local swag
+- $15k RSA
+- PyConf
+- RustConf
+- Outreach Budget?
 
 ### Marketing
 
+TBA
