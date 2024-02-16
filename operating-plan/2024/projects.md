@@ -14,10 +14,11 @@ Projects are a top focus of the OWASP Foundation. As such, a more proactive envi
 - Update a finalized Project Handbook
 - Develop a plan for the OWASP Academy, a OWASP-member only training portal
 - Apply for at least four grants for projects
-- Two Project Leader Town Halls
-- Leader Meetings in Lisbon and San Francisco
+- Two Project Leader Asynchronous Virtual Town Halls
+- Two Leader Meetings in Lisbon and San Francisco
 - Project Summit in London
 - Project Showcase in Lisbon and San Francisco
+- How to start contributing page / video
 
 ## PROJECT SUMMIT
 
@@ -45,6 +46,8 @@ Projects are a top focus of the OWASP Foundation. As such, a more proactive envi
 
 - Work with the Project Committee to develop a project fundraising plan, such as a project competition for fundraising, project partners, etc
 - Using data sheets, and marketing, ask Corporate Supporters to sponsor projects
+- Evaluate Tidelift for project fundraising
+- Developer Project Partner program
 
 ## MARKETING
 

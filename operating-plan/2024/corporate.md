@@ -20,6 +20,10 @@ layout: col-sidebar
 
 ## Program Deliverables
 
+### Premium website banner advertising
+
+- Premium banner ads for corporate supporters on the OWASP website (Platinum only)
+
 ### Corporate Supporter Customer Experience
 
 - Meet with Corporate Supporters at least once a year
