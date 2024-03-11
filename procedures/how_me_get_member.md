@@ -8,8 +8,24 @@ tags: Charlie-Gordon, Algernon
 ---
 v2021.10.25 
 
-Often it is desirable to get the current list of members. As we have a CRM and that CRM can be used to pull a member list, this then represents the gross steps required to get a full list.
+Often it is desirable to get the current list of members. The first and most accurate method involves Stripe. It is more accurate because it is much more automated and most people have a harder time altering the data there. The second is our CRM, Copper. As we have a CRM and that CRM can be used to pull a member list, this then represents the gross steps required to get a full list. 
 
+### Stripe Method
+1. Log into [Stripe](https://stripe.com/).
+2. Gather the [One Year Members](https://dashboard.stripe.com/search?query=metadata%3Amembership_type%3Done).
+3. Export this to Excel, selecting Custom columns and only Email and Name.
+4. Gather the [Two Year Members](https://dashboard.stripe.com/search?query=metadata%3Amembership_type%3Dtwo).
+5. Export this to Excel, selecting Custom columns and only Email and Name.
+6. Gather the [Complimentary Members](https://dashboard.stripe.com/search?query=metadata%3Amembership_type%3Dcomplimentary).
+7. Export this to Excel, selecting Custom columns and only Email and Name.
+8. Gather the [Lifetime Members](https://dashboard.stripe.com/search?query=metadata%3Amembership_type%3Dlifetime).
+9. Export this to Excel, selecting Custom columns and only Email and Name.
+10. Open a new Google Sheet or Excel Sheet and call it something useful (year_month_date_membership for instance).
+12. Paste the contents of each of the 4 customer excel files into this new sheet, making sure not to copy the headers more than once.
+13. Sort the sheet by membership-end date and eliminate all the memberships that are expired (empty = lifetime most of the time).
+14. You now have the Stripe list of current members and as money=membership (complimentary aside), this list is the most accurate.
+
+### Copper Method
 #### Get a List of Non-Lifetime Members
 
 1. Log into [Copper](https://copper.com/).
@@ -40,3 +56,5 @@ Often it is desirable to get the current list of members. As we have a CRM and t
 #### Combine the Lists
 
 Use whatever program you like (Google Sheets, Excel, etc) to combine the two lists you just generated.
+
+#### 
