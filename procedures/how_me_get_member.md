@@ -6,7 +6,7 @@ permalink: /member_list/
 tags: Charlie-Gordon, Algernon
 
 ---
-v2021.10.25 
+v2024.03.11
 
 Often it is desirable to get the current list of members. The first and most accurate method involves Stripe. It is more accurate because it is much more automated and most people have a harder time altering the data there. The second is our CRM, Copper. As we have a CRM and that CRM can be used to pull a member list, this then represents the gross steps required to get a full list. 
 
