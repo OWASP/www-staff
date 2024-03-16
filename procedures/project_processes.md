@@ -33,7 +33,7 @@ When creating a project, the following steps are generally followed:
 * If the project has anything to do with 'Top 10' or 'Verification Standard' or 'Certification' or 'Server' then flag it for higher evaluation and respond with such.
 * If the project does not have anything to do with security or is heavily geared toward offensive security ('hacker-like' activities) choose to either pass on the project (respond with Declined and state reason)
 * Otherwise, continue with the following
-    * Determine if the leaders already have @owasp.org email addresses and create them if not.
-    * perform /project-create in Slack and fill in ALL the details (using the @owasp.org email address for the leader instead of any personal email address).
-    * respond to JIRA ticket with Done and the Template for Project created.
+    * **make sure the ticket has the same number of entries for leader names, leader emails, and leader github usernames**
+    * perform /project-create-jira [NFRSD-TICKETNUMBER] in Slack
+        * this will do all of the necessary steps including creating an owasp email address if needed, creating the github repo, adding the leader and project to copper, responding to the JIRA ticket
 
