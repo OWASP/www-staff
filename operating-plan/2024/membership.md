@@ -11,14 +11,29 @@ Membership is one of key areas that drives chapters, events, education, and proj
 
 ### Goals
 
-- 7000 members by the end of 2024, with a stretch goal of 7,500 members 
+April 2024 membership: 6347 financial members, 1556 complimentary members, 7903 total members
+
+- 7000 financial members by the end of 2024, with a stretch goal of 7,500 members
 - Four membership drives in 2024
 - $215,000 in individual membership revenue
 - $125,000 in membership fundraising
+- Replacement Association Membership Platform by May 2024
 
 ## Program Deliverables
 
+- Replacement Association Membership Platform
+  - Workflows to disable leaders whose membership drops
+  - GitHub user removed from when membership drops
+  - Meetup user removed from when membership drops
+- Leaders as members by September 2024
+  - Workflows to disable leaders whose membership drops
+- Old GMail accounts cleaned up (more than 13 months old)
+- Bulk membership discounts for Corporates
+
 ### Membership Benefits
+
+- Promote membership benefits to OWASP members
+- Market membership benefits to OWASP Corporate Supporters
 
 ### Membership website updates
 
@@ -33,7 +48,5 @@ Membership is one of key areas that drives chapters, events, education, and proj
 ### Data Sheet
 
 - Develop a data sheet for Membership with a QR code to the join membership page
-- Bulk membership discounts for Corporates
-
 
 ### Fundraising

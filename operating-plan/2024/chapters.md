@@ -15,16 +15,17 @@ layout: col-sidebar
 - Increase the number of chapter meetings by 25%
 - Increase RSVPs by 25%
 - $125k in chapter fundraising activities in 2024, with 100% of chapter fundraising to fund chapter expenses
+
+## Program Deliverables
+
+- Finalize Chapter Handbook
 - Reform student chapters to eliminate inactive and faux city chapters
 - Enforce existing inactive chapter policy
 - Define a workable complaints procedure
-- Finalize Chapter Handbook
 - Develop and implement a plan for Chapter Swag
 - Develop Chapter Data Sheets
 - Develop and implement a plan for Chapter Marketing
 - Develop and implement a plan for Chapter Fundraising
-
-## Program Deliverables
 
 ### Town Halls and Leader Meetings
 
@@ -56,8 +57,6 @@ These reforms and enforcement of current policy are necessary to ensure that the
 ### Finalize Chapter Handbook
 
 Working with the Chapter committee to finalize a completed Chapter Handbook by Q2 2024.
-
-### 
 
 ### Chapter Swag
 
