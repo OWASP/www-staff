@@ -50,3 +50,5 @@ April 2024 membership: 6347 financial members, 1556 complimentary members, 7903 
 - Develop a data sheet for Membership with a QR code to the join membership page
 
 ### Fundraising
+
+- 20th Anniversary Donation and Blog Post

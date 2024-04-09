@@ -18,14 +18,15 @@ layout: col-sidebar
 
 ## Program Deliverables
 
+- Deliver a new AMS by Q2 2024
 - Finalize Chapter Handbook
 - Reform student chapters to eliminate inactive and faux city chapters
 - Enforce existing inactive chapter policy
-- Define a workable complaints procedure
 - Develop and implement a plan for Chapter Swag
 - Develop Chapter Data Sheets
 - Develop and implement a plan for Chapter Marketing
 - Develop and implement a plan for Chapter Fundraising
+- Spotlights for OWASP Chapters
 
 ### Town Halls and Leader Meetings
 

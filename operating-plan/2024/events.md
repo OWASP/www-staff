@@ -17,6 +17,9 @@ layout: col-sidebar
 
 ## Program Deliverables
 
+- Form the Events Committee by end of Q2 2024
+
+
 ### Formalize and document the running of AppSec Global events, improving Events in a Box
 
 The draft Events in a Box was given to the OWASP community in 2021. During the pandemic, it was discovered how much institutional knowledge has been lost in various staff transitions. We need to modernize and rebuild our institutional knowledge with a thorough revamp of the Events in a Box, covering small local, medium sized AppSec Days regional events, and of course, Global AppSec events.
@@ -33,13 +36,18 @@ Involving all key stakeholders - organizers, community members, attendees, event
 
 The key objective of this program deliverable is to optimize, modernize, and reduce the friction in hosting, attending, and supporting OWASP events, eliminating (or reducing) any painful or unnecessary activities, and ensuring that all events are impactful and profitable. It should cover post event
 
-### Develop new AppSec Global EU Proposals with the community
+### Develop new AppSec Global EU Locations
 
-There are tax implications to running AppSec Global events in any European country other than Belgium. We will develop an open and transparent method to select new locations for AppSec Global EU events, and work with the community to develop proposals for new locations. This will include a call for volunteers to help with the process, and a transparent and open process to select new locations.
+The Board has directed the FOundation to develop a location plan for AppSec EU. 
 
 ### Regional AppSec Days
 
 As the places where AppSec Global events shrink, the number of locations for AppSec Day events should grow. The Foundation will help support any profitable AppSec Days proposal, to the value of $30k per event and $250k per year overall. AppSec Day events must be profitable, and preferably funded by local sponsorship in kind. The Foundation will provide a template for the event, and will help with marketing and other support.
+
+### AppSec Asia
+
+- 2024 ensure that the AppSec Asia event goes ahead
+- 2025 will be contingent on the success of the 2024 event
 
 ## Fundraising
 
@@ -48,4 +56,3 @@ Global AppSec events are a major source of income for the OWASP Foundation. We m
 ## Marketing
 
 TBA
-

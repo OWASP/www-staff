@@ -16,9 +16,17 @@ layout: col-sidebar
 
 ## Program Deliverables
 
+- Define a workable complaints procedure
+- Revise registered agent to Incorporate.com
+- Fix GuideStar / Charity Navigator ratings
+
 ### 2025 Election
 
 Run a successful election for the 2025 Board of Directors.
+
+### Waspy Awards
+
+Run Waspy Awards 2024
 
 ### Bylaws Revamp
 
