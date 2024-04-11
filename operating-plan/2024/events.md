@@ -1,48 +1,53 @@
 ---
 
-title: DRAFT OWASP Operating Plan 2024 - Events
+title: OWASP Operating Plan 2024 - Events
 layout: col-sidebar
 
 ---
-
-# DRAFT
 
 ## Introduction
 
 ## Goals
 
-- 3 Global AppSecs (Lisbon, Singapore, San Francisco)
-- Support up to 4 new major AppSec Days regional events all over the world
-- Event Sponsor Portal on OWASP website
+- 2 Global AppSec Events (Lisbon, San Francisco)
+- SnowFROC, LASCON, BASC, PNW, BeNeLux, Italy Day, Panama, Singapore AppSec Days
+- Support up to four new major AppSec Days regional events all over the world
+- Form the Events Committee
 
 ## Program Deliverables
 
-- Form the Events Committee by end of Q2 2024
+-	Revised Events Policy by July 2024
+-	Events Handbook by August 2024
+-	Form the Events Committee by the end of Q2 2024
+-	Plan for an Event Sponsor Portal on OWASP website in 2025.
 
+### Revamp Events Policy
 
-### Formalize and document the running of AppSec Global events, improving Events in a Box
+Based upon the new Events handbook, make the events policy much shorter, removing all guidance to the Events Handbook, leaving just the essential elements of the events lifecycle for AppSec Global and AppSec Days events. 
 
-The draft Events in a Box was given to the OWASP community in 2021. During the pandemic, it was discovered how much institutional knowledge has been lost in various staff transitions. We need to modernize and rebuild our institutional knowledge with a thorough revamp of the Events in a Box, covering small local, medium sized AppSec Days regional events, and of course, Global AppSec events.
+### Events Handbook
+The OWASP Foundation gave the draft Events in a Box to the OWASP community in 2021. During the pandemic, the Foundation discovered how much institutional knowledge has been lost in various staff transitions. 
+Based upon the revised Events Policy, the OWASP Foundation will draft and release a new Events Handbook covering small, local, and medium-sized AppSec Days regional events and Global AppSec events.
 
-As the OWASP Foundation is now fully responsible for the operational delivery of AppSec Global, a new relationship with the community needs to occur, with a call for volunteers from all over the world. This will lead to the ability to host a third AppSec Global at some point in the future, probably in 2023 or 2024 as the world recovers from the pandemic. In the meantime, we need to document and improve our processes to ensure that we can easily host even the largest events.
-
+### Meet the mentor program
+A new program will be held at AppSec Lisbon called “Meet the mentor,” connecting mentors and mentees together.
 ### Improve Developer Participation in OWASP Events
 
-TBA
+The OWASP Foundation will be running a Developer Day in San Francisco on September 28, 2024. 
 
-### Improve Event Sponsor Customer Experience
 
-Involving all key stakeholders - organizers, community members, attendees, event sponsors, and more - we will be kicking off a program to determine how we can improve the OWASP event experience for AppSec and AppSec Days regional events. Everything will be on the table, from call for participation, event registration and other systems, attending virtual and physical events, and more.
+### Define the locations of Global AppSec after 2025
 
-The key objective of this program deliverable is to optimize, modernize, and reduce the friction in hosting, attending, and supporting OWASP events, eliminating (or reducing) any painful or unnecessary activities, and ensuring that all events are impactful and profitable. It should cover post event
+The Board wishes to have a finalized location for the US, EU, and Asia locations. This should be tax advantageous, profitable, and logistically able to grow to 2000 attendees by the end of 2025 and allow for further growth beyond. 
 
-### Develop new AppSec Global EU Locations
+### Improve Event Customer Experience
 
-The Board has directed the FOundation to develop a location plan for AppSec EU. 
+Involving all key stakeholders to determine how to improve the OWASP event experience for AppSec and AppSec Days regional events. 
+The key objective of this program deliverable is to optimize, modernize, improve productivity, and reduce the friction in hosting, attending, and supporting OWASP events, eliminating (or reducing) any painful or unnecessary activities and ensuring that all events are delivered b to our mission and are profitable. 
 
 ### Regional AppSec Days
 
-As the places where AppSec Global events shrink, the number of locations for AppSec Day events should grow. The Foundation will help support any profitable AppSec Days proposal, to the value of $30k per event and $250k per year overall. AppSec Day events must be profitable, and preferably funded by local sponsorship in kind. The Foundation will provide a template for the event, and will help with marketing and other support.
+As the places where AppSec Global events shrink, the number of locations for AppSec Day events should grow. The Foundation will help support any profitable AppSec Days proposal to $30k per event and $250k per year overall. AppSec Day events must be profitable and preferably funded by local sponsorship. The Foundation will provide a template for the event and help with marketing and other support.
 
 ### AppSec Asia
 
@@ -51,8 +56,12 @@ As the places where AppSec Global events shrink, the number of locations for App
 
 ## Fundraising
 
-Global AppSec events are a major source of income for the OWASP Foundation. We may need to situate the events in locations that are more profitable, and we may need to increase the ticket prices for the events. We will work with the community to develop a strategy to ensure that all events are profitable, and that the Foundation can continue to support the community with the funds raised from the events. 
+Global AppSec events are a significant source of income for the OWASP Foundation. We may need to situate the events in more profitable locations, and we may need to increase the ticket prices for the events. We will work with the community to develop a strategy to ensure that all events are profitable and that the Foundation can continue to support the community with the funds raised from the events. 
 
 ## Marketing
 
-TBA
+An events marketing data sheet will be created by the Events team, allowing easy customization of the website and various events, such as being handed out at RSA. 
+Work with our marketing contractor to promote AppSec Global SF and AppSec Global Lisbon, with online advertising and social media campaigns.
+
+
+
