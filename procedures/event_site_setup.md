@@ -71,7 +71,7 @@ The following files and folders are commonly used for events. This is by no mean
 
 Note that the header section, above, contains the menu, the Join Us button, the event title, where it is located, the dates, and the background image.  Nearly everything in this section can be modified by modifying the event-details.yml file which is located in the _data folder in the repository:
 
-![Event Site Data Files Image](/www-staff//assets/images/event_site_setup_data_files.png)
+![Event Site Data Files Image](/www-staff/assets/images/event_site_setup_data_files.png)
 
 Within the event-details.yml file, you will find the following sections:
 
@@ -105,7 +105,7 @@ The body section contains the venue and pitch from the event-details.yml file me
 
 The pricing.yml file is a data file that contains pricing details for each 'ticket' type sold. To understand the pricing file structure, see the following image and explanation of the data:
 
-![Event Site Pricing Image](/www-staff//assets/images/event_site_setup_pricing.png)
+![Event Site Pricing Image](/www-staff/assets/images/event_site_setup_pricing.png)
 
 This image is produced by the following data in the pricing.yml file:
 
@@ -134,7 +134,7 @@ This image is produced by the following data in the pricing.yml file:
 
 The body section also contains the Keynote Speakers section which was not in the above picture (the event shown has no keynote speakers).  The keynote speakers sections looke like the following:
 
-![Event Site Keynotes Image](/assets/images/event_site_setup_keynotes.png)
+![Event Site Keynotes Image](/www-staff/assets/images/event_site_setup_keynotes.png)
 
 This section is controlled by the keynotespeakers.yml file located in the _data folder.  The keynotespeakers.yml file expects the following fields for each speaker:
 
@@ -164,11 +164,11 @@ Everything in the footer section comes from the sponsors.yml file in the _data f
 
 Once the site has basic information and is set up to your satisfaction, it is time to make the site available over HTTPS.  In order to do that, you must go to the repository in GitHub and select the Settings tab.
 
-![Event Site Settings Image](/www-staff//assets/images/event_site_setup_settings.png)
+![Event Site Settings Image](/www-staff/assets/images/event_site_setup_settings.png)
 
 On the settings page, scroll down to the GitHub Pages section and change Source from None to Branch: master and leave the folder as / (root) then click Save.
 
-![Event Site GitHub Pages Source Image](/www-staff//assets/images/event_site_setup_source.png)
+![Event Site GitHub Pages Source Image](/www-staff/assets/images/event_site_setup_source.png)
 
 At this point, your site is available as a page under the owasp.org site but the links will not work.  To get the links to work, you need to set up the Custom domain below where we just set up the GitHub Pages Source.  In addition, you will need to have already had configured a domain to point this repository at (DNS setup is outside this scope, please ask your I.T. admin to set this up).
 
