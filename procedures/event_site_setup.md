@@ -14,11 +14,11 @@ v 2020.12.09
 For OWASP Foundation Global or similar events, the repository should be created by someone with Github Administrator privileges following the standard event repository naming convention: www-event-YYYY-EVENTNAME, where YYYY is the 4 digit year and EVENTNAME is the name of the event.  For instance, an event named Yolo which is in 2021 would have a repository named www-event-2021-yolo.  In the case where multiple events of the same name occur in the same year, the pattern for the repository name should be www-event-YYYY-MM-EVENTNAME, where MM is the 2 digit month of the event. In addition, the repository should be created from the www-event-example template (see steps below).  The following is a general guideline for event repository creation:
 
 1. On the main [OWASP Github Page](https://github.com/owasp/), Click New
-   ![New Repository Image](/assets/images/event_site_setup_new_repo.png)
+   ![New Repository Image](/www-staff/assets/images/event_site_setup_new_repo.png)
 2. On the next page, click the Repository template dropdown and select OWASP/www-event-example
-   ![Choose Template Image](/assets/images/event_site_setup_template.png)
+   ![Choose Template Image](/www-staff/assets/images/event_site_setup_template.png)
 3. Type in a Respository name following the aforementioned conventions, choose the Public option, and click Create repository
-   ![Name and Create Image](/assets/images/event_site_setup_name_create.png)
+   ![Name and Create Image](/www-staff/assets/images/event_site_setup_name_create.png)
 
 The repository will be created after a minute or two.  At this stage, the repository is not yet accessible as a website (this is covered in [Publish the Event](#publishevent), below) 
 
@@ -28,11 +28,11 @@ The repository will be created after a minute or two.  At this stage, the reposi
 
 In order to configure the event, it is necessary to be familiar with the general layout of the event site. Note the sections on the following image:
 
-![Event Site Image](/assets/images/event_site_setup_layout.png)
+![Event Site Image](/www-staff/assets/images/event_site_setup_layout.png)
 
 The event site will be populated with certain files and folders. We will cover the more commonly edited files when setting up an event site. First, however, note that the repository has the following layout:
 
-![Event Site Structure Image](/assets/images/event_site_setup_structure.png)
+![Event Site Structure Image](/www-staff/assets/images/event_site_setup_structure.png)
 
 The following files and folders are commonly used for events. This is by no means a comprehensive list and events may have more or less in their respositories.
 
@@ -71,7 +71,7 @@ The following files and folders are commonly used for events. This is by no mean
 
 Note that the header section, above, contains the menu, the Join Us button, the event title, where it is located, the dates, and the background image.  Nearly everything in this section can be modified by modifying the event-details.yml file which is located in the _data folder in the repository:
 
-![Event Site Data Files Image](/assets/images/event_site_setup_data_files.png)
+![Event Site Data Files Image](/www-staff//assets/images/event_site_setup_data_files.png)
 
 Within the event-details.yml file, you will find the following sections:
 
@@ -105,7 +105,7 @@ The body section contains the venue and pitch from the event-details.yml file me
 
 The pricing.yml file is a data file that contains pricing details for each 'ticket' type sold. To understand the pricing file structure, see the following image and explanation of the data:
 
-![Event Site Pricing Image](/assets/images/event_site_setup_pricing.png)
+![Event Site Pricing Image](/www-staff//assets/images/event_site_setup_pricing.png)
 
 This image is produced by the following data in the pricing.yml file:
 
@@ -164,11 +164,11 @@ Everything in the footer section comes from the sponsors.yml file in the _data f
 
 Once the site has basic information and is set up to your satisfaction, it is time to make the site available over HTTPS.  In order to do that, you must go to the repository in GitHub and select the Settings tab.
 
-![Event Site Settings Image](/assets/images/event_site_setup_settings.png)
+![Event Site Settings Image](/www-staff//assets/images/event_site_setup_settings.png)
 
 On the settings page, scroll down to the GitHub Pages section and change Source from None to Branch: master and leave the folder as / (root) then click Save.
 
-![Event Site GitHub Pages Source Image](/assets/images/event_site_setup_source.png)
+![Event Site GitHub Pages Source Image](/www-staff//assets/images/event_site_setup_source.png)
 
 At this point, your site is available as a page under the owasp.org site but the links will not work.  To get the links to work, you need to set up the Custom domain below where we just set up the GitHub Pages Source.  In addition, you will need to have already had configured a domain to point this repository at (DNS setup is outside this scope, please ask your I.T. admin to set this up).
 
