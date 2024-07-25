@@ -18,7 +18,7 @@ v2021-03-23
 8. The Executive Director will provide minutes to the Operations Manager to be included in the next month's general meeting, or if a sensitive matter, in a private Board setting agreed to by the Board.
 9. Any operational actions arising from the motion being passed will then be scheduled by the OWASP Foundation.
 
-## Moving schedueld motions to e-Vote
+## Moving scheduled motions to e-Vote
 
 During the Board Officers prep call, scheduled motions may be moved to e-Votes. A sponsor and second must be found during the Board Officers meeting, and the e-Vote published that same day by the Executive Director per the procedure above. This allows the e-Vote to be completed by the Board meeting the following week, including documenting the result in the agenda. e-Votes conducted in this way shall be completed no later than 2 hours prior to the general Board meeting.
 
