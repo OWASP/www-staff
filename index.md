@@ -12,7 +12,7 @@ The OWASP Foundation is responsible for helping the community to enable the OWAS
 {% assign pages = site.pages | sort: 'title' | limit: 1000 %}
 <ul>
 {% for page in pages %}
- {% if page.path contains 'policies/' %}
+ {% if page.path contains 'policy/' %}
  <li><a href="/www-staff{{ page.url | replace: '.html', '' }}">{{ page.title }}</a></li>
  {% endif %}
 {% endfor %}
