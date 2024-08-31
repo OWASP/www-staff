@@ -20,19 +20,14 @@ git clone https://github.com/OWASP/owasp.github.io
 Login to Stripe
 Search for the following strings in the search bar, and export each of the results to a CSV file:
 
-[https://dashboard.stripe.com/search?query=metadata%3Amembership_type%3Done](https://dashboard.stripe.com/search?query=metadata%3Amembership_type%3Done)
-[https://dashboard.stripe.com/search?query=metadata%3Amembership_type%3Dtwo](https://dashboard.stripe.com/search?query=metadata%3Amembership_type%3Dtwo)
-[https://dashboard.stripe.com/search?query=metadata%3Amembership_type%3Dcomplimentary](https://dashboard.stripe.com/search?query=metadata%3Amembership_type%3Dcomplimentary)
-[https://dashboard.stripe.com/search?query=metadata%3Amembership_type%3Dlifetime](https://dashboard.stripe.com/search?query=metadata%3Amembership_type%3Dlifetime)
+- [https://dashboard.stripe.com/search?query=metadata%3Amembership_type%3Done](https://dashboard.stripe.com/search?query=metadata%3Amembership_type%3Done)
+- [https://dashboard.stripe.com/search?query=metadata%3Amembership_type%3Dtwo](https://dashboard.stripe.com/search?query=metadata%3Amembership_type%3Dtwo)
+- [https://dashboard.stripe.com/search?query=metadata%3Amembership_type%3Dcomplimentary](https://dashboard.stripe.com/search?query=metadata%3Amembership_type%3Dcomplimentary)
+- [https://dashboard.stripe.com/search?query=metadata%3Amembership_type%3Dlifetime](https://dashboard.stripe.com/search?query=metadata%3Amembership_type%3Dlifetime)
 
-Import the CSV files into Excel
-You want only the Email, Name, membership_end_date, and OWASP Email columns, the rest can be deleted.
+Import the CSV files into Excel. You want only the Email, Name, membership_end_date, and OWASP Email columns, the rest can be deleted. For One, Two, and Complimentary members, filter the membership_end_date to be after today's date. You can filter/hide/delete any rows that have a membership_end_date before today's date. Lifetime members will always be valid members, so they don't need to be filtered for end date.
 
-For One, Two, and Complimentary members, filter the membership_end_date to be after today's date. You can filter/hide/delete any rows that have a membership_end_date before today's date.
-
-Lifetime members will always be valid members, so they don't need to be filtered for end date 
-
-Once you have the list of members, copy their primary and OWASP email addresses to a plain text file, called /tmp/members.txt
+Once you have the list of members, copy their primary and OWASP email addresses to a plain text file in WSL or Linux, called /tmp/members.txt
 
 ### De-dupe the membership list and sort it alphabetically
 
@@ -90,3 +85,10 @@ Remind leaders to become members by September 30th, 2024. With the Board, let th
 ## Send a reminder to the non-member leaders
 
 In Mailchimp, update the audience list with the contents /tmp/non-member-leaders.txt. Send them a reminder to join OWASP as a leader. You can re-use the previous email.
+
+## Problems (and Solutions)
+
+- Some leaders may be members, but their owasp.org email address is not in their Stripe record. Add it as owasp_email in metadata.
+- Some leaders may be members, but they used a different email address to pay for it. Look up their Copper records, and add the owasp_email to their Stripe record.
+- Some leaders may be members, but they have two Copper records, and these records don't match their Stripe record. Merge the Copper records, and add the owasp_email to their Stripe AND Copper records. Make sure the end date is accurate across both Copper and Stripe.
+
