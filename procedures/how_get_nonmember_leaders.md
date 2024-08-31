@@ -25,7 +25,7 @@ Search for the following strings in the search bar, and export each of the resul
 - [https://dashboard.stripe.com/search?query=metadata%3Amembership_type%3Dcomplimentary](https://dashboard.stripe.com/search?query=metadata%3Amembership_type%3Dcomplimentary)
 - [https://dashboard.stripe.com/search?query=metadata%3Amembership_type%3Dlifetime](https://dashboard.stripe.com/search?query=metadata%3Amembership_type%3Dlifetime)
 
-Import the CSV files into Excel. You want only the Email, Name, membership_end_date, and OWASP Email columns, the rest can be deleted. For One, Two, and Complimentary members, filter the membership_end_date to be after today's date. You can filter/hide/delete any rows that have a membership_end_date before today's date. Lifetime members will always be valid members, so they don't need to be filtered for end date.
+Import the CSV files into Excel. You want only the Email, Name, membership_end (metadata), and owasp_email (metadata) columns, the rest can be deleted. For One, Two, and Complimentary members, filter the membership_end (metadata) to be after today's date. Create a filter by highlighting the remaining columns in the header column. You can filter/hide/delete any rows that have a membership_end (metadata) date before today's date. Lifetime members will always be valid members, so they don't need to be filtered for end date.
 
 Once you have the list of members, copy their primary and OWASP email addresses to a plain text file in WSL or Linux, called /tmp/members.txt
 
@@ -44,14 +44,8 @@ cd owasp.github.io/
 git pull
 cat _data/leaders.json | jq '.[] | .email ' > /tmp/leaders.txt
 dos2unix /tmp/leaders.txt
-cat /tmp/leaders.txt | tr '[:upper:]' '[:lower:]' | sort -u > /tmp/leaders2.txt
+cat /tmp/leaders.txt | sed "s/\"//g" | tr '[:upper:]' '[:lower:]' | sort -u > /tmp/leaders2.txt
 mv /tmp/leaders2.txt /tmp/leaders.txt
-```
-
-## Create a list of non-members
-
-```bash
-grep -vFf /tmp/members.txt /tmp/leaders.txt > /tmp/non-member-leaders.txt
 ```
 
 ## Find the non-email addresses
@@ -59,7 +53,7 @@ grep -vFf /tmp/members.txt /tmp/leaders.txt > /tmp/non-member-leaders.txt
 These MUST be fixed. Fix the relevant leaders.md file. You'll need to go back to the Excel CSV file to get the correct name. Look them up in Copper, Stripe, Linked In, X, or whatever, and get their email address.
 
 ```bash
-grep -v "@" /tmp/non-member-leaders.txt
+grep -v "@" /tmp/leaders.txt
 ```
 
 ## Find the non-OWASP email addresses
@@ -67,7 +61,15 @@ grep -v "@" /tmp/non-member-leaders.txt
 These MUST be owasp.org emails. Fix the relevant leaders.md file. You'll need to go back to the Excel CSV file to get the correct name. Look them up in Stripe or Copper first, and then look to Linked In, X, or whatever, and get their email address.
 
 ```bash
-grep -v "@owasp.org" /tmp/non-member-leaders.txt
+grep -v "@owasp.org" /tmp/leaders.txt | grep "@"
+```
+
+## Create a list of non-members
+
+Once the data is correct (i.e. no non-email addresses, and all email addresses are owasp.org), you can create a list of non-member leaders.
+
+```bash
+grep -vFf /tmp/members.txt /tmp/leaders.txt > /tmp/non-member-leaders.txt
 ```
 
 ## Update Leaders and the Board on the latest numbers
