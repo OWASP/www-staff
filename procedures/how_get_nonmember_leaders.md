@@ -48,12 +48,14 @@ cat /tmp/leaders.txt | sed "s/\"//g" | tr '[:upper:]' '[:lower:]' | sort -u > /t
 mv /tmp/leaders2.txt /tmp/leaders.txt
 ```
 
-## Find the non-email addresses
+## Find and remove the non-email addresses
 
 These MUST be fixed. Fix the relevant leaders.md file. You'll need to go back to the Excel CSV file to get the correct name. Look them up in Copper, Stripe, Linked In, X, or whatever, and get their email address.
 
 ```bash
-grep -v "@" /tmp/leaders.txt
+grep -v "@" /tmp/leaders.txt | sort -u > /tmp/non-email-leaders.txt
+grep "@" /tmp/leaders.txt | sort -u > /tmp/leaders2.txt
+mv /tmp/leaders2.txt /tmp/leaders.txt
 ```
 
 ## Find the non-OWASP email addresses
@@ -67,6 +69,14 @@ grep -v "@owasp.org" /tmp/leaders.txt | grep "@"
 ## Create a list of non-members
 
 Once the data is correct (i.e. no non-email addresses, and all email addresses are owasp.org), you can create a list of non-member leaders.
+
+```bash
+comm -13 /tmp/members.txt /tmp/leaders.txt > /tmp/non-member-leaders.txt
+```
+
+If you get a message about the lists not being sorted, you have blank lines
+
+An alternative way to do this is (but doesn't work on Ubuntu 24.04 LTS):
 
 ```bash
 grep -vFf /tmp/members.txt /tmp/leaders.txt > /tmp/non-member-leaders.txt
@@ -93,4 +103,3 @@ In Mailchimp, update the audience list with the contents /tmp/non-member-leaders
 - Some leaders may be members, but their owasp.org email address is not in their Stripe record. Add it as owasp_email in metadata.
 - Some leaders may be members, but they used a different email address to pay for it. Look up their Copper records, and add the owasp_email to their Stripe record.
 - Some leaders may be members, but they have two Copper records, and these records don't match their Stripe record. Merge the Copper records, and add the owasp_email to their Stripe AND Copper records. Make sure the end date is accurate across both Copper and Stripe.
-
