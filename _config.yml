@@ -1,5 +1,20 @@
-remote_theme: "owasp/www--site-theme@main"
-plugins:
- - jekyll-include-cache-0.2.1
- - jemoji
- 
+# This site now only redirects to https://owasp.org/projects.
+# The legacy content is kept in the repo for history but no longer published.
+exclude:
+  - _data
+  - assets
+  - budget
+  - files
+  - info.md
+  - markdown.md
+  - milestones.md
+  - operating-plan
+  - policy
+  - procedures
+  - project-categories.md
+  - projects
+  - projects-historical
+  - reports
+  - sample.html
+  - top-ten-7.md
+  - yml.md
